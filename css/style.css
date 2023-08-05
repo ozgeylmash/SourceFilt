@@ -105,7 +105,7 @@ a:focus {
 /*header section*/
 .hero_area {
   position: relative;
-  background-color: #020230;
+  background-color: #f9f9f9;
   min-height: 100vh;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -127,7 +127,7 @@ a:focus {
 
 .navbar-brand span {
   font-weight: bold;
-  color: #ffffff;
+  color: #000000;
   font-size: 24px;
   text-transform: uppercase;
 }
@@ -139,7 +139,7 @@ a:focus {
 .custom_nav-container .navbar-nav .nav-item .nav-link {
   padding: 3px 15px;
   margin: 10px 15px;
-  color: #ffffff;
+  color: #000000;
   text-align: center;
   text-transform: uppercase;
 }
@@ -149,7 +149,7 @@ a:focus {
   height: 35px;
   padding: 0;
   border: none;
-  color: #ffffff;
+  color: #000000;
   margin: 0 20px;
 }
 
@@ -169,7 +169,7 @@ a:focus {
   display: block;
   width: 35px;
   height: 4px;
-  background-color: #ffffff;
+  background-color: #000000;
   margin: 7px 0;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -184,7 +184,7 @@ a:focus {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: #ffffff;
+  background-color: #000000;
   top: -10px;
   border-radius: 5px;
   -webkit-transition: all 0.3s;
@@ -246,7 +246,7 @@ a:focus {
 }
 
 .quote_btn-container a {
-  color: #ffffff;
+  color: #000000;
   text-transform: uppercase;
 }
 
@@ -282,7 +282,7 @@ a:focus {
 }
 
 .slider_section .detail-box {
-  color: #ffffff;
+  color: #000000;
 }
 
 .slider_section .detail-box h1 {
@@ -312,10 +312,10 @@ a:focus {
 .slider_section .detail-box .btn-1 {
   display: inline-block;
   padding: 10px 15px;
-  background-color: #03a7d3;
+  background-color: #8799de;
   color: #ffffff;
   border-radius: 5px;
-  border: 1px solid #03a7d3;
+  border: 1px solid #8799de;
   -webkit-transition: all .3s;
   transition: all .3s;
 }
@@ -328,10 +328,10 @@ a:focus {
 .slider_section .detail-box .btn-2 {
   display: inline-block;
   padding: 10px 15px;
-  background-color: #ff4646;
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #000000;
   border-radius: 5px;
-  border: 1px solid #ff4646;
+  border: 1px solid #8799de;
   -webkit-transition: all .3s;
   transition: all .3s;
 }
@@ -342,7 +342,7 @@ a:focus {
 }
 
 .slider_section .img-box img {
-  width: 100%;
+  width: 135%;
 }
 
 .slider_section .carousel_btn-box {
@@ -429,7 +429,7 @@ a:focus {
           align-items: center;
   text-align: center;
   padding: 25px;
-  background-color: #fafafa;
+  background-color: #000000;
   -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
           box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
 }
