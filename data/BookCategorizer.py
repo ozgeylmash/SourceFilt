@@ -1,6 +1,9 @@
 import pandas as pd
 
 class BookCategorizer():
+    """
+    Kitap Kategorileştirici V2
+    """
     
     @staticmethod
     def determine_category(text):
@@ -27,33 +30,48 @@ class BookCategorizer():
             for grade, topics in grades.items():
                 for topic in topics:
                     if text.lower().find(topic) != -1:
-                        possible_subjects.append(subject)
-                        possible_grades.append(grade)   
+                        if not possible_subjects:
+                            possible_subjects.append(subject)
+                        if not possible_grades:
+                            possible_grades.append(grade)   
 
         print("Possible Subjects: ", possible_subjects)
         print("Possible Grades: ", possible_grades)
 
-        if len(set(possible_subjects)) == 1:
-            final_subject = possible_subjects[0]
+        try: final_subject = max(set(possible_subjects), key=possible_subjects.count)
+        except: final_subject = "genel"
+        try: final_grade = max(set(possible_grades), key=possible_grades.count)
+        except: final_grade = "lise"
 
-        if len(set(possible_grades)) == 1:
-            final_grade = possible_grades[0]
-        
+        if len(list(set(possible_subjects).intersection(["fizik", "kimya", "biyoloji"]))) >= 2:
+            final_subject = "fen"
+
+        if len(list(set(possible_subjects).intersection(["tarih", "coğrafya", "felsefe", "din"]))) >= 2:
+            final_subject = "sosyal"
+
+        if final_grade == "ydt":
+            final_subject = "ingilizce"
+
+        if "tyt" in possible_grades and "ayt" in possible_grades:
+            final_grade = "lise"
+
         return final_subject, final_grade
     
-    keywords = pd.DataFrame({"sayısal": [[], [], [], [], [], []],
-                        "matematik": [["mantık", "kümeler", "eşitsizlikler", "üçgenler", "üslü", "köklü"], ["olasılık", "fonksiyonlar", "polinomlar", "ikinci dereceden denklemler", "dörtgenler", "çokgenler"], ["trigonometri", "analitik", "çember", "daire", "olasılık"], ["üstel", "logaritma", "dizi", "limit", "süreklilik", "türev", "integral"], ["problem", "geometri"], ["geometri"]],
-                        "fen": [[], [], [], [], [], []],
-                        "fizik": [["madde ve özellikleri", "hareket", "kuvvet", "enerji", "ısı", "sıcaklık", "elektrostatik"], ["elektrik akımı", "direnç", "elektromotor", "elektrik", "manyetizma", "basınç", "kaldırma", "dalga", "ayna"], ["vektör", "hareket", "atışlar", "itme", "momentum", "tork", "denge", "makine", "manyetik alan", ], ["çembersel hareket", "açısal momentum", "kepler", "harmonik", "doppler", "atom fiziği", "radyoaktivite", "kuantum fiziği"], [], []],
-                        "kimya": [["atom", "periyodik", "kimyasal", "maddenin halleri"], ["mol", "karışımlar", "asit", "baz", ], ["gazlar", "çözeltiler", "çözünürlük", "tepkimelerde enerji", "tepkimelerde hız", "tepkimelerde denge"], ["karbon", "organik", ], [], []],
-                        "biyoloji": [["hücre", "canlılar"], ["hücre bölünme", "kalıtım", "ekosistem"], ["fizyoloji", "sistemler", "komünite", "popülasyon"], ["enerji dönüşüm", "bitki"], [], []],
-                        "sözel": [[], [], [], [], [], []],
-                        "türkçe": [[], [], [], [], ["sözcük", "cümle", "imla", "yazım", "paragraf", "dil bilgisi", "noktalama"], ["paragraf", "dil bilgisi"]],
-                        "edebiyat": [[], [], [], [], [], []],
-                        "sosyal": [[], [], [], [], [], []],
-                        "tarih": [[], [], [], [], [], []],
-                        "coğrafya": [[], [], [], [], [], []],
-                        "felsefe": [[], [], [], [], [], []],
-                        "din": [[], [], [], [], [], []],
-                        "genel": [[], [], [], [], [], []]
-                        }, index=["9.", "10.", "11.", "12.", "tyt", "ayt"])
+
+    keywords = pd.DataFrame({"sayısal": [[], [], [], [], [], [], []],
+                        "matematik": [["mantık", "kümeler", "eşitsizlikler", "üçgenler", "üslü", "köklü"], ["olasılık", "fonksiyonlar", "polinomlar", "ikinci dereceden denklemler", "dörtgenler", "çokgenler"], ["trigonometri", "analitik", "çember", "daire", "olasılık"], ["üstel", "logaritma", "dizi", "limit", "süreklilik", "türev", "integral"], ["problem", "geometri"], ["geometri"], []],
+                        "fen": [[], [], [], [], [], [], []],
+                        "fizik": [["madde ve özellikleri", "hareket", "kuvvet", "enerji", "ısı", "sıcaklık", "elektrostatik"], ["elektrik akımı", "direnç", "elektromotor", "elektrik", "manyetizma", "basınç", "kaldırma", "dalga", "ayna"], ["vektör", "hareket", "atışlar", "itme", "momentum", "tork", "denge", "makine", "manyetik alan", ], ["çembersel hareket", "açısal momentum", "kepler", "harmonik", "doppler", "atom fiziği", "radyoaktivite", "kuantum fiziği"], [], [], []],
+                        "kimya": [["atom", "periyodik", "kimyasal", "maddenin halleri"], ["mol", "karışımlar", "asit", "baz", ], ["gazlar", "çözeltiler", "çözünürlük", "tepkimelerde enerji", "tepkimelerde hız", "tepkimelerde denge"], ["karbon", "organik", ], [], [], []],
+                        "biyoloji": [["hücre", "canlılar"], ["hücre bölünme", "kalıtım", "ekosistem"], ["fizyoloji", "sistemler", "komünite", "popülasyon"], ["enerji dönüşüm", "bitki"], [], [], []],
+                        "sözel": [[], [], [], [], [], [], []],
+                        "türkçe": [[], [], [], [], ["sözcük", "cümle", "imla", "yazım", "paragraf", "dil bilgisi", "noktalama"], ["paragraf", "dil bilgisi"], []],
+                        "edebiyat": [[], [], [], [], [], [], []],
+                        "sosyal": [[], [], [], [], [], [], []],
+                        "tarih": [[], [], [], [], [], [], []],
+                        "coğrafya": [[], [], [], [], [], [], []],
+                        "felsefe": [[], [], [], [], [], [], []],
+                        "din": [[], [], [], [], [], [], []],
+                        "ingilizce": [[], [], [], [], [], [], ["i̇ngilizce", "yksdil"]],
+                        "genel": [[], [], [], [], [], [], []]
+                        }, index=["9.", "10.", "11.", "12.", "tyt", "ayt", "ydt"])
