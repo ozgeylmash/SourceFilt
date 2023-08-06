@@ -20,6 +20,8 @@ $(function () {
     }).datepicker('update', new Date());
 });
 
+$('.carousel').carousel();
+
 // owl carousel slider js
 $('.team_carousel').owlCarousel({
     loop: true,
