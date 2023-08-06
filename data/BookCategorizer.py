@@ -41,15 +41,14 @@ class BookCategorizer():
         
         return final_subject, final_grade
     
-    # Henüz tam değil.
     keywords = pd.DataFrame({"sayısal": [[], [], [], [], [], []],
-                        "matematik": [["mantık", "kümeler"], ["olasılık", "fonksiyonlar"], ["trigonometri", "eşitsizlik"], ["limit", "süreklilik"], [], []],
+                        "matematik": [["mantık", "kümeler", "eşitsizlikler", "üçgenler", "üslü", "köklü"], ["olasılık", "fonksiyonlar", "polinomlar", "ikinci dereceden denklemler", "dörtgenler", "çokgenler"], ["trigonometri", "analitik", "çember", "daire", "olasılık"], ["üstel", "logaritma", "dizi", "limit", "süreklilik", "türev", "integral"], ["problem", "geometri"], ["geometri"]],
                         "fen": [[], [], [], [], [], []],
-                        "fizik": [[], [], [], [], [], []],
-                        "kimya": [[], [], [], [], [], []],
-                        "biyoloji": [[], [], [], [], [], []],
+                        "fizik": [["madde ve özellikleri", "hareket", "kuvvet", "enerji", "ısı", "sıcaklık", "elektrostatik"], ["elektrik akımı", "direnç", "elektromotor", "elektrik", "manyetizma", "basınç", "kaldırma", "dalga", "ayna"], ["vektör", "hareket", "atışlar", "itme", "momentum", "tork", "denge", "makine", "manyetik alan", ], ["çembersel hareket", "açısal momentum", "kepler", "harmonik", "doppler", "atom fiziği", "radyoaktivite", "kuantum fiziği"], [], []],
+                        "kimya": [["atom", "periyodik", "kimyasal", "maddenin halleri"], ["mol", "karışımlar", "asit", "baz", ], ["gazlar", "çözeltiler", "çözünürlük", "tepkimelerde enerji", "tepkimelerde hız", "tepkimelerde denge"], ["karbon", "organik", ], [], []],
+                        "biyoloji": [["hücre", "canlılar"], ["hücre bölünme", "kalıtım", "ekosistem"], ["fizyoloji", "sistemler", "komünite", "popülasyon"], ["enerji dönüşüm", "bitki"], [], []],
                         "sözel": [[], [], [], [], [], []],
-                        "türkçe": [[], [], [], [], [], []],
+                        "türkçe": [[], [], [], [], ["sözcük", "cümle", "imla", "yazım", "paragraf", "dil bilgisi", "noktalama"], ["paragraf", "dil bilgisi"]],
                         "edebiyat": [[], [], [], [], [], []],
                         "sosyal": [[], [], [], [], [], []],
                         "tarih": [[], [], [], [], [], []],

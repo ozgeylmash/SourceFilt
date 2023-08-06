@@ -1,5 +1,5 @@
 from BookCategorizer import BookCategorizer as BC
 
-result = BC.determine_category("Iceberg Limit Soru Bankası Okyanus Yayınları") 
+result = BC.determine_category("Dalgalar Konu Anlatımlı Soru Bankası Çap Yayınları") 
 
-print(result) # -> ('matematik, '12.')
+print(result) # -> ('fizik, '10.')
