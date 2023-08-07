@@ -46,3 +46,4 @@ $('.team_carousel').owlCarousel({
         }
     }
 })
+
