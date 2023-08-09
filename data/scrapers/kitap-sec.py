@@ -6,7 +6,7 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 
-df = pd.DataFrame(columns=["name", "publisher", "number_of_page", "current_price", "original_price", "quantity", "score", "subject", "grade", "link"])
+df = pd.DataFrame(columns=["name", "publisher", "number_of_page", "current_price", "original_price", "quantity", "score", "subject", "grade", "link", "image"])
 
 for i in range(2): # range(301)
     try: 
@@ -77,10 +77,15 @@ for i in range(2): # range(301)
 
         link = book["href"]
 
-        df.loc[len(df)] = [name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, link]
+        try: 
+            image = "https:" + page.find("a", attrs={"rel": "urunresim"})["href"]
+        except:
+            image = ""
+
+        df.loc[len(df)] = [name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, link, image]
 
 
-df = df.astype({"name": "string", "publisher": "string", "number_of_page": "int32", "current_price": "float32", "original_price": "float32", "quantity": "int32", "score" : "float32", "subject": "string", "grade": "string", "link": "string"})
+df = df.astype({"name": "string", "publisher": "string", "number_of_page": "int32", "current_price": "float32", "original_price": "float32", "quantity": "int32", "score" : "float32", "subject": "string", "grade": "string", "link": "string", "image": "string"})
 
 df.to_csv("data/scraped-data/kitap-sec.csv", index=False)
 
