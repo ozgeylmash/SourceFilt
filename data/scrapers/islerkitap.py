@@ -17,7 +17,7 @@ db = mysql.connector.connect(
     database="library"
 )
 
-cursor = db.cursor()
+cursor = db.cursor(buffered=True)
 cursor.execute("TRUNCATE TABLE islerkitap")
 
 for i in range(3): 
@@ -99,5 +99,22 @@ for i in range(3):
         sql = "INSERT INTO islerkitap (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, link, image) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
         val = (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, link, image)
         cursor.execute(sql, val)
+
+
+cursor.execute("SELECT name FROM islerkitap GROUP BY name HAVING count(*) >= 2")
+
+duplicates = [duplicate[0] for duplicate in cursor]
+best_instances = []
+print(f"{len(duplicates)} unique duplicated books detected and resolved.")
+
+if duplicates:
+    for duplicate in duplicates:
+        cursor.execute("SELECT islerkitap_id, quantity FROM islerkitap WHERE name = %s", (duplicate, ))
+        instances = [x for x in cursor]
+        best_instances.append(max(instances, key = lambda i : i[1])[0])
+    cursor.execute(f"DELETE FROM islerkitap WHERE name IN {str(tuple(duplicates))} AND islerkitap_id NOT IN {str(tuple(best_instances))}")
+
+    cursor.execute("ALTER TABLE islerkitap DROP COLUMN islerkitap_id");
+    cursor.execute("ALTER TABLE islerkitap ADD islerkitap_id INT PRIMARY KEY AUTO_INCREMENT FIRST");
 
 db.commit()
