@@ -2,11 +2,23 @@ import sys
 sys.path.append('data')
 from BookCategorizer import BookCategorizer as BC
 
+import os
 import requests
-import pandas as pd
+import mysql.connector
 from bs4 import BeautifulSoup
+from dotenv import load_dotenv
 
-df = pd.DataFrame(columns=["name", "publisher", "number_of_page", "current_price", "original_price", "quantity", "score", "subject", "grade", "link", "image"])
+load_dotenv()
+
+db = mysql.connector.connect(
+    host="localhost",
+    user="root",
+    password=os.getenv("PASSWORD"),
+    database="library"
+)
+
+cursor = db.cursor()
+cursor.execute("TRUNCATE TABLE kitapsec")
 
 for i in range(2): # range(301)
     try: 
@@ -82,10 +94,8 @@ for i in range(2): # range(301)
         except:
             image = ""
 
-        df.loc[len(df)] = [name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, link, image]
+        sql = "INSERT INTO kitapsec (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, link, image) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+        val = (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, link, image)
+        cursor.execute(sql, val)
 
-
-df = df.astype({"name": "string", "publisher": "string", "number_of_page": "int32", "current_price": "float32", "original_price": "float32", "quantity": "int32", "score" : "float32", "subject": "string", "grade": "string", "link": "string", "image": "string"})
-
-df.to_csv("data/scraped-data/kitap-sec.csv", index=False)
-
+db.commit()

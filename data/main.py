@@ -1,13 +1,39 @@
-from BookCategorizer import BookCategorizer as BC
+from dotenv import load_dotenv
+import os
 
-result = BC.determine_category("2023 AYT 40 Seans Matematik Fizik Kimya Soru Bankaları ve 68 Deneme Seti Kalemlik HEDİYELİ Okyanus Yayınları") 
+load_dotenv()
 
-print(result) # -> ('fen', 'ayt')
+import mysql.connector
 
-## Test verisetini güncel fonksiyonu kullanarak yazdırır.
-# import pandas as pd
+db = mysql.connector.connect(
+    host="localhost",
+    user="root",
+    password=os.getenv("PASSWORD"),
+    database="library"
+)
 
-# df = pd.read_csv("data/book_titles.csv")
+cursor = db.cursor()
 
-# df[['subject','grade']] = df["text"].map(BC.determine_category).apply(pd.Series)
-# df.to_csv("complete-v2.csv")
+# cursor.execute(
+# """
+# CREATE TABLE islerkitap (
+#     islerkitap_id INT PRIMARY KEY AUTO_INCREMENT,
+#     name VARCHAR(300),
+#     publisher VARCHAR(40),
+#     number_of_page INT,
+#     current_price DOUBLE(6, 2),
+#     original_price DOUBLE(6, 2),
+#     quantity INT,
+#     score DOUBLE(2, 1),
+#     subject VARCHAR(20),
+#     grade VARCHAR(10),
+#     link VARCHAR(300),
+#     image VARCHAR(300)
+# );
+# """
+# )
+
+# cursor.execute("select * from kitapsec")
+
+# for x in cursor:
+#   print(x)
