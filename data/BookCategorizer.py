@@ -2,19 +2,17 @@ import pandas as pd
 
 class BookCategorizer():
     """
-    Kitap Kategorileştirici V2
+    Kitap Kategorileştirici V3
     """
     
     @staticmethod
     def determine_category(text):
         """
-        Kitap isminde anahtar kelimeleri arayarak ait olduğu dersi ve sınıfı bulur.
+        Kitap isminde anahtar kelimeleri arayarak ait olduğu dersi, sınıfı ve yılı bulur.
         """
         possible_subjects = []
         possible_grades = []
-
-        final_subject = None
-        final_grade = None
+        possible_years = []
 
         # Ders odaklı bir kitap ise
         for subject in BookCategorizer.keywords.columns:
@@ -35,13 +33,24 @@ class BookCategorizer():
                         if not possible_grades:
                             possible_grades.append(grade)   
 
+       
+        # Çıkış yılı bulma
+        years = ["2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"]
+
+        for year in years:
+            if year in text:
+                possible_years.append(year)
+
         print("Possible Subjects: ", possible_subjects)
         print("Possible Grades: ", possible_grades)
+        print("Possible Years: ", possible_years)
 
         try: final_subject = max(set(possible_subjects), key=possible_subjects.count)
         except: final_subject = "genel"
         try: final_grade = max(set(possible_grades), key=possible_grades.count)
         except: final_grade = "lise"
+        try: final_year = max(possible_years)
+        except: final_year = ""
 
         if len(list(set(possible_subjects).intersection(["fizik", "kimya", "biyoloji"]))) >= 2:
             final_subject = "fen"
@@ -55,7 +64,7 @@ class BookCategorizer():
         if "tyt" in possible_grades and "ayt" in possible_grades:
             final_grade = "lise"
 
-        return final_subject, final_grade
+        return final_subject, final_grade, final_year
     
 
     keywords = pd.DataFrame({"sayısal": [[], [], [], [], [], [], []],

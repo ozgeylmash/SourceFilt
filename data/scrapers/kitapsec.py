@@ -20,7 +20,7 @@ db = mysql.connector.connect(
 cursor = db.cursor(buffered=True)
 cursor.execute("TRUNCATE TABLE kitapsec")
 
-for i in range(2): # range(301)
+for i in range(10): # range(301)
     try: 
         response = requests.get(f"https://www.kitapsec.com/Products/YKS-Kitaplari/{i+1}-2-0a0-0-0-0-0-0.xhtml")
         response.raise_for_status()
@@ -83,9 +83,9 @@ for i in range(2): # range(301)
             score = -1
 
         try: 
-            subject, grade = BC.determine_category(name)
+            subject, grade, year = BC.determine_category(name)
         except: 
-            subject, grade = "genel", "lise"
+            subject, grade, year = "genel", "lise", ""
 
         link = book["href"]
 
@@ -94,8 +94,8 @@ for i in range(2): # range(301)
         except:
             image = ""
 
-        sql = "INSERT INTO kitapsec (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, link, image) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
-        val = (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, link, image)
+        sql = "INSERT INTO kitapsec (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, link, image) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+        val = (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, link, image)
         cursor.execute(sql, val)
 
 

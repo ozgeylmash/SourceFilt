@@ -20,7 +20,7 @@ db = mysql.connector.connect(
 cursor = db.cursor(buffered=True)
 cursor.execute("TRUNCATE TABLE islerkitap")
 
-for i in range(3): 
+for i in range(10): 
     try: 
         response = requests.get(f"https://www.kitapisler.com/YKS-Yuksekogretim-Kurum-Sinavi-1196?start={(i-1)*40}&")
         response.raise_for_status()
@@ -85,19 +85,19 @@ for i in range(3):
             score = -1
 
         try: 
-            subject, grade = BC.determine_category(name)
+            subject, grade, year = BC.determine_category(name)
         except: 
-            subject, grade = "genel", "lise"
+            subject, grade, year = "genel", "lise", ""
 
-        link = "https://www.kitapisler.com/"+book.find("div",class_="list_title_type1_text").find("a")["href"]
+        link = "https://www.kitapisler.com/" + book.find("div",class_="list_title_type1_text").find("a")["href"]
 
         try: 
             image = "https://www.kitapisler.com/" + page.find("img", attrs={"class": "product_imagesplaceholder"})["src"]
         except:
             image = ""
 
-        sql = "INSERT INTO islerkitap (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, link, image) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
-        val = (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, link, image)
+        sql = "INSERT INTO islerkitap (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, link, image) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+        val = (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, link, image)
         cursor.execute(sql, val)
 
 
