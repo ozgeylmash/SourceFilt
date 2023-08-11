@@ -20,7 +20,7 @@ db = mysql.connector.connect(
 cursor = db.cursor(buffered=True)
 cursor.execute("TRUNCATE TABLE kitapsec")
 
-for i in range(10): # range(301)
+for i in range(30): # range(301)
     try: 
         response = requests.get(f"https://www.kitapsec.com/Products/YKS-Kitaplari/{i+1}-2-0a0-0-0-0-0-0.xhtml")
         response.raise_for_status()
@@ -46,24 +46,24 @@ for i in range(10): # range(301)
             name = page.find("div", attrs={"class": "dty_SagBlok"}).find("h1").text 
             name = name.replace(",", "-").strip()
         except: 
-            name = ""
+            name = None
 
         try: 
             publisher = page.find("div", attrs={"itemprop": "publisher"}).find("span").text 
         except: 
-            publisher = ""
+            publisher = None
 
         try: 
             number_of_page = page.find("div", attrs={"itemprop": "numberOfPages"}).text
             number_of_page = int(number_of_page)
         except: 
-            number_of_page = -1
+            number_of_page = None
 
         try: 
             current_price = page.find("span", attrs={"class": "fiyati"}).text
             current_price = current_price.replace("TL", "").strip()
         except: 
-            current_price = -1
+            current_price = None
 
         try: 
             original_price = page.find("span", attrs={"class": "piyasa"}).find("strike").text
@@ -75,24 +75,24 @@ for i in range(10): # range(301)
             quantity = page.find("div", string="Toplam Satılan").find_next_siblings()[1].text
             quantity = quantity.replace("Adet", "").strip()
         except:
-            quantity = -1
+            quantity = None
 
         try: 
             score = page.find("font", attrs={"class": "ortalamPuan"}).text
         except:
-            score = -1
+            score = None
 
         try: 
             subject, grade, year = BC.determine_category(name)
         except: 
-            subject, grade, year = "genel", "lise", ""
+            subject, grade, year = "genel", "lise", None
 
         link = book["href"]
 
         try: 
             image = "https:" + page.find("a", attrs={"rel": "urunresim"})["href"]
         except:
-            image = ""
+            image = None
 
         sql = "INSERT INTO kitapsec (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, link, image) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
         val = (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, link, image)
@@ -109,9 +109,13 @@ if duplicates:
     for duplicate in duplicates:
         cursor.execute("SELECT kitapsec_id, quantity FROM kitapsec WHERE name = %s", (duplicate, ))
         instances = [x for x in cursor]
-        best_instances.append(max(instances, key = lambda i : i[1])[0])
+        best_instances.append(max(instances, key = lambda i : i[1] if i[1] != None else -1)[0])
 
-    cursor.execute(f"DELETE FROM kitapsec WHERE name IN {str(tuple(duplicates))} AND kitapsec_id NOT IN {str(tuple(best_instances))}")
+    duplicates_string = ','.join(['%s'] * len(duplicates))
+    best_instances_string = ','.join(['%s'] * len(best_instances))
+    sql = "DELETE FROM kitapsec WHERE name IN (%s)" % duplicates_string + "AND kitapsec_id NOT IN (%s)" % best_instances_string
+    val = duplicates + best_instances
+    cursor.execute(sql, val)
 
     cursor.execute("ALTER TABLE kitapsec DROP COLUMN kitapsec_id");
     cursor.execute("ALTER TABLE kitapsec ADD kitapsec_id INT PRIMARY KEY AUTO_INCREMENT FIRST");

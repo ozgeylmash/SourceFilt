@@ -49,9 +49,11 @@ for book in kitapsec:
         for match in possible_matches:
             possible_name, possible_publisher, *_ = match
             if check_similarity(possible_name, name) and check_similarity(possible_publisher, publisher):
+                print("****************************************")
                 print("This book already exists. Merging...")
                 print("Book: ", book)
                 print("Matched: ", match)
+                print("****************************************")
                 cursor.execute("UPDATE book SET kitapsec_id = %s WHERE name = %s", (kitapsec_id, possible_name))
                 break
             else:

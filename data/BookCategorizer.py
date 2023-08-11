@@ -2,7 +2,7 @@ import pandas as pd
 
 class BookCategorizer():
     """
-    Kitap Kategorileştirici V3
+    Kitap Kategorileştirici V3.1
     """
     
     @staticmethod
@@ -33,7 +33,6 @@ class BookCategorizer():
                         if not possible_grades:
                             possible_grades.append(grade)   
 
-       
         # Çıkış yılı bulma
         years = ["2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"]
 
@@ -41,16 +40,19 @@ class BookCategorizer():
             if year in text:
                 possible_years.append(year)
 
+        print("****************************************")
+        print("Book:", text)
         print("Possible Subjects: ", possible_subjects)
         print("Possible Grades: ", possible_grades)
         print("Possible Years: ", possible_years)
+        print("****************************************")
 
         try: final_subject = max(set(possible_subjects), key=possible_subjects.count)
         except: final_subject = "genel"
         try: final_grade = max(set(possible_grades), key=possible_grades.count)
         except: final_grade = "lise"
         try: final_year = max(possible_years)
-        except: final_year = ""
+        except: final_year = None
 
         if len(list(set(possible_subjects).intersection(["fizik", "kimya", "biyoloji"]))) >= 2:
             final_subject = "fen"
