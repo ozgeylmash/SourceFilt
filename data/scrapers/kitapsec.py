@@ -1,6 +1,7 @@
 import sys
 sys.path.append('data')
 from BookCategorizer import BookCategorizer as BC
+from utils.lower_title import title
 
 import os
 import requests
@@ -50,6 +51,7 @@ for i in range(30): # range(301)
 
         try: 
             publisher = page.find("div", attrs={"itemprop": "publisher"}).find("span").text 
+            publisher = title(publisher)
         except: 
             publisher = None
 

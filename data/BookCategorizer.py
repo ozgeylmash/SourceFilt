@@ -1,8 +1,9 @@
+from utils.lower_title import lower
 import pandas as pd
 
 class BookCategorizer():
     """
-    Kitap Kategorileştirici V3.1
+    Kitap Kategorileştirici V3.2
     """
     
     @staticmethod
@@ -16,18 +17,18 @@ class BookCategorizer():
 
         # Ders odaklı bir kitap ise
         for subject in BookCategorizer.keywords.columns:
-            if text.lower().find(subject) != -1:
+            if lower(text).find(subject) != -1:
                 possible_subjects.append(subject)
         
         for grade in BookCategorizer.keywords.index:
-            if text.lower().find(grade) != -1:
+            if lower(text).find(grade) != -1:
                 possible_grades.append(grade) 
 
         # Konu odaklı bir kitap ise
         for subject, grades in BookCategorizer.keywords.items():
             for grade, topics in grades.items():
                 for topic in topics:
-                    if text.lower().find(topic) != -1:
+                    if lower(text).find(topic) != -1:
                         if not possible_subjects:
                             possible_subjects.append(subject)
                         if not possible_grades:
@@ -83,6 +84,6 @@ class BookCategorizer():
                         "coğrafya": [[], [], [], [], [], [], []],
                         "felsefe": [[], [], [], [], [], [], []],
                         "din": [[], [], [], [], [], [], []],
-                        "ingilizce": [[], [], [], [], [], [], ["i̇ngilizce", "yksdil"]],
+                        "ingilizce": [[], [], [], [], [], [], ["yksdil"]],
                         "genel": [[], [], [], [], [], [], []]
                         }, index=["9.", "10.", "11.", "12.", "tyt", "ayt", "ydt"])

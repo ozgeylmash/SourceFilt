@@ -1,6 +1,7 @@
 import sys
 sys.path.append('data')
 from BookCategorizer import BookCategorizer as BC
+from utils.lower_title import title
 
 import os
 import re
@@ -52,6 +53,7 @@ for i in range(30): # range(38)
 
         try: 
             publisher = page.find("div", attrs={"class": "pr_producers__publisher"}).find("a").text 
+            publisher = title(publisher)
         except: 
             publisher = None
 
