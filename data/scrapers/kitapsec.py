@@ -21,7 +21,7 @@ db = mysql.connector.connect(
 cursor = db.cursor(buffered=True)
 cursor.execute("TRUNCATE TABLE kitapsec")
 
-for i in range(30): # range(301)
+for i in range(20): # range(301)
     try: 
         response = requests.get(f"https://www.kitapsec.com/Products/YKS-Kitaplari/{i+1}-2-0a0-0-0-0-0-0.xhtml")
         response.raise_for_status()
@@ -45,7 +45,6 @@ for i in range(30): # range(301)
 
         try: 
             name = page.find("div", attrs={"class": "dty_SagBlok"}).find("h1").text 
-            name = name.replace(",", "-").strip()
         except: 
             name = None
 
@@ -85,7 +84,7 @@ for i in range(30): # range(301)
             score = None
 
         try: 
-            subject, grade, year = BC.determine_category(name)
+            subject, grade, year = BC.determine_category(name, publisher)
         except: 
             subject, grade, year = "genel", "lise", None
 

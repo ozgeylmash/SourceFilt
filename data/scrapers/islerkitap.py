@@ -21,7 +21,7 @@ db = mysql.connector.connect(
 cursor = db.cursor(buffered=True)
 cursor.execute("TRUNCATE TABLE islerkitap")
 
-for i in range(30): 
+for i in range(20): 
     try: 
         response = requests.get(f"https://www.kitapisler.com/YKS-Yuksekogretim-Kurum-Sinavi-1196?start={(i-1)*40}&")
         response.raise_for_status()
@@ -45,7 +45,6 @@ for i in range(30):
 
         try: 
             name = page.find("div", class_ = "dName").find("span").text
-            name = name.replace(",", "-").strip()
         except: 
             name = None
 
@@ -89,7 +88,7 @@ for i in range(30):
             score = None
 
         try: 
-            subject, grade, year = BC.determine_category(name)
+            subject, grade, year = BC.determine_category(name, publisher)
         except: 
             subject, grade, year = "genel", "lise", None
 

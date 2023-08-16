@@ -45,12 +45,8 @@ for i in range(20): # range(50)
 
         try: 
             name = page.find("h1", attrs={"id": "productName"}).text
-            name = name.replace(",", "-").strip()
         except: 
             name = None
-
-        print("********************************")
-        print("name: ", name)
 
         try: 
             publisher = page.find("a", attrs={"class": "product-brand"})["title"]
@@ -59,15 +55,11 @@ for i in range(20): # range(50)
         except: 
             publisher = None
 
-        print("publisher: ", publisher)
-
         try: 
             number_of_page = page.find("span", string="Sayfa Sayısı:").find_next_sibling().text
             number_of_page = int(number_of_page)
         except: 
             number_of_page = None
-
-        print("number_of_page: ", number_of_page)
 
         try: 
             current_price = page.find("span", attrs={"class": "product-price"}).text
@@ -76,16 +68,12 @@ for i in range(20): # range(50)
         except: 
             current_price = None
 
-        print("current_price: ", current_price)
-
         try: 
             original_price = page.find("span", attrs={"class": "product-price-not-discounted"}).text
             original_price = original_price.replace(".", "")
             original_price = original_price.replace(",", ".")
         except: 
             original_price = current_price
-
-        print("original_price: ", original_price)
 
         quantity = None
 
@@ -97,10 +85,8 @@ for i in range(20): # range(50)
         except:
             score = None
 
-        print("score: ", score)
-
         try: 
-            subject, grade, year = BC.determine_category(name)
+            subject, grade, year = BC.determine_category(name, publisher)
         except: 
             subject, grade, year = "genel", "lise", None
 
@@ -110,8 +96,6 @@ for i in range(20): # range(50)
             image = page.find("span", attrs={"class": "imgInner"}).find("img")["src"]
         except:
             image = None
-
-        print("image: ", image)
 
         sql = "INSERT INTO bkmkitap (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, link, image) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
         val = (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, link, image)

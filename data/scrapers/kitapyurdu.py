@@ -22,7 +22,7 @@ db = mysql.connector.connect(
 cursor = db.cursor(buffered=True)
 cursor.execute("TRUNCATE TABLE kitapyurdu")
 
-for i in range(30): # range(38)
+for i in range(20): # range(38)
     try:
         if i == 0: response = requests.get("https://www.kitapyurdu.com/index.php?route=product/category/&filter_category_all=true&category_id=293&sort=purchased_365&order=DESC&filter_in_stock=1")
         else: response = requests.get(f"https://www.kitapyurdu.com/index.php?route=product/category&page={i}&filter_category_all=true&path=1_737_1067&filter_in_stock=1&sort=purchased_365&order=DESC")
@@ -47,7 +47,6 @@ for i in range(30): # range(38)
 
         try: 
             name = page.find("h1", attrs={"class": "pr_header__heading"}).text 
-            name = name.replace(",", "-").strip()
         except: 
             name = None
 
@@ -91,7 +90,7 @@ for i in range(30): # range(38)
             score = None
 
         try: 
-            subject, grade, year = BC.determine_category(name)
+            subject, grade, year = BC.determine_category(name, publisher)
         except: 
             subject, grade, year = "genel", "lise", None
 

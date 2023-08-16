@@ -202,7 +202,6 @@ for book in bkmkitap:
         for match in possible_matches:
             possible_name, possible_publisher, *_ = match
             if check_similarity(possible_name, name) and check_similarity(possible_publisher, publisher):
-                print("yeni")
                 print("**********")
                 print("This book already exists. Merging...")
                 print("Book: ", book)

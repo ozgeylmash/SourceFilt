@@ -3,11 +3,11 @@ import pandas as pd
 
 class BookCategorizer():
     """
-    Kitap Kategorileştirici V3.2
+    Kitap Kategorileştirici V4
     """
     
     @staticmethod
-    def determine_category(text):
+    def determine_category(name, publisher):
         """
         Kitap isminde anahtar kelimeleri arayarak ait olduğu dersi, sınıfı ve yılı bulur.
         """
@@ -15,20 +15,28 @@ class BookCategorizer():
         possible_grades = []
         possible_years = []
 
+        text = lower(name)
+        publisher = lower(publisher)
+
+        text_list = text.split()
+        publisher_list = publisher.split()  
+        result_list  = [word for word in text_list if word not in publisher_list]
+        text = ' '.join(result_list)
+
         # Ders odaklı bir kitap ise
         for subject in BookCategorizer.keywords.columns:
-            if lower(text).find(subject) != -1:
+            if text.find(subject) != -1:
                 possible_subjects.append(subject)
         
         for grade in BookCategorizer.keywords.index:
-            if lower(text).find(grade) != -1:
+            if text.find(grade) != -1:
                 possible_grades.append(grade) 
 
         # Konu odaklı bir kitap ise
         for subject, grades in BookCategorizer.keywords.items():
             for grade, topics in grades.items():
                 for topic in topics:
-                    if lower(text).find(topic) != -1:
+                    if text.find(topic) != -1:
                         if not possible_subjects:
                             possible_subjects.append(subject)
                         if not possible_grades:
@@ -42,7 +50,7 @@ class BookCategorizer():
                 possible_years.append(year)
 
         print("****************************************")
-        print("Book:", text)
+        print("Book:", name)
         print("Possible Subjects: ", possible_subjects)
         print("Possible Grades: ", possible_grades)
         print("Possible Years: ", possible_years)
@@ -66,6 +74,9 @@ class BookCategorizer():
 
         if final_grade == "ingilizce":
             final_subject = "ydt"
+
+        if "sayısal" in possible_subjects and "sözel" in possible_subjects:
+            final_grade = "genel"
 
         if "tyt" in possible_grades and "ayt" in possible_grades:
             final_grade = "lise"
