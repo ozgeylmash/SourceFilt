@@ -36,13 +36,23 @@ for book in kitapsec:
     kitapsec_id, name, publisher, number_of_page, subject, grade, year = book
 
     if number_of_page == None:
-        cursor.execute("""SELECT name, publisher, number_of_page, subject, grade, year, kitapsec_id FROM book 
-                    WHERE subject = %s AND grade = %s AND year = %s AND kitapsec_id IS NULL
-                    """, (subject, grade, year))
+        if year == None:
+            cursor.execute("""SELECT name, publisher, number_of_page, subject, grade, year, kitapsec_id FROM book 
+                           WHERE (subject = %s) AND (grade = %s) AND (kitapsec_id IS NULL)
+                           """, (subject, grade))
+        else:
+            cursor.execute("""SELECT name, publisher, number_of_page, subject, grade, year, kitapsec_id FROM book 
+                           WHERE (year = %s OR year IS NULL) AND (subject = %s) AND (grade = %s) AND (kitapsec_id IS NULL)
+                           """, (year, subject, grade))
     else:
-        cursor.execute("""SELECT name, publisher, number_of_page, subject, grade, year, kitapsec_id FROM book 
-                   WHERE number_of_page BETWEEN %s - 10 AND %s + 10 AND subject = %s AND grade = %s AND year = %s AND kitapsec_id IS NULL
-                   """, (number_of_page, number_of_page, subject, grade, year))
+        if year == None:
+            cursor.execute("""SELECT name, publisher, number_of_page, subject, grade, year, kitapsec_id FROM book 
+                           WHERE (number_of_page BETWEEN %s - 10 AND %s + 10 OR number_of_page IS NULL) AND (subject = %s) AND (grade = %s) AND (kitapsec_id IS NULL)
+                           """, (number_of_page, number_of_page, subject, grade))
+        else:
+            cursor.execute("""SELECT name, publisher, number_of_page, subject, grade, year, kitapsec_id FROM book 
+                           WHERE (number_of_page BETWEEN %s - 10 AND %s + 10 OR number_of_page IS NULL) AND (year = %s OR year IS NULL) AND (subject = %s) AND (grade = %s) AND (kitapsec_id IS NULL)
+                           """, (number_of_page, number_of_page, year, subject, grade))
     
     possible_matches = [match for match in cursor]
 
@@ -75,13 +85,23 @@ for book in islerkitap:
     islerkitap_id, name, publisher, number_of_page, subject, grade, year = book
 
     if number_of_page == None:
-        cursor.execute("""SELECT name, publisher, number_of_page, subject, grade, year, islerkitap_id FROM book 
-                    WHERE subject = %s AND grade = %s AND year = %s AND islerkitap_id IS NULL
-                    """, (subject, grade, year))
+        if year == None:
+            cursor.execute("""SELECT name, publisher, number_of_page, subject, grade, year, islerkitap_id FROM book 
+                           WHERE (subject = %s) AND (grade = %s) AND (islerkitap_id IS NULL)
+                           """, (subject, grade))
+        else:
+            cursor.execute("""SELECT name, publisher, number_of_page, subject, grade, year, islerkitap_id FROM book 
+                           WHERE (year = %s OR year IS NULL) AND (subject = %s) AND (grade = %s) AND (islerkitap_id IS NULL)
+                           """, (year, subject, grade))
     else:
-        cursor.execute("""SELECT name, publisher, number_of_page, subject, grade, year, islerkitap_id FROM book 
-                   WHERE number_of_page BETWEEN %s - 10 AND %s + 10 AND subject = %s AND grade = %s AND year = %s AND islerkitap_id IS NULL
-                   """, (number_of_page, number_of_page, subject, grade, year))
+        if year == None:
+            cursor.execute("""SELECT name, publisher, number_of_page, subject, grade, year, islerkitap_id FROM book 
+                           WHERE (number_of_page BETWEEN %s - 10 AND %s + 10 OR number_of_page IS NULL) AND (subject = %s) AND (grade = %s) AND (islerkitap_id IS NULL)
+                           """, (number_of_page, number_of_page, subject, grade))
+        else:
+            cursor.execute("""SELECT name, publisher, number_of_page, subject, grade, year, islerkitap_id FROM book 
+                           WHERE (number_of_page BETWEEN %s - 10 AND %s + 10 OR number_of_page IS NULL) AND (year = %s OR year IS NULL) AND (subject = %s) AND (grade = %s) AND (islerkitap_id IS NULL)
+                           """, (number_of_page, number_of_page, year, subject, grade))
     
     possible_matches = [match for match in cursor]
 
@@ -116,21 +136,21 @@ for book in kitapyurdu:
     if number_of_page == None:
         if year == None:
             cursor.execute("""SELECT name, publisher, number_of_page, subject, grade, year, kitapyurdu_id FROM book 
-                        WHERE number_of_page IS NULL AND subject = %s AND grade = %s AND year IS NULL AND kitapyurdu_id IS NULL
-                        """, (subject, grade))
+                           WHERE (subject = %s) AND (grade = %s) AND (kitapyurdu_id IS NULL)
+                           """, (subject, grade))
         else:
             cursor.execute("""SELECT name, publisher, number_of_page, subject, grade, year, kitapyurdu_id FROM book 
-                        WHERE number_of_page IS NULL AND subject = %s AND grade = %s AND year = %s AND kitapyurdu_id IS NULL
-                        """, (subject, grade, year))
+                           WHERE (year = %s OR year IS NULL) AND (subject = %s) AND (grade = %s) AND (kitapyurdu_id IS NULL)
+                           """, (year, subject, grade))
     else:
         if year == None:
             cursor.execute("""SELECT name, publisher, number_of_page, subject, grade, year, kitapyurdu_id FROM book 
-                   WHERE number_of_page BETWEEN %s - 10 AND %s + 10 AND subject = %s AND grade = %s AND year IS NULL AND kitapyurdu_id IS NULL
-                   """, (number_of_page, number_of_page, subject, grade))
+                           WHERE (number_of_page BETWEEN %s - 10 AND %s + 10 OR number_of_page IS NULL) AND (subject = %s) AND (grade = %s) AND (kitapyurdu_id IS NULL)
+                           """, (number_of_page, number_of_page, subject, grade))
         else:
             cursor.execute("""SELECT name, publisher, number_of_page, subject, grade, year, kitapyurdu_id FROM book 
-                        WHERE number_of_page BETWEEN %s - 10 AND %s + 10 AND subject = %s AND grade = %s AND year = %s AND kitapyurdu_id IS NULL
-                        """, (number_of_page, number_of_page, subject, grade, year))
+                           WHERE (number_of_page BETWEEN %s - 10 AND %s + 10 OR number_of_page IS NULL) AND (year = %s OR year IS NULL) AND (subject = %s) AND (grade = %s) AND (kitapyurdu_id IS NULL)
+                           """, (number_of_page, number_of_page, year, subject, grade))
     
     possible_matches = [match for match in cursor]
     if possible_matches:
@@ -150,5 +170,51 @@ for book in kitapyurdu:
                         VALUES (%s, %s, %s, %s, %s, %s, %s);""",
                         (name, publisher, number_of_page, subject, grade, year, kitapyurdu_id))
 
+
+cursor.execute("SELECT bkmkitap_id, name, publisher, number_of_page, subject, grade, year FROM bkmkitap")
+bkmkitap = [book for book in cursor]
+
+for book in bkmkitap:
+    bkmkitap_id, name, publisher, number_of_page, subject, grade, year = book
+
+    if number_of_page == None:
+        if year == None:
+            cursor.execute("""SELECT name, publisher, number_of_page, subject, grade, year, bkmkitap_id FROM book 
+                           WHERE (subject = %s) AND (grade = %s) AND (bkmkitap_id IS NULL)
+                           """, (subject, grade))
+        else:
+            cursor.execute("""SELECT name, publisher, number_of_page, subject, grade, year, bkmkitap_id FROM book 
+                           WHERE (year = %s OR year IS NULL) AND (subject = %s) AND (grade = %s) AND (bkmkitap_id IS NULL)
+                           """, (year, subject, grade))
+    else:
+        if year == None:
+            cursor.execute("""SELECT name, publisher, number_of_page, subject, grade, year, bkmkitap_id FROM book 
+                           WHERE (number_of_page BETWEEN %s - 10 AND %s + 10 OR number_of_page IS NULL) AND (subject = %s) AND (grade = %s) AND (bkmkitap_id IS NULL)
+                           """, (number_of_page, number_of_page, subject, grade))
+        else:
+            cursor.execute("""SELECT name, publisher, number_of_page, subject, grade, year, bkmkitap_id FROM book 
+                           WHERE (number_of_page BETWEEN %s - 10 AND %s + 10 OR number_of_page IS NULL) AND (year = %s OR year IS NULL) AND (subject = %s) AND (grade = %s) AND (bkmkitap_id IS NULL)
+                           """, (number_of_page, number_of_page, year, subject, grade))
+    
+    possible_matches = [match for match in cursor]
+
+    if possible_matches:
+        for match in possible_matches:
+            possible_name, possible_publisher, *_ = match
+            if check_similarity(possible_name, name) and check_similarity(possible_publisher, publisher):
+                print("yeni")
+                print("**********")
+                print("This book already exists. Merging...")
+                print("Book: ", book)
+                print("Matched: ", match)
+                print("**********")
+                cursor.execute("UPDATE book SET bkmkitap_id = %s WHERE name = %s", (bkmkitap_id, possible_name))
+                break
+
+    else:
+        cursor.execute("""INSERT INTO book (name, publisher, number_of_page, subject, grade, year, bkmkitap_id) 
+                        VALUES (%s, %s, %s, %s, %s, %s, %s);""",
+                        (name, publisher, number_of_page, subject, grade, year, bkmkitap_id))
+        
 
 db.commit()

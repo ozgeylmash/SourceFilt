@@ -64,6 +64,9 @@ class BookCategorizer():
         if final_grade == "ydt":
             final_subject = "ingilizce"
 
+        if final_grade == "ingilizce":
+            final_subject = "ydt"
+
         if "tyt" in possible_grades and "ayt" in possible_grades:
             final_grade = "lise"
 
