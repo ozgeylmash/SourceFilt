@@ -28,7 +28,7 @@ db = mysql.connector.connect(
 cursor = db.cursor()
 cursor.execute("TRUNCATE TABLE book")
 
-source = ["kitapsec", "islerkitap", "kitapyurdu", "bkmkitap", "isemkitap"]
+source = ["kitapsec", "islerkitap", "kitapyurdu", "bkmkitap", "isemkitap", "sadecekitap"]
 merged_books = set()
 
 for s in source:
