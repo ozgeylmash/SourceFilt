@@ -58,6 +58,7 @@ for i in range(20): # range(50)
         try: 
             number_of_page = page.find("span", string="Sayfa Sayısı:").find_next_sibling().text
             number_of_page = int(number_of_page)
+            if number_of_page == 0: number_of_page = None
         except: 
             number_of_page = None
 
