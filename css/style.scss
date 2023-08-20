@@ -5,7 +5,7 @@ $primary2: #ff4646;
 $textCol: #999;
 
 @mixin main-font {
-  font-family: "Roboto", sans-serif;
+  font-family: "Arial", sans-serif;
 }
 
 @mixin hero_btn($col1, $col2, $pad1, $pad2, $bRadius) {
@@ -462,9 +462,9 @@ a:focus {
 
 // end service section
 
-// server section
+// sndhand section
 
-.server_section {
+.sndhand_section {
   background: linear-gradient(110deg, #000000 100%);
   padding: 55px 0;
   color: $white;
@@ -566,7 +566,7 @@ a:focus {
   }
 }
 
-// end server section
+// end sndhand section
 
 // price section
 
