@@ -32,6 +32,9 @@ source = ["kitapsec", "islerkitap", "kitapyurdu", "bkmkitap", "isemkitap", "sade
 merged_books = set()
 
 for s in source:
+    cursor.execute(f"UPDATE {s} SET is_new = IF(year >= '2023', 1, 0)")
+    cursor.execute(f"UPDATE {s} SET is_popular = IF(quantity >= 1000, 1, 0)")
+
     cursor.execute(f"SELECT {s}_id, name, publisher, number_of_page, subject, grade, year, type FROM {s}")
     for book in [book for book in cursor]:
         id, name, publisher, number_of_page, subject, grade, year, type = book
