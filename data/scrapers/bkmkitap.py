@@ -21,7 +21,7 @@ db = mysql.connector.connect(
 cursor = db.cursor(buffered=True)
 cursor.execute("TRUNCATE TABLE bkmkitap")
 
-for i in range(20): # range(50)
+for i in range(2): # range(50)
     try: 
         response = requests.get(f"https://www.bkmkitap.com/2024-yks-tyt-ve-ayt-kitaplari?sort=1&stock=1&pg={i+1}")
         response.raise_for_status()
@@ -87,9 +87,9 @@ for i in range(20): # range(50)
             score = None
 
         try: 
-            subject, grade, year = BC.determine_category(name, publisher)
+            subject, grade, year, type = BC.determine_category(name, publisher)
         except: 
-            subject, grade, year = "genel", "lise", None
+            subject, grade, year, type = "genel", "lise", None, None
 
         link = "https://www.bkmkitap.com" + book.find("a", attrs={"class": "detailLink"})["href"]
 
@@ -98,8 +98,8 @@ for i in range(20): # range(50)
         except:
             image = None
 
-        sql = "INSERT INTO bkmkitap (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, link, image) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
-        val = (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, link, image)
+        sql = "INSERT INTO bkmkitap (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, type, link, image) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+        val = (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, type, link, image)
         cursor.execute(sql, val)
 
 
