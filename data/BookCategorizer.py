@@ -14,6 +14,7 @@ class BookCategorizer():
         possible_subjects = []
         possible_grades = []
         possible_years = []
+        possible_types = []
 
         text = lower(name)
         publisher = lower(publisher)
@@ -49,11 +50,24 @@ class BookCategorizer():
             if year in text:
                 possible_years.append(year)
 
+        # Tür kategorisi bulma
+        type_categories = {
+            "soru bankası": ["soru bankası", "soru kitabı"],
+            "deneme": ["deneme"]
+        }
+
+        for key, types in type_categories.items():
+            for type in types:
+                if type in lower(text):
+                    possible_types.append(key)
+
+
         print("****************************************")
         print("Book:", name)
         print("Possible Subjects: ", possible_subjects)
         print("Possible Grades: ", possible_grades)
         print("Possible Years: ", possible_years)
+        print("Possible Types: ", possible_types)
         print("****************************************")
 
         try: final_subject = max(set(possible_subjects), key=possible_subjects.count)
@@ -62,6 +76,8 @@ class BookCategorizer():
         except: final_grade = "lise"
         try: final_year = max(possible_years)
         except: final_year = None
+        try: final_type = max(set(possible_types), key=possible_types.count)
+        except: final_type = None
 
         if len(list(set(possible_subjects).intersection(["fizik", "kimya", "biyoloji"]))) >= 2:
             final_subject = "fen"
@@ -81,7 +97,7 @@ class BookCategorizer():
         if "tyt" in possible_grades and "ayt" in possible_grades:
             final_grade = "lise"
 
-        return final_subject, final_grade, final_year
+        return final_subject, final_grade, final_year, final_type
     
 
     keywords = pd.DataFrame({"sayısal": [[], [], [], [], [], [], []],

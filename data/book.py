@@ -32,9 +32,12 @@ source = ["kitapsec", "islerkitap", "kitapyurdu", "bkmkitap", "isemkitap", "sade
 merged_books = set()
 
 for s in source:
-    cursor.execute(f"SELECT {s}_id, name, publisher, number_of_page, subject, grade, year FROM {s}")
+    cursor.execute(f"UPDATE {s} SET is_new = IF(year >= '2023', 1, 0)")
+    cursor.execute(f"UPDATE {s} SET is_popular = IF(quantity >= 1000, 1, 0)")
+
+    cursor.execute(f"SELECT {s}_id, name, publisher, number_of_page, subject, grade, year, type FROM {s}")
     for book in [book for book in cursor]:
-        id, name, publisher, number_of_page, subject, grade, year = book
+        id, name, publisher, number_of_page, subject, grade, year, type = book
 
         if number_of_page == None:
             if year == None:
@@ -70,9 +73,9 @@ for s in source:
                     break
 
         else:
-            cursor.execute(f"""INSERT INTO book (name, publisher, number_of_page, subject, grade, year, {s}_id) 
-                           VALUES (%s, %s, %s, %s, %s, %s, %s);
-                           """, (name, publisher, number_of_page, subject, grade, year, id))
+            cursor.execute(f"""INSERT INTO book (name, publisher, number_of_page, subject, grade, year, type, {s}_id) 
+                           VALUES (%s, %s, %s, %s, %s, %s, %s, %s);
+                           """, (name, publisher, number_of_page, subject, grade, year, type, id))
             
         
 db.commit()

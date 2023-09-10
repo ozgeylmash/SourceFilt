@@ -22,7 +22,7 @@ cursor = db.cursor(buffered=True)
 cursor.execute("TRUNCATE TABLE isemkitap")
 
 try: 
-    response = requests.get(f"https://www.isemkitap.com/yks-kitaplari?stock=1&sort=1&ps=30") # ps=238
+    response = requests.get(f"https://www.isemkitap.com/yks-kitaplari?stock=1&sort=1&ps=5") # ps=238
     response.raise_for_status()
 except: 
     print("Failed to load the index page.")
@@ -92,9 +92,9 @@ for book in books:
         score = None
 
     try: 
-        subject, grade, year = BC.determine_category(name, publisher)
+        subject, grade, year, type = BC.determine_category(name, publisher)
     except: 
-        subject, grade, year = "genel", "lise", None
+        subject, grade, year, type = "genel", "lise", None, None
 
     link = "https://www.isemkitap.com" + book.find("a", attrs={"class": "detailLink"})["href"]
 
@@ -103,8 +103,8 @@ for book in books:
     except:
         image = None
 
-    sql = "INSERT INTO isemkitap (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, link, image) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
-    val = (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, link, image)
+    sql = "INSERT INTO isemkitap (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, type, link, image) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+    val = (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, type, link, image)
     cursor.execute(sql, val)
 
 

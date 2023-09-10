@@ -21,7 +21,7 @@ db = mysql.connector.connect(
 cursor = db.cursor(buffered=True)
 cursor.execute("TRUNCATE TABLE sadecekitap")
 
-for i in range(20): # range(28)
+for i in range(5): # range(28)
     try: 
         response = requests.get(f"https://www.sadecekitap.com/yks-hazirlik/{i+1}?flt=Stok%20Durumu_Stokta%20var")
         response.raise_for_status()
@@ -64,6 +64,7 @@ for i in range(20): # range(28)
         try: 
             original_price = page.find("span", attrs={"class": "old-price"}).text
             original_price = original_price.replace("TL", "").strip()
+            assert original_price
         except: 
             original_price = current_price
 
@@ -72,9 +73,9 @@ for i in range(20): # range(28)
         score = None
 
         try: 
-            subject, grade, year = BC.determine_category(name, publisher)
+            subject, grade, year, type = BC.determine_category(name, publisher)
         except: 
-            subject, grade, year = "genel", "lise", None
+            subject, grade, year, type = "genel", "lise", None, None
 
         link = "https://www.sadecekitap.com/" + book["href"]
 
@@ -83,8 +84,8 @@ for i in range(20): # range(28)
         except:
             image = None
 
-        sql = "INSERT INTO sadecekitap (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, link, image) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
-        val = (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, link, image)
+        sql = "INSERT INTO sadecekitap (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, type, link, image) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+        val = (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, type, link, image)
         cursor.execute(sql, val)
 
 
