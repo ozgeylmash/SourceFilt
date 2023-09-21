@@ -1,7 +1,7 @@
 import sys
-sys.path.append('data')
-from BookCategorizer import BookCategorizer as BC
-from utils.lower_title import title
+sys.path.insert(0, '..')
+from data.BookCategorizer import BookCategorizer as BC
+from data.utils.lower_title import title
 
 import os
 import requests
@@ -19,13 +19,12 @@ db = mysql.connector.connect(
 )
 
 cursor = db.cursor(buffered=True)
-cursor.execute("TRUNCATE TABLE islerkitap")
 
-for i in range(5): #range(112)
-    try: 
+for i in range(2):  # range(112)
+    try:
         response = requests.get(f"https://www.kitapisler.com/YKS-Yuksekogretim-Kurum-Sinavi-1196?start={(i-1)*40}&")
         response.raise_for_status()
-    except: 
+    except:
         print("Failed to load an index page.")
         continue
 
@@ -34,46 +33,46 @@ for i in range(5): #range(112)
     books = soup.find_all("div", class_="listingProductListingFull")
 
     for book in books:
-        try: 
-            page_response = requests.get("https://www.kitapisler.com/"+book.find("div",class_="list_title_type1_text").find("a")["href"])
+        try:
+            page_response = requests.get("https://www.kitapisler.com/" + book.find("div", class_="list_title_type1_text").find("a")["href"])
             page_response.raise_for_status()
-        except: 
+        except:
             print("Failed to load a book page.")
             continue
-           
+
         page = BeautifulSoup(page_response.content, "lxml")
 
-        try: 
-            name = page.find("div", class_ = "dName").find("span").text
-        except: 
+        try:
+            name = page.find("div", class_="dName").find("span").text
+        except:
             name = None
 
-        try: 
-            publisher = page.find("div", class_="dMarka").find("span").text 
+        try:
+            publisher = page.find("div", class_="dMarka").find("span").text
             publisher = title(publisher)
-        except: 
+        except:
             publisher = None
 
-        try: 
+        try:
             number_of_page = page.find("div", class_="dSayfa").text
             number_of_page = int(number_of_page)
-        except: 
+        except:
             number_of_page = None
 
-        try: 
+        try:
             current_price = page.find_all("span", id="pric")[3].text
             current_price = current_price.replace("TL", "").strip()
             current_price = current_price.replace(".", "")
             current_price = current_price.replace(",", ".")
-        except: 
+        except:
             current_price = None
 
-        try: 
+        try:
             original_price = page.find_all("span", id="pric")[2].text
             original_price = original_price.replace("TL", "").strip()
             original_price = original_price.replace(".", "")
             original_price = original_price.replace(",", ".")
-        except: 
+        except:
             original_price = current_price
 
         try:
@@ -82,19 +81,19 @@ for i in range(5): #range(112)
         except:
             quantity = None
 
-        try: 
-            score = page.find("div",class_="ratingblock").find("cite").text
+        try:
+            score = page.find("div", class_="ratingblock").find("cite").text
         except:
             score = None
 
-        try: 
+        try:
             subject, grade, year, type = BC.determine_category(name, publisher)
-        except: 
+        except:
             subject, grade, year, type = "genel", "lise", None, None
 
-        link = "https://www.kitapisler.com/" + book.find("div",class_="list_title_type1_text").find("a")["href"]
+        link = "https://www.kitapisler.com/" + book.find("div", class_="list_title_type1_text").find("a")["href"]
 
-        try: 
+        try:
             image = "https://www.kitapisler.com/" + page.find("img", attrs={"class": "product_imagesplaceholder"})["src"]
         except:
             image = None
@@ -112,18 +111,18 @@ print(f"{len(duplicates)} unique duplicated books detected and resolved.")
 
 if duplicates:
     for duplicate in duplicates:
-        cursor.execute("SELECT islerkitap_id, quantity FROM islerkitap WHERE name = %s", (duplicate, ))
+        cursor.execute("SELECT id, quantity FROM islerkitap WHERE name = %s", (duplicate, ))
         instances = [x for x in cursor]
-        best_instances.append(max(instances, key = lambda i : i[1] if i[1] != None else -1)[0])
+        best_instances.append(max(instances, key=lambda i: i[1] if i[1] != None else -1)[0])
 
     duplicates_string = ','.join(['%s'] * len(duplicates))
     best_instances_string = ','.join(['%s'] * len(best_instances))
 
-    sql = "DELETE FROM islerkitap WHERE name IN (%s)" % duplicates_string + "AND islerkitap_id NOT IN (%s)" % best_instances_string
+    sql = "DELETE FROM islerkitap WHERE name IN (%s)" % duplicates_string + "AND id NOT IN (%s)" % best_instances_string
     val = duplicates + best_instances
     cursor.execute(sql, val)
 
-    cursor.execute("ALTER TABLE islerkitap DROP COLUMN islerkitap_id");
-    cursor.execute("ALTER TABLE islerkitap ADD islerkitap_id INT PRIMARY KEY AUTO_INCREMENT FIRST");
+    cursor.execute("ALTER TABLE islerkitap DROP COLUMN id")
+    cursor.execute("ALTER TABLE islerkitap ADD id INT PRIMARY KEY AUTO_INCREMENT FIRST")
 
 db.commit()

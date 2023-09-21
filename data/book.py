@@ -1,5 +1,7 @@
 from difflib import SequenceMatcher
+from slugify import slugify
 from utils.lower_title import lower
+
 
 def check_similarity(text1, text2, thresh):
     text1 = lower(text1).split()
@@ -10,6 +12,7 @@ def check_similarity(text1, text2, thresh):
 
     is_similar = SequenceMatcher(None, text1, text2).ratio() > thresh
     return is_similar
+
 
 from dotenv import load_dotenv
 
@@ -26,16 +29,12 @@ db = mysql.connector.connect(
 )
 
 cursor = db.cursor()
-cursor.execute("TRUNCATE TABLE book")
 
 source = ["kitapsec", "islerkitap", "kitapyurdu", "bkmkitap", "isemkitap", "sadecekitap", "kitapsepeti"]
 merged_books = set()
 
 for s in source:
-    cursor.execute(f"UPDATE {s} SET is_new = IF(year >= '2023', 1, 0)")
-    cursor.execute(f"UPDATE {s} SET is_popular = IF(quantity >= 1000, 1, 0)")
-
-    cursor.execute(f"SELECT {s}_id, name, publisher, number_of_page, subject, grade, year, type FROM {s}")
+    cursor.execute(f"SELECT id, name, publisher, number_of_page, subject, grade, year, type FROM {s}")
     for book in [book for book in cursor]:
         id, name, publisher, number_of_page, subject, grade, year, type = book
 
@@ -57,7 +56,7 @@ for s in source:
                 cursor.execute(f"""SELECT name, publisher, number_of_page, subject, grade, year, {s}_id FROM book 
                                WHERE (number_of_page = %s OR number_of_page IS NULL) AND (year = %s OR year IS NULL) AND (subject = %s) AND (grade = %s) AND ({s}_id IS NULL)
                                """, (number_of_page, year, subject, grade))
-        
+
         possible_matches = [match for match in cursor]
 
         if possible_matches:
@@ -73,11 +72,11 @@ for s in source:
                     break
 
         else:
-            cursor.execute(f"""INSERT INTO book (name, publisher, number_of_page, subject, grade, year, type, {s}_id) 
-                           VALUES (%s, %s, %s, %s, %s, %s, %s, %s);
-                           """, (name, publisher, number_of_page, subject, grade, year, type, id))
-            
-        
+            cursor.execute(f"""INSERT INTO book (slug, name, publisher, number_of_page, subject, grade, year, type, {s}_id) 
+                           VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s);
+                           """, (slugify(name), name, publisher, number_of_page, subject, grade, year, type, id))
+
+
 db.commit()
 
 cursor.execute("SELECT COUNT(*) FROM book")

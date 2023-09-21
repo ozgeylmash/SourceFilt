@@ -1,4 +1,4 @@
 .DS_Store
-venv
+source_env
 __pycache__
 .env

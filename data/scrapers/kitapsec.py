@@ -1,7 +1,7 @@
 import sys
-sys.path.append('data')
-from BookCategorizer import BookCategorizer as BC
-from utils.lower_title import title
+sys.path.insert(0, '..')
+from data.BookCategorizer import BookCategorizer as BC
+from data.utils.lower_title import title
 
 import os
 import requests
@@ -19,57 +19,56 @@ db = mysql.connector.connect(
 )
 
 cursor = db.cursor(buffered=True)
-cursor.execute("TRUNCATE TABLE kitapsec")
 
-for i in range(5): # range(301)
-    try: 
+for i in range(2):  # range(301)
+    try:
         response = requests.get(f"https://www.kitapsec.com/Products/YKS-Kitaplari/{i+1}-2-0a0-0-0-0-0-0.xhtml")
         response.raise_for_status()
-    except: 
+    except:
         print("Failed to load an index page.")
         continue
 
     soup = BeautifulSoup(response.content, "lxml")
 
     books = soup.find_all("a", attrs={"class": "text"})
-    
+
     for book in books:
-        try: 
+        try:
             page_response = requests.get(book["href"])
             page_response.raise_for_status()
-        except: 
+        except:
             print("Failed to load a book page.")
             continue
 
         page = BeautifulSoup(page_response.content, "lxml")
 
-        try: 
-            name = page.find("div", attrs={"class": "dty_SagBlok"}).find("h1").text 
-        except: 
+        try:
+            name = page.find("div", attrs={"class": "dty_SagBlok"}).find("h1").text
+        except:
             name = None
 
-        try: 
-            publisher = page.find("div", attrs={"itemprop": "publisher"}).find("span").text 
+        try:
+            publisher = page.find("div", attrs={"itemprop": "publisher"}).find("span").text
             publisher = title(publisher)
-        except: 
+        except:
             publisher = None
 
-        try: 
+        try:
             number_of_page = page.find("div", attrs={"itemprop": "numberOfPages"}).text
             number_of_page = int(number_of_page)
-        except: 
+        except:
             number_of_page = None
 
-        try: 
+        try:
             current_price = page.find("span", attrs={"class": "fiyati"}).text
             current_price = current_price.replace("TL", "").strip()
-        except: 
+        except:
             current_price = None
 
-        try: 
+        try:
             original_price = page.find("span", attrs={"class": "piyasa"}).find("strike").text
             original_price = original_price.replace("TL", "").strip()
-        except: 
+        except:
             original_price = current_price
 
         try:
@@ -78,19 +77,19 @@ for i in range(5): # range(301)
         except:
             quantity = None
 
-        try: 
+        try:
             score = page.find("font", attrs={"class": "ortalamPuan"}).text
         except:
             score = None
 
-        try: 
+        try:
             subject, grade, year, type = BC.determine_category(name, publisher)
-        except: 
+        except:
             subject, grade, year, type = "genel", "lise", None, None
 
         link = book["href"]
 
-        try: 
+        try:
             image = "https:" + page.find("a", attrs={"rel": "urunresim"})["href"]
         except:
             image = None
@@ -108,17 +107,17 @@ print(f"{len(duplicates)} unique duplicated books detected and resolved.")
 
 if duplicates:
     for duplicate in duplicates:
-        cursor.execute("SELECT kitapsec_id, quantity FROM kitapsec WHERE name = %s", (duplicate, ))
+        cursor.execute("SELECT id, quantity FROM kitapsec WHERE name = %s", (duplicate, ))
         instances = [x for x in cursor]
-        best_instances.append(max(instances, key = lambda i : i[1] if i[1] != None else -1)[0])
+        best_instances.append(max(instances, key=lambda i: i[1] if i[1] != None else -1)[0])
 
     duplicates_string = ','.join(['%s'] * len(duplicates))
     best_instances_string = ','.join(['%s'] * len(best_instances))
-    sql = "DELETE FROM kitapsec WHERE name IN (%s)" % duplicates_string + "AND kitapsec_id NOT IN (%s)" % best_instances_string
+    sql = "DELETE FROM kitapsec WHERE name IN (%s)" % duplicates_string + "AND id NOT IN (%s)" % best_instances_string
     val = duplicates + best_instances
     cursor.execute(sql, val)
 
-    cursor.execute("ALTER TABLE kitapsec DROP COLUMN kitapsec_id");
-    cursor.execute("ALTER TABLE kitapsec ADD kitapsec_id INT PRIMARY KEY AUTO_INCREMENT FIRST");
+    cursor.execute("ALTER TABLE kitapsec DROP COLUMN id")
+    cursor.execute("ALTER TABLE kitapsec ADD id INT PRIMARY KEY AUTO_INCREMENT FIRST")
 
 db.commit()

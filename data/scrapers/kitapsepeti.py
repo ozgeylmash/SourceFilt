@@ -1,7 +1,7 @@
 import sys
-sys.path.append("data")
-from BookCategorizer import BookCategorizer as BC
-from utils.lower_title import title
+sys.path.insert(0, '..')
+from data.BookCategorizer import BookCategorizer as BC
+from data.utils.lower_title import title
 
 import os
 import requests
@@ -19,65 +19,64 @@ db = mysql.connector.connect(
 )
 
 cursor = db.cursor(buffered=True)
-cursor.execute("TRUNCATE TABLE kitapsepeti")
 
-for i in range(5): # range(88)
-    try: 
+for i in range(2):  # range(88)
+    try:
         response = requests.get(f"https://www.kitapsepeti.com/yks-tyt-ayt-hazirlik-kitaplari?stock=1&sort=1&pg={i+1}")
         response.raise_for_status()
-    except: 
+    except:
         print("Failed to load an index page.")
         continue
 
     soup = BeautifulSoup(response.content, "lxml")
 
     books = soup.find_all("div", attrs={"class": "productDetails"})
-    
+
     for book in books:
-        try: 
+        try:
             page_response = requests.get("https://www.kitapsepeti.com" + book.find("a", attrs={"class": "detailLink"})["href"])
             page_response.raise_for_status()
-        except: 
+        except:
             print("Failed to load a book page.")
             continue
 
         page = BeautifulSoup(page_response.content, "lxml")
 
-        try: 
+        try:
             name = page.find("h1", attrs={"id": "productName"}).text
-        except: 
+        except:
             name = None
 
-        try: 
+        try:
             publisher = page.find("a", attrs={"class": "product-brand"})["title"]
             publisher = publisher.replace("Yayınevi: ", "").strip()
             publisher = title(publisher)
-        except: 
+        except:
             publisher = None
 
-        try: 
+        try:
             number_of_page = page.find("span", string="Sayfa Sayısı:").find_next_sibling().text
             number_of_page = int(number_of_page)
-        except: 
+        except:
             number_of_page = None
 
-        try: 
+        try:
             current_price = page.find("span", attrs={"class": "product-price"}).text
             current_price = current_price.replace(".", "")
             current_price = current_price.replace(",", ".")
-        except: 
+        except:
             current_price = None
 
-        try: 
+        try:
             original_price = page.find("span", attrs={"class": "product-price-not-discounted"}).text
             original_price = original_price.replace(".", "")
             original_price = original_price.replace(",", ".")
-        except: 
+        except:
             original_price = current_price
 
         quantity = None
 
-        try: 
+        try:
             score = page.find("div", attrs={"id": "productRight"}).find("div", attrs={"class": "stars"})["style"]
             score = score.replace("width:", "")
             score = score.replace("%;", "")
@@ -85,14 +84,14 @@ for i in range(5): # range(88)
         except:
             score = None
 
-        try: 
+        try:
             subject, grade, year, type = BC.determine_category(name, publisher)
-        except: 
+        except:
             subject, grade, year, type = "genel", "lise", None, None
 
         link = "https://www.kitapsepeti.com" + book.find("a", attrs={"class": "detailLink"})["href"]
 
-        try: 
+        try:
             image = page.find("span", attrs={"class": "imgInner"}).find("img")["src"]
         except:
             image = None
@@ -110,17 +109,17 @@ print(f"{len(duplicates)} unique duplicated books detected and resolved.")
 
 if duplicates:
     for duplicate in duplicates:
-        cursor.execute("SELECT kitapsepeti_id, quantity FROM kitapsepeti WHERE name = %s", (duplicate, ))
+        cursor.execute("SELECT id, quantity FROM kitapsepeti WHERE name = %s", (duplicate, ))
         instances = [x for x in cursor]
-        best_instances.append(max(instances, key = lambda i : i[1] if i[1] != None else -1)[0])
+        best_instances.append(max(instances, key=lambda i: i[1] if i[1] != None else -1)[0])
 
     duplicates_string = ",".join(["%s"] * len(duplicates))
     best_instances_string = ",".join(["%s"] * len(best_instances))
-    sql = "DELETE FROM kitapsepeti WHERE name IN (%s)" % duplicates_string + "AND kitapsepeti_id NOT IN (%s)" % best_instances_string
+    sql = "DELETE FROM kitapsepeti WHERE name IN (%s)" % duplicates_string + "AND id NOT IN (%s)" % best_instances_string
     val = duplicates + best_instances
     cursor.execute(sql, val)
 
-    cursor.execute("ALTER TABLE kitapsepeti DROP COLUMN kitapsepeti_id");
-    cursor.execute("ALTER TABLE kitapsepeti ADD kitapsepeti_id INT PRIMARY KEY AUTO_INCREMENT FIRST");
+    cursor.execute("ALTER TABLE kitapsepeti DROP COLUMN id")
+    cursor.execute("ALTER TABLE kitapsepeti ADD id INT PRIMARY KEY AUTO_INCREMENT FIRST")
 
 db.commit()
