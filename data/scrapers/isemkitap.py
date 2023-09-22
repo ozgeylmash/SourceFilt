@@ -1,6 +1,6 @@
 import sys
-sys.path.insert(0, '..')
-from data.BookCategorizer import BookCategorizer as BC
+sys.path.append("..")
+from data.utils.BookCategorizer import BookCategorizer as BC
 from data.utils.lower_title import title
 
 import os
@@ -44,7 +44,7 @@ for book in books:
         name = page.find("h1", attrs={"id": "productName"}).text
         name = name.strip()
     except:
-        name = None
+        continue
 
     try:
         publisher = page.find("a", attrs={"id": "product-brand"})["title"]
@@ -58,7 +58,7 @@ for book in books:
         publisher = publisher.replace("YKS", "").strip()
         publisher = title(publisher)
     except:
-        publisher = None
+        continue
 
     try:
         number_of_page = page.find("span", string="Sayfa Sayısı").find_next_siblings()[1].text
@@ -90,10 +90,7 @@ for book in books:
     except:
         score = None
 
-    try:
-        subject, grade, year, type = BC.determine_category(name, publisher)
-    except:
-        subject, grade, year, type = "genel", "lise", None, "diğer"
+    subject, grade, year, type = BC.determine_category(name, publisher)
 
     link = "https://www.isemkitap.com" + book.find("a", attrs={"class": "detailLink"})["href"]
 
@@ -106,26 +103,5 @@ for book in books:
     val = (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, type, link, image)
     cursor.execute(sql, val)
 
-
-cursor.execute("SELECT name FROM isemkitap GROUP BY name HAVING count(*) >= 2")
-
-duplicates = [duplicate[0] for duplicate in cursor]
-best_instances = []
-print(f"{len(duplicates)} unique duplicated books detected and resolved.")
-
-if duplicates:
-    for duplicate in duplicates:
-        cursor.execute("SELECT id, quantity FROM isemkitap WHERE name = %s", (duplicate, ))
-        instances = [x for x in cursor]
-        best_instances.append(max(instances, key=lambda i: i[1] if i[1] != None else -1)[0])
-
-    duplicates_string = ",".join(["%s"] * len(duplicates))
-    best_instances_string = ",".join(["%s"] * len(best_instances))
-    sql = "DELETE FROM isemkitap WHERE name IN (%s)" % duplicates_string + "AND id NOT IN (%s)" % best_instances_string
-    val = duplicates + best_instances
-    cursor.execute(sql, val)
-
-    cursor.execute("ALTER TABLE isemkitap DROP COLUMN id")
-    cursor.execute("ALTER TABLE isemkitap ADD id INT PRIMARY KEY AUTO_INCREMENT FIRST")
 
 db.commit()
