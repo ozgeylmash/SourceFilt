@@ -1,0 +1,288 @@
+DEBUG:
+('10. Sınıf Biyoloji Soru Kitabı', 'Palme Yayıncılık- Sınav Kitapları', 224, ' 138.24', '192.00', '741', 4, 'biyoloji', '10.', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/10-sinif-biyoloji-soru-kitabi/258828.html&path=1_283_293', 'https://img.kitapyurdu.com/v1/getImage/fn:6403004/wh:true/wi:800') 
+ 
+DEBUG:
+('11. Sınıf Fizik Tümü Çözümlü Soru Bankası', 'Nihat Bilgin Yayıncılık', 368, ' 184.80', '240.00', '199', 5, 'fizik', '11.', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/11-sinif-fizik-tumu-cozumlu-soru-bankasi/283721.html&path=1_283_293', 'https://img.kitapyurdu.com/v1/getImage/fn:9778005/wh:true/wi:800') 
+ 
+DEBUG:
+('11. Sınıf Fizik Soru Kitabı', 'Palme Yayıncılık- Sınav Kitapları', 220, ' 137.52', '191.00', '478', 4, 'fizik', '11.', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/11-sinif-fizik-soru-kitabi/258825.html&path=1_283_293', 'https://img.kitapyurdu.com/v1/getImage/fn:6402544/wh:true/wi:800') 
+ 
+DEBUG:
+('10. Sınıf Biyoloji Konu Anlatımlı ', 'Palme Yayıncılık- Sınav Kitapları', 216, ' 120.96', '168.00', '386', 5, 'biyoloji', '10.', None, 'diğer', 'https://www.kitapyurdu.com/kitap/10-sinif-biyoloji-konu-anlatimli-/262810.html&path=1_283_293', 'https://img.kitapyurdu.com/v1/getImage/fn:6402929/wh:true/wi:800') 
+ 
+DEBUG:
+('10. Sınıf Kimya Konu Anlatımlı ', 'Palme Yayıncılık- Sınav Kitapları', 248, ' 126.00', '175.00', '271', 5, 'kimya', '10.', None, 'diğer', 'https://www.kitapyurdu.com/kitap/10-sinif-kimya-konu-anlatimli-/259028.html&path=1_283_293', 'https://img.kitapyurdu.com/v1/getImage/fn:6402889/wh:true/wi:800') 
+ 
+DEBUG:
+('10. Sınıf Fizik Konu Anlatımlı ', 'Palme Yayıncılık- Sınav Kitapları', 255, ' 161.60', '202.00', '224', 4, 'fizik', '10.', None, 'diğer', 'https://www.kitapyurdu.com/kitap/10-sinif-fizik-konu-anlatimli-/262809.html&path=1_283_293', 'https://img.kitapyurdu.com/v1/getImage/fn:6402852/wh:true/wi:800') 
+ 
+DEBUG:
+("0'dan 10'a Konu Anlatımlı Soru Bankası Sözel Set", 'Tonguç Akademi', 528, ' 178.62', '229.00', '36', 0, 'sözel', 'lise', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/0dan-10a-konu-anlatimli-soru-bankasi-sozel-set/593437.html&path=1_283_293', 'https://img.kitapyurdu.com/v1/getImage/fn:11456761/wh:true/wi:800') 
+ 
+DEBUG:
+('10. Sınıf Kimya Soru Bankası', 'Karekök', 190, ' 120.12', '168.00', '387', 4, 'kimya', '10.', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/10-sinif-kimya-soru-bankasi/286523.html&path=1_283_293', 'https://img.kitapyurdu.com/v1/getImage/fn:7261762/wh:true/wi:800') 
+ 
+DEBUG:
+('9. Sınıf İmam Hatip ve Anadolu İmam Hatip Liseleri İçin Arapça Yardımcı Dilbilgisi Konu Anlatımlı ve Örnekli', 'Yeni Zamanlar Dağıtım', 95, ' 150.00', ' 150.00', '39', 0, 'genel', '9.', None, 'diğer', 'https://www.kitapyurdu.com/kitap/9-sinif-imam-hatip-ve-anadolu-imam-hatip-liseleri-icin-arapca-yardimci-dilbilgisi-konu-anlatimli-ve-ornekli/286662.html&path=1_283_293', 'https://img.kitapyurdu.com/v1/getImage/fn:81263/wh:true/wi:800') 
+ 
+DEBUG:
+('10. Sınıf İmam Hatip ve Anadolu İmam Hatip Liseleri İçin Arapça Yardımcı Dilbilgisi Konu Anlatımlı ve Örnekli', 'Yeni Zamanlar Dağıtım', 111, ' 105.00', ' 105.00', '39', 0, 'genel', '10.', None, 'diğer', 'https://www.kitapyurdu.com/kitap/10-sinif-imam-hatip-ve-anadolu-imam-hatip-liseleri-icin-arapca-yardimci-dilbilgisi-konu-anlatimli-ve-ornekli/286663.html&path=1_283_293', 'https://img.kitapyurdu.com/v1/getImage/fn:53443/wh:true/wi:800') 
+ 
+DEBUG:
+("0'dan 10'a Konu Anlatımlı Soru Bankası Sayısal Set", 'Tonguç Akademi', 984, ' 389.01', ' 389.01', '12', 0, 'sayısal', 'lise', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/0dan-10a-konu-anlatimli-soru-bankasi-sayisal-set/593436.html&path=1_283_293', 'https://img.kitapyurdu.com/v1/getImage/fn:11456760/wh:true/wi:800') 
+ 
+DEBUG:
+('10. Sınıf Fizik Konu Özetli Soru Bankası ', 'Nihat Bilgin Yayıncılık', 320, ' 102.96', '144.00', '135', 0, 'fizik', '10.', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/10-sinif-fizik-konu-ozetli-soru-bankasi-/283719.html&path=1_283_293', 'https://img.kitapyurdu.com/v1/getImage/fn:11503760/wh:true/wi:800') 
+ 
+DEBUG:
+('9. Sınıf Coğrafya Soru Bankası', 'Final Yayınları', 224, ' 80.49', '115.00', '197', 0, 'coğrafya', '9.', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/9-sinif-cografya-soru-bankasi/270850.html&path=1_283_293', 'https://img.kitapyurdu.com/v1/getImage/fn:6943228/wh:true/wi:800') 
+ 
+DEBUG:
+('2023 TYT AYT KPSS ALES DGS MSÜ Klass Serisi Benzersiz Paragraf Soru Bankası', 'Yargı Yayınevi', 144, ' 40.60', '58.00', '1083', 0, 'türkçe', 'lise', '2023', 'soru bankası', 'https://www.kitapyurdu.com/kitap/2023-tyt-ayt-kpss-ales-dgs-msu-klass-serisi-benzersiz-paragraf-soru-bankasi/628750.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11614983/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT AYT KPSS ALES DGS MSÜ Bilge Paragraf Soru Bankası', 'Yargı Yayınevi', 144, ' 36.40', '52.90', '292', 0, 'türkçe', 'lise', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/tyt-ayt-kpss-ales-dgs-msu-bilge-paragraf-soru-bankasi/624070.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11592325/wh:true/wi:800') 
+ 
+DEBUG:
+('2022 TYT AYT KPSS ALES DGS MSÜ Aksiyon Anlam  Paragraf Soru Bankası', 'Yargı Yayınevi', 144, ' 42.00', '60.00', '1301', 5, 'türkçe', 'lise', '2022', 'soru bankası', 'https://www.kitapyurdu.com/kitap/2022-tyt-ayt-kpss-ales-dgs-msu-aksiyon-anlam-paragraf-soru-bankasi/589215.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11439959/wh:true/wi:800') 
+ 
+DEBUG:
+("Rüştü Hoca'nın Türkçe Uygulama Fasikülleri Tamamı Video Çözümlü", 'Pelikan Yayınları', 112, ' 67.50', '90.00', '340', 5, 'türkçe', 'lise', None, 'diğer', 'https://www.kitapyurdu.com/kitap/rustu-hocanin-turkce-uygulama-fasikulleri-tamami-video-cozumlu/624316.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11593580/wh:true/wi:800') 
+ 
+DEBUG:
+('2023 KPSS ALES DGS TYT AYT MSÜ 5Yüz Tamamı Çözümlü Stratejik Paragraf Soru Bankası', 'Yargı Yayınevi', 224, ' 85.09', '119.00', '237', 5, 'türkçe', 'lise', '2023', 'soru bankası', 'https://www.kitapyurdu.com/kitap/2023-kpss-ales-dgs-tyt-ayt-msu-5yuz-tamami-cozumlu-stratejik-paragraf-soru-bankasi/630999.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11629713/wh:true/wi:800') 
+ 
+DEBUG:
+('49 Günde TYT Matematik Kampı', 'Tonguç Akademi', 232, ' 249.01', ' 249.01', '1354', 5, 'matematik', 'tyt', None, 'diğer', 'https://www.kitapyurdu.com/kitap/49-gunde-tyt-matematik-kampi/602456.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11493747/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT KPSS ALES DGS MSÜ Tam Marifetli Problemler Soru Bankası', 'Yargı Yayınevi', 144, ' 29.40', '42.00', '241', 4, 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/tyt-kpss-ales-dgs-msu-tam-marifetli-problemler-soru-bankasi/605755.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11508735/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT AYT MSÜ KPSS ALES İçin Tam Marifetli Paragraf 10x20 Deneme', 'Yargı Yayınevi', 80, ' 20.30', '29.00', '981', 4, 'türkçe', 'lise', None, 'deneme', 'https://www.kitapyurdu.com/kitap/tyt-ayt-msu-kpss-ales-icin-tam-marifetli-paragraf-10x20-deneme/573560.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11371854/wh:true/wi:800') 
+ 
+DEBUG:
+('2022 TYT AYT KPSS ALES DGS MSÜ Aksiyon Paragraf 10x20 Deneme', 'Yargı Yayınevi', 96, ' 31.50', '45.00', '504', 5, 'türkçe', 'lise', '2022', 'deneme', 'https://www.kitapyurdu.com/kitap/2022-tyt-ayt-kpss-ales-dgs-msu-aksiyon-paragraf-10x20-deneme/597464.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11469314/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT Matematik Acil Problemler', 'Acil Yayınları', None, ' 129.00', ' 129.00', '1059', 5, 'matematik', 'tyt', None, 'diğer', 'https://www.kitapyurdu.com/kitap/tyt-matematik-acil-problemler/514685.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:9786753/wh:true/wi:800') 
+ 
+DEBUG:
+('YDS - YÖKDİL - YKSDİL Sıfırdan Sınava Ders Notları 2', 'Benim Hocam Yayınları', 224, ' 91.63', '119.00', '117', 0, 'ingilizce', 'ydt', None, 'diğer', 'https://www.kitapyurdu.com/kitap/yds-yokdil-yksdil-sifirdan-sinava-ders-notlari-2/639445.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11664324/wh:true/wi:800') 
+ 
+DEBUG:
+("TYT 5'li Deneme", 'Kida Kitap', None, ' 26.60', '38.00', '112', 0, 'genel', 'tyt', None, 'deneme', 'https://www.kitapyurdu.com/kitap/tyt-5li-deneme/626720.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11605220/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT -AYT - KPSS Taktiklerle Paragraf Tamamı Video Çözümlü Soru Bankası ', 'Benim Hocam Yayınları', 240, ' 143.00', '200.00', '125', 0, 'türkçe', 'lise', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/tyt-ayt-kpss-taktiklerle-paragraf-tamami-video-cozumlu-soru-bankasi-/621154.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11582842/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT MSÜ KPSS İçin Tam Marifetli Dil Bilgisi Soru Bankası', 'Yargı Yayınevi', 140, ' 42.13', '55.00', '297', 4, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/tyt-msu-kpss-icin-tam-marifetli-dil-bilgisi-soru-bankasi/568947.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11344528/wh:true/wi:800') 
+ 
+DEBUG:
+("Rüştü Hoca'yla TYT - AYT Türkçe Soru Avı 101 Çözümlü Soru", 'Pelikan Yayınları', 208, ' 269.25', '359.00', '702', 4, 'türkçe', 'lise', None, 'diğer', 'https://www.kitapyurdu.com/kitap/rustu-hocayla-tyt-ayt-turkce-soru-avi-101-cozumlu-soru/540236.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11261728/wh:true/wi:800') 
+ 
+DEBUG:
+('Fulleten AYT Edebiyat Soru Bankası', 'Pelikan Yayınları', 400, ' 168.75', '225.00', '1281', 5, 'edebiyat', 'ayt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/fulleten-ayt-edebiyat-soru-bankasi/526694.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11598097/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT - KPSS Taktiklerle Dil Bilgisi Tamamı Video Çözümlü Soru Bankası ', 'Benim Hocam Yayınları', 224, ' 137.50', '200.00', '103', 5, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/tyt-kpss-taktiklerle-dil-bilgisi-tamami-video-cozumlu-soru-bankasi-/621155.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11766850/wh:true/wi:800') 
+ 
+DEBUG:
+('2022 AYT Şampiyon Edebiyat Soru Bankası', 'Yargı Yayınevi', 194, ' 37.80', '54.00', '138', 0, 'edebiyat', 'ayt', '2022', 'soru bankası', 'https://www.kitapyurdu.com/kitap/2022-ayt-sampiyon-edebiyat-soru-bankasi/604908.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11504867/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT AYT KPSS ALES DGS MSÜ Klas Serisi Benzersiz Paragraf 10x20 Deneme', 'Yargı Yayınevi', 96, ' 27.93', '39.90', '91', 0, 'türkçe', 'lise', None, 'deneme', 'https://www.kitapyurdu.com/kitap/tyt-ayt-kpss-ales-dgs-msu-klas-serisi-benzersiz-paragraf-10x20-deneme/625747.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11600715/wh:true/wi:800') 
+ 
+DEBUG:
+('YKS AYT 2022 Edebiyat Dijital Çözümlü 10 Deneme Sınavı', 'Pelikan Yayınları', 104, ' 48.75', '65.00', '453', 4, 'edebiyat', 'ayt', '2022', 'deneme', 'https://www.kitapyurdu.com/kitap/yks-ayt-2022-edebiyat-dijital-cozumlu-10-deneme-sinavi/536129.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11658618/wh:true/wi:800') 
+ 
+DEBUG:
+('2024 TYT Türkçe Tamamı Çözümlü Soru Bankası Konu Tekrar Posteri Hediyeli', 'Benim Hocam Yayınları', 256, ' 137.50', '200.00', '83', 0, 'türkçe', 'tyt', '2024', 'soru bankası', 'https://www.kitapyurdu.com/kitap/2024-tyt-turkce-tamami-cozumlu-soru-bankasi-konu-tekrar-posteri-hediyeli/653548.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11737844/wh:true/wi:800') 
+ 
+DEBUG:
+('2023 Rüştü Hoca TYT Türkçe 5 Deneme', 'Kr Akademi Yayınları', 40, ' 58.68', '59.00', '83', 0, 'türkçe', 'tyt', '2023', 'deneme', 'https://www.kitapyurdu.com/kitap/2023-rustu-hoca-tyt-turkce-5-deneme/644724.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11689699/wh:true/wi:800') 
+ 
+DEBUG:
+("Rüştü Hoca'dan Taktiklerle AYT Edebiyat Notları", 'Pelikan Yayınları', 304, ' 187.50', '250.00', '1449', 5, 'edebiyat', 'ayt', None, 'diğer', 'https://www.kitapyurdu.com/kitap/rustu-hocadan-taktiklerle-ayt-edebiyat-notlari/525282.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11755162/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT - MSÜ - KPSS Sınav Uzmanlarından Dil Bilgisi Soru Bankası', 'Benim Hocam Yayınları', 538, ' 96.85', '149.00', '88', 0, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/tyt-msu-kpss-sinav-uzmanlarindan-dil-bilgisi-soru-bankasi/602624.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11494601/wh:true/wi:800') 
+ 
+DEBUG:
+('YKS TYT Pratik Paragraf Soru Bankası', 'İndeks Akademi Yayıncılık', 128, ' 62.30', '89.00', '69', 0, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/yks-tyt-pratik-paragraf-soru-bankasi/633617.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11637185/wh:true/wi:800') 
+ 
+DEBUG:
+('KPSS ALES DGS YKS Paragraf Soru Bankası', 'Öğreti Akademi', 288, ' 135.00', '225.00', '65', 0, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/kpss-ales-dgs-yks-paragraf-soru-bankasi/638535.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11660004/wh:true/wi:800') 
+ 
+DEBUG:
+('2024 TYT Matematik Tamamı Çözümlü Soru Bankası', 'Benim Hocam Yayınları', 336, ' 165.00', '240.00', '59', 0, 'matematik', 'tyt', '2024', 'soru bankası', 'https://www.kitapyurdu.com/kitap/2024-tyt-matematik-tamami-cozumlu-soru-bankasi/653550.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11737842/wh:true/wi:800') 
+ 
+DEBUG:
+("TYT Palmetre 7'li Deneme Sınavı", 'Palme Yayıncılık- Sınav Kitapları', None, ' 115.20', '160.00', '76', 0, 'genel', 'tyt', None, 'deneme', 'https://www.kitapyurdu.com/kitap/tyt-palmetre-7li-deneme-sinavi/606760.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11516308/wh:true/wi:800') 
+ 
+DEBUG:
+("AYT Matematik 5'li Deneme", 'Barış Çelenk Yayınları', 65, ' 52.50', '75.00', '64', 0, 'matematik', 'ayt', None, 'deneme', 'https://www.kitapyurdu.com/kitap/ayt-matematik-5li-deneme/645262.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11692453/wh:true/wi:800') 
+ 
+DEBUG:
+("2022 TYT Türkçe 12'li Deneme Sınavı", 'Endemik Yayınları', 480, ' 110.27', '150.00', '113', 0, 'türkçe', 'tyt', '2022', 'deneme', 'https://www.kitapyurdu.com/kitap/2022-tyt-turkce-12li-deneme-sinavi/604437.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11503738/wh:true/wi:800') 
+ 
+DEBUG:
+("2022 TYT Sosyal Bilimleri 20'li Deneme Sınavı", 'Endemik Yayınları', 112, ' 69.56', '100.00', '121', 0, 'sosyal', 'tyt', '2022', 'deneme', 'https://www.kitapyurdu.com/kitap/2022-tyt-sosyal-bilimleri-20li-deneme-sinavi/604439.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11503737/wh:true/wi:800') 
+ 
+DEBUG:
+("Tüm Sınavlar için Rüştü Hoca'dan Taktiklerle Türkçe Ders Notları", 'Pelikan Yayınları', 352, ' 168.75', '225.00', '984', 5, 'türkçe', 'lise', None, 'diğer', 'https://www.kitapyurdu.com/kitap/tum-sinavlar-icin-rustu-hocadan-taktiklerle-turkce-ders-notlari/553983.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11598099/wh:true/wi:800') 
+ 
+DEBUG:
+('YKS TYT Paragraf Soru Kitabı', 'Palme Yayıncılık- Sınav Kitapları', 256, ' 141.12', '196.00', '366', 4, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/yks-tyt-paragraf-soru-kitabi/513802.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:9724787/wh:true/wi:800') 
+ 
+DEBUG:
+("2022 TYT Fen Bilimleri 20'li Deneme Sınavı", 'Endemik Yayınları', 112, ' 69.65', '100.00', '99', 0, 'fen', 'tyt', '2022', 'deneme', 'https://www.kitapyurdu.com/kitap/2022-tyt-fen-bilimleri-20li-deneme-sinavi/604438.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11503736/wh:true/wi:800') 
+ 
+DEBUG:
+('YKS TYT AYT Başlarım Şimdi Tarih Çalışmaya (22 Deneme İlaveli) ', 'Kadir Koç Akademi', 152, ' 26.25', '37.50', '51', 0, 'tarih', 'lise', None, 'deneme', 'https://www.kitapyurdu.com/kitap/yks-tyt-ayt-baslarim-simdi-tarih-calismaya-22-deneme-ilaveli-/633626.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11637206/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT Kimya Tamamı Video Çözümlü Soru Bankası', 'Benim Hocam Yayınları', 288, ' 172.86', '220.00', '64', 0, 'kimya', 'tyt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/tyt-kimya-tamami-video-cozumlu-soru-bankasi/621302.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11583216/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT Fizik Video Destekli Konu Anlatımı', 'Benim Hocam Yayınları', 224, ' 54.22', '69.00', '72', 0, 'fizik', 'tyt', None, 'diğer', 'https://www.kitapyurdu.com/kitap/tyt-fizik-video-destekli-konu-anlatimi/621349.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11583292/wh:true/wi:800') 
+ 
+DEBUG:
+('Neyin Peşindesin? Paragraf Soru Bankası Video Destekli Özel Sorularla', 'Pelikan Yayınları', 304, ' 127.50', '170.00', '651', 5, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/neyin-pesindesin-paragraf-soru-bankasi-video-destekli-ozel-sorularla/569389.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11436132/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT AYT 3+3 Deneme Seti', 'Liderler Karması', None, ' 58.80', '98.00', '67', 0, 'genel', 'lise', None, 'deneme', 'https://www.kitapyurdu.com/kitap/tyt-ayt-33-deneme-seti/607501.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11517641/wh:true/wi:800') 
+ 
+ERROR:
+(' KPSS - ALES - DGS 40 Hikayede Sayısal ve Sözel Mantık Problemleri Tamamı Çözümlü Soru Bankası', 'Pelikan Yayınları', 168, ' 57.60', '80.00', '426', 5, 'sayısal', 'genel', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/kpss-ales-dgs-40-hikayede-sayisal-ve-sozel-mantik-problemleri-tamami-cozumlu-soru-bankasi/468455.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11265718/wh:true/wi:800') 
+ 
+ERROR:
+1265 (01000): Data truncated for column 'grade' at row 1 
+ 
+DEBUG:
+(' KPSS - ALES - DGS 40 Hikayede Sayısal ve Sözel Mantık Problemleri Tamamı Çözümlü Soru Bankası', 'Pelikan Yayınları', 168, ' 57.60', '80.00', '426', 5, 'sayısal', 'genel', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/kpss-ales-dgs-40-hikayede-sayisal-ve-sozel-mantik-problemleri-tamami-cozumlu-soru-bankasi/468455.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11265718/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT Fen Bilimleri Konu Özeti', 'Apotemi Yayıncılık', 256, ' 130.38', '149.00', '55', 0, 'fen', 'tyt', None, 'diğer', 'https://www.kitapyurdu.com/kitap/tyt-fen-bilimleri-konu-ozeti/609523.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11527222/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT Matematik 9x3 Up Deneme', 'Çap Yayınları', None, ' 62.79', '69.00', '50', 0, 'matematik', 'tyt', None, 'deneme', 'https://www.kitapyurdu.com/kitap/tyt-matematik-9x3-up-deneme/637129.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11654109/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT Sosyal Bilimler Konu Özeti', 'Apotemi Yayıncılık', 176, ' 92.86', '99.00', '124', 0, 'sosyal', 'tyt', None, 'diğer', 'https://www.kitapyurdu.com/kitap/tyt-sosyal-bilimler-konu-ozeti/591553.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11452581/wh:true/wi:800') 
+ 
+DEBUG:
+('2024 TYT Türkçe Ders Notları Konu Sonu Testleri İlaveli ', 'Benim Hocam Yayınları', 224, ' 123.75', '180.00', '50', 0, 'türkçe', 'tyt', '2024', 'diğer', 'https://www.kitapyurdu.com/kitap/2024-tyt-turkce-ders-notlari-konu-sonu-testleri-ilaveli-/653547.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11737845/wh:true/wi:800') 
+ 
+DEBUG:
+('2022 TYT Yeni Tarz Problemler Soru Bankası', 'Endemik Yayınları', 144, ' 80.47', '110.00', '116', 5, 'matematik', 'tyt', '2022', 'soru bankası', 'https://www.kitapyurdu.com/kitap/2022-tyt-yeni-tarz-problemler-soru-bankasi/587783.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11436207/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT Kimya Soru Bankası', 'Bilgi Sarmal', 304, ' 136.22', '139.00', '489', 5, 'kimya', 'tyt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/tyt-kimya-soru-bankasi/469644.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:6623975/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT Matematiğin İlacı 1 Soru Bankası', 'Acil Yayınları', None, ' 179.00', ' 179.00', '131', 0, 'genel', 'tyt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/tyt-matematigin-ilaci-1-soru-bankasi/545329.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11248633/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT Tarih Soru Bankası', 'Bilgi Sarmal', 272, ' 175.00', ' 175.00', '54', 0, 'tarih', 'tyt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/tyt-tarih-soru-bankasi/622536.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11585965/wh:true/wi:800') 
+ 
+DEBUG:
+('YKS TYT Türkçe Konu Anlatımlı', 'Palme Yayıncılık- Sınav Kitapları', 432, ' 177.12', '246.00', '324', 5, 'türkçe', 'tyt', None, 'diğer', 'https://www.kitapyurdu.com/kitap/yks-tyt-turkce-konu-anlatimli/477230.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:7095408/wh:true/wi:800') 
+ 
+DEBUG:
+('2024 TYT Matematik Ders Notları MAF', 'Benim Hocam Yayınları', 336, ' 165.00', '240.00', '45', 0, 'matematik', 'tyt', '2024', 'diğer', 'https://www.kitapyurdu.com/kitap/2024-tyt-matematik-ders-notlari-maf/653549.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11737843/wh:true/wi:800') 
+ 
+DEBUG:
+('Acil Matematik AYT Soru Bankası', 'Acil Yayınları', 446, ' 185.00', ' 185.00', '1149', 5, 'matematik', 'ayt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/acil-matematik-ayt-soru-bankasi/476448.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11434189/wh:true/wi:800') 
+ 
+DEBUG:
+('2024 TYT Coğrafya Tamamı Çözümlü Soru Bankası Öğrenme Pekiştirme Kendini Deneme Testleri', 'Benim Hocam Yayınları', 224, ' 138.60', '180.00', '42', 0, 'sosyal', 'tyt', '2024', 'soru bankası', 'https://www.kitapyurdu.com/kitap/2024-tyt-cografya-tamami-cozumlu-soru-bankasi-ogrenme-pekistirme-kendini-deneme-testleri/653552.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11737846/wh:true/wi:800') 
+ 
+DEBUG:
+('YKS-AYT Edebiyat Başucu Kitabı ', 'Palme Yayıncılık- Sınav Kitapları', 512, ' 116.64', '162.00', '307', 5, 'edebiyat', 'ayt', None, 'diğer', 'https://www.kitapyurdu.com/kitap/yksayt-edebiyat-basucu-kitabi-/482005.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:7372823/wh:true/wi:800') 
+ 
+DEBUG:
+('2022 TYT Paragraf Soru Bankası', 'Endemik Yayınları', 288, ' 132.00', '200.00', '55', 0, 'türkçe', 'tyt', '2022', 'soru bankası', 'https://www.kitapyurdu.com/kitap/2022-tyt-paragraf-soru-bankasi/587782.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11436206/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT AYT KPSS ALES DGS MSÜ Kozmik Paragraf 10x20 Deneme', 'Yargı Yayınevi', 96, ' 29.40', '42.00', '44', 0, 'türkçe', 'lise', None, 'deneme', 'https://www.kitapyurdu.com/kitap/tyt-ayt-kpss-ales-dgs-msu-kozmik-paragraf-10x20-deneme/630317.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11624934/wh:true/wi:800') 
+ 
+DEBUG:
+('Tecrübe 10x15 Video Çözümlü Dil Bilgisi Denemeleri', 'Pelikan Yayınları', 56, ' 281.25', '375.00', '43', 0, 'türkçe', 'tyt', None, 'deneme', 'https://www.kitapyurdu.com/kitap/tecrube-10x15-video-cozumlu-dil-bilgisi-denemeleri/639486.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11664431/wh:true/wi:800') 
+ 
+DEBUG:
+('Soyut Paragraf Soru Bankası', 'Hoca Kafası Yayınları', 140, ' 90.00', '120.00', '569', 5, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/soyut-paragraf-soru-bankasi/636360.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11771564/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT AYT KPSS ALES DGS Anlam ve Paragraf Soru Kitabı ', 'Palme Yayıncılık- Sınav Kitapları', 279, ' 159.84', '222.00', '253', 5, 'türkçe', 'lise', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/tyt-ayt-kpss-ales-dgs-anlam-ve-paragraf-soru-kitabi-/481993.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:7372635/wh:true/wi:800') 
+ 
+DEBUG:
+('YKS TYT MSÜ KPSS Problemlerin İlacı Tamamı Çözümlü Testler', 'Acil Yayınları', None, ' 115.00', ' 115.00', '77', 0, 'matematik', 'tyt', None, 'diğer', 'https://www.kitapyurdu.com/kitap/yks-tyt-msu-kpss-problemlerin-ilaci-tamami-cozumlu-testler/589605.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11441509/wh:true/wi:800') 
+ 
+DEBUG:
+('YKS AYT Edebiyat Soru Kitabı', 'Palme Yayıncılık- Sınav Kitapları', 384, ' 168.48', '234.00', '443', 5, 'edebiyat', 'ayt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/yks-ayt-edebiyat-soru-kitabi/482009.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:7372864/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT Matematik Merdiven Serisi Soru Bankası', 'Pelikan Yayınları', 312, ' 438.75', '585.00', '81', 0, 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/tyt-matematik-merdiven-serisi-soru-bankasi/576068.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11385898/wh:true/wi:800') 
+ 
+DEBUG:
+('2024 TYT Tarih Tamamı Çözümlü Soru Bankası', 'Benim Hocam Yayınları', 208, ' 138.60', '180.00', '39', 0, 'tarih', 'tyt', '2024', 'soru bankası', 'https://www.kitapyurdu.com/kitap/2024-tyt-tarih-tamami-cozumlu-soru-bankasi/653765.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11738687/wh:true/wi:800') 
+ 
+DEBUG:
+('2022 TYT Türkçe Soru Bankası', 'Endemik Yayınları', None, ' 174.24', '240.00', '88', 0, 'türkçe', 'tyt', '2022', 'soru bankası', 'https://www.kitapyurdu.com/kitap/2022-tyt-turkce-soru-bankasi/587771.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11436195/wh:true/wi:800') 
+ 
+DEBUG:
+('AYT Biyoloji Soru Bankası', 'Palme Yayıncılık- Sınav Kitapları', 288, ' 168.48', '234.00', '1526', 5, 'biyoloji', 'ayt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/ayt-biyoloji-soru-bankasi/473364.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11145004/wh:true/wi:800') 
+ 
+DEBUG:
+('Rüştü Hoca İle Sınava Girmeden Önce Çözülmesi Gereken Video Çözümlü AYT Edebiyat Soruları', 'Pelikan Yayınları', 64, ' 30.00', '40.00', '37', 0, 'edebiyat', 'ayt', None, 'diğer', 'https://www.kitapyurdu.com/kitap/rustu-hoca-ile-sinava-girmeden-once-cozulmesi-gereken-video-cozumlu-ayt-edebiyat-sorulari/644223.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11687954/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT Tek Kitap 2023 Tüm Dersler Konu Anlatımlı', 'Tercih Akademi', 752, ' 209.60', '320.00', '38', 0, 'genel', 'tyt', '2023', 'diğer', 'https://www.kitapyurdu.com/kitap/tyt-tek-kitap-2023-tum-dersler-konu-anlatimli/624177.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11592560/wh:true/wi:800') 
+ 
+DEBUG:
+('YKS TYT Kimya Soru Kitabı', 'Palme Yayıncılık- Sınav Kitapları', 296, ' 168.48', '234.00', '1394', 5, 'kimya', 'tyt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/yks-tyt-kimya-soru-kitabi/472066.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:6904222/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT Türkçe Soru Bankası', 'Kida Kitap', 256, ' 42.00', '60.00', '35', 0, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/tyt-turkce-soru-bankasi/626718.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11605218/wh:true/wi:800') 
+ 
+DEBUG:
+('YDT YKS İngilizce Tamamı Çözümlü 10 Deneme', 'Tercih Akademi', 264, ' 119.00', '170.00', '39', 0, 'ingilizce', 'ydt', None, 'deneme', 'https://www.kitapyurdu.com/kitap/ydt-yks-ingilizce-tamami-cozumlu-10-deneme/617979.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11574157/wh:true/wi:800') 
+ 
+DEBUG:
+('YKS TYT AYT Türkçe Soru Kitabı', 'Palme Yayıncılık- Sınav Kitapları', 360, ' 168.48', '234.00', '728', 5, 'türkçe', 'lise', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/yks-tyt-ayt-turkce-soru-kitabi/468284.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:6539098/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT-AYT Geometri Tamamı Video Çözümlü Soru Bankası', 'Benim Hocam Yayınları', 240, ' 137.50', '200.00', '47', 0, 'matematik', 'lise', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/tytayt-geometri-tamami-video-cozumlu-soru-bankasi/622165.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11585107/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT Sıra Sende Coğrafya Soru Bankası', 'S10 Yayınları', 248, ' 44.69', '65.00', '35', 0, 'coğrafya', 'tyt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/tyt-sira-sende-cografya-soru-bankasi/625087.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11597180/wh:true/wi:800') 
+ 
+DEBUG:
+('2022 TYT Fen Bilimleri 5x20 Motivasyon Deneme Sınavı', 'Yargı Yayınevi', 32, ' 14.63', '22.50', '155', 0, 'fen', 'tyt', '2022', 'deneme', 'https://www.kitapyurdu.com/kitap/2022-tyt-fen-bilimleri-5x20-motivasyon-deneme-sinavi/565659.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11565736/wh:true/wi:800') 
+ 
+DEBUG:
+('YKS AYT Kimya Soru Kitabı', 'Palme Yayıncılık- Sınav Kitapları', 280, ' 168.48', '234.00', '1491', 5, 'kimya', 'ayt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/yks-ayt-kimya-soru-kitabi/478138.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:7156455/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT Fen Bilimleri 20x20 Up Deneme', 'Çap Yayınları', None, ' 40.95', '45.00', '34', 0, 'fen', 'tyt', None, 'deneme', 'https://www.kitapyurdu.com/kitap/tyt-fen-bilimleri-20x20-up-deneme/645519.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11694294/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT Biyoloji Konu Anlatımlı', 'Palme Yayıncılık- Sınav Kitapları', None, ' 168.48', '234.00', '40', 0, 'biyoloji', 'tyt', None, 'diğer', 'https://www.kitapyurdu.com/kitap/tyt-biyoloji-konu-anlatimli/606717.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11518911/wh:true/wi:800') 
+ 
+DEBUG:
+('2022 TYT-AYT Geometri Konu Anlatımlı Soru Bankası (1. Kitap)', 'Üç Dört Beş Yayıncılık', 440, ' 233.22', '299.00', '60', 0, 'matematik', 'lise', '2022', 'soru bankası', 'https://www.kitapyurdu.com/kitap/2022-tytayt-geometri-konu-anlatimli-soru-bankasi-1-kitap/597652.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11470163/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT Fen Bilimleri 25x20 Branş Denemeleri', 'Bilgi Sarmal', 154, ' 79.00', ' 79.00', '321', 5, 'fen', 'tyt', None, 'deneme', 'https://www.kitapyurdu.com/kitap/tyt-fen-bilimleri-25x20-brans-denemeleri/562336.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11309318/wh:true/wi:800') 
+ 
+DEBUG:
+('AYT Fizik Soru Bankası', 'Bilgi Sarmal', None, ' 199.00', ' 199.00', '436', 5, 'fizik', 'ayt', None, 'soru bankası', 'https://www.kitapyurdu.com/kitap/ayt-fizik-soru-bankasi/469909.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11769071/wh:true/wi:800') 
+ 
+DEBUG:
+('TYT Motivasyon Sosyal Bilimler 5x25 Denemesi', 'Yargı Yayınevi', 32, ' 27.95', '43.00', '44', 0, 'sosyal', 'tyt', None, 'deneme', 'https://www.kitapyurdu.com/kitap/tyt-motivasyon-sosyal-bilimler-5x25-denemesi/607939.html&path=1_737_1067', 'https://img.kitapyurdu.com/v1/getImage/fn:11519608/wh:true/wi:800') 
+ 
+INFO:
+92 book has been scraped from kitapyurdu. 
+ 

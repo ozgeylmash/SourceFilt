@@ -1,0 +1,483 @@
+DEBUG:
+('Şenol Hoca Merhaba TYT Matematik Soru Bankası', 'Şenol Hoca Yayınları', 221, '135.00', '135.00', '1', '0.0', 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/senol-hoca-merhaba-tyt-matematik-soru-bankasi_92320.html', 'https://www.kitapisler.com/images_buyuk/f20/senol-hoca-merhaba-tyt-matematik_OTIzMjAwMzA4_1.jpg') 
+ 
+DEBUG:
+('Sınav Yayınları Sınav Kalitesinde TYT Matematik Soru Bankası', 'Sınav Yayınları', 384, '212.00', '265.00', '0', '0.0', 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/sinav-yayinlari-2024-sinav-kalitesinde-tyt-matematik-soru-bankasi_92316.html', 'https://www.kitapisler.com/images_buyuk/f16/sinav-yayinlari-2024-sinav-kalit_OTIzMTYxMTU4_1.jpg') 
+ 
+DEBUG:
+('Sınav Yayınları Sınav Kalitesinde AYT Tarih Soru Bankası', 'Sınav Yayınları', 240, '132.00', '165.00', '0', '0.0', 'tarih', 'ayt', None, 'soru bankası', 'https://www.kitapisler.com/sinav-yayinlari-2024-sinav-kalitesinde-ayt-tarih-soru-bankasi_92315.html', 'https://www.kitapisler.com/images_buyuk/f15/sinav-yayinlari-2024-sinav-kalit_OTIzMTUwNzMy_1.jpg') 
+ 
+DEBUG:
+('Puan Yayınları Tam Puan AYT Felsefe Soru Bankası', 'Puan Yayınları', 176, '92.00', '115.00', '0', '0.0', 'felsefe', 'ayt', None, 'soru bankası', 'https://www.kitapisler.com/puan-yayinlari-2024-tam-puan-ayt-felsefe-soru-bankasi_92314.html', 'https://www.kitapisler.com/images_buyuk/f14/puan-yayinlari-2024-tam-puan-ayt_OTIzMTQwMjU1_1.jpg') 
+ 
+DEBUG:
+('Puan Yayınları Tam Puan TYT AYT Geometri Soru Bankası', 'Puan Yayınları', 304, '160.00', '200.00', '0', '0.0', 'matematik', 'lise', None, 'soru bankası', 'https://www.kitapisler.com/puan-yayinlari-2024-tam-puan-tyt-ayt-geometri-soru-bankasi_92313.html', 'https://www.kitapisler.com/images_buyuk/f13/puan-yayinlari-2024-tam-puan-tyt_OTIzMTM1ODM5_1.jpg') 
+ 
+DEBUG:
+('Puan Yayınları Tam Puan TYT Tarih Soru Bankası', 'Puan Yayınları', 240, '128.00', '160.00', '0', '0.0', 'tarih', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/puan-yayinlari-2024-tam-puan-tyt-tarih-soru-bankasi_92311.html', 'https://www.kitapisler.com/images_buyuk/f11/puan-yayinlari-2024-tam-puan-tyt_OTIzMTE0MzA1_1.jpg') 
+ 
+DEBUG:
+('Puan Yayınları Tam Puan TYT Coğrafya Soru Bankası', 'Puan Yayınları', 320, '168.00', '210.00', '0', '0.0', 'coğrafya', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/puan-yayinlari-2024-tam-puan-tyt-cografya-soru-bankasi_92310.html', 'https://www.kitapisler.com/images_buyuk/f10/puan-yayinlari-2024-tam-puan-tyt_OTIzMTA0MDAx_1.jpg') 
+ 
+DEBUG:
+('Sınav Yayınları Sınav Kalitesinde TYT Türkçe Soru Bankası', 'Sınav Yayınları', 320, '176.00', '220.00', '1', '0.0', 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/sinav-yayinlari-2024-sinav-kalitesinde-tyt-turkce-soru-bankasi_92309.html', 'https://www.kitapisler.com/images_buyuk/f9/sinav-yayinlari-2024-sinav-kalit_OTIzMDkzNDU4_1.jpg') 
+ 
+DEBUG:
+('Sınav Yayınları Sınav Kalitesinde TYT Biyoloji Soru Bankası', 'Sınav Yayınları', 224, '124.00', '155.00', '0', '0.0', 'biyoloji', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/sinav-yayinlari-2024-sinav-kalitesinde-tyt-biyoloji-soru-bankasi_92308.html', 'https://www.kitapisler.com/images_buyuk/f8/sinav-yayinlari-2024-sinav-kalit_OTIzMDgyNzU4_1.jpg') 
+ 
+DEBUG:
+('Puan Yayınları Tam Puan TYT Matematik Soru Bankası', 'Puan Yayınları', 352, '188.00', '235.00', '0', '0.0', 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/puan-yayinlari-2024-tam-puan-tyt-matematik-soru-bankasi_92307.html', 'https://www.kitapisler.com/images_buyuk/f7/puan-yayinlari-2024-tam-puan-tyt_OTIzMDcyNTA5_1.jpg') 
+ 
+DEBUG:
+('Puan Yayınları Tam Puan TYT AYT Din Kültürü ve Ahlak Bilgisi Soru Bankası', 'Puan Yayınları', 208, '108.00', '135.00', '0', '0.0', 'din', 'lise', None, 'soru bankası', 'https://www.kitapisler.com/puan-yayinlari-2024-tam-puan-tyt-ayt-din-kulturu-ve-ahlak-bilgisi-soru-bankasi_92306.html', 'https://www.kitapisler.com/images_buyuk/f6/puan-yayinlari-2024-tam-puan-tyt_OTIzMDYyMTQ0_1.jpg') 
+ 
+DEBUG:
+('Puan Yayınları Tam Puan AYT Coğrafya Soru Bankası', 'Puan Yayınları', 170, '136.00', '170.00', '0', '0.0', 'coğrafya', 'ayt', None, 'soru bankası', 'https://www.kitapisler.com/puan-yayinlari-2024-tam-puan-ayt-cografya-soru-bankasi_92305.html', 'https://www.kitapisler.com/images_buyuk/f5/puan-yayinlari-2024-tam-puan-ayt_OTIzMDUxODI1_1.jpg') 
+ 
+DEBUG:
+('KR Akademi Yağmur Hoca ile TYT Biyosentez Biyoloji Not Defteri Tamamı El Yazılı', 'Kr Akademi', 153, '139.00', '139.00', '0', '0.0', 'biyoloji', 'tyt', None, 'diğer', 'https://www.kitapisler.com/kr-akademi-yagmur-hoca-ile-tyt-biyosentez-biyoloji-not-defteri-tamami-el-yazili_92297.html', 'https://www.kitapisler.com/images_buyuk/f97/kr-akademi-yagmur-hoca-ile-tyt-b_OTIyOTcxNzA4_1.jpg') 
+ 
+DEBUG:
+('KR Akademi AYT Coğrafyanın Kodları Coğrafya Kamp Kitabı', 'Kr Akademi', 192, '169.90', '169.90', '10', '0.0', 'coğrafya', 'ayt', None, 'diğer', 'https://www.kitapisler.com/kr-akademi-ayt-cografyanin-kodlari-cografya-kamp-kitabi_92231.html', 'https://www.kitapisler.com/images_buyuk/f31/kr-akademi-ayt-cografyanin-kodla_OTIyMzE1NjEw_1.jpg') 
+ 
+DEBUG:
+('Hale Hoca Gezgin TYT Türkçe 10 lu 40 ta 40 Deneme Kampı', 'Hale Hoca Yayınları', 128, '49.00', '49.00', '1', '0.0', 'türkçe', 'tyt', None, 'deneme', 'https://www.kitapisler.com/hale-hoca-gezgin-tyt-turkce-10-lu-40-ta-40-deneme-kampi_92230.html', 'https://www.kitapisler.com/images_buyuk/f30/hale-hoca-gezgin-tyt-turkce-10-l_OTIyMzAyMDAy_1.jpg') 
+ 
+DEBUG:
+('F10 Yayınları AYT Matematik Full Tekrar Video Ders Kitabı', 'F10 Yayınları', 112, '54.90', '54.90', '0', '0.0', 'matematik', 'ayt', None, 'diğer', 'https://www.kitapisler.com/f10-yayinlari-ayt-matematik-full-tekrar-video-ders-kitabi_92229.html', 'https://www.kitapisler.com/images_buyuk/f29/f10-yayinlari-ayt-matematik-full_OTIyMjkxNTUx_1.jpg') 
+ 
+DEBUG:
+('KR Akademi TYT Etkili Hızlı Okuma ve Anlama Teknikleri Etkinlik Kamp Kitabı', 'Kr Akademi', 266, '190.00', '190.00', '1', '5.0', 'genel', 'tyt', None, 'diğer', 'https://www.kitapisler.com/kr-akademi-tyt-etkili-hizli-okuma-ve-anlama-teknikleri-etkinlik-kamp-kitabi_92228.html', 'https://www.kitapisler.com/images_buyuk/f28/kr-akademi-tyt-etkili-hizli-okum_OTIyMjgwOTEy_1.jpg') 
+ 
+DEBUG:
+('Tonguç Akademi AYT Matematik Fasikülleri Rehber Matematik ile Eko Kamp Seti', 'Tonguç Akademi', None, '279.00', '279.00', '0', '0.0', 'matematik', 'ayt', None, 'diğer', 'https://www.kitapisler.com/tonguc-akademi-ayt-matematik-fasikulleri-rehber-matematik-ile-eko-kamp-seti_92227.html', 'https://www.kitapisler.com/images_buyuk/f27/tonguc-akademi-ayt-matematik-fas_OTIyMjcxNzU1_1.jpg') 
+ 
+DEBUG:
+('Paraf Yayınları TYT Matematik Alıştıran Soru Kütüphanesi', 'Paraf Yayınları', 408, '319.20', '399.00', '2', '3.0', 'matematik', 'tyt', None, 'diğer', 'https://www.kitapisler.com/paraf-yayinlari-tyt-matematik-alistiran-soru-kutuphanesi_92222.html', 'https://www.kitapisler.com/images_buyuk/f22/paraf-yayinlari-tyt-matematik-al_OTIyMjI0MjQ4_1.jpg') 
+ 
+DEBUG:
+('Paraf Yayınları Biyoloji Sistemler Soru Bankası', 'Paraf Yayınları', 304, '295.20', '369.00', '0', '0.0', 'biyoloji', '11.', None, 'soru bankası', 'https://www.kitapisler.com/paraf-yayinlari-biyoloji-sistemler-soru-bankasi_92221.html', 'https://www.kitapisler.com/images_buyuk/f21/paraf-yayinlari-biyoloji-sisteml_OTIyMjEzOTQ5_1.jpg') 
+ 
+DEBUG:
+('Dersia Yayınları TYT XXL Türkçe Mini Yazım Kılavuzu Güncel Baskı', 'Dersia Yayınları', 18, '42.50', '50.00', '0', '0.0', 'türkçe', 'tyt', None, 'diğer', 'https://www.kitapisler.com/dersia-yayinlari-tyt-xxl-turkce-mini-yazim-kilavuzu-guncel-baski_92217.html', 'https://www.kitapisler.com/images_buyuk/f17/dersia-yayinlari-tyt-xxl-turkce-_OTIyMTc0NTE1_1.jpg') 
+ 
+DEBUG:
+('Dersia Yayınları AYT XXL Edebiyat Uygulamalı Soru Bankası Güncel Baskı', 'Dersia Yayınları', 178, '221.00', '260.00', '0', '0.0', 'edebiyat', 'ayt', None, 'soru bankası', 'https://www.kitapisler.com/dersia-yayinlari-ayt-xxl-edebiyat-uygulamali-soru-bankasi-guncel-baski_92216.html', 'https://www.kitapisler.com/images_buyuk/f16/dersia-yayinlari-ayt-xxl-edebiya_OTIyMTY0MTM4_1.jpg') 
+ 
+DEBUG:
+('Dersia Yayınları AYT XXL Edebiyat Konu Anlatımı Güncel Baskı', 'Dersia Yayınları', 92, '140.25', '165.00', '0', '0.0', 'edebiyat', 'ayt', None, 'diğer', 'https://www.kitapisler.com/dersia-yayinlari-ayt-xxl-edebiyat-konu-anlatimi-guncel-baski_92215.html', 'https://www.kitapisler.com/images_buyuk/f15/dersia-yayinlari-ayt-xxl-edebiya_OTIyMTUzNjQx_1.jpg') 
+ 
+DEBUG:
+('Dersia Yayınları AYT XXL Edebiyat Branş Denemeleri Güncel Baskı', 'Dersia Yayınları', 44, '72.25', '85.00', '0', '0.0', 'edebiyat', 'ayt', None, 'deneme', 'https://www.kitapisler.com/dersia-yayinlari-ayt-xxl-edebiyat-brans-denemeleri-guncel-baski_92214.html', 'https://www.kitapisler.com/images_buyuk/f14/dersia-yayinlari-ayt-xxl-edebiya_OTIyMTQyNzM3_1.jpg') 
+ 
+DEBUG:
+('Dersia Yayınları TYT XXL Türkçe Paragraf Soru Bankası Güncel Baskı', 'Dersia Yayınları', 126, '170.00', '200.00', '4', '0.0', 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/dersia-yayinlari-tyt-xxl-turkce-paragraf-soru-bankasi-guncel-baski_92213.html', 'https://www.kitapisler.com/images_buyuk/f13/dersia-yayinlari-tyt-xxl-turkce-_OTIyMTMyMjQx_1.jpg') 
+ 
+DEBUG:
+('Kurul Yayıncılık 2024 TYT Tüm Dersler Tek Kitap Soru Bankası', 'Kurul Yayıncılık', 304, '82.50', '150.00', '5', '0.0', 'genel', 'tyt', '2024', 'soru bankası', 'https://www.kitapisler.com/kurul-yayincilik-2024-tyt-tum-dersler-tek-kitap-soru-bankasi_92211.html', 'https://www.kitapisler.com/images_buyuk/f11/kurul-yayincilik-2024-tyt-tum-de_OTIyMTExMjUw_1.jpg') 
+ 
+DEBUG:
+('Üçgen Akademi AYT Felsefe Konu Özetleri', 'Üçgen Yayıncılık', 86, '58.50', '65.00', '0', '0.0', 'felsefe', 'ayt', None, 'diğer', 'https://www.kitapisler.com/ucgen-akademi-ayt-felsefe-konu-ozetleri_92194.html', 'https://www.kitapisler.com/images_buyuk/f94/ucgen-akademi-ayt-felsefe-konu-o_OTIxOTQyNjUx_1.jpg') 
+ 
+DEBUG:
+('Üçgen Akademi AYT Coğrafya Konu Özetleri', 'Üçgen Yayıncılık', 80, '54.00', '60.00', '0', '0.0', 'coğrafya', 'ayt', None, 'diğer', 'https://www.kitapisler.com/ucgen-akademi-ayt-cografya-konu-ozetleri_92193.html', 'https://www.kitapisler.com/images_buyuk/f93/ucgen-akademi-ayt-cografya-konu-_OTIxOTMyNDA5_1.jpg') 
+ 
+DEBUG:
+('Üçgen Akademi AYT Felsefe Soru Bankası', 'Üçgen Yayıncılık', 240, '135.00', '150.00', '0', '0.0', 'felsefe', 'ayt', None, 'soru bankası', 'https://www.kitapisler.com/ucgen-akademi-ayt-felsefe-soru-bankasi_92192.html', 'https://www.kitapisler.com/images_buyuk/f92/ucgen-akademi-ayt-felsefe-soru-b_OTIxOTIxOTU0_1.jpg') 
+ 
+DEBUG:
+('Üçgen Akademi AYT Kimya Soru Bankası', 'Üçgen Yayıncılık', 335, '189.00', '210.00', '3', '0.0', 'kimya', 'ayt', None, 'soru bankası', 'https://www.kitapisler.com/ucgen-akademi-ayt-kimya-soru-bankasi_92191.html', 'https://www.kitapisler.com/images_buyuk/f91/ucgen-akademi-ayt-kimya-soru-ban_OTIxOTExNjM2_1.jpg') 
+ 
+DEBUG:
+('Üçgen Akademi AYT Matematik Soru Bankası', 'Üçgen Yayıncılık', 398, '220.50', '245.00', '0', '0.0', 'matematik', 'ayt', None, 'soru bankası', 'https://www.kitapisler.com/ucgen-akademi-ayt-matematik-soru-bankasi_92190.html', 'https://www.kitapisler.com/images_buyuk/f90/ucgen-akademi-ayt-matematik-soru_OTIxOTAxMzQx_1.jpg') 
+ 
+DEBUG:
+('Üçgen Akademi AYT Edebiyat Soru Bankası', 'Üçgen Yayıncılık', 288, '162.00', '180.00', '0', '0.0', 'edebiyat', 'ayt', None, 'soru bankası', 'https://www.kitapisler.com/ucgen-akademi-ayt-edebiyat-soru-bankasi_92189.html', 'https://www.kitapisler.com/images_buyuk/f89/ucgen-akademi-ayt-edebiyat-soru-_OTIxODkxMDIz_1.jpg') 
+ 
+DEBUG:
+('Edebiyat Sokağı Paragraf Başlangıç Soru Bankası', 'Edebiyat Sokağı', 190, '87.50', '125.00', '1', '0.0', 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/edebiyat-sokagi-paragraf-baslangic-soru-bankasi_92186.html', 'https://www.kitapisler.com/images_buyuk/f86/edebiyat-sokagi-paragraf-baslang_OTIxODYwNTIz_1.jpg') 
+ 
+DEBUG:
+('Edebiyat Sokağı AYT Edebiyat 20 x 24 Deneme Sınavı', 'Edebiyat Sokağı', 159, '84.00', '120.00', '0', '0.0', 'genel', 'ayt', None, 'deneme', 'https://www.kitapisler.com/edebiyat-sokagi-ayt-edebiyat-20-x-24-deneme-sinavi_92184.html', 'https://www.kitapisler.com/images_buyuk/f84/edebiyat-sokagi-ayt-edebiyat-20-_OTIxODQxMTM4_1.jpg') 
+ 
+DEBUG:
+('Barış Çelenk TYT Matematik Soru Bankası', 'Barış Yayınları', 298, '239.00', '239.00', '42', '4.4', 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/baris-celenk-tyt-matematik-soru-bankasi_92155.html', 'https://www.kitapisler.com/images_buyuk/f55/baris-celenk-tyt-matematik-soru-_OTIxNTUzMDUx_1.jpg') 
+ 
+DEBUG:
+('Hoca Kafası TYT Problemler Problemi Kafala Soru Bankası Video Çözümlü', 'Hoca Kafası Yayınları', 208, '97.50', '150.00', '3', '0.0', 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/hoca-kafasi-tyt-problemler-problemi-kafala-soru-bankasi-video-cozumlu_92154.html', 'https://www.kitapisler.com/images_buyuk/f54/hoca-kafasi-tyt-problemler-probl_OTIxNTQxMjE0_1.jpg') 
+ 
+DEBUG:
+('ÜçDörtBeş Yayınları AYT Kimya Soru Bankası', 'Üçdörtbeş Yayınları', 432, '183.95', '283.00', '153', '3.7', 'kimya', 'ayt', None, 'soru bankası', 'https://www.kitapisler.com/ucdortbes-yayinlari-ayt-kimya-soru-bankasi_92142.html', 'https://www.kitapisler.com/images_buyuk/f42/ucdortbes-yayinlari-ayt-kimya-so_OTIxNDIxMjM2_1.jpg') 
+ 
+DEBUG:
+('ENS Yayıncılık TYT Biyoloji Soru Bankası', 'Ens Yayıncılık', 224, '126.65', '149.00', '6', '0.0', 'biyoloji', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/ens-yayincilik-tyt-biyoloji-soru-bankasi_92141.html', 'https://www.kitapisler.com/images_buyuk/f41/ens-yayincilik-tyt-biyoloji-soru_OTIxNDEwMTM0_1.jpg') 
+ 
+DEBUG:
+('KR Akademi Gamze Hoca Türkçenin Matematiği Tüm Sınavlar İçin Paragraf Soru Bankası', 'Kr Akademi', 144, '129.00', '129.00', '18', '0.0', 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/kr-akademi-gamze-hoca-turkcenin-matematigi-tum-sinavlar-icin-paragraf-soru-bankasi_92061.html', 'https://www.kitapisler.com/images_buyuk/f61/kr-akademi-gamze-hoca-turkcenin-_OTIwNjEwNTIz_1.jpg') 
+ 
+DEBUG:
+('Pegem Yayınları TYT AYT Felsefe Grubu Soru Bankası', 'Pegem Yayınları', 280, '119.00', '170.00', '0', '0.0', 'felsefe', 'lise', None, 'soru bankası', 'https://www.kitapisler.com/pegem-yayinlari-tyt-ayt-felsefe-grubu-soru-bankasi_92033.html', 'https://www.kitapisler.com/images_buyuk/f33/pegem-yayinlari-tyt-ayt-felsefe-_OTIwMzMwNTE4_1.jpg') 
+ 
+DEBUG:
+('DC Yayınları YKS Pekiştirme Odaklı Sayısal Çalışma Kitabı 3', 'Dc Yayınları', 208, '50.00', '50.00', '0', '1.0', 'sayısal', 'lise', None, 'diğer', 'https://www.kitapisler.com/dc-yayinlari-yks-pekistirme-odakli-sayisal-calisma-kitabi-3_92022.html', 'https://www.kitapisler.com/images_buyuk/f22/dc-yayinlari-yks-pekistirme-odak_OTIwMjIxNjI5_1.jpg') 
+ 
+DEBUG:
+('KR Akademi Gamze Hoca Türkçenin Matematiği Tüm Sınavlar İçin Paragraf Video Ders Kitabı', 'Kr Akademi', 144, '129.00', '129.00', '12', '5.0', 'türkçe', 'tyt', None, 'diğer', 'https://www.kitapisler.com/kr-akademi-gamze-hoca-turkcenin-matematigi-tum-sinavlar-icin-paragraf-video-ders-kitabi_92015.html', 'https://www.kitapisler.com/images_buyuk/f15/kr-akademi-gamze-hoca-turkcenin-_OTIwMTU1NDM2_1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları 2024 AYT Türk Dili ve Edebiyatı Sosyal Bilimler 1 3 x 40 Deneme', 'Marka Yayınları', 32, '12.00', '15.00', '1', '0.0', 'edebiyat', 'ayt', '2024', 'deneme', 'https://www.kitapisler.com/marka-yayinlari-2024-ayt-turk-dili-ve-edebiyati-sosyal-bilimler-1-3-x-40-deneme_92012.html', 'https://www.kitapisler.com/images_buyuk/f12/marka-yayinlari-2024-ayt-turk-di_OTIwMTIxMzM4_1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları AYT Yeni Nesil Turuncu Deneme', 'Marka Yayınları', 32, '12.00', '15.00', '2', '0.0', 'genel', 'ayt', None, 'deneme', 'https://www.kitapisler.com/marka-yayinlari-ayt-yeni-nesil-turuncu-deneme_92011.html', 'https://www.kitapisler.com/images_buyuk/f11/marka-yayinlari-ayt-yeni-nesil-t_OTIwMTE1NjAy_1.jpg') 
+ 
+DEBUG:
+('Karekök Yayınları TYT Paragraf Soru Bankası', 'Karekök Yayınları', 240, '140.40', '216.00', '14', '0.0', 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/karekok-yayinlari-tyt-paragraf-soru-bankasi_91998.html', 'https://www.kitapisler.com/images_buyuk/f98/karekok-yayinlari-tyt-paragraf-s_OTE5OTgzMTA2_1.jpg') 
+ 
+DEBUG:
+('XP Notebook Haftalık Planlayıcı Çek Kopar My Weekly Planner Okulda', 'Xp Notebook', 32, '6.44', '9.90', '18', '5.0', 'genel', 'lise', None, 'diğer', 'https://www.kitapisler.com/xp-notebook-haftalik-planlayici-cek-kopar-my-weekly-planner-okulda_91994.html', 'https://www.kitapisler.com/images_buyuk/f94/xp-notebook-haftalik-planlayici-_OTE5OTQyNzA0_1.jpg') 
+ 
+DEBUG:
+('XP Notebook Günlük Planlayıcı Çek Kopar My Daily Planner Okulda Evde İşte Model 3', 'Xp Notebook', 32, '6.44', '9.90', '11', '4.5', 'genel', 'lise', None, 'diğer', 'https://www.kitapisler.com/xp-notebook-gunluk-planlayici-cek-kopar-my-daily-planner-okulda-evde-iste-model-3_91993.html', 'https://www.kitapisler.com/images_buyuk/f93/xp-notebook-gunluk-planlayici-ce_OTE5OTMyMTQy_1.jpg') 
+ 
+DEBUG:
+('XP Notebook Günlük Planlayıcı Çek Kopar My Daily Planner Okulda Evde İşte Model 2', 'Xp Notebook', 32, '6.44', '9.90', '22', '5.0', 'genel', 'lise', None, 'diğer', 'https://www.kitapisler.com/xp-notebook-gunluk-planlayici-cek-kopar-my-daily-planner-okulda-evde-iste-model-2_91992.html', 'https://www.kitapisler.com/images_buyuk/f92/xp-notebook-gunluk-planlayici-ce_OTE5OTIxODU2_1.jpg') 
+ 
+DEBUG:
+('XP Notebook Günlük Planlayıcı Çek Kopar My Daily Planner Okulda Evde İşte Model 1', 'Xp Notebook', 32, '6.44', '9.90', '16', '5.0', 'genel', 'lise', None, 'diğer', 'https://www.kitapisler.com/xp-notebook-gunluk-planlayici-cek-kopar-my-daily-planner-okulda-evde-iste-model-1_91990.html', 'https://www.kitapisler.com/images_buyuk/f90/xp-notebook-gunluk-planlayici-ce_OTE5OTAxNjEx_1.jpg') 
+ 
+DEBUG:
+('XP Notebook Dersmetre Motivasyon ve Planlama', 'Xp Notebook', 48, '18.85', '29.00', '8', '0.0', 'genel', 'lise', None, 'diğer', 'https://www.kitapisler.com/xp-notebook-dersmetre-motivasyon-ve-planlama_91989.html', 'https://www.kitapisler.com/images_buyuk/f89/xp-notebook-dersmetre-motivasyon_OTE5ODkxMjU1_1.jpg') 
+ 
+DEBUG:
+('Master Hocam TYT AYT Yeni Nesil Ösym Tipi Sorular Aklımdaki Sorular Paragraf Problemler Soru Gemisi', 'Master Hocam', 64, '18.85', '29.00', '4', '5.0', 'matematik', 'lise', None, 'diğer', 'https://www.kitapisler.com/master-hocam-tyt-ayt-yeni-nesil-osym-tipi-sorular-aklimdaki-sorular-paragraf-problemler-soru-gemisi_91988.html', 'https://www.kitapisler.com/images_buyuk/f88/master-hocam-tyt-ayt-yeni-nesil-_OTE5ODgwMzQ4_1.jpg') 
+ 
+DEBUG:
+('Referans Yayınları 2024 TYT AYT Tarih Coğrafya Soru Bankası ve A dan Z ye Edebiyat El Kitabı Seti', 'Referans Yayınları', None, '272.25', '495.00', '3', '5.0', 'sosyal', 'lise', '2024', 'soru bankası', 'https://www.kitapisler.com/referans-yayinlari-2024-tyt-ayt-tarih-cografya-soru-bankasi-ve-a-dan-z-ye-edebiyat-el-kitabi-seti_91979.html', 'https://www.kitapisler.com/images_buyuk/f79/referans-yayinlari-2024-tyt-ayt-_OTE5NzkwODQz_1.jpg') 
+ 
+DEBUG:
+('Referans Yayınları 2024 Optimum TYT Türkçe ve TYT Matematik Video Çözümlü Soru Bankası Seti', 'Referans Yayınları', 752, '261.80', '476.00', '2', '5.0', 'matematik', 'tyt', '2024', 'soru bankası', 'https://www.kitapisler.com/referans-yayinlari-2024-optimum-tyt-turkce-ve-tyt-matematik-video-cozumlu-soru-bankasi-seti_91978.html', 'https://www.kitapisler.com/images_buyuk/f78/referans-yayinlari-2024-optimum-_OTE5NzgwNDU3_1.jpg') 
+ 
+DEBUG:
+('Referans Yayınları 2024 AYT Matematik Fizik AYT Kimya HEDİYELİ Video Çözümlü Soru Bankası Seti', 'Referans Yayınları', None, '217.80', '396.00', '8', '5.0', 'fen', 'ayt', '2024', 'soru bankası', 'https://www.kitapisler.com/referans-yayinlari-2024-ayt-matematik-fizik-ayt-kimya-hediyeli-video-cozumlu-soru-bankasi-seti_91975.html', 'https://www.kitapisler.com/images_buyuk/f75/referans-yayinlari-2024-ayt-mate_OTE5NzU0NzM0_1.jpg') 
+ 
+DEBUG:
+('Referans Yayınları 2024 AYT A dan Z ye Edebiyat El Kitabı Günlük Planlayıcı Defter Hediyeli', 'Referans Yayınları', 224, '54.45', '99.00', '0', '5.0', 'edebiyat', 'ayt', '2024', 'diğer', 'https://www.kitapisler.com/referans-yayinlari-2024-ayt-a-dan-z-ye-edebiyat-el-kitabi-gunluk-planlayici-defter-hediyeli_91974.html', 'https://www.kitapisler.com/images_buyuk/f74/referans-yayinlari-2024-ayt-a-da_OTE5NzQzOTE0_1.jpg') 
+ 
+DEBUG:
+('Referans Yayınları 2024 TYT Sayısal Tüm Dersler Matematik Fizik Kimya Biyoloji Geometri Video Çözümlü Soru Bankası Seti', 'Referans Yayınları', None, '566.50', '1030.00', '1', '5.0', 'fen', 'tyt', '2024', 'soru bankası', 'https://www.kitapisler.com/referans-yayinlari-2024-tyt-sayisal-tum-dersler-matematik-fizik-kimya-biyoloji-geometri-video-cozumlu-soru-ban_91973.html', 'https://www.kitapisler.com/images_buyuk/f73/referans-yayinlari-2024-tyt-sayi_OTE5NzMzMzQ5_1.jpg') 
+ 
+DEBUG:
+('Referans Yayınları\xa02024 AYT Sayısal Tüm Dersler Matematik Fizik Kimya Biyoloji Geometri Video Çözümlü Soru Bankası Seti', 'Referans Yayınları', None, '544.50', '990.00', '0', '4.8', 'fen', 'ayt', '2024', 'soru bankası', 'https://www.kitapisler.com/referans-yayinlaric2a02024-ayt-sayisal-tum-dersler-matematik-fizik-kimya-biyoloji-geometri-video-cozumlu-soru-_91972.html', 'https://www.kitapisler.com/images_buyuk/f72/referans-yayinlaric2a02024-ayt-s_OTE5NzIyOTQ1_1.jpg') 
+ 
+DEBUG:
+('Referans Yayınları 2024 TYT Eşit Ağırlık ve Sözel Tüm Dersler Türkçe Matematik Tarih Coğrafya Geometri Soru Bankası Seti', 'Referans Yayınları', None, '588.50', '1070.00', '4', '5.0', 'sosyal', 'tyt', '2024', 'soru bankası', 'https://www.kitapisler.com/referans-yayinlari-2024-tyt-esit-agirlik-ve-sozel-tum-dersler-turkce-matematik-tarih-cografya-geometri-soru-ba_91971.html', 'https://www.kitapisler.com/images_buyuk/f71/referans-yayinlari-2024-tyt-esit_OTE5NzEyMzUx_1.jpg') 
+ 
+DEBUG:
+('Referans Yayınları 2024 AYT Matematik Fizik Kimya TYT AYT Biyoloji Sayısal Tüm Dersler Optimum Soru Bankası Seti', 'Referans Yayınları', 1152, '435.60', '792.00', '0', '4.4', 'fen', 'lise', '2024', 'soru bankası', 'https://www.kitapisler.com/referans-yayinlari-2024-ayt-matematik-fizik-kimya-tyt-ayt-biyoloji-sayisal-tum-dersler-optimum-soru-bankasi-se_91970.html', 'https://www.kitapisler.com/images_buyuk/f70/referans-yayinlari-2024-ayt-mate_OTE5NzAxODE0_1.jpg') 
+ 
+DEBUG:
+('Referans Yayınları 2024 TYT Matematik Fizik Kimya TYT AYT Biyoloji Sayısal Tüm Dersler Optimum Soru Bankası Seti', 'Referans Yayınları', 1152, '457.60', '832.00', '2', '5.0', 'fen', 'lise', '2024', 'soru bankası', 'https://www.kitapisler.com/referans-yayinlari-2024-tyt-matematik-fizik-kimya-tyt-ayt-biyoloji-sayisal-tum-dersler-optimum-soru-bankasi-se_91969.html', 'https://www.kitapisler.com/images_buyuk/f69/referans-yayinlari-2024-tyt-mate_OTE5NjkxNDQz_1.jpg') 
+ 
+DEBUG:
+('Referans Yayınları 2024 AYT Matematik Fizik Kimya Sayısal Tüm Dersler Video Çözümlü Optimum Soru Bankası Seti', 'Referans Yayınları', 832, '326.70', '594.00', '1', '5.0', 'fen', 'ayt', '2024', 'soru bankası', 'https://www.kitapisler.com/referans-yayinlari-2024-ayt-matematik-fizik-kimya-sayisal-tum-dersler-video-cozumlu-optimum-soru-bankasi-seti_91968.html', 'https://www.kitapisler.com/images_buyuk/f68/referans-yayinlari-2024-ayt-mate_OTE5NjgxMTA1_1.jpg') 
+ 
+DEBUG:
+('Referans Yayınları 2024 TYT Matematik Fizik Kimya Sayısal Tüm Dersler Video Çözümlü Optimum Soru Bankası Seti', 'Referans Yayınları', 832, '348.70', '634.00', '2', '5.0', 'fen', 'tyt', '2024', 'soru bankası', 'https://www.kitapisler.com/referans-yayinlari-2024-tyt-matematik-fizik-kimya-sayisal-tum-dersler-video-cozumlu-optimum-soru-bankasi-seti_91967.html', 'https://www.kitapisler.com/images_buyuk/f67/referans-yayinlari-2024-tyt-mate_OTE5NjcwNjE4_1.jpg') 
+ 
+DEBUG:
+('İnformal Yayınları 2024 TYT Türkiye Geneli Orta Seviye 9 Deneme', 'İnformal Yayınları', None, '146.25', '225.00', '10', '1.0', 'genel', 'tyt', '2024', 'deneme', 'https://www.kitapisler.com/informal-yayinlari-2024-tyt-turkiye-geneli-orta-seviye-9-deneme_91966.html', 'https://www.kitapisler.com/images_buyuk/f66/informal-yayinlari-2024-tyt-turk_OTE5NjYzMTIy_1.jpg') 
+ 
+DEBUG:
+('KR Akademi Kenan Kara ile TYT AYT Geometri Soru Bankası', 'Kr Akademi', 272, '189.00', '189.00', '98', '3.7', 'matematik', 'lise', None, 'soru bankası', 'https://www.kitapisler.com/kr-akademi-kenan-kara-ile-tyt-ayt-geometri-soru-bankasi_91957.html', 'https://www.kitapisler.com/images_buyuk/f57/kr-akademi-kenan-kara-ile-tyt-ay_OTE5NTc0NDMz_1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Problemler 8 x 12 Deneme', 'Marka Yayınları', 32, '12.00', '15.00', '13', '0.0', 'matematik', 'tyt', '2024', 'deneme', 'https://www.kitapisler.com/marka-yayinlari-2024-tyt-problemler-8-x-12-deneme_91954.html', 'https://www.kitapisler.com/images_buyuk/f54/marka-yayinlari-2024-tyt-problem_OTE5NTQzOTQz_1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Dil Bilgisi Konu Özetli Soru Bankası', 'Marka Yayınları', 196, '60.00', '75.00', '11', '2.5', 'türkçe', 'tyt', '2024', 'soru bankası', 'https://www.kitapisler.com/marka-yayinlari-2024-tyt-dil-bilgisi-konu-ozetli-soru-bankasi_91953.html', 'https://www.kitapisler.com/images_buyuk/f53/marka-yayinlari-2024-tyt-dil-bil_OTE5NTMzNzE1_1.jpg') 
+ 
+DEBUG:
+('Kurul Yayıncılık 2024 TYT Paragraf Orta Düzey Çıtır Soru Bankası', 'Kurul Yayıncılık', 96, '30.25', '55.00', '8', '0.0', 'türkçe', 'tyt', '2024', 'soru bankası', 'https://www.kitapisler.com/kurul-yayincilik-2024-tyt-paragraf-orta-duzey-citir-soru-bankasi_91942.html', 'https://www.kitapisler.com/images_buyuk/f42/kurul-yayincilik-2024-tyt-paragr_OTE5NDIxMDIz_1.jpg') 
+ 
+DEBUG:
+('Karekök Yayınları TYT Matematik Konu Anlatımı ve Soru Bankası 3. Kitap', 'Karekök Yayınları', None, '193.70', '298.00', '7', '2.8', 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/karekok-yayinlari-tyt-matematik-konu-anlatimi-ve-soru-bankasi-3-kitap_91936.html', 'https://www.kitapisler.com/images_buyuk/f36/karekok-yayinlari-tyt-matematik-_OTE5MzY1MTM3_1.jpg') 
+ 
+DEBUG:
+('Karekök Yayınları TYT Matematik Her Kazanımdan Bir Soru', 'Karekök Yayınları', 172, '109.85', '169.00', '4', '3.5', 'matematik', 'tyt', None, 'diğer', 'https://www.kitapisler.com/karekok-yayinlari-tyt-matematik-her-kazanimdan-bir-soru_91935.html', 'https://www.kitapisler.com/images_buyuk/f35/karekok-yayinlari-tyt-matematik-_OTE5MzU0NjU0_1.jpg') 
+ 
+DEBUG:
+('KR Akademi Barış Hoca AYT Dr Biyoloji Video Ders Kitabı', 'Kr Akademi', 128, '129.90', '129.90', '89', '3.9', 'biyoloji', 'ayt', None, 'diğer', 'https://www.kitapisler.com/kr-akademi-baris-hoca-ayt-dr-biyoloji-video-ders-kitabi_91931.html', 'https://www.kitapisler.com/images_buyuk/f31/kr-akademi-baris-hoca-ayt-dr-biy_OTE5MzEyMjMx_1.jpg') 
+ 
+DEBUG:
+('ENS Yayıncılık AYT Coğrafya Destek Soru Bankası', 'Ens Yayıncılık', 234, '118.15', '139.00', '3', '0.0', 'coğrafya', 'ayt', None, 'soru bankası', 'https://www.kitapisler.com/ens-yayincilik-ayt-cografya-destek-soru-bankasi_91873.html', 'https://www.kitapisler.com/images_buyuk/f73/ens-yayincilik-ayt-cografya-dest_OTE4NzM1MDM4_1.jpg') 
+ 
+DEBUG:
+('3D Yayınları TYT Kimya Video Destekli Defter', '3d Yayınları', None, '162.40', '232.00', '9', '4.8', 'kimya', 'tyt', None, 'diğer', 'https://www.kitapisler.com/3d-yayinlari-tyt-kimya-video-destekli-defter_91868.html', 'https://www.kitapisler.com/images_buyuk/f68/3d-yayinlari-tyt-kimya-video-des_OTE4NjgyMjI5_1.jpg') 
+ 
+DEBUG:
+('Bes Yayınları TYT Tarih Ulti Serisi Soru Bankası', 'Bes Yayınları', None, '152.15', '179.00', '7', '2.5', 'tarih', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/bes-yayinlari-tyt-tarih-ulti-serisi-soru-bankasi_91844.html', 'https://www.kitapisler.com/images_buyuk/f44/bes-yayinlari-tyt-tarih-ulti-ser_OTE4NDQyMDE3_1.jpg') 
+ 
+DEBUG:
+('Bes Yayınları TYT Fizik Ulti Serisi Soru Bankası', 'Bes Yayınları', None, '152.15', '179.00', '13', '0.0', 'fizik', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/bes-yayinlari-tyt-fizik-ulti-serisi-soru-bankasi_91843.html', 'https://www.kitapisler.com/images_buyuk/f43/bes-yayinlari-tyt-fizik-ulti-ser_OTE4NDMxODUx_1.jpg') 
+ 
+DEBUG:
+('Bes Yayınları TYT Coğrafya Ulti Serisi Soru Bankası', 'Bes Yayınları', None, '135.15', '159.00', '6', '0.0', 'coğrafya', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/bes-yayinlari-tyt-cografya-ulti-serisi-soru-bankasi_91842.html', 'https://www.kitapisler.com/images_buyuk/f42/bes-yayinlari-tyt-cografya-ulti-_OTE4NDIxNzM3_1.jpg') 
+ 
+DEBUG:
+('Bes Yayınları TYT Biyoloji Ulti Serisi Soru Bankası', 'Bes Yayınları', 239, '118.15', '139.00', '8', '5.0', 'biyoloji', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/bes-yayinlari-tyt-biyoloji-ulti-serisi-soru-bankasi_91841.html', 'https://www.kitapisler.com/images_buyuk/f41/bes-yayinlari-tyt-biyoloji-ulti-_OTE4NDExNjE5_1.jpg') 
+ 
+DEBUG:
+('Bes Yayınları AYT Biyoloji Ulti Serisi Soru Bankası', 'Bes Yayınları', 255, '126.65', '149.00', '9', '0.0', 'biyoloji', 'ayt', None, 'soru bankası', 'https://www.kitapisler.com/bes-yayinlari-ayt-biyoloji-ulti-serisi-soru-bankasi_91840.html', 'https://www.kitapisler.com/images_buyuk/f40/bes-yayinlari-ayt-biyoloji-ulti-_OTE4NDAxNDQw_1.jpg') 
+ 
+DEBUG:
+('Sınav Yayınları AYT Matematik Sınav Kalitesinde Soru Bankası', 'Sınav Yayınları', 320, '176.00', '220.00', '0', '0.0', 'matematik', 'ayt', None, 'soru bankası', 'https://www.kitapisler.com/sinav-yayinlari-ayt-matematik-sinav-kalitesinde-soru-bankasi_91827.html', 'https://www.kitapisler.com/images_buyuk/f27/sinav-yayinlari-ayt-matematik-si_OTE4MjcxNjAx_1.jpg') 
+ 
+DEBUG:
+('Pegem Yayınları AYT Coğrafya Soru Bankası', 'Pegem Yayınları', 192, '77.00', '110.00', '4', '0.0', 'coğrafya', 'ayt', None, 'soru bankası', 'https://www.kitapisler.com/pegem-yayinlari-ayt-cografya-soru-bankasi_91826.html', 'https://www.kitapisler.com/images_buyuk/f26/pegem-yayinlari-ayt-cografya-sor_OTE4MjYzMTM1_1.jpg') 
+ 
+DEBUG:
+('Puan Yayınları AYT Matematik Tam Puan Soru Bankası', 'Puan Yayınları', 304, '160.00', '200.00', '0', '0.0', 'matematik', 'ayt', None, 'soru bankası', 'https://www.kitapisler.com/puan-yayinlari-ayt-matematik-tam-puan-soru-bankasi_91824.html', 'https://www.kitapisler.com/images_buyuk/f24/puan-yayinlari-ayt-matematik-tam_OTE4MjQxOTUx_1.jpg') 
+ 
+DEBUG:
+('Puan Yayınları TYT Felsefe Tam Puan Soru Bankası', 'Puan Yayınları', 160, '84.00', '105.00', '1', '0.0', 'felsefe', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/puan-yayinlari-tyt-felsefe-tam-puan-soru-bankasi_91823.html', 'https://www.kitapisler.com/images_buyuk/f23/puan-yayinlari-tyt-felsefe-tam-p_OTE4MjMxNjUw_1.jpg') 
+ 
+DEBUG:
+('Sınav Yayınları TYT Tarih Sınav Kalitesinde Soru Bankası', 'Sınav Yayınları', 256, '144.00', '180.00', '1', '0.0', 'tarih', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/sinav-yayinlari-tyt-tarih-sinav-kalitesinde-soru-bankasi_91822.html', 'https://www.kitapisler.com/images_buyuk/f22/sinav-yayinlari-tyt-tarih-sinav-_OTE4MjIxMTUx_1.jpg') 
+ 
+DEBUG:
+('KR Akademi TYT Felsefe Atölyesi Video Ders Notları', 'Kr Akademi', 160, '139.00', '139.00', '9', '0.0', 'felsefe', 'tyt', None, 'diğer', 'https://www.kitapisler.com/kr-akademi-tyt-felsefe-atolyesi-video-ders-notlari_91817.html', 'https://www.kitapisler.com/images_buyuk/f17/kr-akademi-tyt-felsefe-atolyesi-_OTE4MTc1NTE2_1.jpg') 
+ 
+DEBUG:
+('Palme Yayınları AYT Eşit Ağırlık Tüm Dersler Palmetre Aylık Çalışma Fasikülleri', 'Palme Yayınları', 216, '114.40', '176.00', '0', '5.0', 'genel', 'ayt', None, 'diğer', 'https://www.kitapisler.com/palme-yayinlari-ayt-esit-agirlik-tum-dersler-palmetre-aylik-calisma-fasikulleri_91805.html', 'https://www.kitapisler.com/images_buyuk/f5/palme-yayinlari-ayt-esit-agirlik_OTE4MDUwMTA3_1.jpg') 
+ 
+DEBUG:
+('KR Plus TYT Fizik Kimya Biyoloji FKB 10 lu Deneme', 'Kr Akademi', 64, '49.00', '49.00', '8', '3.0', 'fen', 'tyt', None, 'deneme', 'https://www.kitapisler.com/kr-plus-tyt-fizik-kimya-biyoloji-fkb-10-lu-deneme_91801.html', 'https://www.kitapisler.com/images_buyuk/f1/kr-plus-tyt-fizik-kimya-biyoloji_OTE4MDEwNDIw_1.jpg') 
+ 
+DEBUG:
+('Dizgi Kitap 2023 YKS AYT Tıpkı Basım Çıkmış Sorular', 'Dizgi Kitap Yayınları', 50, '21.25', '25.00', '6', '0.0', 'genel', 'ayt', '2023', 'diğer', 'https://www.kitapisler.com/dizgi-kitap-2023-yks-ayt-tipki-basim-cikmis-sorular_91793.html', 'https://www.kitapisler.com/images_buyuk/f93/dizgi-kitap-2023-yks-ayt-tipki-b_OTE3OTMxMDM4_1.jpg') 
+ 
+DEBUG:
+('Dizgi Kitap 2023 YKS TYT Tıpkı Basım Çıkmış Sorular', 'Dizgi Kitap Yayınları', 40, '21.25', '25.00', '13', '0.0', 'genel', 'tyt', '2023', 'diğer', 'https://www.kitapisler.com/dizgi-kitap-2023-yks-tyt-tipki-basim-cikmis-sorular_91791.html', 'https://www.kitapisler.com/images_buyuk/f91/dizgi-kitap-2023-yks-tyt-tipki-b_OTE3OTEwNjM2_1.jpg') 
+ 
+DEBUG:
+('Bes Yayınları TYT Matematik Ulti Serisi Soru Bankası', 'Bes Yayınları', 399, '194.65', '229.00', '19', '0.0', 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/bes-yayinlari-tyt-matematik-ulti-serisi-soru-bankasi_91768.html', 'https://www.kitapisler.com/images_buyuk/f68/bes-yayinlari-tyt-matematik-ulti_OTE3NjgzNzM0_1.jpg') 
+ 
+DEBUG:
+('Referans Yayınları 2024 TYT Türkçe ve AYT Edebiyat Video Çözümlü Yeni Nesil Optimum Soru Bankası Seti', 'Referans Yayınları', 704, '239.80', '436.00', '3', '5.0', 'edebiyat', 'lise', '2024', 'soru bankası', 'https://www.kitapisler.com/referans-yayinlari-2024-tyt-turkce-ve-ayt-edebiyat-video-cozumlu-yeni-nesil-optimum-soru-bankasi-seti_91767.html', 'https://www.kitapisler.com/images_buyuk/f67/referans-yayinlari-2024-tyt-turk_OTE3NjczNjU3_1.jpg') 
+ 
+DEBUG:
+('Referans Yayınları 2024 TYT Türkçe Video Çözümlü Soru Bankası ve AYT A dan Z ye Edebiyat El Kitabı Seti', 'Referans Yayınları', 624, '185.35', '337.00', '1', '5.0', 'edebiyat', 'lise', '2024', 'soru bankası', 'https://www.kitapisler.com/referans-yayinlari-2024-tyt-turkce-video-cozumlu-soru-bankasi-ve-ayt-a-dan-z-ye-edebiyat-el-kitabi-seti_91766.html', 'https://www.kitapisler.com/images_buyuk/f66/referans-yayinlari-2024-tyt-turk_OTE3NjYzMzA4_1.jpg') 
+ 
+DEBUG:
+('Referans Yayınları 2024 AYT Edebiyat Video Çözümlü Soru Bankası ve AYT A dan Z ye Edebiyat El Kitabı Seti', 'Referans Yayınları', 528, '162.80', '296.00', '3', '5.0', 'edebiyat', 'ayt', '2024', 'soru bankası', 'https://www.kitapisler.com/referans-yayinlari-2024-ayt-edebiyat-video-cozumlu-soru-bankasi-ve-ayt-a-dan-z-ye-edebiyat-el-kitabi-seti_91765.html', 'https://www.kitapisler.com/images_buyuk/f65/referans-yayinlari-2024-ayt-edeb_OTE3NjUyNjA1_1.jpg') 
+ 
+DEBUG:
+('Referans Yayınları 2024 TYT AYT Tarih ve Coğrafya Video Çözümlü Sözel Optimum Soru Bankası Seti', 'Referans Yayınları', 672, '217.80', '396.00', '2', '4.8', 'sosyal', 'lise', '2024', 'soru bankası', 'https://www.kitapisler.com/referans-yayinlari-2024-tyt-ayt-tarih-ve-cografya-video-cozumlu-sozel-optimum-soru-bankasi-seti_91764.html', 'https://www.kitapisler.com/images_buyuk/f64/referans-yayinlari-2024-tyt-ayt-_OTE3NjQyMTA0_1.jpg') 
+ 
+DEBUG:
+('Benim Hocam 2024 AYT Biyoloji Ders Notları', 'Benim Hocam Yayınları', 288, '150.00', '200.00', '9', '0.0', 'biyoloji', 'ayt', '2024', 'diğer', 'https://www.kitapisler.com/benim-hocam-2024-ayt-biyoloji-ders-notlari_91757.html', 'https://www.kitapisler.com/images_buyuk/f57/benim-hocam-2024-ayt-biyoloji-de_OTE3NTc0ODQ1_1.jpg') 
+ 
+DEBUG:
+('Benim Hocam 2024 AYT Biyoloji Tamamı Video Çözümlü Soru Bankası', 'Benim Hocam Yayınları', 284, '150.00', '200.00', '5', '0.0', 'biyoloji', 'ayt', '2024', 'soru bankası', 'https://www.kitapisler.com/benim-hocam-2024-ayt-biyoloji-tamami-video-cozumlu-soru-bankasi_91756.html', 'https://www.kitapisler.com/images_buyuk/f56/benim-hocam-2024-ayt-biyoloji-ta_OTE3NTY0NzA1_1.jpg') 
+ 
+DEBUG:
+('Özdebir Yayınları TYT Coğrafya GİS Soru Bankası', 'Özdebir Yayınları', 224, '142.50', '190.00', '3', '0.0', 'coğrafya', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/ozdebir-yayinlari-tyt-cografya-gis-soru-bankasi_91755.html', 'https://www.kitapisler.com/images_buyuk/f55/ozdebir-yayinlari-tyt-cografya-g_OTE3NTUzOTIy_1.jpg') 
+ 
+DEBUG:
+('Özdebir Yayınları TYT Tarih GİS Soru Bankası', 'Özdebir Yayınları', 240, '150.00', '200.00', '3', '0.0', 'tarih', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/ozdebir-yayinlari-tyt-tarih-gis-soru-bankasi_91754.html', 'https://www.kitapisler.com/images_buyuk/f54/ozdebir-yayinlari-tyt-tarih-gis-_OTE3NTQzNzI0_1.jpg') 
+ 
+DEBUG:
+('Özdebir Yayınları TYT AYT Biyoloji GİS Soru Bankası', 'Özdebir Yayınları', 352, '221.25', '295.00', '4', '5.0', 'biyoloji', 'lise', None, 'soru bankası', 'https://www.kitapisler.com/ozdebir-yayinlari-tyt-ayt-biyoloji-gis-soru-bankasi_91753.html', 'https://www.kitapisler.com/images_buyuk/f53/ozdebir-yayinlari-tyt-ayt-biyolo_OTE3NTMzMTQ1_1.jpg') 
+ 
+DEBUG:
+('Özdebir Yayınları TYT Kimya GİS Soru Bankası', 'Özdebir Yayınları', 224, '142.50', '190.00', '6', '0.0', 'kimya', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/ozdebir-yayinlari-tyt-kimya-gis-soru-bankasi_91752.html', 'https://www.kitapisler.com/images_buyuk/f52/ozdebir-yayinlari-tyt-kimya-gis-_OTE3NTIyMTA1_1.jpg') 
+ 
+DEBUG:
+('Özdebir Yayınları TYT Fizik GİS Soru Bankası', 'Özdebir Yayınları', 256, '161.25', '215.00', '5', '1.5', 'fizik', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/ozdebir-yayinlari-tyt-fizik-gis-soru-bankasi_91751.html', 'https://www.kitapisler.com/images_buyuk/f51/ozdebir-yayinlari-tyt-fizik-gis-_OTE3NTExNTIx_1.jpg') 
+ 
+DEBUG:
+('Özdebir Yayınları TYT AYT Geometri GİS Soru Bankası', 'Özdebir Yayınları', 368, '232.50', '310.00', '3', '0.0', 'matematik', 'lise', None, 'soru bankası', 'https://www.kitapisler.com/ozdebir-yayinlari-tyt-ayt-geometri-gis-soru-bankasi_91750.html', 'https://www.kitapisler.com/images_buyuk/f50/ozdebir-yayinlari-tyt-ayt-geomet_OTE3NTAxMTM4_1.jpg') 
+ 
+DEBUG:
+('Özdebir Yayınları TYT Matematik GİS Soru Bankası', 'Özdebir Yayınları', 392, '243.75', '325.00', '6', '0.0', 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/ozdebir-yayinlari-tyt-matematik-gis-soru-bankasi_91749.html', 'https://www.kitapisler.com/images_buyuk/f49/ozdebir-yayinlari-tyt-matematik-_OTE3NDkwODA2_1.jpg') 
+ 
+DEBUG:
+('Özdebir Yayınları TYT Türkçe GİS Soru Bankası', 'Özdebir Yayınları', 352, '221.25', '295.00', '6', '0.0', 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/ozdebir-yayinlari-tyt-turkce-gis-soru-bankasi_91748.html', 'https://www.kitapisler.com/images_buyuk/f48/ozdebir-yayinlari-tyt-turkce-gis_OTE3NDgwMzQx_1.jpg') 
+ 
+DEBUG:
+('Orijinal Yayınları TYT Matematik Mikro Soru Bankası', 'Orijinal Yayınları', 400, '194.65', '229.00', '96', '3.7', 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/orijinal-yayinlari-tyt-matematik-mikro-soru-bankasi_91742.html', 'https://www.kitapisler.com/images_buyuk/f42/orijinal-yayinlari-tyt-matematik_OTE3NDIyMjE5_1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Coğrafyanın Kodları Türkiye ve Dünya Duvar Haritaları Poster Notlar', 'Kr Akademi', 32, '89.00', '89.00', '18', '2.3', 'coğrafya', 'lise', None, 'diğer', 'https://www.kitapisler.com/kr-akademi-cografyanin-kodlari-turkiye-ve-dunya-duvar-haritalari-poster-notlar_91741.html', 'https://www.kitapisler.com/images_buyuk/f41/kr-akademi-cografyanin-kodlari-t_OTE3NDEyNjMy_1.jpg') 
+ 
+DEBUG:
+('Marsis Yayınları TYT Matematik Soru Bankası', 'Marsis Yayınları', 306, '123.50', '190.00', '1', '0.0', 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/marsis-yayinlari-tyt-matematik-soru-bankasi_91738.html', 'https://www.kitapisler.com/images_buyuk/f38/marsis-yayinlari-tyt-matematik-s_OTE3Mzg1NDU5_1.jpg') 
+ 
+DEBUG:
+('Marsis Yayınları TYT Paragraf Soru Bankası', 'Marsis Yayınları', 288, '117.00', '180.00', '5', '0.0', 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/marsis-yayinlari-tyt-paragraf-soru-bankasi_91737.html', 'https://www.kitapisler.com/images_buyuk/f37/marsis-yayinlari-tyt-paragraf-so_OTE3Mzc1MTAx_1.jpg') 
+ 
+DEBUG:
+('ÜçDörtBeş Yayınları AYT Edebiyat Soru Bankası', 'Üçdörtbeş Yayınları', 384, '180.05', '277.00', '121', '5.0', 'edebiyat', 'ayt', None, 'soru bankası', 'https://www.kitapisler.com/ucdortbes-yayinlari-ayt-edebiyat-soru-bankasi_91729.html', 'https://www.kitapisler.com/images_buyuk/f29/ucdortbes-yayinlari-ayt-edebiyat_OTE3MjkxMjI1_1.jpg') 
+ 
+DEBUG:
+('Referans Yayınları 2024 AYT Kimya AYT Fizik TYT AYT Biyoloji Video Çözümlü Optimum Yeni Nesil Soru Bankası Seti', 'Referans Yayınları', 880, '326.70', '594.00', '0', '5.0', 'fen', 'lise', '2024', 'soru bankası', 'https://www.kitapisler.com/referans-yayinlari-2024-ayt-kimya-ayt-fizik-tyt-ayt-biyoloji-video-cozumlu-optimum-yeni-nesil-soru-bankasi-set_91724.html', 'https://www.kitapisler.com/images_buyuk/f24/referans-yayinlari-2024-ayt-kimy_OTE3MjQzMTA1_1.jpg') 
+ 
+DEBUG:
+('Referans Yayınları 2024 TYT Kimya TYT\xa0Fizik AYT Biyoloji Video Çözümlü Optimum Soru Bankası Seti', 'Referans Yayınları', 800, '326.70', '594.00', '3', '5.0', 'fen', 'lise', '2024', 'soru bankası', 'https://www.kitapisler.com/referans-yayinlari-2024-tyt-kimya-tytc2a0fizik-ayt-biyoloji-video-cozumlu-optimum-soru-bankasi-seti_91723.html', 'https://www.kitapisler.com/images_buyuk/f23/referans-yayinlari-2024-tyt-kimy_OTE3MjMyMTQw_1.jpg') 
+ 
+DEBUG:
+('Referans Yayınları 2024 TYT Kimya ve AYT Kimya Video Çözümlü Optimum Soru Bankası Seti', 'Referans Yayınları', 498, '217.80', '396.00', '0', '5.0', 'kimya', 'lise', '2024', 'soru bankası', 'https://www.kitapisler.com/referans-yayinlari-2024-tyt-kimya-ve-ayt-kimya-video-cozumlu-optimum-soru-bankasi-seti_91722.html', 'https://www.kitapisler.com/images_buyuk/f22/referans-yayinlari-2024-tyt-kimy_OTE3MjIzMTAy_1.jpg') 
+ 
+DEBUG:
+('Referans Yayınları 2024 TYT Fizik ve AYT Fizik Video Çözümlü Optimum Soru Bankası Seti', 'Referans Yayınları', 544, '217.80', '396.00', '0', '5.0', 'fizik', 'lise', '2024', 'soru bankası', 'https://www.kitapisler.com/referans-yayinlari-2024-tyt-fizik-ve-ayt-fizik-video-cozumlu-optimum-soru-bankasi-seti_91721.html', 'https://www.kitapisler.com/images_buyuk/f21/referans-yayinlari-2024-tyt-fizi_OTE3MjEyNjI1_1.jpg') 
+ 
+DEBUG:
+('Referans Yayınları 2024 AYT Fizik ve AYT Kimya Video Çözümlü Optimum Soru Bankası Seti', 'Referans Yayınları', 560, '217.80', '396.00', '1', '5.0', 'fen', 'ayt', '2024', 'soru bankası', 'https://www.kitapisler.com/referans-yayinlari-2024-ayt-fizik-ve-ayt-kimya-video-cozumlu-optimum-soru-bankasi-seti_91720.html', 'https://www.kitapisler.com/images_buyuk/f20/referans-yayinlari-2024-ayt-fizi_OTE3MjAxOTIz_1.jpg') 
+ 
+DEBUG:
+('Referans Yayınları 2024 TYT Fizik ve TYT Kimya Video Çözümlü Optimum Soru Bankası Seti', 'Referans Yayınları', 480, '217.80', '396.00', '1', '4.3', 'fen', 'tyt', '2024', 'soru bankası', 'https://www.kitapisler.com/referans-yayinlari-2024-tyt-fizik-ve-tyt-kimya-video-cozumlu-optimum-soru-bankasi-seti_91719.html', 'https://www.kitapisler.com/images_buyuk/f19/referans-yayinlari-2024-tyt-fizi_OTE3MTkxNTE2_1.jpg') 
+ 
+DEBUG:
+('Nego Yayınları TYT Panoramik Paragraf Soru Bankası', 'Nego Yayınları', 286, '156.00', '195.00', '1', '0.0', 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/nego-yayinlari-tyt-panoramik-paragraf-soru-bankasi_91714.html', 'https://www.kitapisler.com/images_buyuk/f14/nego-yayinlari-tyt-panoramik-par_OTE3MTQ1ODE1_1.jpg') 
+ 
+DEBUG:
+('3D Yayınları TYT Türkçe Video Destekli Defter', '3d Yayınları', None, '114.10', '163.00', '20', '0.0', 'türkçe', 'tyt', None, 'diğer', 'https://www.kitapisler.com/3d-yayinlari-tyt-turkce-video-destekli-defter_91670.html', 'https://www.kitapisler.com/images_buyuk/f70/3d-yayinlari-tyt-turkce-video-de_OTE2NzAxNjQ3_1.jpg') 
+ 
+DEBUG:
+('Aydın Yayınları TYT Oran Orantı ve Problemler Ders İşleyiş Modülü', 'Aydın Yayınları', None, '92.00', '115.00', '4', '5.0', 'matematik', 'tyt', None, 'diğer', 'https://www.kitapisler.com/aydin-yayinlari-tyt-oran-oranti-ve-problemler-ders-isleyis-modulu_91665.html', 'https://www.kitapisler.com/images_buyuk/f65/aydin-yayinlari-tyt-oran-oranti-_OTE2NjU1NDM4_1.jpg') 
+ 
+DEBUG:
+('İlk Adım Yayınları Geometriğe İlk Adım Sıfırdan Kolay Başlangıç Kitabı', 'İlk Adım Yayınları', 223, '129.00', '129.00', '25', '5.0', 'matematik', 'tyt', None, 'diğer', 'https://www.kitapisler.com/ilk-adim-yayinlari-geometrige-ilk-adim-sifirdan-kolay-baslangic-kitabi_91664.html', 'https://www.kitapisler.com/images_buyuk/f64/ilk-adim-yayinlari-geometrige-il_OTE2NjQzMDUw_1.jpg') 
+ 
+DEBUG:
+('Aydın Yayınları TYT AYT Biyoloji Ders İşleyiş Modülleri 4 Modül', 'Aydın Yayınları', None, '296.00', '370.00', '3', '0.0', 'biyoloji', 'lise', None, 'diğer', 'https://www.kitapisler.com/aydin-yayinlari-tyt-ayt-biyoloji-ders-isleyis-modulleri-4-modul_91660.html', 'https://www.kitapisler.com/images_buyuk/f60/aydin-yayinlari-tyt-ayt-biyoloji_OTE2NjAyNTU5_1.jpg') 
+ 
+DEBUG:
+('Aydın Yayınları TYT Felsefe Soru Bankası', 'Aydın Yayınları', None, '172.80', '216.00', '2', '0.0', 'felsefe', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/aydin-yayinlari-tyt-felsefe-soru-bankasi_91659.html', 'https://www.kitapisler.com/images_buyuk/f59/aydin-yayinlari-tyt-felsefe-soru_OTE2NTkyMDIz_1.jpg') 
+ 
+DEBUG:
+('İnformal Yayınları 2024 AYT ÖSYM Çıkmış Soru Tıpkı Basım Türkiye Geneli Dijital Çözümlü 5 li Paket Deneme', 'İnformal Yayınları', None, '97.50', '150.00', '1', '0.0', 'genel', 'ayt', '2024', 'deneme', 'https://www.kitapisler.com/informal-yayinlari-2024-ayt-osym-cikmis-soru-tipki-basim-turkiye-geneli-dijital-cozumlu-5-li-paket-deneme_91636.html', 'https://www.kitapisler.com/images_buyuk/f36/informal-yayinlari-2024-ayt-osym_OTE2MzYyMjQz_1.jpg') 
+ 
+DEBUG:
+('Kurul Yayıncılık 2024 TYT Tüm Dersler Tek Kitap Konu Anlatımlı', 'Kurul Yayıncılık', 332, '82.50', '150.00', '7', '0.0', 'genel', 'tyt', '2024', 'diğer', 'https://www.kitapisler.com/kurul-yayincilik-2024-tyt-tum-dersler-tek-kitap-konu-anlatimli_91632.html', 'https://www.kitapisler.com/images_buyuk/f32/kurul-yayincilik-2024-tyt-tum-de_OTE2MzIwMzMz_1.jpg') 
+ 
+DEBUG:
+('Paraf Yayınları Z Takımı TYT Coğrafya 20 Saatte Soru Bankası', 'Paraf Yayınları', 190, '199.00', '199.00', '86', '4.2', 'coğrafya', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/paraf-yayinlari-z-takimi-tyt-cografya-20-saatte-soru-bankasi_91631.html', 'https://www.kitapisler.com/images_buyuk/f31/paraf-yayinlari-z-takimi-tyt-cog_OTE2MzE1NTI1_1.jpg') 
+ 
+DEBUG:
+('Pegem Yayınları AYT Coğrafya Ders İşleme Föyü', 'Pegem Yayınları', None, '122.50', '175.00', '1', '0.0', 'coğrafya', 'ayt', None, 'diğer', 'https://www.kitapisler.com/pegem-yayinlari-ayt-cografya-ders-isleme-foyu_91630.html', 'https://www.kitapisler.com/images_buyuk/f30/pegem-yayinlari-ayt-cografya-der_OTE2MzA0OTE4_1.jpg') 
+ 
+DEBUG:
+('Pegem Yayınları TYT AYT Geometri Ders İşleme Föyü', 'Pegem Yayınları', None, '175.00', '250.00', '1', '0.0', 'matematik', 'lise', None, 'diğer', 'https://www.kitapisler.com/pegem-yayinlari-tyt-ayt-geometri-ders-isleme-foyu_91629.html', 'https://www.kitapisler.com/images_buyuk/f29/pegem-yayinlari-tyt-ayt-geometri_OTE2Mjk0MTIy_1.jpg') 
+ 
+DEBUG:
+('Pegem Yayınları TYT Problemler Soru Bankası', 'Pegem Yayınları', None, '98.00', '140.00', '7', '4.7', 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/pegem-yayinlari-tyt-problemler-soru-bankasi_91628.html', 'https://www.kitapisler.com/images_buyuk/f28/pegem-yayinlari-tyt-problemler-s_OTE2MjgzNTAy_1.jpg') 
+ 
+DEBUG:
+('Pegem Yayınları TYT AYT Tamamı Çözümlü Geometri Üçgenler Soru Bankası', 'Pegem Yayınları', None, '98.00', '140.00', '2', '0.0', 'matematik', 'lise', None, 'soru bankası', 'https://www.kitapisler.com/pegem-yayinlari-tyt-ayt-tamami-cozumlu-geometri-ucgenler-soru-bankasi_91627.html', 'https://www.kitapisler.com/images_buyuk/f27/pegem-yayinlari-tyt-ayt-tamami-c_OTE2MjczMDM3_1.jpg') 
+ 
+DEBUG:
+('Pegem Yayınları TYT AYT Matematik Mantık Kümeler Fonksiyonlar Soru Bankası', 'Pegem Yayınları', None, '98.00', '140.00', '1', '0.0', 'matematik', 'lise', None, 'soru bankası', 'https://www.kitapisler.com/pegem-yayinlari-tyt-ayt-matematik-mantik-kumeler-fonksiyonlar-soru-bankasi_91626.html', 'https://www.kitapisler.com/images_buyuk/f26/pegem-yayinlari-tyt-ayt-matemati_OTE2MjYyOTMw_1.jpg') 
+ 
+DEBUG:
+('ENS Yayıncılık AYT Fizik Destek Soru Bankası', 'Ens Yayıncılık', 272, '126.65', '149.00', '41', '0.0', 'fizik', 'ayt', None, 'soru bankası', 'https://www.kitapisler.com/ens-yayincilik-ayt-fizik-destek-soru-bankasi_91592.html', 'https://www.kitapisler.com/images_buyuk/f92/ens-yayincilik-ayt-fizik-destek-_OTE1OTI0OTU1_1.jpg') 
+ 
+DEBUG:
+('Hoca Kafası TYT KPSS Dil Bilgisini Kafala Tamamı Çözümlü Soru Bankası', 'Hoca Kafası Yayınları', 264, '128.00', '160.00', '22', '0.0', 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/hoca-kafasi-tyt-kpss-dil-bilgisini-kafala-tamami-cozumlu-soru-bankasi_91591.html', 'https://www.kitapisler.com/images_buyuk/f91/hoca-kafasi-tyt-kpss-dil-bilgisi_OTE1OTEwNjM5_1.jpg') 
+ 
+DEBUG:
+('Biyoanaliz Yayınları TYT Biyoloji Soru Bankası', 'Biyoanaliz Yayınları', 256, '126.65', '149.00', '10', '5.0', 'biyoloji', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/biyoanaliz-yayinlari-tyt-biyoloji-soru-bankasi_91579.html', 'https://www.kitapisler.com/images_buyuk/f79/biyoanaliz-yayinlari-tyt-biyoloj_OTE1Nzk1MjQ2_1.jpg') 
+ 
+DEBUG:
+('Aromat Yayınları TYT Matematik Soru Bankası', 'Aromat Yayınları', 397, '194.65', '229.00', '31', '5.0', 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/aromat-yayinlari-tyt-matematik-soru-bankasi_91578.html', 'https://www.kitapisler.com/images_buyuk/f78/aromat-yayinlari-tyt-matematik-s_OTE1NzgyODEz_1.jpg') 
+ 
+DEBUG:
+('Aromat Yayınları TYT Fizik Soru Bankası', 'Aromat Yayınları', 320, '169.15', '199.00', '15', '4.7', 'fizik', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/aromat-yayinlari-tyt-fizik-soru-bankasi_91577.html', 'https://www.kitapisler.com/images_buyuk/f77/aromat-yayinlari-tyt-fizik-soru-_OTE1NzcyNDAy_1.jpg') 
+ 
+DEBUG:
+('Aromat Yayınları TYT AYT DGS KPSS ALES Paragraf Soru Bankası', 'Aromat Yayınları', 304, '152.15', '179.00', '14', '4.4', 'türkçe', 'lise', None, 'soru bankası', 'https://www.kitapisler.com/aromat-yayinlari-tyt-ayt-dgs-kpss-ales-paragraf-soru-bankasi_91576.html', 'https://www.kitapisler.com/images_buyuk/f76/aromat-yayinlari-tyt-ayt-dgs-kps_OTE1NzYyNjQ1_1.jpg') 
+ 
+DEBUG:
+('Aromat Yayınları TYT Kimya Soru Bankası', 'Aromat Yayınları', 254, '140.25', '165.00', '13', '4.4', 'kimya', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/aromat-yayinlari-tyt-kimya-soru-bankasi_91575.html', 'https://www.kitapisler.com/images_buyuk/f75/aromat-yayinlari-tyt-kimya-soru-_OTE1NzUyNTU2_1.jpg') 
+ 
+DEBUG:
+('Armada Yayınları TYT Kimya Görev Yeni Nesil Konu Kitabı', 'Armada Yayınları', 168, '198.40', '248.00', '0', '0.0', 'kimya', 'tyt', None, 'diğer', 'https://www.kitapisler.com/armada-yayinlari-tyt-kimya-gorev-yeni-nesil-konu-kitabi_91574.html', 'https://www.kitapisler.com/images_buyuk/f74/armada-yayinlari-tyt-kimya-gorev_OTE1NzQ0NDI1_1.jpg') 
+ 
+DEBUG:
+('Tonguç Akademi Kimya Adası TYT Kimya YouTube Ders Notları', 'Tonguç Akademi', 128, '189.00', '189.00', '43', '2.3', 'kimya', 'tyt', None, 'diğer', 'https://www.kitapisler.com/tonguc-akademi-kimya-adasi-tyt-kimya-youtube-ders-notlari_91506.html', 'https://www.kitapisler.com/images_buyuk/f6/tonguc-akademi-kimya-adasi-tyt-k_OTE1MDYxNzE4_1.jpg') 
+ 
+DEBUG:
+('Egzersiz Yayınları AYT Fizik Soru Bankası', 'Egzersiz Yayınları', 320, '169.15', '199.00', '50', '3.0', 'fizik', 'ayt', None, 'soru bankası', 'https://www.kitapisler.com/egzersiz-yayinlari-ayt-fizik-soru-bankasi_91503.html', 'https://www.kitapisler.com/images_buyuk/f3/egzersiz-yayinlari-ayt-fizik-sor_OTE1MDMzMzI5_1.jpg') 
+ 
+DEBUG:
+('Paraf Yayınları Z Takımı TYT Biyoloji Video Ders Anlatım Kitabı', 'Paraf Yayınları', 184, '199.00', '199.00', '43', '3.2', 'biyoloji', 'tyt', None, 'diğer', 'https://www.kitapisler.com/paraf-yayinlari-z-takimi-tyt-biyoloji-video-ders-anlatim-kitabi_91499.html', 'https://www.kitapisler.com/images_buyuk/f99/paraf-yayinlari-z-takimi-tyt-biy_OTE0OTk0NjUz_1.jpg') 
+ 
+DEBUG:
+('Paraf Yayınları Z Takımı TYT Kimya Video Ders Anlatım Kitabı', 'Paraf Yayınları', 192, '199.00', '199.00', '24', '0.0', 'kimya', 'tyt', None, 'diğer', 'https://www.kitapisler.com/paraf-yayinlari-z-takimi-tyt-kimya-video-ders-anlatim-kitabi_91498.html', 'https://www.kitapisler.com/images_buyuk/f98/paraf-yayinlari-z-takimi-tyt-kim_OTE0OTg0MzI4_1.jpg') 
+ 
+DEBUG:
+('Paraf Yayınları Z Takımı TYT Fizik Video Ders Anlatım Kitabı', 'Paraf Yayınları', 208, '209.00', '209.00', '17', '5.0', 'fizik', 'tyt', None, 'diğer', 'https://www.kitapisler.com/paraf-yayinlari-z-takimi-tyt-fizik-video-ders-anlatim-kitabi_91497.html', 'https://www.kitapisler.com/images_buyuk/f97/paraf-yayinlari-z-takimi-tyt-fiz_OTE0OTc0MDE5_1.jpg') 
+ 
+DEBUG:
+('Armada Yayınları TYT MATFEST Matematik İleri Orta Seviye', 'Armada Yayınları', 528, '193.60', '242.00', '4', '0.0', 'matematik', 'tyt', None, 'diğer', 'https://www.kitapisler.com/armada-yayinlari-tyt-matfest-matematik-ileri-orta-seviye_91477.html', 'https://www.kitapisler.com/images_buyuk/f77/armada-yayinlari-tyt-matfest-mat_OTE0NzcwMjU1_1.jpg') 
+ 
+DEBUG:
+('KR Akademi VİP Fizik TYT Soru Bankası', 'Kr Akademi', 272, '199.00', '199.00', '218', '3.0', 'fizik', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/kr-akademi-vip-fizik-tyt-soru-bankasi_91470.html', 'https://www.kitapisler.com/images_buyuk/f70/kr-akademi-vip-fizik-tyt-soru-ba_OTE0NzAxOTU5_1.jpg') 
+ 
+DEBUG:
+('KR Akademi TYT Betül Biyoloji Konu Anlatımı 28 Günde Video Kamp Kitabı', 'Kr Akademi', 128, '129.00', '129.00', '97', '3.2', 'biyoloji', 'tyt', None, 'diğer', 'https://www.kitapisler.com/kr-akademi-tyt-betul-biyoloji-konu-anlatimi-28-gunde-video-kamp-kitabi_91441.html', 'https://www.kitapisler.com/images_buyuk/f41/kr-akademi-tyt-betul-biyoloji-ko_OTE0NDEzNTU2_1.jpg') 
+ 
+DEBUG:
+('Ordinat Yayınları TYT Matematiğin Türkçesi Soru Bankası', 'Ordinat Yayınları', 200, '105.40', '124.00', '2', '5.0', 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/ordinat-yayinlari-tyt-matematigin-turkcesi-soru-bankasi_91434.html', 'https://www.kitapisler.com/images_buyuk/f34/ordinat-yayinlari-tyt-matematigi_OTE0MzQ0MDI0_1.jpg') 
+ 
+DEBUG:
+('Ordinat Yayınları TYT AYT KPSS MSÜ ALES Problemlerin Formülü Soru Bankası', 'Ordinat Yayınları', 191, '105.40', '124.00', '5', '0.0', 'matematik', 'lise', None, 'soru bankası', 'https://www.kitapisler.com/ordinat-yayinlari-tyt-ayt-kpss-msu-ales-problemlerin-formulu-soru-bankasi_91433.html', 'https://www.kitapisler.com/images_buyuk/f33/ordinat-yayinlari-tyt-ayt-kpss-m_OTE0MzMyNjIw_1.jpg') 
+ 
+DEBUG:
+('Ordinat Yayınları TYT AYT Paragrafın Formülü Soru Bankası', 'Ordinat Yayınları', 340, '169.15', '199.00', '1', '0.0', 'türkçe', 'lise', None, 'soru bankası', 'https://www.kitapisler.com/ordinat-yayinlari-tyt-ayt-paragrafin-formulu-soru-bankasi_91432.html', 'https://www.kitapisler.com/images_buyuk/f32/ordinat-yayinlari-tyt-ayt-paragr_OTE0MzIyMTIy_1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Kimya Adası TYT Kimya Soru Bankası', 'Kr Akademi', 224, '159.90', '159.90', '48', '3.4', 'kimya', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/kr-akademi-kimya-adasi-tyt-kimya-soru-bankasi_91431.html', 'https://www.kitapisler.com/images_buyuk/f31/kr-akademi-kimya-adasi-tyt-kimya_OTE0MzExNzAz_1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları 2024 AYT Matematik 3 x 40 Deneme', 'Marka Yayınları', None, '12.00', '15.00', '6', '0.0', 'matematik', 'ayt', '2024', 'deneme', 'https://www.kitapisler.com/marka-yayinlari-2024-ayt-matematik-3-x-40-deneme_91414.html', 'https://www.kitapisler.com/images_buyuk/f14/marka-yayinlari-ayt-matematik-3-_OTE0MTQ0NzQ0_1.jpg') 
+ 
+DEBUG:
+('Özcan Aykın 55 Günde TYT Fizik Kampı Video Ders Takip Kitabı 2024', 'Parlayan Projeler', 264, '199.90', '199.90', '271', '4.5', 'fizik', 'tyt', '2024', 'diğer', 'https://www.kitapisler.com/ozcan-aykin-55-gunde-tyt-fizik-kampi-video-ders-takip-kitabi-2024_91405.html', 'https://www.kitapisler.com/images_buyuk/f5/ozcan-aykin-55-gunde-tyt-fizik-k_OTE0MDU1ODQw_1.jpg') 
+ 
+DEBUG:
+('Metin Yayınları AYT Sayısal 3 Deneme', 'Metin Yayınları', None, '55.92', '69.90', '3', '0.0', 'sayısal', 'ayt', None, 'deneme', 'https://www.kitapisler.com/metin-yayinlari-ayt-sayisal-3-deneme_91404.html', 'https://www.kitapisler.com/images_buyuk/f4/metin-yayinlari-ayt-sayisal-3-de_OTE0MDQ0MzEy_1.jpg') 
+ 
+DEBUG:
+('Metin Yayınları TYT Matematik 8 Deneme', 'Metin Yayınları', None, '79.92', '99.90', '4', '0.0', 'matematik', 'tyt', None, 'deneme', 'https://www.kitapisler.com/metin-yayinlari-tyt-matematik-8-deneme_91403.html', 'https://www.kitapisler.com/images_buyuk/f3/metin-yayinlari-tyt-matematik-8-_OTE0MDM0MTAw_1.jpg') 
+ 
+DEBUG:
+('Metin Yayınları AYT Matematik 5 Deneme', 'Metin Yayınları', None, '63.92', '79.90', '5', '0.0', 'matematik', 'ayt', None, 'deneme', 'https://www.kitapisler.com/metin-yayinlari-ayt-matematik-5-deneme_91402.html', 'https://www.kitapisler.com/images_buyuk/f2/metin-yayinlari-ayt-matematik-5-_OTE0MDIzODM5_1.jpg') 
+ 
+DEBUG:
+('Metin Yayınları TYT Türkçe 10 Deneme Sınavı', 'Metin Yayınları', None, '79.92', '99.90', '18', '4.7', 'türkçe', 'tyt', None, 'deneme', 'https://www.kitapisler.com/metin-yayinlari-tyt-turkce-10-deneme-sinavi_91401.html', 'https://www.kitapisler.com/images_buyuk/f1/metin-yayinlari-tyt-turkce-10-de_OTE0MDEzNDE3_1.jpg') 
+ 
+DEBUG:
+('Metin Yayınları TYT Fen Bilimleri 10 Deneme Sınavı', 'Metin Yayınları', None, '63.92', '79.90', '6', '0.0', 'fen', 'tyt', None, 'deneme', 'https://www.kitapisler.com/metin-yayinlari-tyt-fen-bilimleri-10-deneme-sinavi_91400.html', 'https://www.kitapisler.com/images_buyuk/f0/metin-yayinlari-tyt-fen-bilimler_OTE0MDAzMTE3_1.jpg') 
+ 
+DEBUG:
+('Benim Hocam 2024 AYT Kimya Ders Notları', 'Benim Hocam Yayınları', 272, '150.00', '200.00', '183', '5.0', 'kimya', 'ayt', '2024', 'diğer', 'https://www.kitapisler.com/benim-hocam-2024-ayt-kimya-ders-notlari_91377.html', 'https://www.kitapisler.com/images_buyuk/f77/benim-hocam-2024-ayt-kimya-ders-_OTEzNzcwNDM4_1.jpg') 
+ 
+DEBUG:
+('KR Akademi Barış Hoca TYT Dr. Biyoloji Soru Bankası', 'Kr Akademi', 256, '149.90', '149.90', '288', '3.4', 'biyoloji', 'tyt', None, 'soru bankası', 'https://www.kitapisler.com/kr-akademi-baris-hoca-tyt-dr-biyoloji-soru-bankasi_91375.html', 'https://www.kitapisler.com/images_buyuk/f75/kr-akademi-baris-hoca-tyt-dr-biy_OTEzNzUwMzQ4_1.jpg') 
+ 
+DEBUG:
+('Metin Yayınları Par Kur Matematik Kitabı', 'Metin Yayınları', 360, '215.92', '269.90', '21', '4.7', 'matematik', 'lise', None, 'diğer', 'https://www.kitapisler.com/metin-yayinlari-par-kur-matematik-kitabi_91367.html', 'https://www.kitapisler.com/images_buyuk/f67/metin-yayinlari-par-kur-matemati_OTEzNjcwNzMz_1.jpg') 
+ 
+DEBUG:
+('Metin Yayınları AYT Matematik Soru Bankası', 'Metin Yayınları', 328, '207.92', '259.90', '10', '0.0', 'matematik', 'ayt', None, 'soru bankası', 'https://www.kitapisler.com/metin-yayinlari-ayt-matematik-soru-bankasi_91365.html', 'https://www.kitapisler.com/images_buyuk/f65/metin-yayinlari-ayt-matematik-so_OTEzNjU1OTU2_1.jpg') 
+ 
+DEBUG:
+('Metin Yayınları AYT Parkur Matematik Öğrenme Kitabı', 'Metin Yayınları', 364, '215.92', '269.90', '11', '1.0', 'matematik', 'ayt', None, 'diğer', 'https://www.kitapisler.com/metin-yayinlari-ayt-parkur-matematik-ogrenme-kitabi_91364.html', 'https://www.kitapisler.com/images_buyuk/f64/metin-yayinlari-ayt-parkur-matem_OTEzNjQ1MzU5_1.jpg') 
+ 
+DEBUG:
+('Benim Hocam 2024 AYT Matematik Tamamı Video Çözümlü Soru Bankası', 'Benim Hocam Yayınları', 360, '180.00', '240.00', '36', '0.0', 'matematik', 'ayt', '2024', 'soru bankası', 'https://www.kitapisler.com/benim-hocam-2024-ayt-matematik-tamami-video-cozumlu-soru-bankasi_91335.html', 'https://www.kitapisler.com/images_buyuk/f35/benim-hocam-2024-ayt-matematik-t_OTEzMzUwMjQ5_1.jpg') 
+ 
+INFO:
+160 book has been scraped from islerkitap. 
+ 

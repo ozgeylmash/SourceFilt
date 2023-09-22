@@ -6,6 +6,7 @@ def lower(text):
 
     return text.translate(lower_map).lower()
 
+
 def title(text):
     upper_map = {
         ord('ı'): 'I',

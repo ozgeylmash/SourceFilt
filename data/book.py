@@ -5,7 +5,17 @@ from dotenv import load_dotenv
 load_dotenv()
 
 import os
+import logging
 import mysql.connector
+
+formatter = logging.Formatter("%(levelname)s:\n%(message)s \n ")
+
+handler = logging.FileHandler(filename="log/book.log", mode="w")
+handler.setLevel(logging.DEBUG)
+handler.setFormatter(formatter)
+
+logger = logging.Logger("book")
+logger.addHandler(handler)
 
 db = mysql.connector.connect(
     host="localhost",
@@ -49,18 +59,17 @@ for s in source:
             for match in possible_matches:
                 possible_name, possible_publisher, *_ = match
                 if (check_similarity(possible_name, name, 0.8) and check_similarity(possible_publisher, publisher, 0.8)) or check_similarity(possible_name, name, 0.95):
-                    print("This book already exists. Merging...")
-                    print("Book: ", book)
-                    print("Matched: ", match)
-                    print("****************************************")
                     cursor.execute(f"UPDATE book SET {s}_id = %s WHERE name = %s", (id, possible_name))
                     merged_books.add(possible_name)
                     break
 
         else:
-            cursor.execute(f"""INSERT INTO book (slug, name, publisher, number_of_page, subject, grade, year, type, {s}_id) 
-                           VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s);
-                           """, (slugify(name), name, publisher, number_of_page, subject, grade, year, type, id))
+            try:
+                cursor.execute(f"""INSERT INTO book (slug, name, publisher, number_of_page, subject, grade, year, type, {s}_id) 
+                                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s);
+                                """, (slugify(name), name, publisher, number_of_page, subject, grade, year, type, id))
+            except Exception as e:
+                logger.error(f"({slugify(name), name, publisher, number_of_page, subject, grade, year, type, id}) is a duplicated entry.")
 
 
 db.commit()
@@ -69,6 +78,5 @@ cursor.execute("SELECT COUNT(*) FROM book")
 result = cursor.fetchone()
 row_count = result[0]
 
-print("----------------------------------------")
-print(f"{len(merged_books)}/{row_count} ({100 * len(merged_books)//row_count}%) books in total with multiple sources.")
-print("----------------------------------------")
+print(f"{len(merged_books)}/{row_count} ({100 * len(merged_books)//row_count}%) books in total are with multiple sources.")
+logger.info(f"{len(merged_books)}/{row_count} ({100 * len(merged_books)//row_count}%) books in total are with multiple sources.")

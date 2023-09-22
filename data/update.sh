@@ -1,3 +1,5 @@
+rm -rf log/*.log
+
 source .env
 export PATH=${PATH}:/usr/local/mysql/bin/
 

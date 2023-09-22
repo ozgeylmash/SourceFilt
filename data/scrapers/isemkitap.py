@@ -5,11 +5,22 @@ from data.utils.lower_title import title
 
 import os
 import requests
+import logging
 import mysql.connector
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 
 load_dotenv()
+
+formatter = logging.Formatter("%(levelname)s:\n%(message)s \n ")
+
+handler = logging.FileHandler(filename="log/isemkitap.log", mode="w")
+handler.setLevel(logging.DEBUG)
+handler.setFormatter(formatter)
+
+logger = logging.Logger("isemkitap")
+logger.addHandler(handler)
+
 
 db = mysql.connector.connect(
     host="localhost",
@@ -20,45 +31,42 @@ db = mysql.connector.connect(
 
 cursor = db.cursor(buffered=True)
 
+page_link = "https://www.isemkitap.com/yks-kitaplari?stock=1&sort=1&ps=5"  # ps=238
+
 try:
-    response = requests.get(f"https://www.isemkitap.com/yks-kitaplari?stock=1&sort=1&ps=2")  # ps=238
+    response = requests.get(page_link)
     response.raise_for_status()
-except:
-    print("Failed to load the index page.")
+    assert not response.history
+
+except requests.exceptions.HTTPError:
+    logger.error(f"404 Not Found - Failed to load {page_link}")
+
+except AssertionError:
+    logger.warning(f"301 Redirect - Failed to load {page_link}")
 
 soup = BeautifulSoup(response.content, "lxml")
 
 books = soup.find_all("div", attrs={"class": "productDetails"})
 
 for book in books:
-    try:
-        page_response = requests.get("https://www.isemkitap.com" + book.find("a", attrs={"class": "detailLink"})["href"])
-        page_response.raise_for_status()
-    except:
-        print("Failed to load a book page.")
-        continue
+    book_link = "https://www.isemkitap.com" + book.find("a", attrs={"class": "detailLink"})["href"]
+    page_response = requests.get(book_link)
 
     page = BeautifulSoup(page_response.content, "lxml")
 
-    try:
-        name = page.find("h1", attrs={"id": "productName"}).text
-        name = name.strip()
-    except:
-        continue
+    name = page.find("h1", attrs={"id": "productName"}).text
+    name = name.strip()
 
-    try:
-        publisher = page.find("a", attrs={"id": "product-brand"})["title"]
-        publisher = publisher.replace("Marka:", "")
-        publisher = publisher.replace("TYT-AYT", "")
-        publisher = publisher.replace("TYT", "")
-        publisher = publisher.replace("AYT", "")
-        publisher = publisher.replace("ÖABT", "")
-        publisher = publisher.replace("Set", "")
-        publisher = publisher.replace("-", "")
-        publisher = publisher.replace("YKS", "").strip()
-        publisher = title(publisher)
-    except:
-        continue
+    publisher = page.find("a", attrs={"id": "product-brand"})["title"]
+    publisher = publisher.replace("Marka:", "")
+    publisher = publisher.replace("TYT-AYT", "")
+    publisher = publisher.replace("TYT", "")
+    publisher = publisher.replace("AYT", "")
+    publisher = publisher.replace("ÖABT", "")
+    publisher = publisher.replace("Set", "")
+    publisher = publisher.replace("-", "")
+    publisher = publisher.replace("YKS", "").strip()
+    publisher = title(publisher)
 
     try:
         number_of_page = page.find("span", string="Sayfa Sayısı").find_next_siblings()[1].text
@@ -66,12 +74,9 @@ for book in books:
     except:
         number_of_page = None
 
-    try:
-        current_price = page.find("span", attrs={"class": "product-price"}).text
-        current_price = current_price.replace(".", "")
-        current_price = current_price.replace(",", ".")
-    except:
-        current_price = None
+    current_price = page.find("span", attrs={"class": "product-price"}).text
+    current_price = current_price.replace(".", "")
+    current_price = current_price.replace(",", ".")
 
     try:
         original_price = page.find("span", attrs={"class": "product-price-not-discounted"}).text
@@ -94,14 +99,25 @@ for book in books:
 
     link = "https://www.isemkitap.com" + book.find("a", attrs={"class": "detailLink"})["href"]
 
-    try:
-        image = page.find("span", attrs={"class": "imgInner"}).find("img")["src"]
-    except:
-        image = None
+    image = page.find("span", attrs={"class": "imgInner"}).find("img")["src"]
 
     sql = "INSERT INTO isemkitap (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, type, link, image) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
     val = (name, publisher, number_of_page, current_price, original_price, quantity, score, subject, grade, year, type, link, image)
-    cursor.execute(sql, val)
+
+    try:
+        cursor.execute(sql, val)
+    except Exception as e:
+        logger.error(val)
+        logger.error(e)
+
+    logger.debug(val)
 
 
 db.commit()
+
+cursor.execute("SELECT COUNT(*) FROM isemkitap")
+result = cursor.fetchone()
+row_count = result[0]
+
+print(f"Completed: isemkitap ({row_count}/{row_count})")
+logger.info(f"{row_count} book has been scraped from isemkitap.")

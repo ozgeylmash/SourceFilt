@@ -1,0 +1,903 @@
+DEBUG:
+('Şenol Hoca  Merhaba TYT Matematik Soru Bankası ', 'Şenol Hoca', None, '120.89', '135.00', None, None, 'matematik', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//senol-hoca-merhaba-tyt-matematik-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/senol-hoca-merhaba-tyt-matematik-soru-bankasi-60057-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları Yağmur Hoca ile TYT Biyosentez Biyoloji Not Defteri Tamamı El Yazılı ', 'Kr Akademi Yayınları', None, '124.47', '139.00', None, None, 'biyoloji', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//kr-akademi-yayinlari-yagmur-hoca-ile-tyt-biyosentez-biyoloji-not-defteri-tamami-el-yazili', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-yagmur-hoca-ile-tyt-biyosentez-biyoloji-not-defteri-tamami-el-yazili-60056-1.jpg') 
+ 
+DEBUG:
+('Üç Dört Beş Yayınları 2024 AYT Kimya Soru Bankası', 'Üç Dört Beş Yayınları', None, '166.55', '283.00', None, None, 'kimya', 'ayt', '2024', 'soru bankası', 'https://www.sadecekitap.com//uc-dort-bes-yayinlari-2024-ayt-kimya-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/uc-dort-bes-yayinlari-2024-ayt-kimya-soru-bankasi-60055-1.png') 
+ 
+DEBUG:
+('Kr Akademi Yayınla Coğrafyanın Kodları AYT Coğrafya Kamp Kitabı ', 'Kr Akademi Yayınları', None, '152.15', '169.90', None, None, 'coğrafya', 'ayt', None, 'diğer', 'https://www.sadecekitap.com//kr-akademi-yayinla-cografyanin-kodlari-ayt-cografya-kamp-kitabi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinla-cografyanin-kodlari-ayt-cografya-kamp-kitabi-60054-1.jpg') 
+ 
+DEBUG:
+('Orijinal Yayınları AYT Matematik MÖF Mikro Öğreten Fasiküller', 'Orijinal Yayınları', None, '295.08', '349.00', None, None, 'matematik', 'ayt', None, 'diğer', 'https://www.sadecekitap.com//orijinal-yayinlari-ayt-matematik-mof-mikro-ogreten-fasikuller', 'https://www.sadecekitap.com/resized/400x400/images/urunler/orijinal-yayinlari-ayt-matematik-mof-mikro-ogreten-fasikuller-60052-1.jpg') 
+ 
+DEBUG:
+('Aktif Öğrenme Yayınları AYT Fizik 0 Dan Başlayanlara', 'Aktif Öğrenme Yayınları', None, '159.80', '189.00', None, None, 'fizik', 'ayt', None, 'diğer', 'https://www.sadecekitap.com//aktif-ogrenme-yayinlari-ayt-fizik-0-dan-baslayanlara', 'https://www.sadecekitap.com/resized/400x400/images/urunler/aktif-ogrenme-yayinlari-ayt-fizik-0-dan-baslayanlara-60039-1.png') 
+ 
+DEBUG:
+('Bilgi Sarmal Yayınları AYT Edebiyat Soru Bankası', 'Bilgi Sarmal Yayınları', None, '202.07', '239.00', None, None, 'edebiyat', 'ayt', None, 'soru bankası', 'https://www.sadecekitap.com//bilgi-sarmal-yayinlari-ayt-edebiyat-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/bilgi-sarmal-yayinlari-ayt-edebiyat-soru-bankasi-60038-1.png') 
+ 
+DEBUG:
+('Aktif Öğrenme Yayınları TYT Biyoloji 0 Dan Başlayanlara', 'Aktif Öğrenme Yayınları', None, '117.52', '139.00', None, None, 'biyoloji', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//aktif-ogrenme-yayinlari-tyt-biyoloji-0-dan-baslayanlara', 'https://www.sadecekitap.com/resized/400x400/images/urunler/aktif-ogrenme-yayinlari-tyt-biyoloji-0-dan-baslayanlara-60037-1.png') 
+ 
+DEBUG:
+('Bes Yayınları TYT Fizik Ulti Serisi Soru Bankası', 'Bes Yayınları', None, '151.34', '179.00', None, None, 'fizik', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//bes-yayinlari-tyt-fizik-ulti-serisi-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/bes-yayinlari-tyt-fizik-ulti-serisi-soru-bankasi-60036-1.png') 
+ 
+DEBUG:
+('Bes Yayınları TYT Coğrafya Ulti Serisi Soru Bankası', 'Bes Yayınları', None, '134.43', '159.00', None, None, 'coğrafya', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//bes-yayinlari-tyt-cografya-ulti-serisi-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/bes-yayinlari-tyt-cografya-ulti-serisi-soru-bankasi-60035-1.png') 
+ 
+DEBUG:
+('Bes Yayınları TYT Tarih Ulti Serisi Soru Bankası', 'Bes Yayınları', None, '151.34', '179.00', None, None, 'tarih', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//bes-yayinlari-tyt-tarih-ulti-serisi-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/bes-yayinlari-tyt-tarih-ulti-serisi-soru-bankasi-60034-1.png') 
+ 
+DEBUG:
+('Rüştü Hoca ile 49 Günde TYT Türkçe Kampı', 'Rehber Matematik Yayınları', None, '182.68', '204.00', None, None, 'türkçe', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//rustu-hoca-ile-49-gunde-tyt-turkce-kampi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/rustu-hoca-ile-49-gunde-tyt-turkce-kampi-60032-1.png') 
+ 
+DEBUG:
+('Barış Çelenk Yayınları İntegral Matematik Fasikülleri', 'Barış Çelenk Yayınları', None, '115.52', '129.00', None, None, 'matematik', '12.', None, 'diğer', 'https://www.sadecekitap.com//baris-celenk-yayinlari-integral-matematik-fasikulleri', 'https://www.sadecekitap.com/resized/400x400/images/urunler/baris-celenk-yayinlari-integral-matematik-fasikulleri-60019-1.jpg') 
+ 
+DEBUG:
+('Barış Çelenk Yayınları Fonksiyonlar Matematik Fasikülleri', 'Barış Çelenk Yayınları', None, '115.52', '129.00', None, None, 'matematik', '10.', None, 'diğer', 'https://www.sadecekitap.com//baris-celenk-yayinlari-fonksiyonlar-matematik-fasikulleri', 'https://www.sadecekitap.com/resized/400x400/images/urunler/baris-celenk-yayinlari-fonksiyonlar-matematik-fasikulleri-60018-1.png') 
+ 
+DEBUG:
+('Barış Çelenk Yayınları TYT AYT Fizik Denemesi', 'Barış Çelenk Yayınları', None, '53.73', '60.00', None, None, 'fizik', 'lise', None, 'deneme', 'https://www.sadecekitap.com//baris-celenk-yayinlari-tyt-ayt-fizik-denemesi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/baris-celenk-yayinlari-tyt-ayt-fizik-denemesi-60017-1.jpg') 
+ 
+DEBUG:
+('Ens Yayıncılık TYT Biyoloji Soru Bankası', 'Ens Yayıncılık', None, '125.98', '149.00', None, None, 'biyoloji', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//ens-yayincilik-tyt-biyoloji-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/ens-yayincilik-tyt-biyoloji-soru-bankasi-60016-1.jpg') 
+ 
+DEBUG:
+('Barış Çelenk Yayınları TYT AYT Geometri Soru Kitabı', 'Barış Çelenk Yayınları', None, '250.74', '280.00', None, None, 'matematik', 'lise', None, 'soru bankası', 'https://www.sadecekitap.com//baris-celenk-yayinlari-tyt-ayt-geometri-soru-kitabi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/baris-celenk-yayinlari-tyt-ayt-geometri-soru-kitabi-60015-1.jpg') 
+ 
+DEBUG:
+('Barış Çelenk Yayınları Türev Matematik Fasikülleri', 'Barış Çelenk Yayınları', None, '115.52', '129.00', None, None, 'matematik', '12.', None, 'diğer', 'https://www.sadecekitap.com//baris-celenk-yayinlari-turev-matematik-fasikulleri', 'https://www.sadecekitap.com/resized/400x400/images/urunler/baris-celenk-yayinlari-turev-matematik-fasikulleri-60014-1.jpg') 
+ 
+DEBUG:
+('Barış Çelenk Yayınları Limit ve Süreklilik Matematik Fasikülleri', 'Barış Çelenk Yayınları', None, '71.64', '80.00', None, None, 'matematik', '12.', None, 'diğer', 'https://www.sadecekitap.com//baris-celenk-yayinlari-limit-ve-sureklilik-matematik-fasikulleri', 'https://www.sadecekitap.com/resized/400x400/images/urunler/baris-celenk-yayinlari-limit-ve-sureklilik-matematik-fasikulleri-60013-1.jpg') 
+ 
+DEBUG:
+('Barış Çelenk Yayınları Trigonometri Matematik Fasikülleri', 'Barış Çelenk Yayınları', None, '115.52', '129.00', None, None, 'matematik', '11.', None, 'diğer', 'https://www.sadecekitap.com//baris-celenk-yayinlari-trigonometri-matematik-fasikulleri', 'https://www.sadecekitap.com/resized/400x400/images/urunler/baris-celenk-yayinlari-trigonometri-matematik-fasikulleri-60012-1.jpg') 
+ 
+DEBUG:
+('Barış Çelenk Yayınları TYT Matematik Soru Bankası', 'Barış Çelenk Yayınları', None, '214.02', '239.00', None, None, 'matematik', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//baris-celenk-yayinlari-tyt-matematik-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/baris-celenk-yayinlari-tyt-matematik-soru-bankasi-60011-1.png') 
+ 
+DEBUG:
+('Kr Akademi Yayınları  Gamze Hoca Türkçenin Matematiği Tüm Sınavlar İçin Paragraf Soru Bankası ', 'Kr Akademi Yayınları', None, '115.52', '129.00', None, None, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//kr-akademi-yayinlari-gamze-hoca-turkcenin-matematigi-tum-sinavlar-icin-paragraf-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-gamze-hoca-turkcenin-matematigi-tum-sinavlar-icin-paragraf-soru-bankasi-60010-1.jpg') 
+ 
+DEBUG:
+('Paylaşım Yayınları TYT Matematik BASIC Soru Bankası', 'Paylaşım Yayınları', None, '189.00', '420.00', None, None, 'matematik', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//paylasim-yayinlari-tyt-matematik-basic-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/paylasim-yayinlari-tyt-matematik-basic-soru-bankasi-59990-1.jfif') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 YDT İngilizce 5 Deneme Sınavı ', 'Benim Hocam Yayınları', None, '114.39', '180.00', None, None, 'ingilizce', 'ydt', '2024', 'deneme', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-ydt-ingilizce-5-deneme-sinavi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-ydt-ingilizce-5-deneme-sinavi-59912-1.jpg') 
+ 
+DEBUG:
+('Puan Yayınları TYT Matematik Soru Analizli 10+1 Deneme', 'Puan Yayınları', None, '39.28', '72.00', None, None, 'matematik', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//puan-yayinlari-tyt-matematik-soru-analizli-10-1-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/puan-yayinlari-tyt-matematik-soru-analizli-10-1-deneme-59901-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları Kenan Kara İle 2024 TYT AYT Geometri Soru Bankası', 'Kr Akademi Yayınları', None, '169.25', '189.00', None, None, 'matematik', 'lise', '2024', 'soru bankası', 'https://www.sadecekitap.com//kr-akademi-yayinlari-kenan-kara-ile-2024-tyt-ayt-geometri-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-kenan-kara-ile-2024-tyt-ayt-geometri-soru-bankasi-59900-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları Gamze Hoca Türkçenin Matematiği Tüm Sınavlar İçin Paragraf Video Ders Kitabı ', 'Kr Akademi Yayınları', None, '115.52', '129.00', None, None, 'türkçe', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//kr-akademi-yayinlari-gamze-hoca-turkcenin-matematigi-tum-sinavlar-icin-paragraf-video-ders-kitabi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-gamze-hoca-turkcenin-matematigi-tum-sinavlar-icin-paragraf-video-ders-kitabi-59899-1.jpg') 
+ 
+DEBUG:
+('3D Yayınları AYT Edebiyat Sosyal Bilimler 1 Simülasyon Denemeleri', '3d Yayınları', None, '78.86', '134.00', None, None, 'edebiyat', 'ayt', None, 'deneme', 'https://www.sadecekitap.com//3d-yayinlari-ayt-edebiyat-sosyal-bilimler-1-simulasyon-denemeleri', 'https://www.sadecekitap.com/resized/400x400/images/urunler/3d-yayinlari-ayt-edebiyat-sosyal-bilimler-1-simulasyon-denemeleri-59896-1.jpg') 
+ 
+DEBUG:
+('Limit Yayınları AYT Coğrafya El Kitabı', 'Limit Yayınları', None, '129.10', '200.00', None, None, 'coğrafya', 'ayt', None, 'diğer', 'https://www.sadecekitap.com//limit-yayinlari-ayt-cografya-el-kitabi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/limit-yayinlari-ayt-cografya-el-kitabi-59895-1.jpg') 
+ 
+DEBUG:
+('Eğitim Vadisi AYT Fizik Güncel Planlı Ders Föyü', 'Eğitim Vadisi Yayınları', None, '181.37', '228.00', None, None, 'fizik', 'ayt', None, 'diğer', 'https://www.sadecekitap.com//egitim-vadisi-ayt-fizik-guncel-planli-ders-foyu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/egitim-vadisi-ayt-fizik-guncel-planli-ders-foyu-59894-1.jpg') 
+ 
+DEBUG:
+('Limit Yayınları TYT Matematik Soru Bankası', 'Limit Yayınları', None, '255.62', '396.00', None, None, 'matematik', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//limit-yayinlari-tyt-matematik-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/limit-yayinlari-tyt-matematik-soru-bankasi-59893-1.jpg') 
+ 
+DEBUG:
+('Eğitim Vadisi TYT Coğrafya Güncel Planlı Ders Föyü', 'Eğitim Vadisi Yayınları', None, '185.35', '233.00', None, None, 'coğrafya', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//egitim-vadisi-tyt-cografya-guncel-planli-ders-foyu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/egitim-vadisi-tyt-cografya-guncel-planli-ders-foyu-59891-1.jpg') 
+ 
+DEBUG:
+('Limit Yayınları TYT Coğrafya El Kitabı', 'Limit Yayınları', None, '129.10', '200.00', None, None, 'coğrafya', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//limit-yayinlari-tyt-cografya-el-kitabi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/limit-yayinlari-tyt-cografya-el-kitabi-59890-1.jpg') 
+ 
+DEBUG:
+('Eğitim Vadisi TYT Geometri Güncel Planlı Ders Föyü', 'Eğitim Vadisi Yayınları', None, '139.21', '175.00', None, None, 'matematik', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//egitim-vadisi-tyt-geometri-guncel-planli-ders-foyu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/egitim-vadisi-tyt-geometri-guncel-planli-ders-foyu-59889-1.jpg') 
+ 
+DEBUG:
+('Toprak Yayıncılık AYT Sözel 5 Deneme ', 'Toprak Yayıncılık', None, '67.78', '105.00', None, None, 'sözel', 'ayt', None, 'deneme', 'https://www.sadecekitap.com//toprak-yayincilik-ayt-sozel-5-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/toprak-yayincilik-ayt-sozel-5-deneme-59860-1.jpg') 
+ 
+DEBUG:
+('Toprak Yayıncılık Üçgenler Soru Bankası', 'Toprak Yayıncılık', None, '96.83', '150.00', None, None, 'matematik', '9.', None, 'soru bankası', 'https://www.sadecekitap.com//toprak-yayincilik-ucgenler-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/toprak-yayincilik-ucgenler-soru-bankasi-59859-1.jpg') 
+ 
+DEBUG:
+('Toprak Yayıncılık Trigonometri Soru Bankası', 'Toprak Yayıncılık', None, '90.37', '140.00', None, None, 'matematik', '11.', None, 'soru bankası', 'https://www.sadecekitap.com//toprak-yayincilik-trigonometri-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/toprak-yayincilik-trigonometri-soru-bankasi-59858-1.jpg') 
+ 
+DEBUG:
+('Miray Yayınları TYT AYT Geometri Soru Bankası', 'Miray Yayınları', None, '222.90', '299.00', None, None, 'matematik', 'lise', None, 'soru bankası', 'https://www.sadecekitap.com//miray-yayinlari-tyt-ayt-geometri-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/miray-yayinlari-tyt-ayt-geometri-soru-bankasi-59857-1.jpg') 
+ 
+DEBUG:
+('Altın Karma AYT Fen Bilimleri Deneme', 'Altın Karma Yayınları', None, '81.28', '149.00', None, None, 'fen', 'ayt', None, 'deneme', 'https://www.sadecekitap.com//altin-karma-ayt-fen-bilimleri-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/altin-karma-ayt-fen-bilimleri-deneme-59850-1.jpg') 
+ 
+DEBUG:
+('Altın Karma TYT Sosyal Bilimler 10x25 Deneme', 'Altın Karma Yayınları', None, '59.46', '109.00', None, None, 'sosyal', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//altin-karma-tyt-sosyal-bilimler-10x25-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/altin-karma-tyt-sosyal-bilimler-10x25-deneme-59848-1.jpg') 
+ 
+DEBUG:
+('Altın Karma TYT Biyoloji 30x6 Deneme', 'Altın Karma Yayınları', None, '51.82', '95.00', None, None, 'biyoloji', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//altin-karma-tyt-biyoloji-30x6-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/altin-karma-tyt-biyoloji-30x6-deneme-59847-1.jpg') 
+ 
+DEBUG:
+('Altın Karma TYT Fen Bilimleri 10x20 Deneme', 'Altın Karma Yayınları', None, '59.46', '109.00', None, None, 'fen', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//altin-karma-tyt-fen-bilimleri-10x20-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/altin-karma-tyt-fen-bilimleri-10x20-deneme-59846-1.jpg') 
+ 
+DEBUG:
+('Altın Karma TYT Fizik 30x7 Deneme', 'Altın Karma Yayınları', None, '51.82', '95.00', None, None, 'fizik', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//altin-karma-tyt-fizik-30x7-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/altin-karma-tyt-fizik-30x7-deneme-59845-1.jpg') 
+ 
+DEBUG:
+('Altın Karma TYT Kimya 30x7 Deneme', 'Altın Karma Yayınları', None, '51.82', '95.00', None, None, 'kimya', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//altin-karma-tyt-kimya-30x7-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/altin-karma-tyt-kimya-30x7-deneme-59844-1.jpg') 
+ 
+DEBUG:
+('Altın Karma TYT Coğrafya 30x5 Deneme', 'Altın Karma Yayınları', None, '51.82', '95.00', None, None, 'coğrafya', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//altin-karma-tyt-cografya-30x5-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/altin-karma-tyt-cografya-30x5-deneme-59843-1.jpg') 
+ 
+DEBUG:
+('Altın Karma TYT Tarih 30x5 Deneme', 'Altın Karma Yayınları', None, '51.82', '95.00', None, None, 'tarih', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//altin-karma-tyt-tarih-30x5-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/altin-karma-tyt-tarih-30x5-deneme-59842-1.jpg') 
+ 
+DEBUG:
+('Altın Karma TYT Matematik 10x40 Deneme', 'Altın Karma Yayınları', None, '81.28', '149.00', None, None, 'matematik', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//altin-karma-tyt-matematik-10x40-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/altin-karma-tyt-matematik-10x40-deneme-59841-1.jpg') 
+ 
+DEBUG:
+('Altın Karma TYT Problemler 16x12 Deneme', 'Altın Karma Yayınları', None, '51.82', '95.00', None, None, 'matematik', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//altin-karma-tyt-problemler-16x12-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/altin-karma-tyt-problemler-16x12-deneme-59840-1.jpg') 
+ 
+DEBUG:
+('Altın Karma TYT Türkçe 10x40 Deneme', 'Altın Karma Yayınları', None, '81.28', '149.00', None, None, 'türkçe', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//altin-karma-tyt-turkce-10x40-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/altin-karma-tyt-turkce-10x40-deneme-59839-1.jpg') 
+ 
+DEBUG:
+('Altın Karma TYT Fen Bilimleri Çıkmış Sorular', 'Altın Karma Yayınları', None, '108.55', '199.00', None, None, 'fen', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//altin-karma-tyt-fen-bilimleri-cikmis-sorular', 'https://www.sadecekitap.com/resized/400x400/images/urunler/altin-karma-tyt-fen-bilimleri-cikmis-sorular-59838-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 YDT Taktiklerle İngilizce SKILLS Konu Anlatımı ', 'Benim Hocam Yayınları', None, '101.68', '160.00', None, None, 'ingilizce', 'ydt', '2024', 'diğer', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-ydt-taktiklerle-ingilizce-skills-konu-anlatimi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-ydt-taktiklerle-ingilizce-skills-konu-anlatimi-59825-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 YDT İngilizce Grammar Soru Bankası ', 'Benim Hocam Yayınları', None, '88.97', '140.00', None, None, 'ingilizce', 'ydt', '2024', 'soru bankası', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-ydt-ingilizce-grammar-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-ydt-ingilizce-grammar-soru-bankasi-59824-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 YDT Taktiklerle İngilizce SKILLS Soru Bankası ', 'Benim Hocam Yayınları', None, '114.39', '180.00', None, None, 'ingilizce', 'ydt', '2024', 'soru bankası', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-ydt-taktiklerle-ingilizce-skills-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-ydt-taktiklerle-ingilizce-skills-soru-bankasi-59823-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 YDT İngilizce Grammar Ders Notları ', 'Benim Hocam Yayınları', None, '114.39', '180.00', None, None, 'ingilizce', 'ydt', '2024', 'diğer', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-ydt-ingilizce-grammar-ders-notlari', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-ydt-ingilizce-grammar-ders-notlari-59822-1.jpg') 
+ 
+DEBUG:
+('Aktif Öğrenme Yayınları TYT Matematik Kuvvetlendiren Soru Bankası', 'Aktif Öğrenme Yayınları', None, '134.43', '159.00', None, None, 'matematik', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//aktif-ogrenme-yayinlari-tyt-matematik-kuvvetlendiren-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/aktif-ogrenme-yayinlari-tyt-matematik-kuvvetlendiren-soru-bankasi-59809-1.png') 
+ 
+DEBUG:
+('Marka Yayınları TYT Dil Bilgisi 20 Kuşak Deneme Tamamı Video Çözümlü ', 'Marka Yayınları', None, '27.84', '35.00', None, None, 'türkçe', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-tyt-dil-bilgisi-20-kusak-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-tyt-dil-bilgisi-20-kusak-deneme-tamami-video-cozumlu-59799-1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları TYT Biyoloji 32 Kuşak Deneme Tamamı Video Çözümlü ', 'Marka Yayınları', None, '27.84', '35.00', None, None, 'biyoloji', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-tyt-biyoloji-32-kusak-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-tyt-biyoloji-32-kusak-deneme-tamami-video-cozumlu-59792-1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları TYT Fizik 32 Kuşak Deneme Tamamı Video Çözümlü ', 'Marka Yayınları', None, '27.84', '35.00', None, None, 'fizik', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-tyt-fizik-32-kusak-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-tyt-fizik-32-kusak-deneme-tamami-video-cozumlu-59791-1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları TYT Kimya 32 Kuşak Deneme Tamamı Video Çözümlü ', 'Marka Yayınları', None, '27.84', '35.00', None, None, 'kimya', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-tyt-kimya-32-kusak-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-tyt-kimya-32-kusak-deneme-tamami-video-cozumlu-59790-1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları TYT Coğrafya 36 Kuşak Deneme Tamamı Video Çözümlü ', 'Marka Yayınları', None, '27.84', '35.00', None, None, 'coğrafya', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-tyt-cografya-36-kusak-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-tyt-cografya-36-kusak-deneme-tamami-video-cozumlu-59789-1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları TYT Tarih Kolaydan Zora 36 Kuşak Deneme Tamamı Video Çözümlü ', 'Marka Yayınları', None, '27.84', '35.00', None, None, 'tarih', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-tyt-tarih-kolaydan-zora-36-kusak-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-tyt-tarih-kolaydan-zora-36-kusak-deneme-tamami-video-cozumlu-59788-1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları TYT Problemler 21 Kuşak Deneme ', 'Marka Yayınları', None, '27.84', '35.00', None, None, 'matematik', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-tyt-problemler-21-kusak-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-tyt-problemler-21-kusak-deneme-59787-1.jpg') 
+ 
+DEBUG:
+('Karekök Yayınları TYT Matematik Her Kazanımdan Bir Soru', 'Karekök Yayınları', None, '117.54', '169.00', None, None, 'matematik', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//karekok-yayinlari-tyt-matematik-her-kazanimdan-bir-soru', 'https://www.sadecekitap.com/resized/400x400/images/urunler/karekok-yayinlari-tyt-matematik-her-kazanimdan-bir-soru-59786-1.jpg') 
+ 
+DEBUG:
+('Karekök Yayınları TYT Paragraf Soru Bankası', 'Karekök Yayınları', None, '150.23', '216.00', None, None, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//karekok-yayinlari-tyt-paragraf-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/karekok-yayinlari-tyt-paragraf-soru-bankasi-59785-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları Barış Hoca AYT Dr. Biyoloji Video Ders Kitabı ', 'Kr Akademi Yayınları', None, '116.33', '129.90', None, None, 'biyoloji', 'ayt', None, 'diğer', 'https://www.sadecekitap.com//kr-akademi-yayinlari-baris-hoca-ayt-dr-biyoloji-video-ders-kitabi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-baris-hoca-ayt-dr-biyoloji-video-ders-kitabi-59780-1.jpg') 
+ 
+DEBUG:
+('Ens Yayıncılık AYT Coğrafya Destek Soru Bankası', 'Ens Yayıncılık', None, '117.52', '139.00', None, None, 'coğrafya', 'ayt', None, 'soru bankası', 'https://www.sadecekitap.com//ens-yayincilik-ayt-cografya-destek-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/ens-yayincilik-ayt-cografya-destek-soru-bankasi-59777-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları TYT İxir Dil Bilgisi Soru Bankası ', 'Kr Akademi Yayınları', None, '66.00', '88.00', None, None, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//kr-akademi-yayinlari-tyt-ixir-dil-bilgisi-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-tyt-ixir-dil-bilgisi-soru-bankasi-59745-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları TYT İxir Coğrafya Soru Bankası ', 'Kr Akademi Yayınları', None, '66.00', '88.00', None, None, 'coğrafya', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//kr-akademi-yayinlari-tyt-ixir-cografya-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-tyt-ixir-cografya-soru-bankasi-59744-1.png') 
+ 
+DEBUG:
+('Kr Akademi Yayınları TYT İxir Tarih Soru Bankası ', 'Kr Akademi Yayınları', None, '66.00', '88.00', None, None, 'tarih', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//kr-akademi-yayinlari-tyt-ixir-tarih-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-tyt-ixir-tarih-soru-bankasi-59743-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları TYT İxir Supremum Matematik Soru Bankası ', 'Kr Akademi Yayınları', None, '90.00', '120.00', None, None, 'matematik', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//kr-akademi-yayinlari-tyt-ixir-supremum-matematik-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-tyt-ixir-supremum-matematik-soru-bankasi-59742-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları TYT İxir İnfimum Matematik Başlangıç Soru Bankası ', 'Kr Akademi Yayınları', None, '90.00', '120.00', None, None, 'matematik', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//kr-akademi-yayinlari-tyt-ixir-infimum-matematik-baslangic-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-tyt-ixir-infimum-matematik-baslangic-soru-bankasi-59741-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları TYT Matematik El Yazısı Konu Anlatımı 8. Fasikül ', 'Kr Akademi Yayınları', None, '97.50', '130.00', None, None, 'matematik', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//kr-akademi-yayinlari-tyt-matematik-el-yazisi-konu-anlatimi-8-fasikul', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-tyt-matematik-el-yazisi-konu-anlatimi-8-fasikul-59740-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları TYT Matematik El Yazısı Konu Anlatımı 7. Fasikül ', 'Kr Akademi Yayınları', None, '90.00', '120.00', None, None, 'matematik', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//kr-akademi-yayinlari-tyt-matematik-el-yazisi-konu-anlatimi-7-fasikul', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-tyt-matematik-el-yazisi-konu-anlatimi-7-fasikul-59739-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları TYT Matematik El Yazısı Konu Anlatım Fasikül Seti ', 'Kr Akademi Yayınları', None, '645.00', '860.00', None, None, 'matematik', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//kr-akademi-yayinlari-tyt-matematik-el-yazisi-konu-anlatim-fasikul-seti', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-tyt-matematik-el-yazisi-konu-anlatim-fasikul-seti-59738-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları TYT Matematik El Yazısı Konu Anlatım 6. Fasikül ', 'Kr Akademi Yayınları', None, '90.00', '120.00', None, None, 'matematik', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//kr-akademi-yayinlari-tyt-matematik-el-yazisi-konu-anlatim-6-fasikul', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-tyt-matematik-el-yazisi-konu-anlatim-6-fasikul-59737-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları TYT Matematik El Yazısı Konu Anlatım 5. Fasikül ', 'Kr Akademi Yayınları', None, '90.00', '120.00', None, None, 'matematik', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//kr-akademi-yayinlari-tyt-matematik-el-yazisi-konu-anlatim-5-fasikul', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-tyt-matematik-el-yazisi-konu-anlatim-5-fasikul-59736-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları TYT Matematik El Yazısı Konu Anlatım 4. Fasikül ', 'Kr Akademi Yayınları', None, '90.00', '120.00', None, None, 'matematik', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//kr-akademi-yayinlari-tyt-matematik-el-yazisi-konu-anlatim-4-fasikul', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-tyt-matematik-el-yazisi-konu-anlatim-4-fasikul-59735-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları TYT Matematik El Yazısı Konu Anlatım 3. Fasikül ', 'Kr Akademi Yayınları', None, '90.00', '120.00', None, None, 'matematik', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//kr-akademi-yayinlari-tyt-matematik-el-yazisi-konu-anlatim-3-fasikul', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-tyt-matematik-el-yazisi-konu-anlatim-3-fasikul-59734-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları TYT Matematik El Yazısı Konu Anlatım 2. Fasikül ', 'Kr Akademi Yayınları', None, '90.00', '120.00', None, None, 'matematik', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//kr-akademi-yayinlari-tyt-matematik-el-yazisi-konu-anlatim-2-fasikul', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-tyt-matematik-el-yazisi-konu-anlatim-2-fasikul-59733-1.jpg') 
+ 
+DEBUG:
+('Gri Koç 2024 Gri Koç Günlük Planlayıcı', 'Gri Koç', None, '20.51', '22.90', None, None, 'genel', 'lise', '2024', 'diğer', 'https://www.sadecekitap.com//gri-koc-2024-gri-koc-gunluk-planlayici', 'https://www.sadecekitap.com/resized/400x400/images/urunler/gri-koc-2024-gri-koc-gunluk-planlayici-59732-1.png') 
+ 
+DEBUG:
+('Üç Dört Beş Yayınları 2024 AYT Coğrafya Soru Bankası', 'Üç Dört Beş Yayınları', None, '164.78', '280.00', None, None, 'coğrafya', 'ayt', '2024', 'soru bankası', 'https://www.sadecekitap.com//uc-dort-bes-yayinlari-2024-ayt-cografya-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/uc-dort-bes-yayinlari-2024-ayt-cografya-soru-bankasi-59720-1.jpg') 
+ 
+DEBUG:
+('Bes Yayınları AYT Biyoloji Ulti Serisi Soru Bankası', 'Bes Yayınları', None, '125.98', '149.00', None, None, 'biyoloji', 'ayt', None, 'soru bankası', 'https://www.sadecekitap.com//bes-yayinlari-ayt-biyoloji-ulti-serisi-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/bes-yayinlari-ayt-biyoloji-ulti-serisi-soru-bankasi-59719-1.png') 
+ 
+DEBUG:
+('Bes Yayınları TYT Biyoloji Ulti Serisi Soru Bankası', 'Bes Yayınları', None, '117.52', '139.00', None, None, 'biyoloji', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//bes-yayinlari-tyt-biyoloji-ulti-serisi-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/bes-yayinlari-tyt-biyoloji-ulti-serisi-soru-bankasi-59718-1.png') 
+ 
+DEBUG:
+('Kr Akademi Yayınları Felsefe Atölyesi TYT Felsefe Video Ders Kitabı ', 'Kr Akademi Yayınları', None, '124.47', '139.00', None, None, 'felsefe', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//kr-akademi-yayinlari-felsefe-atolyesi-tyt-felsefe-video-ders-kitabi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-felsefe-atolyesi-tyt-felsefe-video-ders-kitabi-59717-1.jpg') 
+ 
+DEBUG:
+('Aydın Yayınları TYT AYT Geometri Ders İşleyiş Modülleri', 'Aydın Yayınları', None, '251.23', '337.00', None, None, 'matematik', 'lise', None, 'diğer', 'https://www.sadecekitap.com//aydin-yayinlari-tyt-ayt-geometri-ders-isleyis-modulleri', 'https://www.sadecekitap.com/resized/400x400/images/urunler/aydin-yayinlari-tyt-ayt-geometri-ders-isleyis-modulleri-59716-1.jpg') 
+ 
+DEBUG:
+('Çap Yayınları Matematik Fonksiyonlar 2 Video Anlatımlı Soru Fasikülü', 'Çap Yayınları', None, '75.25', '89.00', None, None, 'matematik', '10.', None, 'diğer', 'https://www.sadecekitap.com//cap-yayinlari-matematik-fonksiyonlar-2-video-anlatimli-soru-fasikulu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/cap-yayinlari-matematik-fonksiyonlar-2-video-anlatimli-soru-fasikulu-59715-1.jpg') 
+ 
+DEBUG:
+('Köşebilgi Yayınları TYT Türkçe 15 Deneme Video Çözümlü', 'Köşebilgi Yayınları', None, '90.00', '200.00', None, None, 'türkçe', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//kosebilgi-yayinlari-tyt-turkce-15-deneme-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kosebilgi-yayinlari-tyt-turkce-15-deneme-video-cozumlu-59711-1.jpg') 
+ 
+DEBUG:
+('Yanıt Yayınları AYT Türk Dili ve Edebiyatı Video Çözümlü 17 Deneme', 'Yanıt Yayınları', None, '54.00', '120.00', None, None, 'edebiyat', 'ayt', None, 'deneme', 'https://www.sadecekitap.com//yanit-yayinlari-ayt-turk-dili-ve-edebiyati-video-cozumlu-17-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/yanit-yayinlari-ayt-turk-dili-ve-edebiyati-video-cozumlu-17-deneme-59705-1.jpg') 
+ 
+DEBUG:
+('Köşebilgi Yayınları TYT 3 Fasikül Deneme Video Çözümlü', 'Köşebilgi Yayınları', None, '54.00', '120.00', None, None, 'genel', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//kosebilgi-yayinlari-tyt-3-fasikul-deneme-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kosebilgi-yayinlari-tyt-3-fasikul-deneme-video-cozumlu-59703-1.jpg') 
+ 
+DEBUG:
+('Köşebilgi Yayınları AYT Video Çözümlü 3 Fasikül Deneme', 'Köşebilgi Yayınları', None, '58.50', '130.00', None, None, 'genel', 'ayt', None, 'deneme', 'https://www.sadecekitap.com//kosebilgi-yayinlari-ayt-video-cozumlu-3-fasikul-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kosebilgi-yayinlari-ayt-video-cozumlu-3-fasikul-deneme-59702-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları KR Plus Fizik-Kimya-Biyoloji FKB 10 TYT Denemesi ', 'Kr Akademi Yayınları', None, '43.88', '49.00', None, None, 'fen', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//kr-akademi-yayinlari-kr-plus-fizik-kimya-biyoloji-fkb-10-tyt-denemesi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-kr-plus-fizik-kimya-biyoloji-fkb-10-tyt-denemesi-59693-1.png') 
+ 
+DEBUG:
+('Okyanus Yayınları AYT ICEBERG Matematik Soru Bankası', 'Okyanus Yayınları', None, '135.68', '182.00', None, None, 'matematik', 'ayt', None, 'soru bankası', 'https://www.sadecekitap.com//okyanus-yayinlari-ayt-iceberg-matematik-soru-bankasi-1', 'https://www.sadecekitap.com/resized/400x400/images/urunler/okyanus-yayinlari-ayt-iceberg-matematik-soru-bankasi-59677-1.jpg') 
+ 
+DEBUG:
+('Okyanus Yayınları AYT ICEBERG Türk Edebiyatı Soru Bankası', 'Okyanus Yayınları', None, '129.72', '174.00', None, None, 'edebiyat', 'ayt', None, 'soru bankası', 'https://www.sadecekitap.com//okyanus-yayinlari-ayt-iceberg-turk-edebiyati-soru-bankasi-1', 'https://www.sadecekitap.com/resized/400x400/images/urunler/okyanus-yayinlari-ayt-iceberg-turk-edebiyati-soru-bankasi-59676-1.jpg') 
+ 
+DEBUG:
+('Okyanus Yayınları AYT 30 Kimya Denemesi', 'Okyanus Yayınları', None, '49.20', '66.00', None, None, 'kimya', 'ayt', None, 'deneme', 'https://www.sadecekitap.com//okyanus-yayinlari-ayt-30-kimya-denemesi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/okyanus-yayinlari-ayt-30-kimya-denemesi-59675-1.jpg') 
+ 
+DEBUG:
+('Okyanus Yayınları AYT 30 Fizik Denemesi', 'Okyanus Yayınları', None, '49.20', '66.00', None, None, 'fizik', 'ayt', None, 'deneme', 'https://www.sadecekitap.com//okyanus-yayinlari-ayt-30-fizik-denemesi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/okyanus-yayinlari-ayt-30-fizik-denemesi-59674-1.jpg') 
+ 
+DEBUG:
+('Okyanus Yayınları AYT KonuTik Elektrokimya Ve Organik Kimya Soru Bankası', 'Okyanus Yayınları', None, '119.28', '160.00', None, None, 'kimya', 'ayt', None, 'soru bankası', 'https://www.sadecekitap.com//okyanus-yayinlari-ayt-konutik-elektrokimya-ve-organik-kimya-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/okyanus-yayinlari-ayt-konutik-elektrokimya-ve-organik-kimya-soru-bankasi-59672-1.jpg') 
+ 
+DEBUG:
+('Okyanus Yayınları AYT ICEBERG Kimya Soru Bankası', 'Okyanus Yayınları', None, '90.95', '122.00', None, None, 'kimya', 'ayt', None, 'soru bankası', 'https://www.sadecekitap.com//okyanus-yayinlari-ayt-iceberg-kimya-soru-bankasi-1', 'https://www.sadecekitap.com/resized/400x400/images/urunler/okyanus-yayinlari-ayt-iceberg-kimya-soru-bankasi-59671-1.jpg') 
+ 
+DEBUG:
+('Okyanus Yayınları AYT KonuTik Logaritma Diziler Soru Bankası', 'Okyanus Yayınları', None, '62.62', '84.00', None, None, 'matematik', 'ayt', None, 'soru bankası', 'https://www.sadecekitap.com//okyanus-yayinlari-ayt-konutik-logaritma-diziler-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/okyanus-yayinlari-ayt-konutik-logaritma-diziler-soru-bankasi-59670-1.jpg') 
+ 
+DEBUG:
+('Okyanus Yayınları AYT KonuTik İntegral Soru Bankası', 'Okyanus Yayınları', None, '89.46', '120.00', None, None, 'matematik', 'ayt', None, 'soru bankası', 'https://www.sadecekitap.com//okyanus-yayinlari-ayt-konutik-integral-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/okyanus-yayinlari-ayt-konutik-integral-soru-bankasi-59669-1.jpg') 
+ 
+DEBUG:
+('Okyanus Yayınları AYT KonuTik Trigonometri Soru Bankası', 'Okyanus Yayınları', None, '73.06', '98.00', None, None, 'matematik', 'ayt', None, 'soru bankası', 'https://www.sadecekitap.com//okyanus-yayinlari-ayt-konutik-trigonometri-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/okyanus-yayinlari-ayt-konutik-trigonometri-soru-bankasi-59668-1.jpg') 
+ 
+DEBUG:
+("Okyanus Yayınları TYT 40 Seans 4'lü Deneme", 'Okyanus Yayınları', None, '56.66', '76.00', None, None, 'genel', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//okyanus-yayinlari-tyt-40-seans-4lu-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/okyanus-yayinlari-tyt-40-seans-4lu-deneme-59667-1.jpg') 
+ 
+DEBUG:
+('Rehber Matematik 33 Günde AYT Matematik Kamp Kitabı', 'Rehber Matematik Yayınları', None, '61.79', '69.00', None, None, 'genel', 'ayt', None, 'diğer', 'https://www.sadecekitap.com//rehber-matematik-33-gunde-ayt-matematik-kamp-kitabi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/rehber-matematik-33-gunde-ayt-matematik-kamp-kitabi-59657-1.png') 
+ 
+DEBUG:
+('Okyanus Yayınları TYT 40 Seans Coğrafya', 'Okyanus Yayınları', None, '146.12', '196.00', None, None, 'coğrafya', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//okyanus-yayinlari-tyt-40-seans-cografya', 'https://www.sadecekitap.com/resized/400x400/images/urunler/okyanus-yayinlari-tyt-40-seans-cografya-59656-1.jpg') 
+ 
+DEBUG:
+('Rehber Matematik 49 Günde TYT Geometri Video Ders Notları', 'Rehber Matematik Yayınları', None, '231.93', '259.00', None, None, 'matematik', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//rehber-matematik-49-gunde-tyt-geometri-video-ders-notlari', 'https://www.sadecekitap.com/resized/400x400/images/urunler/rehber-matematik-49-gunde-tyt-geometri-video-ders-notlari-59655-1.png') 
+ 
+DEBUG:
+('Okyanus Yayınları TYT - AYT KonuTik Polinomlar Çarpanlara Ayırma II. Derece Denklemler Ve Eşitsizlikler Soru Bankası', 'Okyanus Yayınları', None, '93.93', '126.00', None, None, 'matematik', 'lise', None, 'soru bankası', 'https://www.sadecekitap.com//okyanus-yayinlari-tyt-ayt-konutik-polinomlar-carpanlara-ayirma-ii-derece-denklemler-ve-esitsizlikler-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/okyanus-yayinlari-tyt-ayt-konutik-polinomlar-carpanlara-ayirma-ii-derece-denklemler-ve-esitsizlikler-soru-bankasi-59654-1.jpg') 
+ 
+DEBUG:
+('Okyanus Yayınları TYT - AYT KonuTik Fonksiyonlar Ve Parabol Soru Bankası', 'Okyanus Yayınları', None, '99.90', '134.00', None, None, 'matematik', 'lise', None, 'soru bankası', 'https://www.sadecekitap.com//okyanus-yayinlari-tyt-ayt-konutik-fonksiyonlar-ve-parabol-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/okyanus-yayinlari-tyt-ayt-konutik-fonksiyonlar-ve-parabol-soru-bankasi-59653-1.jpg') 
+ 
+DEBUG:
+("Rehber Matematik 0'dan Problemler", 'Rehber Matematik Yayınları', None, '160.29', '179.00', None, None, 'matematik', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//rehber-matematik-0dan-problemler', 'https://www.sadecekitap.com/resized/400x400/images/urunler/rehber-matematik-0dan-problemler-59652-1.png') 
+ 
+DEBUG:
+('Rehber Matematik 2024 Tayfa 49 Günde TYT Matematik Video Ders Notları', 'Rehber Matematik Yayınları', None, '191.64', '214.00', None, None, 'genel', 'tyt', '2024', 'diğer', 'https://www.sadecekitap.com//rehber-matematik-2024-tayfa-49-gunde-tyt-matematik-video-ders-notlari', 'https://www.sadecekitap.com/resized/400x400/images/urunler/rehber-matematik-2024-tayfa-49-gunde-tyt-matematik-video-ders-notlari-59651-1.png') 
+ 
+DEBUG:
+('Rehber Matematik 49 Günde TYT Matematik Kampı', 'Rehber Matematik Yayınları', None, '222.98', '249.00', None, None, 'genel', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//rehber-matematik-49-gunde-tyt-matematik-kampi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/rehber-matematik-49-gunde-tyt-matematik-kampi-59650-1.png') 
+ 
+DEBUG:
+('Bes Yayınları TYT Matematik Ulti Serisi Soru Bankası', 'Bes Yayınları', None, '193.62', '229.00', None, None, 'matematik', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//bes-yayinlari-tyt-matematik-ulti-serisi-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/bes-yayinlari-tyt-matematik-ulti-serisi-soru-bankasi-59649-1.png') 
+ 
+DEBUG:
+('Okyanus Yayınları TYT 40 Seans Türkçe', 'Okyanus Yayınları', None, '135.68', '182.00', None, None, 'türkçe', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//okyanus-yayinlari-tyt-40-seans-turkce', 'https://www.sadecekitap.com/resized/400x400/images/urunler/okyanus-yayinlari-tyt-40-seans-turkce-59648-1.jpg') 
+ 
+DEBUG:
+('Orijinal Yayınları TYT Matematik Mikro Soru Bankası', 'Orijinal Yayınları', None, '193.62', '229.00', None, None, 'matematik', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//orijinal-yayinlari-tyt-matematik-mikro-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/orijinal-yayinlari-tyt-matematik-mikro-soru-bankasi-59632-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 AYT Biyoloji Tamamı Video Çözümlü Soru Bankası', 'Benim Hocam Yayınları', None, '127.10', '200.00', None, None, 'biyoloji', 'ayt', '2024', 'soru bankası', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-ayt-biyoloji-tamami-video-cozumlu-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-ayt-biyoloji-tamami-video-cozumlu-soru-bankasi-59628-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 AYT Biyoloji Ders Notları', 'Benim Hocam Yayınları', None, '127.10', '200.00', None, None, 'biyoloji', 'ayt', '2024', 'diğer', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-ayt-biyoloji-ders-notlari', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-ayt-biyoloji-ders-notlari-59627-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları Coğrafyanın Kodları Türkiye ve Dünya Duvar Haritaları Poster Notlar ', 'Kr Akademi Yayınları', None, '79.70', '89.00', None, None, 'coğrafya', 'lise', None, 'diğer', 'https://www.sadecekitap.com//kr-akademi-yayinlari-cografyanin-kodlari-turkiye-ve-dunya-duvar-haritalari-poster-notlar', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-cografyanin-kodlari-turkiye-ve-dunya-duvar-haritalari-poster-notlar-59626-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 Tüm Adaylar İçin Taktiklerle Çarpanlara Ayırma - 1. Dereceden Denklemler - Oran Orantı Konu Anlatımlı', 'Benim Hocam Yayınları', None, '111.28', '160.00', None, None, 'genel', 'lise', '2024', 'diğer', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-tum-adaylar-icin-taktiklerle-carpanlara-ayirma-1-dereceden-denklemler-oran-oranti-konu-anlatimli', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-tum-adaylar-icin-taktiklerle-carpanlara-ayirma-1-dereceden-denklemler-oran-oranti-konu-anlatimli-59608-1.jpg') 
+ 
+DEBUG:
+('İlk Adım Yayınları Geometriye İlk Adım ', 'İlk Adım Yayınları', None, '115.52', '129.00', None, None, 'matematik', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//ilk-adim-yayinlari-geometriye-ilk-adim', 'https://www.sadecekitap.com/resized/400x400/images/urunler/ilk-adim-yayinlari-geometriye-ilk-adim-59552-1.jpg') 
+ 
+DEBUG:
+('Biyoanaliz Yayınları TYT Biyoloji Soru Bankası', 'Biyoanaliz Yayınları', None, '125.98', '149.00', None, None, 'biyoloji', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//biyoanaliz-yayinlari-tyt-biyoloji-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/biyoanaliz-yayinlari-tyt-biyoloji-soru-bankasi-59530-1.png') 
+ 
+DEBUG:
+('Aromat Yayınları TYT Kimya Soru Bankası', 'Aromat Yayınları', None, '139.51', '165.00', None, None, 'kimya', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//aromat-yayinlari-tyt-kimya-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/aromat-yayinlari-tyt-kimya-soru-bankasi-59529-1.jpg') 
+ 
+DEBUG:
+('Aromat Yayınları TYT Fizik Soru Bankası', 'Aromat Yayınları', None, '168.25', '199.00', None, None, 'fizik', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//aromat-yayinlari-tyt-fizik-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/aromat-yayinlari-tyt-fizik-soru-bankasi-59528-1.jpg') 
+ 
+DEBUG:
+('Aromat Yayınları TYT Matematik Soru Bankası', 'Aromat Yayınları', None, '193.62', '229.00', None, None, 'matematik', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//aromat-yayinlari-tyt-matematik-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/aromat-yayinlari-tyt-matematik-soru-bankasi-59527-1.jpg') 
+ 
+DEBUG:
+('Aromat Yayınları TYT AYT KPSS DGS ALES Paragraf Soru Bankası', 'Aromat Yayınları', None, '151.34', '179.00', None, None, 'türkçe', 'lise', None, 'soru bankası', 'https://www.sadecekitap.com//aromat-yayinlari-tyt-ayt-kpss-dgs-ales-paragraf-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/aromat-yayinlari-tyt-ayt-kpss-dgs-ales-paragraf-soru-bankasi-59526-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları VİP Fizik TYT Soru Bankası', 'Kr Akademi Yayınları', None, '178.20', '199.00', None, None, 'fizik', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//kr-akademi-yayinlari-vip-fizik-tyt-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-vip-fizik-tyt-soru-bankasi-59513-1.png') 
+ 
+DEBUG:
+('3D Yayınları TYT  Biyoloji Video Destekli Defter', '3d Yayınları', None, '95.93', '163.00', None, None, 'biyoloji', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//3d-yayinlari-tyt-biyoloji-video-destekli-defter', 'https://www.sadecekitap.com/resized/400x400/images/urunler/3d-yayinlari-tyt-biyoloji-video-destekli-defter-59512-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları Kimya Adası TYT Kimya Soru Bankası ', 'Kr Akademi Yayınları', None, '143.19', '159.90', None, None, 'kimya', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//kr-akademi-yayinlari-kimya-adasi-tyt-kimya-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-kimya-adasi-tyt-kimya-soru-bankasi-59474-1.jpg') 
+ 
+DEBUG:
+('Sınav Yayınları TYT Coğrafya Konu Anlatımlı Cep Kitabı', 'Sınav Yayınları', None, '12.00', '20.00', None, None, 'coğrafya', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//sinav-yayinlari-tyt-cografya-konu-anlatimli-cep-kitabi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/sinav-yayinlari-tyt-cografya-konu-anlatimli-cep-kitabi-59473-1.jpg') 
+ 
+DEBUG:
+('Sınav Yayınları TYT Tarih Konu Anlatımlı Cep Kitabı', 'Sınav Yayınları', None, '12.00', '20.00', None, None, 'tarih', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//sinav-yayinlari-tyt-tarih-konu-anlatimli-cep-kitabi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/sinav-yayinlari-tyt-tarih-konu-anlatimli-cep-kitabi-59472-1.jpg') 
+ 
+DEBUG:
+("Gezgin Türkçe Hale Hoca  10 TYT Türkçe 40'ta 40 Deneme Kampı", 'Gezgin Türkçe Hale Hoca Yayınları', None, '43.88', '49.00', None, None, 'genel', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//gezgin-turkce-hale-hoca-10-tyt-turkce-40ta-40-deneme-kampi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/gezgin-turkce-hale-hoca-10-tyt-turkce-40ta-40-deneme-kampi-59443-1.png') 
+ 
+DEBUG:
+('Akca Yayınları TYT Matematik Soru Bankası', 'Akca Yayınları', None, '125.37', '140.00', None, None, 'matematik', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//akca-yayinlari-tyt-matematik-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/akca-yayinlari-tyt-matematik-soru-bankasi-59442-1.jpg') 
+ 
+DEBUG:
+('Gezgin Türkçe Hale Hoca Paragrafın Matematiği EKO Soru Bankası', 'Gezgin Türkçe Hale Hoca Yayınları', None, '52.83', '59.00', None, None, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//gezgin-turkce-hale-hoca-paragrafin-matematigi-eko-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/gezgin-turkce-hale-hoca-paragrafin-matematigi-eko-soru-bankasi-59441-1.png') 
+ 
+DEBUG:
+('Kr Akademi Yayınları Gezgin Türkçe Hale Hoca Etkili Hızlı Okuma Anlama Teknikleri', 'Kr Akademi Yayınları', None, '170.15', '190.00', None, None, 'türkçe', 'lise', None, 'diğer', 'https://www.sadecekitap.com//kr-akademi-yayinlari-gezgin-turkce-hale-hoca-etkili-hizli-okuma-anlama-teknikleri', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-gezgin-turkce-hale-hoca-etkili-hizli-okuma-anlama-teknikleri-59440-1.jpg') 
+ 
+DEBUG:
+('Miray Yayınları AYT Kimya 30 Deneme', 'Miray Yayınları', None, '71.57', '96.00', None, None, 'kimya', 'ayt', None, 'deneme', 'https://www.sadecekitap.com//miray-yayinlari-ayt-kimya-30-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/miray-yayinlari-ayt-kimya-30-deneme-59431-1.jpg') 
+ 
+DEBUG:
+('Aydın Yayınları AYT Edebiyat Soru Bankası', 'Aydın Yayınları', None, '243.03', '326.00', None, None, 'edebiyat', 'ayt', None, 'soru bankası', 'https://www.sadecekitap.com//aydin-yayinlari-ayt-edebiyat-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/aydin-yayinlari-ayt-edebiyat-soru-bankasi-59430-1.jpg') 
+ 
+DEBUG:
+('Miray Yayınları TYT Biyoloji 30 Deneme', 'Miray Yayınları', None, '66.35', '89.00', None, None, 'biyoloji', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//miray-yayinlari-tyt-biyoloji-30-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/miray-yayinlari-tyt-biyoloji-30-deneme-59429-1.jpg') 
+ 
+DEBUG:
+('Miray Yayınları TYT Fizik 30 Deneme', 'Miray Yayınları', None, '64.86', '87.00', None, None, 'fizik', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//miray-yayinlari-tyt-fizik-30-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/miray-yayinlari-tyt-fizik-30-deneme-59428-1.jpg') 
+ 
+DEBUG:
+('Miray Yayınları TYT Kimya 30 Deneme', 'Miray Yayınları', None, '66.35', '89.00', None, None, 'kimya', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//miray-yayinlari-tyt-kimya-30-deneme-1', 'https://www.sadecekitap.com/resized/400x400/images/urunler/miray-yayinlari-tyt-kimya-30-deneme-59427-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları Betül Biyoloji Konu Anlatımı 28 Günde TYT Biyoloji Video Kamp Kitabı ', 'Kr Akademi Yayınları', None, '116.33', '129.90', None, None, 'biyoloji', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//kr-akademi-yayinlari-betul-biyoloji-konu-anlatimi-28-gunde-tyt-biyoloji-video-kamp-kitabi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-betul-biyoloji-konu-anlatimi-28-gunde-tyt-biyoloji-video-kamp-kitabi-59426-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 AYT Kimya Ders Notları', 'Benim Hocam Yayınları', None, '127.10', '200.00', None, None, 'kimya', 'ayt', '2024', 'diğer', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-ayt-kimya-ders-notlari', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-ayt-kimya-ders-notlari-59421-1.jpg') 
+ 
+DEBUG:
+('Limit Yayınları AYT Matematik 15x40 Denemeleri', 'Limit Yayınları', None, '129.10', '200.00', None, None, 'matematik', 'ayt', None, 'deneme', 'https://www.sadecekitap.com//limit-yayinlari-ayt-matematik-15x40-denemeleri', 'https://www.sadecekitap.com/resized/400x400/images/urunler/limit-yayinlari-ayt-matematik-15x40-denemeleri-59419-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları 2024 Barış Hoca TYT Dr. Biyoloji Soru Bankası ', 'Kr Akademi Yayınları', None, '134.24', '149.90', None, None, 'biyoloji', 'tyt', '2024', 'soru bankası', 'https://www.sadecekitap.com//kr-akademi-yayinlari-2024-baris-hoca-tyt-dr-biyoloji-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-2024-baris-hoca-tyt-dr-biyoloji-soru-bankasi-59418-1.jpg') 
+ 
+DEBUG:
+('Köşebilgi  TYT Türkçe Soru Bankası', 'Köşebilgi Yayınları', None, '153.00', '340.00', None, None, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//kosebilgi-tyt-turkce-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kosebilgi-tyt-turkce-soru-bankasi-59412-1.jpg') 
+ 
+DEBUG:
+('Strateji Yayınları TYT Gün Gün Tarih Soru Bankası', 'Strateji Yayınları', None, '117.00', '260.00', None, None, 'tarih', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//strateji-yayinlari-tyt-gun-gun-tarih-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/strateji-yayinlari-tyt-gun-gun-tarih-soru-bankasi-59411-1.jpg') 
+ 
+DEBUG:
+('Limit Yayınları TYT Sosyal Bilimler 20x25 Deneme', 'Limit Yayınları', None, '129.10', '200.00', None, None, 'sosyal', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//limit-yayinlari-tyt-sosyal-bilimler-20x25-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/limit-yayinlari-tyt-sosyal-bilimler-20x25-deneme-59406-1.jpg') 
+ 
+DEBUG:
+('Limit Yayınları TYT Türkçe 5 Deneme', 'Limit Yayınları', None, '32.28', '50.00', None, None, 'türkçe', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//limit-yayinlari-tyt-turkce-5-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/limit-yayinlari-tyt-turkce-5-deneme-59405-1.webp') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 AYT Fizik Soru Bankası', 'Benim Hocam Yayınları', None, '127.10', '200.00', None, None, 'fizik', 'ayt', '2024', 'soru bankası', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-ayt-fizik-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-ayt-fizik-soru-bankasi-59379-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 AYT Kimya Tamamı Video Çözümlü Soru Bankası', 'Benim Hocam Yayınları', None, '127.10', '200.00', None, None, 'kimya', 'ayt', '2024', 'soru bankası', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-ayt-kimya-tamami-video-cozumlu-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-ayt-kimya-tamami-video-cozumlu-soru-bankasi-59378-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 AYT Matematik Tamamı Video Çözümlü Soru Bankası', 'Benim Hocam Yayınları', None, '152.52', '240.00', None, None, 'matematik', 'ayt', '2024', 'soru bankası', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-ayt-matematik-tamami-video-cozumlu-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-ayt-matematik-tamami-video-cozumlu-soru-bankasi-59377-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 AYT Felsefe Grubu Soru Bankası', 'Benim Hocam Yayınları', None, '127.10', '200.00', None, None, 'felsefe', 'ayt', '2024', 'soru bankası', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-ayt-felsefe-grubu-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-ayt-felsefe-grubu-soru-bankasi-59376-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 AYT Coğrafya Tamamı Video Çözümlü Soru Bankası', 'Benim Hocam Yayınları', None, '126.46', '199.00', None, None, 'coğrafya', 'ayt', '2024', 'soru bankası', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-ayt-cografya-tamami-video-cozumlu-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-ayt-cografya-tamami-video-cozumlu-soru-bankasi-59375-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 AYT Matematik Ders Notları', 'Benim Hocam Yayınları', None, '152.52', '240.00', None, None, 'matematik', 'ayt', '2024', 'diğer', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-ayt-matematik-ders-notlari', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-ayt-matematik-ders-notlari-59374-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 AYT Felsefe Grubu Ders Notları', 'Benim Hocam Yayınları', None, '126.46', '199.00', None, None, 'felsefe', 'ayt', '2024', 'diğer', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-ayt-felsefe-grubu-ders-notlari', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-ayt-felsefe-grubu-ders-notlari-59373-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 AYT Coğrafya Ders Notları', 'Benim Hocam Yayınları', None, '126.46', '199.00', None, None, 'coğrafya', 'ayt', '2024', 'diğer', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-ayt-cografya-ders-notlari', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-ayt-cografya-ders-notlari-59372-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 AYT Fizik Ders Notları', 'Benim Hocam Yayınları', None, '152.52', '240.00', None, None, 'fizik', 'ayt', '2024', 'diğer', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-ayt-fizik-ders-notlari', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-ayt-fizik-ders-notlari-59371-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları Tüm Adaylar İçin Taktiklerle Temel Kavramlar ve Sayılar Konu Anlatımlı Soru Fasikülü', 'Benim Hocam Yayınları', None, '125.19', '180.00', None, None, 'genel', 'lise', None, 'diğer', 'https://www.sadecekitap.com//benim-hocam-yayinlari-tum-adaylar-icin-taktiklerle-temel-kavramlar-ve-sayilar-konu-anlatimli-soru-fasikulu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-tum-adaylar-icin-taktiklerle-temel-kavramlar-ve-sayilar-konu-anlatimli-soru-fasikulu-59370-1.jpg') 
+ 
+DEBUG:
+('Pelikan Yayınevi Tecrübe Taktiklerle Dil Bilgisi Tamamı Çözümlü Soru Bankası', 'Pelikan Yayınevi', None, '94.50', '135.00', None, None, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//pelikan-yayinevi-tecrube-taktiklerle-dil-bilgisi-tamami-cozumlu-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/pelikan-yayinevi-tecrube-taktiklerle-dil-bilgisi-tamami-cozumlu-soru-bankasi-59369-1.jpg') 
+ 
+DEBUG:
+('Pelikan Yayınevi Tecrübe Taktiklerle Paragraf Soru Bankası ', 'Pelikan Yayınevi', None, '126.00', '180.00', None, None, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//pelikan-yayinevi-tecrube-taktiklerle-paragraf-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/pelikan-yayinevi-tecrube-taktiklerle-paragraf-soru-bankasi-59368-1.jpg') 
+ 
+DEBUG:
+('Pelikan Yayınevi Neyin Peşindesin? Paragraf Soru Bankası Video Destekli Özel Sorularla', 'Pelikan Yayınevi', None, '119.00', '170.00', None, None, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//pelikan-yayinevi-neyin-pesindesin-paragraf-soru-bankasi-video-destekli-ozel-sorularla', 'https://www.sadecekitap.com/resized/400x400/images/urunler/pelikan-yayinevi-neyin-pesindesin-paragraf-soru-bankasi-video-destekli-ozel-sorularla-59367-1.jpg') 
+ 
+DEBUG:
+("Pelikan Yayınevi Rüştü Hoca'dan Taktiklerle Türkçe Ders Notları", 'Pelikan Yayınevi', None, '157.50', '225.00', None, None, 'türkçe', 'lise', None, 'diğer', 'https://www.sadecekitap.com//pelikan-yayinevi-rustu-hocadan-taktiklerle-turkce-ders-notlari', 'https://www.sadecekitap.com/resized/400x400/images/urunler/pelikan-yayinevi-rustu-hocadan-taktiklerle-turkce-ders-notlari-59366-1.jpg') 
+ 
+DEBUG:
+('Üç Dört Beş Yayınları 2024 TYT AYT Geometri Soru Bankası 1. Kitap', 'Üç Dört Beş Yayınları', None, '175.96', '299.00', None, None, 'matematik', 'lise', '2024', 'soru bankası', 'https://www.sadecekitap.com//uc-dort-bes-yayinlari-2024-tyt-ayt-geometri-soru-bankasi-1-kitap', 'https://www.sadecekitap.com/resized/400x400/images/urunler/uc-dort-bes-yayinlari-2024-tyt-ayt-geometri-soru-bankasi-1-kitap-59344-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 AYT Türk Dili ve Edebiyatı Ders Notları', 'Benim Hocam Yayınları', None, '139.81', '220.00', None, None, 'edebiyat', 'ayt', '2024', 'diğer', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-ayt-turk-dili-ve-edebiyati-ders-notlari', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-ayt-turk-dili-ve-edebiyati-ders-notlari-59338-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 AYT Türk Dili ve Edebiyatı Tamamı Video Çözümlü Soru Bankası', 'Benim Hocam Yayınları', None, '165.23', '260.00', None, None, 'edebiyat', 'ayt', '2024', 'soru bankası', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-ayt-turk-dili-ve-edebiyati-tamami-video-cozumlu-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-ayt-turk-dili-ve-edebiyati-tamami-video-cozumlu-soru-bankasi-59321-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları Gamze Hoca Türkçenin Matematiği Tüm Sınavlar İçin Dil Bilgisi Soru Bankası ', 'Kr Akademi Yayınları', None, '106.56', '119.00', None, None, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//kr-akademi-yayinlari-gamze-hoca-turkcenin-matematigi-tum-sinavlar-icin-dil-bilgisi-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-gamze-hoca-turkcenin-matematigi-tum-sinavlar-icin-dil-bilgisi-soru-bankasi-59320-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 AYT Tarih Tamamı Video Çözümlü Soru Bankası', 'Benim Hocam Yayınları', None, '127.10', '200.00', None, None, 'tarih', 'ayt', '2024', 'soru bankası', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-ayt-tarih-tamami-video-cozumlu-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-ayt-tarih-tamami-video-cozumlu-soru-bankasi-59311-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 AYT Tarih Ders Notları', 'Benim Hocam Yayınları', None, '126.46', '199.00', None, None, 'tarih', 'ayt', '2024', 'diğer', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-ayt-tarih-ders-notlari', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-ayt-tarih-ders-notlari-59310-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları Gamze Hoca Türkçenin Matematiği Tüm Sınavlar İçin Dil Bilgisi Video Ders Kitabı ', 'Kr Akademi Yayınları', None, '115.52', '129.00', None, None, 'türkçe', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//kr-akademi-yayinlari-gamze-hoca-turkcenin-matematigi-tum-sinavlar-icin-dil-bilgisi-video-ders-kitabi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-gamze-hoca-turkcenin-matematigi-tum-sinavlar-icin-dil-bilgisi-video-ders-kitabi-59309-1.jpg') 
+ 
+DEBUG:
+('Ens Yayınları AYT Biyoloji Destek Soru Bankası', 'Ens Yayıncılık', None, '134.43', '159.00', None, None, 'biyoloji', 'ayt', None, 'soru bankası', 'https://www.sadecekitap.com//ens-yayinlari-ayt-biyoloji-destek-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/ens-yayinlari-ayt-biyoloji-destek-soru-bankasi-59308-1.png') 
+ 
+DEBUG:
+('Bilgi Sarmal AYT Sayısal Tam Tekrar Kamp', 'Bilgi Sarmal Yayınları', None, '97.23', '115.00', None, None, 'sayısal', 'ayt', None, 'diğer', 'https://www.sadecekitap.com//bilgi-sarmal-ayt-sayisal-tam-tekrar-kamp', 'https://www.sadecekitap.com/resized/400x400/images/urunler/bilgi-sarmal-ayt-sayisal-tam-tekrar-kamp-59307-1.jpg') 
+ 
+DEBUG:
+('Apotemi Yayınları TYT Sosyal Bilimler 25 Deneme', 'Apotemi Yayınları', None, '58.34', '69.00', None, None, 'sosyal', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//apotemi-yayinlari-tyt-sosyal-bilimler-25-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/apotemi-yayinlari-tyt-sosyal-bilimler-25-deneme-59303-1.png') 
+ 
+DEBUG:
+('Aktif Öğrenme Yayınları TYT Kuvvet Serisi Sayılar', 'Aktif Öğrenme Yayınları', None, '117.52', '139.00', None, None, 'fizik', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//aktif-ogrenme-yayinlari-tyt-kuvvet-serisi-sayilar', 'https://www.sadecekitap.com/resized/400x400/images/urunler/aktif-ogrenme-yayinlari-tyt-kuvvet-serisi-sayilar-59302-1.png') 
+ 
+DEBUG:
+('Benim Hocam Yayınları TYT - KPSS Taktiklerle Dil Bilgisi Tamamı Video Çözümlü Soru Bankası', 'Benim Hocam Yayınları', None, '139.10', '200.00', None, None, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//benim-hocam-yayinlari-tyt-kpss-taktiklerle-dil-bilgisi-tamami-video-cozumlu-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-tyt-kpss-taktiklerle-dil-bilgisi-tamami-video-cozumlu-soru-bankasi-59301-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 TYT Kimya Tamamı Çözümlü Soru Bankası', 'Benim Hocam Yayınları', None, '139.81', '220.00', None, None, 'kimya', 'tyt', '2024', 'soru bankası', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-tyt-kimya-tamami-cozumlu-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-tyt-kimya-tamami-cozumlu-soru-bankasi-59300-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları TYT - AYT - KPSS Taktiklerle Paragraf Tamamı Video Çözümlü Soru Bankası', 'Benim Hocam Yayınları', None, '139.10', '200.00', None, None, 'türkçe', 'lise', None, 'soru bankası', 'https://www.sadecekitap.com//benim-hocam-yayinlari-tyt-ayt-kpss-taktiklerle-paragraf-tamami-video-cozumlu-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-tyt-ayt-kpss-taktiklerle-paragraf-tamami-video-cozumlu-soru-bankasi-59299-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 TYT Fizik Tamamı Çözümlü Soru Bankası', 'Benim Hocam Yayınları', None, '127.10', '200.00', None, None, 'fizik', 'tyt', '2024', 'soru bankası', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-tyt-fizik-tamami-cozumlu-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-tyt-fizik-tamami-cozumlu-soru-bankasi-59273-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 TYT - AYT Din Kültürü ve Ahlak Bilgisi Ders Notları ve Tamamı Çözümlü Soru Bankası', 'Benim Hocam Yayınları', None, '126.46', '199.00', None, None, 'din', 'lise', '2024', 'soru bankası', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-tyt-ayt-din-kulturu-ve-ahlak-bilgisi-ders-notlari-ve-tamami-cozumlu-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-tyt-ayt-din-kulturu-ve-ahlak-bilgisi-ders-notlari-ve-tamami-cozumlu-soru-bankasi-59272-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 TYT-AYT Geometri Tamamı Çözümlü Soru Bankası', 'Benim Hocam Yayınları', None, '127.10', '200.00', None, None, 'matematik', 'lise', '2024', 'soru bankası', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-tyt-ayt-geometri-tamami-cozumlu-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-tyt-ayt-geometri-tamami-cozumlu-soru-bankasi-59271-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 TYT Tarih Tamamı Çözümlü Soru Bankası', 'Benim Hocam Yayınları', None, '126.46', '199.00', None, None, 'tarih', 'tyt', '2024', 'soru bankası', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-tyt-tarih-tamami-cozumlu-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-tyt-tarih-tamami-cozumlu-soru-bankasi-59270-1.jpg') 
+ 
+DEBUG:
+('Kr Akademi Yayınları SML Hoca TYT Matematik 40 Soru Serisi Video Soru Kitabı ', 'Kr Akademi Yayınları', None, '61.79', '69.00', None, None, 'matematik', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//kr-akademi-yayinlari-sml-hoca-tyt-matematik-40-soru-serisi-video-soru-kitabi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-sml-hoca-tyt-matematik-40-soru-serisi-video-soru-kitabi-59269-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 TYT Tarih Ders Notları', 'Benim Hocam Yayınları', None, '126.46', '199.00', None, None, 'tarih', 'tyt', '2024', 'diğer', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-tyt-tarih-ders-notlari', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-tyt-tarih-ders-notlari-59268-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 TYT-AYT Geometri Ders Notları', 'Benim Hocam Yayınları', None, '139.81', '220.00', None, None, 'matematik', 'lise', '2024', 'diğer', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-tyt-ayt-geometri-ders-notlari', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-tyt-ayt-geometri-ders-notlari-59267-1.jpg') 
+ 
+DEBUG:
+('Mert Hoca Yayınları 2024 60 Günde TYT-AYT Geometri Kampı Video Ders Kitabı', 'Mert Hoca Yayınları', None, '169.25', '189.00', None, None, 'matematik', 'lise', '2024', 'diğer', 'https://www.sadecekitap.com//mert-hoca-yayinlari-2024-60-gunde-tyt-ayt-geometri-kampi-video-ders-kitabi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/mert-hoca-yayinlari-2024-60-gunde-tyt-ayt-geometri-kampi-video-ders-kitabi-59266-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 TYT Biyoloji Tamamı Çözümlü Soru Bankası', 'Benim Hocam Yayınları', None, '127.10', '200.00', None, None, 'biyoloji', 'tyt', '2024', 'soru bankası', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-tyt-biyoloji-tamami-cozumlu-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-tyt-biyoloji-tamami-cozumlu-soru-bankasi-59253-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 TYT Coğrafya Tamamı Çözümlü Soru Bankası Öğrenme Pekiştirme Kendini Deneme Testleri', 'Benim Hocam Yayınları', None, '126.46', '199.00', None, None, 'sosyal', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-tyt-cografya-tamami-cozumlu-soru-bankasi-ogrenme-pekistirme-kendini-deneme-testleri', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-tyt-cografya-tamami-cozumlu-soru-bankasi-ogrenme-pekistirme-kendini-deneme-testleri-59252-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 TYT Matematik Tamamı Çözümlü Soru Bankası', 'Benim Hocam Yayınları', None, '152.52', '240.00', None, None, 'matematik', 'tyt', '2024', 'soru bankası', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-tyt-matematik-tamami-cozumlu-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-tyt-matematik-tamami-cozumlu-soru-bankasi-59251-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 TYT Türkçe Tamamı Çözümlü Soru Bankası Konu Tekrar Posteri Hediyeli', 'Benim Hocam Yayınları', None, '127.10', '200.00', None, None, 'türkçe', 'tyt', '2024', 'soru bankası', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-tyt-turkce-tamami-cozumlu-soru-bankasi-konu-tekrar-posteri-hediyeli', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-tyt-turkce-tamami-cozumlu-soru-bankasi-konu-tekrar-posteri-hediyeli-59250-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 TYT Biyoloji Ders Notları', 'Benim Hocam Yayınları', None, '126.46', '199.00', None, None, 'biyoloji', 'tyt', '2024', 'diğer', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-tyt-biyoloji-ders-notlari', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-tyt-biyoloji-ders-notlari-59249-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 TYT Kimya Ders Notları', 'Benim Hocam Yayınları', None, '127.10', '200.00', None, None, 'kimya', 'tyt', '2024', 'diğer', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-tyt-kimya-ders-notlari', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-tyt-kimya-ders-notlari-59248-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 TYT Fizik Ders Notları', 'Benim Hocam Yayınları', None, '127.10', '200.00', None, None, 'fizik', 'tyt', '2024', 'diğer', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-tyt-fizik-ders-notlari', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-tyt-fizik-ders-notlari-59247-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 TYT Coğrafya Ders Notları', 'Benim Hocam Yayınları', None, '126.46', '199.00', None, None, 'coğrafya', 'tyt', '2024', 'diğer', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-tyt-cografya-ders-notlari', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-tyt-cografya-ders-notlari-59246-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 TYT Felsefe Ders Notları ve Tamamı Çözümlü Soru Bankası', 'Benim Hocam Yayınları', None, '126.46', '199.00', None, None, 'felsefe', 'tyt', '2024', 'soru bankası', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-tyt-felsefe-ders-notlari-ve-tamami-cozumlu-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-tyt-felsefe-ders-notlari-ve-tamami-cozumlu-soru-bankasi-59245-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 TYT Matematik Ders Notları MAF', 'Benim Hocam Yayınları', None, '152.52', '240.00', None, None, 'matematik', 'tyt', '2024', 'diğer', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-tyt-matematik-ders-notlari-maf', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-tyt-matematik-ders-notlari-maf-59244-1.jpg') 
+ 
+DEBUG:
+('Benim Hocam Yayınları 2024 TYT Türkçe Ders Notları Konu Sonu Testleri İlaveli', 'Benim Hocam Yayınları', None, '126.46', '199.00', None, None, 'türkçe', 'tyt', '2024', 'diğer', 'https://www.sadecekitap.com//benim-hocam-yayinlari-2024-tyt-turkce-ders-notlari-konu-sonu-testleri-ilaveli', 'https://www.sadecekitap.com/resized/400x400/images/urunler/benim-hocam-yayinlari-2024-tyt-turkce-ders-notlari-konu-sonu-testleri-ilaveli-59243-1.jpg') 
+ 
+DEBUG:
+('Süre Yayınları TYT Türkçe Soru Bankası', 'Süre Yayınları', None, '152.15', '179.00', None, None, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//sure-yayinlari-tyt-turkce-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/sure-yayinlari-tyt-turkce-soru-bankasi-59224-1.jpg') 
+ 
+DEBUG:
+('Toprak Yayıncılık AYT Fizik Soru Bankası', 'Toprak Yayıncılık', None, '154.92', '240.00', None, None, 'fizik', 'ayt', None, 'soru bankası', 'https://www.sadecekitap.com//toprak-yayincilik-ayt-fizik-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/toprak-yayincilik-ayt-fizik-soru-bankasi-59219-1.jpg') 
+ 
+DEBUG:
+('Toprak Yayıncılık AYT Matematik Soru Bankası', 'Toprak Yayıncılık', None, '180.09', '279.00', None, None, 'matematik', 'ayt', None, 'soru bankası', 'https://www.sadecekitap.com//toprak-yayincilik-ayt-matematik-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/toprak-yayincilik-ayt-matematik-soru-bankasi-59218-1.jpg') 
+ 
+DEBUG:
+('Toprak Yayıncılık AYT Coğrafya Soru Bankası', 'Toprak Yayıncılık', None, '106.51', '165.00', None, None, 'coğrafya', 'ayt', None, 'soru bankası', 'https://www.sadecekitap.com//toprak-yayincilik-ayt-cografya-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/toprak-yayincilik-ayt-cografya-soru-bankasi-59217-1.jpg') 
+ 
+DEBUG:
+('Toprak Yayıncılık AYT Edebiyat Soru Bankası', 'Toprak Yayıncılık', None, '180.09', '279.00', None, None, 'edebiyat', 'ayt', None, 'soru bankası', 'https://www.sadecekitap.com//toprak-yayincilik-ayt-edebiyat-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/toprak-yayincilik-ayt-edebiyat-soru-bankasi-59216-1.jpg') 
+ 
+DEBUG:
+('Toprak Yayıncılık AYT Biyoloji Soru Bankası', 'Toprak Yayıncılık', None, '154.92', '240.00', None, None, 'biyoloji', 'ayt', None, 'soru bankası', 'https://www.sadecekitap.com//toprak-yayincilik-ayt-biyoloji-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/toprak-yayincilik-ayt-biyoloji-soru-bankasi-59215-1.jpg') 
+ 
+DEBUG:
+('Toprak Yayıncılık AYT Tarih Soru Bankası', 'Toprak Yayıncılık', None, '135.56', '210.00', None, None, 'tarih', 'ayt', None, 'soru bankası', 'https://www.sadecekitap.com//toprak-yayincilik-ayt-tarih-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/toprak-yayincilik-ayt-tarih-soru-bankasi-59214-1.jpg') 
+ 
+DEBUG:
+('Toprak Yayıncılık TYT Biyoloji Soru Bankası', 'Toprak Yayıncılık', None, '125.87', '195.00', None, None, 'biyoloji', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//toprak-yayincilik-tyt-biyoloji-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/toprak-yayincilik-tyt-biyoloji-soru-bankasi-59213-1.jpg') 
+ 
+DEBUG:
+('Toprak Yayıncılık TYT Kimya Soru Bankası', 'Toprak Yayıncılık', None, '138.78', '215.00', None, None, 'kimya', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//toprak-yayincilik-tyt-kimya-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/toprak-yayincilik-tyt-kimya-soru-bankasi-59212-1.jpg') 
+ 
+DEBUG:
+('Toprak Yayıncılık TYT Fizik Soru Bankası', 'Toprak Yayıncılık', None, '138.78', '215.00', None, None, 'fizik', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//toprak-yayincilik-tyt-fizik-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/toprak-yayincilik-tyt-fizik-soru-bankasi-59211-1.jpg') 
+ 
+DEBUG:
+('Toprak Yayıncılık TYT Coğrafya Soru Bankası', 'Toprak Yayıncılık', None, '142.01', '220.00', None, None, 'coğrafya', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//toprak-yayincilik-tyt-cografya-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/toprak-yayincilik-tyt-cografya-soru-bankasi-59210-1.jpg') 
+ 
+DEBUG:
+('Toprak Yayıncılık TYT-AYT Geometri Soru Bankası', 'Toprak Yayıncılık', None, '193.00', '299.00', None, None, 'matematik', 'lise', None, 'soru bankası', 'https://www.sadecekitap.com//toprak-yayincilik-tyt-ayt-geometri-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/toprak-yayincilik-tyt-ayt-geometri-soru-bankasi-59209-1.jpg') 
+ 
+DEBUG:
+('Toprak Yayıncılık TYT Tarih Soru Bankası', 'Toprak Yayıncılık', None, '125.87', '195.00', None, None, 'tarih', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//toprak-yayincilik-tyt-tarih-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/toprak-yayincilik-tyt-tarih-soru-bankasi-59208-1.jpg') 
+ 
+DEBUG:
+('Toprak Yayıncılık TYT Matematik Soru Bankası', 'Toprak Yayıncılık', None, '180.09', '279.00', None, None, 'matematik', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//toprak-yayincilik-tyt-matematik-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/toprak-yayincilik-tyt-matematik-soru-bankasi-59207-1.jpg') 
+ 
+DEBUG:
+('Toprak Yayıncılık TYT Türkçe Soru Bankası', 'Toprak Yayıncılık', None, '180.09', '279.00', None, None, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//toprak-yayincilik-tyt-turkce-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/toprak-yayincilik-tyt-turkce-soru-bankasi-59206-1.jpg') 
+ 
+DEBUG:
+('Yediiklim Yayınları 2024 TYT-MSÜ-KPSS Dil Bilgisi Tamamı Video Çözümlü 30 Deneme', 'Yediiklim Yayınları', None, '33.04', '47.50', None, None, 'türkçe', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//yediiklim-yayinlari-2024-tyt-msu-kpss-dil-bilgisi-tamami-video-cozumlu-30-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/yediiklim-yayinlari-2024-tyt-msu-kpss-dil-bilgisi-tamami-video-cozumlu-30-deneme-59205-1.jpg') 
+ 
+DEBUG:
+('Yediiklim Yayınları TYT-KPSS-ALES-DGS Keyifli Matematik Tamamı Çözümlü Yaprak Test Çek Kopart', 'Yediiklim Yayınları', None, '89.72', '129.00', None, None, 'matematik', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//yediiklim-yayinlari-tyt-kpss-ales-dgs-keyifli-matematik-tamami-cozumlu-yaprak-test-cek-kopart', 'https://www.sadecekitap.com/resized/400x400/images/urunler/yediiklim-yayinlari-tyt-kpss-ales-dgs-keyifli-matematik-tamami-cozumlu-yaprak-test-cek-kopart-59195-1.jpg') 
+ 
+DEBUG:
+('Yediiklim Yayınları TYT-KPSS-ALES-DGS Keyifli Matematik Tamamı Çözümlü Soru Bankası', 'Yediiklim Yayınları', None, '138.40', '199.00', None, None, 'matematik', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//yediiklim-yayinlari-tyt-kpss-ales-dgs-keyifli-matematik-tamami-cozumlu-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/yediiklim-yayinlari-tyt-kpss-ales-dgs-keyifli-matematik-tamami-cozumlu-soru-bankasi-59170-1.jpg') 
+ 
+DEBUG:
+('Yediiklim Yayınları TYT-KPSS-ALES-DGS Keyifli Matematik Konu Anlatımı', 'Yediiklim Yayınları', None, '166.22', '239.00', None, None, 'matematik', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//yediiklim-yayinlari-tyt-kpss-ales-dgs-keyifli-matematik-konu-anlatimi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/yediiklim-yayinlari-tyt-kpss-ales-dgs-keyifli-matematik-konu-anlatimi-59169-1.jpg') 
+ 
+DEBUG:
+('Şenol Hoca 40 Günde TYT Matematik Kampı', 'Şenol Hoca', None, '107.46', '120.00', None, None, 'matematik', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//senol-hoca-40-gunde-tyt-matematik-kampi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/senol-hoca-40-gunde-tyt-matematik-kampi-59151-1.png') 
+ 
+DEBUG:
+('Kr Akademi Yayınları 2023 MSÜ Çıkmış Sorular Tıpkı Basım Kitapçığı ', 'Kr Akademi Yayınları', None, '19.50', '26.00', None, None, 'genel', 'lise', '2023', 'diğer', 'https://www.sadecekitap.com//kr-akademi-yayinlari-2023-msu-cikmis-sorular-tipki-basim-kitapcigi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-2023-msu-cikmis-sorular-tipki-basim-kitapcigi-59136-1.png') 
+ 
+DEBUG:
+('3D Yayınları TYT Coğrafya Video Destekli Defter', '3d Yayınları', None, '95.93', '163.00', None, None, 'coğrafya', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//3d-yayinlari-tyt-cografya-video-destekli-defter', 'https://www.sadecekitap.com/resized/400x400/images/urunler/3d-yayinlari-tyt-cografya-video-destekli-defter-59132-1.jpg') 
+ 
+DEBUG:
+('3D Yayınları TYT Fizik Video Destekli Defter', '3d Yayınları', None, '158.31', '269.00', None, None, 'fizik', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//3d-yayinlari-tyt-fizik-video-destekli-defter', 'https://www.sadecekitap.com/resized/400x400/images/urunler/3d-yayinlari-tyt-fizik-video-destekli-defter-59129-1.jpg') 
+ 
+DEBUG:
+('Tanım Yayınları TYT Biyoloji 30 Deneme', 'Tanım Yayınları', None, '32.97', '39.00', None, None, 'biyoloji', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//tanim-yayinlari-tyt-biyoloji-30-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/tanim-yayinlari-tyt-biyoloji-30-deneme-59119-1.png') 
+ 
+DEBUG:
+('Tanım Yayınları TYT Kimya 30 Deneme', 'Tanım Yayınları', None, '32.97', '39.00', None, None, 'kimya', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//tanim-yayinlari-tyt-kimya-30-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/tanim-yayinlari-tyt-kimya-30-deneme-59118-1.png') 
+ 
+DEBUG:
+('Kr Akademi Yayınları Coğrafyanın Kodları TYT Coğrafya 9. Sınıf 10. Sınıf Kamp Kitabı ', 'Kr Akademi Yayınları', None, '143.19', '159.90', None, None, 'coğrafya', '9.', None, 'diğer', 'https://www.sadecekitap.com//kr-akademi-yayinlari-cografyanin-kodlari-tyt-cografya-9-sinif-10-sinif-kamp-kitabi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-cografyanin-kodlari-tyt-cografya-9-sinif-10-sinif-kamp-kitabi-59070-1.png') 
+ 
+DEBUG:
+('KR Akademi Yayınları ÖSYM’nin TYT – AYT - MSÜ Son 4 Sınavı Çıkmış Sorular Tıpkı Basım Kitapçıkları', 'Kr Akademi Yayınları', None, '78.00', '104.00', None, None, 'genel', 'lise', None, 'diğer', 'https://www.sadecekitap.com//kr-akademi-yayinlari-osym-nin-tyt-ayt-msu-son-4-sinavi-cikmis-sorular-tipki-basim-kitapciklari', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kr-akademi-yayinlari-osym-nin-tyt-ayt-msu-son-4-sinavi-cikmis-sorular-tipki-basim-kitapciklari-59063-1.png') 
+ 
+DEBUG:
+('Marka Yayınları AYT Yeşil Deneme ', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'genel', 'ayt', None, 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-ayt-yesil-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-ayt-yesil-deneme-59050-1.png') 
+ 
+DEBUG:
+('Marka Yayınları AYT Yeni Nesil Turuncu Deneme Tamamı Çözümlü ', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'genel', 'ayt', None, 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-ayt-yeni-nesil-turuncu-deneme-tamami-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-ayt-yeni-nesil-turuncu-deneme-tamami-cozumlu-59049-1.png') 
+ 
+DEBUG:
+('Marka Yayınları AYT Kırmızı Deneme Yeni Nesil Tamamı Video Çözümlü ', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'genel', 'ayt', None, 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-ayt-kirmizi-deneme-yeni-nesil-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-ayt-kirmizi-deneme-yeni-nesil-tamami-video-cozumlu-59048-1.png') 
+ 
+DEBUG:
+('Marka Yayınları TYT Yeni Nesil Yeşil Deneme Tamamı Video Çözümlü ', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'genel', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-tyt-yeni-nesil-yesil-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-tyt-yeni-nesil-yesil-deneme-tamami-video-cozumlu-59047-1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları TYT Yeni Nesil Turuncu Deneme Tamamı Video Çözümlü ', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'genel', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-tyt-yeni-nesil-turuncu-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-tyt-yeni-nesil-turuncu-deneme-tamami-video-cozumlu-59046-1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları TYT Yeni Nesil Kırmızı Deneme Tamamı Video Çözümlü ', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'genel', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-tyt-yeni-nesil-kirmizi-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-tyt-yeni-nesil-kirmizi-deneme-tamami-video-cozumlu-59045-1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları TYT ÖSYM Tarzı 3 Deneme Sınavı Seti Tamamı Video Çözümlü', 'Marka Yayınları', None, '27.84', '35.00', None, None, 'genel', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-tyt-osym-tarzi-3-deneme-sinavi-seti-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-tyt-osym-tarzi-3-deneme-sinavi-seti-tamami-video-cozumlu-59044-1.jpg') 
+ 
+DEBUG:
+('Muhteşem Yayınları TYT 7 Deneme Seti Muhteşem Karma', 'Muhteşem Yayınları', None, '106.59', '179.00', None, None, 'genel', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//muhtesem-yayinlari-tyt-7-deneme-seti-muhtesem-karma', 'https://www.sadecekitap.com/resized/400x400/images/urunler/muhtesem-yayinlari-tyt-7-deneme-seti-muhtesem-karma-59043-1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Dil Bilgisi Tamamı Video Çözümlü 10 Deneme', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'türkçe', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-dil-bilgisi-tamami-video-cozumlu-10-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-dil-bilgisi-tamami-video-cozumlu-10-deneme-59041-1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları TYT Dil Bilgisi Tamamı Video Çözümlü 41 Deneme ', 'Marka Yayınları', None, '55.69', '70.00', None, None, 'türkçe', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-tyt-dil-bilgisi-tamami-video-cozumlu-41-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-tyt-dil-bilgisi-tamami-video-cozumlu-41-deneme-59039-1.png') 
+ 
+DEBUG:
+('Marka Yayınları AYT Fen Bilimleri ÖSYM Çıkmış ve Çıkabilecek Sorulardan Oluşturulmuş 6 Deneme Sınavı Tamamı Video Çözümlü ', 'Marka Yayınları', None, '19.89', '25.00', None, None, 'fen', 'ayt', None, 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-ayt-fen-bilimleri-osym-cikmis-ve-cikabilecek-sorulardan-olusturulmus-6-deneme-sinavi-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-ayt-fen-bilimleri-osym-cikmis-ve-cikabilecek-sorulardan-olusturulmus-6-deneme-sinavi-tamami-video-cozumlu-59035-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 AYT Fen Bilimleri 3x40 Deneme', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'fen', 'ayt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-ayt-fen-bilimleri-3x40-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-ayt-fen-bilimleri-3x40-deneme-59034-1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları 2024 AYT Sosyal Bilimler 2 3x40 Deneme', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'sosyal', 'ayt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-ayt-sosyal-bilimler-2-3x40-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-ayt-sosyal-bilimler-2-3x40-deneme-59033-1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları 2024 AYT Kimya 10 Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'kimya', 'ayt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-ayt-kimya-10-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-ayt-kimya-10-deneme-tamami-video-cozumlu-59031-1.jpg') 
+ 
+DEBUG:
+('Fix Yayınları AYT Kimya 22 Denemeleri ', 'Fix Yayınları', None, '19.89', '25.00', None, None, 'kimya', 'ayt', None, 'deneme', 'https://www.sadecekitap.com//fix-yayinlari-ayt-kimya-22-denemeleri', 'https://www.sadecekitap.com/resized/400x400/images/urunler/fix-yayinlari-ayt-kimya-22-denemeleri-59030-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 AYT Matematik 3x40 Deneme', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'matematik', 'ayt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-ayt-matematik-3x40-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-ayt-matematik-3x40-deneme-59029-1.png') 
+ 
+DEBUG:
+('Marka Yayınları AYT Matematik ÖSYM Çıkmış ve Çıkabilecek Sorulardan Oluşturulmuş 6 Deneme Sınavı Tamamı Video Çözümlü ', 'Marka Yayınları', None, '19.89', '25.00', None, None, 'matematik', 'ayt', None, 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-ayt-matematik-osym-cikmis-ve-cikabilecek-sorulardan-olusturulmus-6-deneme-sinavi-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-ayt-matematik-osym-cikmis-ve-cikabilecek-sorulardan-olusturulmus-6-deneme-sinavi-tamami-video-cozumlu-59028-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 AYT Matematik Kolaydan Zora 7 Kuşak Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '27.84', '35.00', None, None, 'matematik', 'ayt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-ayt-matematik-kolaydan-zora-7-kusak-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-ayt-matematik-kolaydan-zora-7-kusak-deneme-tamami-video-cozumlu-59027-1.png') 
+ 
+DEBUG:
+('Fix Yayınları AYT Matematik 7 Denemeleri ', 'Fix Yayınları', None, '19.89', '25.00', None, None, 'matematik', 'ayt', None, 'deneme', 'https://www.sadecekitap.com//fix-yayinlari-ayt-matematik-7-denemeleri', 'https://www.sadecekitap.com/resized/400x400/images/urunler/fix-yayinlari-ayt-matematik-7-denemeleri-59026-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 AYT Coğrafya Kolaydan Zora 21 Kuşak Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '27.84', '35.00', None, None, 'coğrafya', 'ayt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-ayt-cografya-kolaydan-zora-21-kusak-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-ayt-cografya-kolaydan-zora-21-kusak-deneme-tamami-video-cozumlu-59025-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 AYT Coğrafya 6 Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'coğrafya', 'ayt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-ayt-cografya-6-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-ayt-cografya-6-deneme-tamami-video-cozumlu-59024-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 AYT Türk Dili ve Edebiyatı 5 Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'edebiyat', 'ayt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-ayt-turk-dili-ve-edebiyati-5-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-ayt-turk-dili-ve-edebiyati-5-deneme-tamami-video-cozumlu-59022-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 AYT Türk Dili ve Edebiyatı Sosyal Bilimler 1 3x40 Deneme', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'edebiyat', 'ayt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-ayt-turk-dili-ve-edebiyati-sosyal-bilimler-1-3x40-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-ayt-turk-dili-ve-edebiyati-sosyal-bilimler-1-3x40-deneme-59021-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 AYT Fizik 10 Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'fizik', 'ayt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-ayt-fizik-10-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-ayt-fizik-10-deneme-tamami-video-cozumlu-59019-1.jpg') 
+ 
+DEBUG:
+('Fix Yayınları AYT Fizik 22 Denemeleri ', 'Fix Yayınları', None, '19.89', '25.00', None, None, 'fizik', 'ayt', None, 'deneme', 'https://www.sadecekitap.com//fix-yayinlari-ayt-fizik-22-denemeleri', 'https://www.sadecekitap.com/resized/400x400/images/urunler/fix-yayinlari-ayt-fizik-22-denemeleri-59018-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 AYT Biyoloji 8 Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'biyoloji', 'ayt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-ayt-biyoloji-8-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-ayt-biyoloji-8-deneme-tamami-video-cozumlu-59016-1.jpg') 
+ 
+DEBUG:
+('Fix Yayınları AYT Biyoloji 22 Denemeleri ', 'Fix Yayınları', None, '19.89', '25.00', None, None, 'biyoloji', 'ayt', None, 'deneme', 'https://www.sadecekitap.com//fix-yayinlari-ayt-biyoloji-22-denemeleri', 'https://www.sadecekitap.com/resized/400x400/images/urunler/fix-yayinlari-ayt-biyoloji-22-denemeleri-59015-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 AYT Tarih Kolaydan Zora 16 Kuşak Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '27.84', '35.00', None, None, 'tarih', 'ayt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-ayt-tarih-kolaydan-zora-16-kusak-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-ayt-tarih-kolaydan-zora-16-kusak-deneme-tamami-video-cozumlu-59014-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 AYT Tarih 7 Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'tarih', 'ayt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-ayt-tarih-7-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-ayt-tarih-7-deneme-tamami-video-cozumlu-59013-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 AYT Kimya Konu Özetli Yeni Nesil Soru Bankası Tamamı Video Çözümlü', 'Marka Yayınları', None, '59.66', '75.00', None, None, 'kimya', 'ayt', '2024', 'soru bankası', 'https://www.sadecekitap.com//marka-yayinlari-2024-ayt-kimya-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-ayt-kimya-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu-59011-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 AYT Matematik Konu Özetli Yeni Nesil Soru Bankası Tamamı Video Çözümlü', 'Marka Yayınları', None, '59.66', '75.00', None, None, 'matematik', 'ayt', '2024', 'soru bankası', 'https://www.sadecekitap.com//marka-yayinlari-2024-ayt-matematik-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-ayt-matematik-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu-59010-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 AYT Coğrafya Konu Özetli Yeni Nesil Soru Bankası Tamamı Video Çözümlü', 'Marka Yayınları', None, '59.66', '75.00', None, None, 'coğrafya', 'ayt', '2024', 'soru bankası', 'https://www.sadecekitap.com//marka-yayinlari-2024-ayt-cografya-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-ayt-cografya-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu-59009-1.png') 
+ 
+DEBUG:
+('Marka Yayınları Edebiyatın Anahtarı Edebiyat Sınavlara Hazırlık Konu Anlatımı Mehmet Nurullah Gök', 'Marka Yayınları', None, '63.64', '80.00', None, None, 'edebiyat', 'lise', None, 'diğer', 'https://www.sadecekitap.com//marka-yayinlari-edebiyatin-anahtari-edebiyat-sinavlara-hazirlik-konu-anlatimi-mehmet-nurullah-gok', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-edebiyatin-anahtari-edebiyat-sinavlara-hazirlik-konu-anlatimi-mehmet-nurullah-gok-59008-1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları 2024 AYT Türk Dili ve Edebiyatı Konu Özetli Yeni Nesil Soru Bankası Tamamı Video Çözümlü', 'Marka Yayınları', None, '59.66', '75.00', None, None, 'edebiyat', 'ayt', '2024', 'soru bankası', 'https://www.sadecekitap.com//marka-yayinlari-2024-ayt-turk-dili-ve-edebiyati-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-ayt-turk-dili-ve-edebiyati-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu-59007-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 AYT Fizik Konu Özetli Yeni Nesil Soru Bankası Tamamı Video Çözümlü', 'Marka Yayınları', None, '59.66', '75.00', None, None, 'fizik', 'ayt', '2024', 'soru bankası', 'https://www.sadecekitap.com//marka-yayinlari-2024-ayt-fizik-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-ayt-fizik-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu-59006-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 AYT Biyoloji Konu Özetli Yeni Nesil Soru Bankası Tamamı Video Çözümlü', 'Marka Yayınları', None, '59.66', '75.00', None, None, 'biyoloji', 'ayt', '2024', 'soru bankası', 'https://www.sadecekitap.com//marka-yayinlari-2024-ayt-biyoloji-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-ayt-biyoloji-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu-59005-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Sosyal Bilimler ÖSYM Çıkmış ve Çıkabilecek Sorulardan Oluşturulmuş 12 Deneme Sınavı Tamamı Video Çözümlü', 'Marka Yayınları', None, '19.89', '25.00', None, None, 'sosyal', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-sosyal-bilimler-osym-cikmis-ve-cikabilecek-sorulardan-olusturulmus-12-deneme-sinavi-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-sosyal-bilimler-osym-cikmis-ve-cikabilecek-sorulardan-olusturulmus-12-deneme-sinavi-tamami-video-cozumlu-59004-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Sosyal Bilimler 6 Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'sosyal', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-sosyal-bilimler-6-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-sosyal-bilimler-6-deneme-tamami-video-cozumlu-59003-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Biyoloji 15 Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'biyoloji', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-biyoloji-15-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-biyoloji-15-deneme-tamami-video-cozumlu-59002-1.jpg') 
+ 
+DEBUG:
+('Fix Yayınları TYT Biyoloji 45 Denemeleri ', 'Fix Yayınları', None, '19.89', '25.00', None, None, 'biyoloji', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//fix-yayinlari-tyt-biyoloji-45-denemeleri', 'https://www.sadecekitap.com/resized/400x400/images/urunler/fix-yayinlari-tyt-biyoloji-45-denemeleri-59000-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Fen Bilimleri ÖSYM Çıkmış ve Çıkabilecek Sorulardan Oluşturulmuş 12 Deneme Sınavı Tamamı Video Çözümlü', 'Marka Yayınları', None, '19.89', '25.00', None, None, 'fen', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-fen-bilimleri-osym-cikmis-ve-cikabilecek-sorulardan-olusturulmus-12-deneme-sinavi-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-fen-bilimleri-osym-cikmis-ve-cikabilecek-sorulardan-olusturulmus-12-deneme-sinavi-tamami-video-cozumlu-58999-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Fen Bilimleri 6 Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'fen', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-fen-bilimleri-6-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-fen-bilimleri-6-deneme-tamami-video-cozumlu-58998-1.png') 
+ 
+DEBUG:
+('Fix Yayınları TYT Fen Bilimleri 15 Denemeleri ', 'Fix Yayınları', None, '19.89', '25.00', None, None, 'fen', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//fix-yayinlari-tyt-fen-bilimleri-15-denemeleri', 'https://www.sadecekitap.com/resized/400x400/images/urunler/fix-yayinlari-tyt-fen-bilimleri-15-denemeleri-58997-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Fizik 15 Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'fizik', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-fizik-15-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-fizik-15-deneme-tamami-video-cozumlu-58996-1.jpg') 
+ 
+DEBUG:
+('Fix Yayınları TYT Fizik 45 Denemeleri ', 'Fix Yayınları', None, '19.89', '25.00', None, None, 'fizik', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//fix-yayinlari-tyt-fizik-45-denemeleri', 'https://www.sadecekitap.com/resized/400x400/images/urunler/fix-yayinlari-tyt-fizik-45-denemeleri-58994-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Din Kültürü ve Ahlak Bilgisi 15 Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'din', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-din-kulturu-ve-ahlak-bilgisi-15-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-din-kulturu-ve-ahlak-bilgisi-15-deneme-tamami-video-cozumlu-58993-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Felsefe 10 Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'felsefe', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-felsefe-10-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-felsefe-10-deneme-tamami-video-cozumlu-58992-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Kimya 15 Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'kimya', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-kimya-15-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-kimya-15-deneme-tamami-video-cozumlu-58991-1.jpg') 
+ 
+DEBUG:
+('Fix Yayınları TYT Kimya 45 Denemeleri ', 'Fix Yayınları', None, '19.89', '25.00', None, None, 'kimya', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//fix-yayinlari-tyt-kimya-45-denemeleri', 'https://www.sadecekitap.com/resized/400x400/images/urunler/fix-yayinlari-tyt-kimya-45-denemeleri-58989-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Coğrafya 15 Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'coğrafya', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-cografya-15-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-cografya-15-deneme-tamami-video-cozumlu-58988-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Geometri 10 Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'matematik', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-geometri-10-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-geometri-10-deneme-tamami-video-cozumlu-58985-1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Tarih 15 Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'tarih', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-tarih-15-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-tarih-15-deneme-tamami-video-cozumlu-58984-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Problemler ÖSYM Çıkmış ve Çıkabilecek Sorulardan Oluşturulmuş 16 Deneme Sınavı Tamamı Video Çözümlü', 'Marka Yayınları', None, '19.89', '25.00', None, None, 'matematik', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-problemler-osym-cikmis-ve-cikabilecek-sorulardan-olusturulmus-16-deneme-sinavi-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-problemler-osym-cikmis-ve-cikabilecek-sorulardan-olusturulmus-16-deneme-sinavi-tamami-video-cozumlu-58981-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Matematik 3 Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'matematik', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-matematik-3-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-matematik-3-deneme-tamami-video-cozumlu-58979-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Yeni Nesil Problemler 8 Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'matematik', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-yeni-nesil-problemler-8-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-yeni-nesil-problemler-8-deneme-tamami-video-cozumlu-58978-1.jpg') 
+ 
+DEBUG:
+('Fix Yayınları TYT Matematik 10 Denemeleri ', 'Fix Yayınları', None, '19.89', '25.00', None, None, 'matematik', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//fix-yayinlari-tyt-matematik-10-denemeleri', 'https://www.sadecekitap.com/resized/400x400/images/urunler/fix-yayinlari-tyt-matematik-10-denemeleri-58975-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Paragraf Yeni Nesil 10 Deneme', 'Marka Yayınları', None, '15.91', '20.00', None, None, 'türkçe', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-paragraf-yeni-nesil-10-deneme', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-paragraf-yeni-nesil-10-deneme-58974-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Paragraf 4 Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'türkçe', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-paragraf-4-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-paragraf-4-deneme-tamami-video-cozumlu-58973-1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Paragraf Kuşak 10 Deneme Tamamı Video Çözümlü ', 'Marka Yayınları', None, '27.84', '35.00', None, None, 'türkçe', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-paragraf-kusak-10-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-paragraf-kusak-10-deneme-tamami-video-cozumlu-58972-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Türkçe ÖSYM Çıkmış ve Çıkabilecek Sorulardan Oluşturulmuş 6 Deneme Sınavı Tamamı Video Çözümlü', 'Marka Yayınları', None, '19.89', '25.00', None, None, 'türkçe', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-turkce-osym-cikmis-ve-cikabilecek-sorulardan-olusturulmus-6-deneme-sinavi-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-turkce-osym-cikmis-ve-cikabilecek-sorulardan-olusturulmus-6-deneme-sinavi-tamami-video-cozumlu-58971-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Türkçe 3 Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '11.93', '15.00', None, None, 'türkçe', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-turkce-3-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-turkce-3-deneme-tamami-video-cozumlu-58970-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Türkçe Kolaydan Zora 7 Kuşak Deneme Tamamı Video Çözümlü', 'Marka Yayınları', None, '27.84', '35.00', None, None, 'türkçe', 'tyt', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-turkce-kolaydan-zora-7-kusak-deneme-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-turkce-kolaydan-zora-7-kusak-deneme-tamami-video-cozumlu-58968-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Dil Bilgisi Konu Özetli Yeni Nesil Soru Bankası Tamamı Video Çözümlü', 'Marka Yayınları', None, '59.66', '75.00', None, None, 'türkçe', 'tyt', '2024', 'soru bankası', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-dil-bilgisi-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-dil-bilgisi-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu-58959-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Biyoloji Konu Özetli Yeni Nesil Soru Bankası Tamamı Video Çözümlü', 'Marka Yayınları', None, '59.66', '75.00', None, None, 'biyoloji', 'tyt', '2024', 'soru bankası', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-biyoloji-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-biyoloji-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu-58958-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Kimya Konu Özetli Yeni Nesil Soru Bankası Tamamı Video Çözümlü', 'Marka Yayınları', None, '59.66', '75.00', None, None, 'kimya', 'tyt', '2024', 'soru bankası', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-kimya-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-kimya-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu-58957-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Fizik Konu Özetli Yeni Nesil Soru Bankası Tamamı Video Çözümlü', 'Marka Yayınları', None, '59.66', '75.00', None, None, 'fizik', 'tyt', '2024', 'soru bankası', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-fizik-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-fizik-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu-58956-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Youtube Hocam Problemler Soru Bankası', 'Marka Yayınları', None, '79.55', '100.00', None, None, 'matematik', 'tyt', '2024', 'soru bankası', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-youtube-hocam-problemler-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-youtube-hocam-problemler-soru-bankasi-58954-1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Problemler Konu Özetli Yeni Nesil Soru Bankası Tamamı Video Çözümlü', 'Marka Yayınları', None, '59.66', '75.00', None, None, 'matematik', 'tyt', '2024', 'soru bankası', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-problemler-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-problemler-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu-58953-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Paragraf Konu Özetli Yeni Nesil Soru Bankası Tamamı Video Çözümlü', 'Marka Yayınları', None, '59.66', '75.00', None, None, 'türkçe', 'tyt', '2024', 'soru bankası', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-paragraf-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-paragraf-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu-58952-1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Coğrafya Konu Özetli Yeni Nesil Soru Bankası Tamamı Video Çözümlü', 'Marka Yayınları', None, '59.66', '75.00', None, None, 'coğrafya', 'tyt', '2024', 'soru bankası', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-cografya-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-cografya-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu-58950-1.png') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT Matematik Konu Özetli Yeni Nesil Soru Bankası Tamamı Video Çözümlü', 'Marka Yayınları', None, '59.66', '75.00', None, None, 'matematik', 'tyt', '2024', 'soru bankası', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-matematik-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-matematik-konu-ozetli-yeni-nesil-soru-bankasi-tamami-video-cozumlu-58949-1.png') 
+ 
+DEBUG:
+('Marka Yayınları TYT – MSÜ Sayılar ve Temel Kavramlar Detaylı Konu Anlatımlı Ders Notu', 'Marka Yayınları', None, '39.78', '50.00', None, None, 'genel', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//marka-yayinlari-tyt-msu-sayilar-ve-temel-kavramlar-detayli-konu-anlatimli-ders-notu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-tyt-msu-sayilar-ve-temel-kavramlar-detayli-konu-anlatimli-ders-notu-58948-1.jpg') 
+ 
+DEBUG:
+('Yanıt Yayınları TYT 5 Fasikül Deneme Video Çözümlü', 'Yanıt Yayınları', None, '72.00', '160.00', None, None, 'genel', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//yanit-yayinlari-tyt-5-fasikul-deneme-video-cozumlu', 'https://www.sadecekitap.com/resized/400x400/images/urunler/yanit-yayinlari-tyt-5-fasikul-deneme-video-cozumlu-58946-1.jpg') 
+ 
+DEBUG:
+('Paraf Yayınları TYT 5 Başarı Kamp Denemesi', 'Paraf Yayınları', None, '72.00', '160.00', None, None, 'genel', 'tyt', None, 'deneme', 'https://www.sadecekitap.com//paraf-yayinlari-tyt-5-basari-kamp-denemesi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/paraf-yayinlari-tyt-5-basari-kamp-denemesi-58942-1.jpg') 
+ 
+DEBUG:
+('Egzersiz Yayınları Tyt Fizik Soru Bankası', 'Egzersiz Yayınları', None, '156.42', '185.00', None, None, 'fizik', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//egzersiz-yayinlari-tyt-fizik-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/egzersiz-yayinlari-tyt-fizik-soru-bankasi-58876-1.jpg') 
+ 
+DEBUG:
+('Marka Yayınları 2024 TYT AYT KPSS DGS ALES Permütasyon Kombinasyon Olasılık Denemeleri', 'Marka Yayınları', None, '15.91', '20.00', None, None, 'matematik', 'lise', '2024', 'deneme', 'https://www.sadecekitap.com//marka-yayinlari-2024-tyt-ayt-kpss-dgs-ales-permutasyon-kombinasyon-olasilik-denemeleri', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-2024-tyt-ayt-kpss-dgs-ales-permutasyon-kombinasyon-olasilik-denemeleri-58843-1.png') 
+ 
+DEBUG:
+('Marka Yayınları Tüm ÖSYM ve MEB Sınavları için 4 işlem Matematik Alıştırma Defteri ', 'Marka Yayınları', None, '21.48', '27.00', None, None, 'matematik', 'lise', None, 'diğer', 'https://www.sadecekitap.com//marka-yayinlari-tum-osym-ve-meb-sinavlari-icin-4-islem-matematik-alistirma-defteri', 'https://www.sadecekitap.com/resized/400x400/images/urunler/marka-yayinlari-tum-osym-ve-meb-sinavlari-icin-4-islem-matematik-alistirma-defteri-58828-1.jpg') 
+ 
+DEBUG:
+('Kafa Dengi TYT AYT Geometri Challenger Orta ve İleri Düzey Soru Bankası', 'Kafa Dengi Yayınları', None, '170.79', '202.00', None, None, 'matematik', 'lise', None, 'soru bankası', 'https://www.sadecekitap.com//kafa-dengi-tyt-ayt-geometri-challenger-orta-ve-ileri-duzey-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kafa-dengi-tyt-ayt-geometri-challenger-orta-ve-ileri-duzey-soru-bankasi-58821-1.jpg') 
+ 
+DEBUG:
+('Kafa Dengi TYT Matematik Challenger Orta ve İleri Düzey Soru Bankası', 'Kafa Dengi Yayınları', None, '197.85', '234.00', None, None, 'matematik', 'tyt', None, 'soru bankası', 'https://www.sadecekitap.com//kafa-dengi-tyt-matematik-challenger-orta-ve-ileri-duzey-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/kafa-dengi-tyt-matematik-challenger-orta-ve-ileri-duzey-soru-bankasi-58820-1.jpg') 
+ 
+DEBUG:
+('Şenol Hoca Alıştırmalarla Matematik - 2 ', 'Şenol Hoca', None, '98.51', '110.00', None, None, 'matematik', 'lise', None, 'diğer', 'https://www.sadecekitap.com//senol-hoca-alistirmalarla-matematik-2', 'https://www.sadecekitap.com/resized/400x400/images/urunler/senol-hoca-alistirmalarla-matematik-2-58770-1.png') 
+ 
+DEBUG:
+('Şenol Hoca Merhaba AYT Matematik Soru Bankası ', 'Şenol Hoca', None, '98.51', '110.00', None, None, 'matematik', 'ayt', None, 'soru bankası', 'https://www.sadecekitap.com//senol-hoca-merhaba-ayt-matematik-soru-bankasi', 'https://www.sadecekitap.com/resized/400x400/images/urunler/senol-hoca-merhaba-ayt-matematik-soru-bankasi-58754-1.png') 
+ 
+DEBUG:
+('Şenol Hoca Alıştırmalarla Geometri ', 'Şenol Hoca', None, '111.94', '125.00', None, None, 'matematik', 'tyt', None, 'diğer', 'https://www.sadecekitap.com//senol-hoca-alistirmalarla-geometri', 'https://www.sadecekitap.com/resized/400x400/images/urunler/senol-hoca-alistirmalarla-geometri-58753-1.png') 
+ 
+INFO:
+300 book has been scraped from sadecekitap. 
+ 

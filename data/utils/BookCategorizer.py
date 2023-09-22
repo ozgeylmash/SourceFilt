@@ -62,14 +62,6 @@ class BookCategorizer():
                 if type in lower(text):
                     possible_types.append(key)
 
-        print("****************************************")
-        print("Book:", name)
-        print("Possible Subjects: ", possible_subjects)
-        print("Possible Grades: ", possible_grades)
-        print("Possible Years: ", possible_years)
-        print("Possible Types: ", possible_types)
-        print("****************************************")
-
         try:
             final_subject = max(set(possible_subjects), key=possible_subjects.count)
         except:

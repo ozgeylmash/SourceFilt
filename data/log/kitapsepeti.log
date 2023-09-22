@@ -1,0 +1,903 @@
+DEBUG:
+('3D Yayınları 2022 AYT Fizik Simülasyon Denemeleri Detaylı Video Çözümlü', '3d Yayınları', 96, '65.80', '94.00', None, 0.0, 'fizik', 'ayt', '2022', 'deneme', 'https://www.kitapsepeti.com/2022-ayt-fizik-simulasyon-denemeleri-detayli-video-cozumlu', 'https://asset.kitapsepeti.com/2022-ayt-fizik-simulasyon-denemeleri-detayli-video-cozumlu-447201-30-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 3D Dil Bilgisi Soru Bankası', '3d Yayınları', 264, '144.20', '206.00', None, 0.0, 'türkçe', 'tyt', '2023', 'soru bankası', 'https://www.kitapsepeti.com/yks-dil-bilgisi-soru-bankasi', 'https://asset.kitapsepeti.com/yks-dil-bilgisi-soru-bankasi-366440-25-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 3D TYT 4`lü Simülasyon Genel Deneme', '3d Yayınları', 160, '104.30', '149.00', None, 0.0, 'genel', 'tyt', '2023', 'deneme', 'https://www.kitapsepeti.com/2023-3d-tyt-4lu-simulasyon-genel-deneme-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-3d-tyt-4lu-simulasyon-genel-deneme-3d-yayinlari-722329-39-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 AYT 3D Biyoloji Simülasyon Denemeleri', '3d Yayınları', 96, '65.80', '94.00', None, 0.0, 'biyoloji', 'ayt', '2023', 'deneme', 'https://www.kitapsepeti.com/2023-ayt-3d-biyoloji-simulasyon-denemeleri', 'https://asset.kitapsepeti.com/2023-ayt-3d-biyoloji-simulasyon-denemeleri-646800-39-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 AYT 3D Eşit Ağırlık 3`lü Simülasyon Deneme', '3d Yayınları', None, '65.80', '94.00', None, 0.0, 'genel', 'ayt', '2023', 'deneme', 'https://www.kitapsepeti.com/2023-ayt-3d-esit-agirlik-3lu-simulasyon-deneme-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-ayt-3d-esit-agirlik-3lu-simulasyon-deneme-3d-yayinlari-770388-41-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 AYT 3D Fizik Soru Bankası', '3d Yayınları', 312, '166.60', '238.00', None, 0.0, 'fizik', 'ayt', '2023', 'soru bankası', 'https://www.kitapsepeti.com/2023-ayt-3d-fizik-soru-bankasi-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-ayt-3d-fizik-soru-bankasi-3d-yayinlari-544567-37-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 AYT 3D Sayısal 3`lü Simülasyon Deneme', '3d Yayınları', None, '65.80', '94.00', None, 0.0, 'sayısal', 'ayt', '2023', 'deneme', 'https://www.kitapsepeti.com/2023-ayt-3d-sayisal-3lu-simulasyon-deneme-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-ayt-3d-sayisal-3lu-simulasyon-deneme-3d-yayinlari-770389-41-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 AYT 3D Simülasyon Fen Bilimleri Denemeleri', '3d Yayınları', 160, '93.80', '134.00', None, 0.0, 'fen', 'ayt', '2023', 'deneme', 'https://www.kitapsepeti.com/2023-ayt-3d-simulasyon-fen-bilimleri-denemeleri-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-ayt-3d-simulasyon-fen-bilimleri-denemeleri-3d-yayinlari-722324-39-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 AYT 3D Simülasyon Fizik Denemeleri', '3d Yayınları', 96, '65.80', '94.00', None, 0.0, 'fizik', 'ayt', '2023', 'deneme', 'https://www.kitapsepeti.com/2023-ayt-3d-simulasyon-fizik-denemeleri', 'https://asset.kitapsepeti.com/2023-ayt-3d-simulasyon-fizik-denemeleri-721469-39-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 AYT 3D Simülasyon Kimya Denemeleri', '3d Yayınları', 96, '65.80', '94.00', None, 0.0, 'kimya', 'ayt', '2023', 'deneme', 'https://www.kitapsepeti.com/2023-ayt-3d-simulasyon-kimya-denemeleri-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-ayt-3d-simulasyon-kimya-denemeleri-3d-yayinlari-722326-39-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 AYT 3D Simülasyon Matematik Denemeleri', '3d Yayınları', 160, '93.80', '134.00', None, 0.0, 'matematik', 'ayt', '2023', 'deneme', 'https://www.kitapsepeti.com/2023-ayt-3d-simulasyon-matematik-denemeleri-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-ayt-3d-simulasyon-matematik-denemeleri-3d-yayinlari-722328-39-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 AYT 3D Tarih Soru Bankası', '3d Yayınları', 272, '156.10', '223.00', None, 0.0, 'tarih', 'ayt', '2023', 'soru bankası', 'https://www.kitapsepeti.com/2023-ayt-3d-tarih-soru-bankasi-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-ayt-3d-tarih-soru-bankasi-3d-yayinlari-544570-37-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 AYT Biyoloji Soru Bankası', '3d Yayınları', 232, '130.90', '187.00', None, 0.0, 'biyoloji', 'ayt', '2023', 'soru bankası', 'https://www.kitapsepeti.com/2023-ayt-biyoloji-soru-bankasi', 'https://asset.kitapsepeti.com/2023-ayt-biyoloji-soru-bankasi-544569-37-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 AYT Coğrafya Soru Bankası', '3d Yayınları', 224, '133.00', '190.00', None, 0.0, 'coğrafya', 'ayt', '2023', 'soru bankası', 'https://www.kitapsepeti.com/2023-ayt-cografya-soru-bankasi-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-ayt-cografya-soru-bankasi-3d-yayinlari-544571-37-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 AYT Edebiyat - Sosyal Bilimler 1 Simülasyon Denemeleri', '3d Yayınları', 160, '93.80', '134.00', None, 0.0, 'sosyal', 'ayt', '2023', 'deneme', 'https://www.kitapsepeti.com/2023-ayt-edebiyat-sosyal-bilimler-1-simulasyon-denemeleri-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-ayt-edebiyat-sosyal-bilimler-1-simulasyon-denemeleri-3d-yayinlari-722322-39-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 AYT Edebiyat Soru Bankası', '3d Yayınları', 304, '166.60', '238.00', None, 0.0, 'edebiyat', 'ayt', '2023', 'soru bankası', 'https://www.kitapsepeti.com/2023-ayt-edebiyat-soru-bankasi-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-ayt-edebiyat-soru-bankasi-3d-yayinlari-544437-37-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 AYT Geometri Soru Bankası', '3d Yayınları', 288, '158.20', '226.00', None, 0.0, 'matematik', 'ayt', '2023', 'soru bankası', 'https://www.kitapsepeti.com/2023-ayt-geometri-soru-bankasi-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-ayt-geometri-soru-bankasi-3d-yayinlari-544565-37-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 AYT Kimya Soru Bankası', '3d Yayınları', 288, '158.20', '226.00', None, 0.0, 'kimya', 'ayt', '2023', 'soru bankası', 'https://www.kitapsepeti.com/2023-ayt-kimya-soru-bankasi-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-ayt-kimya-soru-bankasi-3d-yayinlari-544568-37-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 AYT Matematik 3D Soru Bankası', '3d Yayınları', 272, '166.60', '238.00', None, 0.0, 'matematik', 'ayt', '2023', 'soru bankası', 'https://www.kitapsepeti.com/2023-ayt-matematik-3d-soru-bankasi-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-ayt-matematik-3d-soru-bankasi-3d-yayinlari-544564-37-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 TYT 3D Simülasyon Dilbilgisi Denemeleri', '3d Yayınları', 128, '79.10', '113.00', None, 0.0, 'genel', 'tyt', '2023', 'deneme', 'https://www.kitapsepeti.com/2023-tyt-3d-simulasyon-dilbilgisi-denemeleri-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-tyt-3d-simulasyon-dilbilgisi-denemeleri-3d-yayinlari-722330-39-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 TYT 3D Simülasyon Fizik Denemeleri', '3d Yayınları', 96, '65.80', '94.00', None, 0.0, 'fizik', 'tyt', '2023', 'deneme', 'https://www.kitapsepeti.com/2023-tyt-3d-simulasyon-fizik-denemeleri-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-tyt-3d-simulasyon-fizik-denemeleri-3d-yayinlari-749506-40-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 TYT 3D Simülasyon Kimya Denemeleri', '3d Yayınları', 96, '65.80', '94.00', None, 0.0, 'kimya', 'tyt', '2023', 'deneme', 'https://www.kitapsepeti.com/2023-tyt-3d-simulasyon-kimya-denemeleri-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-tyt-3d-simulasyon-kimya-denemeleri-3d-yayinlari-722333-39-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 TYT 3D Simülasyon Matematik Denemeleri', '3d Yayınları', None, '93.80', '134.00', None, 0.0, 'matematik', 'tyt', '2023', 'deneme', 'https://www.kitapsepeti.com/2023-tyt-3d-simulasyon-matematik-denemeleri', 'https://asset.kitapsepeti.com/2023-tyt-3d-simulasyon-matematik-denemeleri-553472-38-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 TYT 3D Simülasyon Paragraf Denemeleri', '3d Yayınları', 182, '107.80', '154.00', None, 0.0, 'türkçe', 'tyt', '2023', 'deneme', 'https://www.kitapsepeti.com/2023-tyt-3d-simulasyon-paragraf-denemeleri', 'https://asset.kitapsepeti.com/2023-tyt-3d-simulasyon-paragraf-denemeleri-597799-38-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 TYT Biyoloji Simülasyon Denemeleri Detaylı Video Çözümlü', '3d Yayınları', 96, '65.80', '94.00', None, 0.0, 'biyoloji', 'tyt', '2023', 'deneme', 'https://www.kitapsepeti.com/2023-tyt-biyoloji-simulasyon-denemeleri-detayli-video-cozumlu-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-tyt-biyoloji-simulasyon-denemeleri-detayli-video-cozumlu-3d-yayinlari-750233-40-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 TYT Biyoloji Soru Bankası', '3d Yayınları', 248, '133.00', '190.00', None, 0.0, 'biyoloji', 'tyt', '2023', 'soru bankası', 'https://www.kitapsepeti.com/2023-tyt-biyoloji-soru-bankasi-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-tyt-biyoloji-soru-bankasi-3d-yayinlari-544563-37-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 TYT Coğrafya Soru Bankası', '3d Yayınları', 256, '144.20', '206.00', None, 0.0, 'coğrafya', 'tyt', '2023', 'soru bankası', 'https://www.kitapsepeti.com/2023-tyt-cografya-soru-bankasi-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-tyt-cografya-soru-bankasi-3d-yayinlari-544562-37-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 TYT Felsefe ve Din Kültürü Soru Bankası', '3d Yayınları', 208, '126.00', '180.00', None, 0.0, 'sosyal', 'tyt', '2023', 'soru bankası', 'https://www.kitapsepeti.com/2023-tyt-felsefe-ve-din-kulturu-soru-bankasi-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-tyt-felsefe-ve-din-kulturu-soru-bankasi-3d-yayinlari-544561-37-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 TYT Fizik Soru Bankası', '3d Yayınları', 296, '163.10', '233.00', None, 0.0, 'fizik', 'tyt', '2023', 'soru bankası', 'https://www.kitapsepeti.com/2023-tyt-fizik-soru-bankasi-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-tyt-fizik-soru-bankasi-3d-yayinlari-544559-37-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 TYT Geometri Soru Bankası', '3d Yayınları', 304, '166.60', '238.00', None, 0.0, 'matematik', 'tyt', '2023', 'soru bankası', 'https://www.kitapsepeti.com/2023-tyt-geometri-soru-bankasi-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-tyt-geometri-soru-bankasi-3d-yayinlari-544557-37-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 TYT Kimya Soru Bankası', '3d Yayınları', 288, '158.20', '226.00', None, 0.0, 'kimya', 'tyt', '2023', 'soru bankası', 'https://www.kitapsepeti.com/2023-tyt-kimya-soru-bankasi-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-tyt-kimya-soru-bankasi-3d-yayinlari-544556-37-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 TYT Matematik Soru Bankası', '3d Yayınları', 360, '181.30', '259.00', None, 0.0, 'matematik', 'tyt', '2023', 'soru bankası', 'https://www.kitapsepeti.com/2023-tyt-matematik-soru-bankasi-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-tyt-matematik-soru-bankasi-3d-yayinlari-544551-37-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 TYT Tarih Soru Bankası', '3d Yayınları', 272, '156.10', '223.00', None, 0.0, 'tarih', 'tyt', '2023', 'soru bankası', 'https://www.kitapsepeti.com/2023-tyt-tarih-soru-bankasi-3d-yayinlari-379063', 'https://asset.kitapsepeti.com/2023-tyt-tarih-soru-bankasi-3d-yayinlari-379063-544554-37-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 TYT Türkçe Simülasyon Denemeleri Detaylı Video Çözümlü', '3d Yayınları', 160, '93.80', '134.00', None, 0.0, 'türkçe', 'tyt', '2023', 'deneme', 'https://www.kitapsepeti.com/2023-tyt-turkce-simulasyon-denemeleri-detayli-video-cozumlu', 'https://asset.kitapsepeti.com/2023-tyt-turkce-simulasyon-denemeleri-detayli-video-cozumlu-722657-39-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2023 TYT Türkçe Soru Bankası', '3d Yayınları', 360, '181.30', '259.00', None, 0.0, 'türkçe', 'tyt', '2023', 'soru bankası', 'https://www.kitapsepeti.com/2023-tyt-turkce-soru-bankasi-3d-yayinlari', 'https://asset.kitapsepeti.com/2023-tyt-turkce-soru-bankasi-3d-yayinlari-544552-37-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları 2024 TYT 3D Kimya Video Destekli Defter', '3d Yayınları', None, '162.40', '232.00', None, 0.0, 'kimya', 'tyt', '2024', 'diğer', 'https://www.kitapsepeti.com/3d-yayinlari-2024-tyt-3d-kimya-video-destekli-defter', 'https://asset.kitapsepeti.com/3d-yayinlari-2024-tyt-3d-kimya-video-destekli-defter-827316-43-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları AYT 3D Tarih Soru Bankası', '3d Yayınları', 272, '130.20', '186.00', None, 0.0, 'tarih', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/ayt-3d-tarih-soru-bankasi', 'https://asset.kitapsepeti.com/ayt-3d-tarih-soru-bankasi-541317-25-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları AYT 5`li Eşit Ağırlık Deneme', '3d Yayınları', 155, '85.40', '122.00', None, 0.0, 'genel', 'ayt', None, 'deneme', 'https://www.kitapsepeti.com/ayt-5li-esit-agirlik-deneme', 'https://asset.kitapsepeti.com/ayt-5li-esit-agirlik-deneme-366437-25-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları AYT Edebiyat Soru Bankası', '3d Yayınları', 304, '138.60', '198.00', None, 0.0, 'edebiyat', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/ayt-edebiyat-soru-bankasi-tamami-video-cozumlu', 'https://asset.kitapsepeti.com/ayt-edebiyat-soru-bankasi-tamami-video-cozumlu-541322-25-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları AYT Fen Bilimleri Simülasyon 10`lu Denemeleri', '3d Yayınları', 160, '93.80', '134.00', None, 0.0, 'fen', 'ayt', None, 'deneme', 'https://www.kitapsepeti.com/ayt-fen-bilimleri-simulasyon-10lu-denemeleri', 'https://asset.kitapsepeti.com/ayt-fen-bilimleri-simulasyon-10lu-denemeleri-319221-25-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları AYT Geometri Soru Bankası', '3d Yayınları', 288, '131.60', '188.00', None, 0.0, 'matematik', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/ayt-geometri-soru-bankasi', 'https://asset.kitapsepeti.com/ayt-geometri-soru-bankasi-541320-25-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları AYT Organik Kimya Soru Bankası', '3d Yayınları', 208, '116.20', '166.00', None, 0.0, 'kimya', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/ayt-organik-kimya-soru-bankasi', 'https://asset.kitapsepeti.com/ayt-organik-kimya-soru-bankasi-370320-24-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları Çözüm 3D TYT Matematik Video Defter Notu', '3d Yayınları', 368, '181.30', '259.00', None, 0.0, 'matematik', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/cozum-3d-tyt-matematik-video-defter-notu', 'https://asset.kitapsepeti.com/cozum-3d-tyt-matematik-video-defter-notu-557678-38-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları TYT Biyoloji Video Destekli Defter', '3d Yayınları', None, '114.10', '163.00', None, 0.0, 'biyoloji', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/3d-yayinlari-tyt-biyoloji-video-destekli-defter', 'https://asset.kitapsepeti.com/3d-yayinlari-tyt-biyoloji-video-destekli-defter-817778-43-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları TYT Coğrafya Soru Bankası', '3d Yayınları', 256, '144.20', '206.00', None, 0.0, 'coğrafya', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/tyt-cografya-soru-bankasi-252254', 'https://asset.kitapsepeti.com/tyt-cografya-soru-bankasi-252254-541315-25-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları TYT Coğrafya Video Destekli Defter', '3d Yayınları', None, '114.10', '163.00', None, 0.0, 'coğrafya', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/3d-yayinlari-tyt-cografya-video-destekli-defter', 'https://asset.kitapsepeti.com/3d-yayinlari-tyt-cografya-video-destekli-defter-806730-42-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları TYT Fen Bilimleri Simülasyon Denemeleri', '3d Yayınları', 120, '68.60', '98.00', None, 0.0, 'fen', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/3d-yayinlari-tyt-fen-bilimleri-simulasyon-denemeleri', 'https://asset.kitapsepeti.com/3d-yayinlari-tyt-fen-bilimleri-simulasyon-denemeleri-658494-39-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları TYT Fizik Video Destekli Defter', '3d Yayınları', None, '188.30', '269.00', None, 0.0, 'fizik', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/3d-yayinlari-tyt-fizik-video-destekli-defter', 'https://asset.kitapsepeti.com/3d-yayinlari-tyt-fizik-video-destekli-defter-807754-42-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları TYT Geometri Soru Bankası', '3d Yayınları', 304, '138.60', '198.00', None, 0.0, 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/tyt-geometri-soru-bankasi', 'https://asset.kitapsepeti.com/tyt-geometri-soru-bankasi-541309-25-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları TYT Kimya Simülasyon Denemeleri Detaylı Video Çözümlü', '3d Yayınları', 96, '47.60', '68.00', None, 0.0, 'kimya', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/tyt-kimya-simulasyon-denemeleri-detayli-video-cozumlu', 'https://asset.kitapsepeti.com/tyt-kimya-simulasyon-denemeleri-detayli-video-cozumlu-204624-23-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları TYT Kimya Soru Bankası', '3d Yayınları', 288, '131.60', '188.00', None, 0.0, 'kimya', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/tyt-kimya-soru-bankasi-251498', 'https://asset.kitapsepeti.com/tyt-kimya-soru-bankasi-251498-541308-25-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları TYT Sosyal Bilimler Simülasyon Denemeleri', '3d Yayınları', None, '68.60', '98.00', None, 0.0, 'sosyal', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/tyt-sosyal-bilimler-simulasyon-denemeleri', 'https://asset.kitapsepeti.com/tyt-sosyal-bilimler-simulasyon-denemeleri-630025-39-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları TYT Türkçe Video Destekli Defter', '3d Yayınları', None, '114.10', '163.00', None, 0.0, 'türkçe', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/3d-yayinlari-tyt-turkce-video-destekli-defter', 'https://asset.kitapsepeti.com/3d-yayinlari-tyt-turkce-video-destekli-defter-825156-43-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları YKS Paragraf Soru Bankası', '3d Yayınları', 296, '163.10', '233.00', None, 0.0, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/yks-paragraf-soru-bankasi-379083', 'https://asset.kitapsepeti.com/yks-paragraf-soru-bankasi-379083-544566-37-O.jpg') 
+ 
+DEBUG:
+('3D Yayınları YKS Paragraf Soru Bankası', '3d Yayınları', 296, '163.10', '233.00', None, 0.0, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/yks-paragraf-soru-bankasi', 'https://asset.kitapsepeti.com/yks-paragraf-soru-bankasi-366445-25-O.jpg') 
+ 
+DEBUG:
+('A Yayınları 2019 AYT Tıpkı Basım Çıkmış Deneme Sınavı', 'A Yayınları', 48, '10.80', '15.00', None, 0.0, 'genel', 'ayt', '2019', 'deneme', 'https://www.kitapsepeti.com/2019-ayt-tipki-basim-cikmis-deneme-sinavi', 'https://asset.kitapsepeti.com/2019-ayt-tipki-basim-cikmis-deneme-sinavi-189784-22-O.jpg') 
+ 
+DEBUG:
+('A Yayınları 2022 AYT Edebiyat Son 10 Yıl Konularına Göre Çıkmış Sorular ve Çözümleri', 'A Yayınları', 80, '35.28', '49.00', None, 0.0, 'edebiyat', 'ayt', '2022', 'diğer', 'https://www.kitapsepeti.com/2022-ayt-edebiyat-son-10-yil-konularina-gore-cikmis-sorular-ve-cozumleri', 'https://asset.kitapsepeti.com/2022-ayt-edebiyat-son-10-yil-konularina-gore-cikmis-sorular-ve-cozumleri-198922-23-O.jpg') 
+ 
+DEBUG:
+('A Yayınları 2022 AYT Tıpkı Basım Deneme Kitapçığı', 'A Yayınları', None, '14.40', '20.00', None, 0.0, 'genel', 'ayt', '2022', 'deneme', 'https://www.kitapsepeti.com/2021-ayt-tipki-basim-deneme-kitapcigi', 'https://asset.kitapsepeti.com/2021-ayt-tipki-basim-deneme-kitapcigi-543357-23-O.jpg') 
+ 
+DEBUG:
+('A Yayınları 2022 TYT AYT Biyoloji Son 10 Yıl Konularına Göre Çıkmış Sorular ve Çözümler', 'A Yayınları', 128, '49.68', '69.00', None, 0.0, 'biyoloji', 'lise', '2022', 'diğer', 'https://www.kitapsepeti.com/2022-tyt-ayt-biyoloji-son-10-yil-konularina-gore-cikmis-sorular-ve-cozumler', 'https://asset.kitapsepeti.com/2022-tyt-ayt-biyoloji-son-10-yil-konularina-gore-cikmis-sorular-ve-cozumler-198917-23-O.jpg') 
+ 
+DEBUG:
+('A Yayınları 2022 TYT AYT Coğrafya Son 10 Yıl Konularına Göre Çıkmış Sorular ve Çözümleri', 'A Yayınları', 144, '54.00', '75.00', None, 0.0, 'coğrafya', 'lise', '2022', 'diğer', 'https://www.kitapsepeti.com/2022-tyt-ayt-cografya-son-10-yil-konularina-gore-cikmis-sorular-ve-cozumleri', 'https://asset.kitapsepeti.com/2022-tyt-ayt-cografya-son-10-yil-konularina-gore-cikmis-sorular-ve-cozumleri-198923-23-O.jpg') 
+ 
+DEBUG:
+('A Yayınları 2022 TYT AYT Fizik Son 10 Yıl Konularına Göre Çıkmış Sorular ve Çözümleri', 'A Yayınları', 144, '54.00', '75.00', None, 0.0, 'fizik', 'lise', '2022', 'diğer', 'https://www.kitapsepeti.com/2022-tyt-ayt-fizik-son-10-yil-konularina-gore-cikmis-sorular-ve-cozumleri', 'https://asset.kitapsepeti.com/2022-tyt-ayt-fizik-son-10-yil-konularina-gore-cikmis-sorular-ve-cozumleri-204613-23-O.jpg') 
+ 
+DEBUG:
+('A Yayınları 2022 TYT AYT Geometri Son 10 Yıl Konularına Göre Çıkmış Sorular ve Çözümleri', 'A Yayınları', 136, '48.96', '68.00', None, 0.0, 'matematik', 'lise', '2022', 'diğer', 'https://www.kitapsepeti.com/2022-tyt-ayt-geometri-son-10-yil-konularina-gore-cikmis-sorular-ve-cozumleri', 'https://asset.kitapsepeti.com/2022-tyt-ayt-geometri-son-10-yil-konularina-gore-cikmis-sorular-ve-cozumleri-199780-23-O.jpg') 
+ 
+DEBUG:
+('A Yayınları 2022 TYT AYT Geometri Son 20 Yıl Konularına Göre Çıkmış Sorular ve Çözümleri', 'A Yayınları', 208, '71.28', '99.00', None, 0.0, 'matematik', 'lise', '2022', 'diğer', 'https://www.kitapsepeti.com/2022-tyt-ayt-geometri-son-20-yil-konularina-gore-cikmis-sorular-ve-cozumleri', 'https://asset.kitapsepeti.com/2022-tyt-ayt-geometri-son-20-yil-konularina-gore-cikmis-sorular-ve-cozumleri-204618-23-O.jpg') 
+ 
+DEBUG:
+('A Yayınları 2022 TYT AYT Kimya Son 10 Yıl Konularına Göre Çıkmış Sorular ve Çözümleri', 'A Yayınları', 120, '54.00', '75.00', None, 0.0, 'kimya', 'lise', '2022', 'diğer', 'https://www.kitapsepeti.com/2022-tyt-ayt-kimya-son-10-yil-konularina-gore-cikmis-sorular-ve-cozumleri', 'https://asset.kitapsepeti.com/2022-tyt-ayt-kimya-son-10-yil-konularina-gore-cikmis-sorular-ve-cozumleri-199777-23-O.jpg') 
+ 
+DEBUG:
+('A Yayınları 2022 TYT AYT Kimya Son 20 Yıl Konularına Göre Çıkmış Sorular ve Çözümleri', 'A Yayınları', 192, '71.28', '99.00', None, 0.0, 'kimya', 'lise', '2022', 'diğer', 'https://www.kitapsepeti.com/2022-tyt-ayt-kimya-son-20-yil-konularina-gore-cikmis-sorular-ve-cozumleri', 'https://asset.kitapsepeti.com/2022-tyt-ayt-kimya-son-20-yil-konularina-gore-cikmis-sorular-ve-cozumleri-199825-23-O.jpg') 
+ 
+DEBUG:
+('A Yayınları 2022 TYT AYT Tarih Son 10 Yıl Konularına Göre Çıkmış Sorular ve Çözümleri', 'A Yayınları', 136, '49.68', '69.00', None, 0.0, 'tarih', 'lise', '2022', 'diğer', 'https://www.kitapsepeti.com/2022-tyt-ayt-tarih-son-10-yil-konularina-gore-cikmis-sorular-ve-cozumleri', 'https://asset.kitapsepeti.com/2022-tyt-ayt-tarih-son-10-yil-konularina-gore-cikmis-sorular-ve-cozumleri-198850-23-O.jpg') 
+ 
+DEBUG:
+('A Yayınları AYT 2018 Çıkmış Sorular', 'A Yayınları', 48, '14.40', '20.00', None, 0.0, 'genel', 'ayt', '2018', 'diğer', 'https://www.kitapsepeti.com/ayt-2018-cikmis-sorular', 'https://asset.kitapsepeti.com/ayt-2018-cikmis-sorular-202219-23-O.jpg') 
+ 
+DEBUG:
+('A Yayınları AYT Edebiyat Son 5 Yıl Konularına Göre Tamamı Çözümlü Çıkmış Sorular', 'A Yayınları', 48, '12.96', '18.00', None, 0.0, 'edebiyat', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/ayt-edebiyat-son-5-yil-konularina-gore-tamami-cozumlu-cikmis-sorular', 'https://asset.kitapsepeti.com/ayt-edebiyat-son-5-yil-konularina-gore-tamami-cozumlu-cikmis-sorular-750062-40-O.jpg') 
+ 
+DEBUG:
+('A Yayınları AYT Fen Bilimleri BekoSistem 10 lu Deneme', 'A Yayınları', None, '69.12', '96.00', None, 0.0, 'fen', 'ayt', None, 'deneme', 'https://www.kitapsepeti.com/ayt-fen-bilimleri-bekosistem-10-lu-deneme', 'https://asset.kitapsepeti.com/ayt-fen-bilimleri-bekosistem-10-lu-deneme-802605-41-O.jpg') 
+ 
+DEBUG:
+('A Yayınları BekoSistem Matmaster TYT Matematik 10lu Deneme', 'A Yayınları', 160, '69.12', '96.00', None, 0.0, 'matematik', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/bekosistem-matmaster-tyt-matematik-10lu-deneme', 'https://asset.kitapsepeti.com/bekosistem-matmaster-tyt-matematik-10lu-deneme-365480-28-O.webp') 
+ 
+DEBUG:
+('A Yayınları ÖSYM 2020 AYT Video Çözümlü Tıpkı Basım Orjinal Çıkmış Sorular', 'A Yayınları', 48, '14.40', '20.00', None, 0.0, 'genel', 'ayt', '2020', 'diğer', 'https://www.kitapsepeti.com/osym-2020-ayt-video-cozumlu-tipki-basim-orjinal-cikmis-sorular', 'https://asset.kitapsepeti.com/osym-2020-ayt-video-cozumlu-tipki-basim-orjinal-cikmis-sorular-198867-23-O.png') 
+ 
+DEBUG:
+('A Yayınları Striker TYT 3`lü Deneme Tamamı Video Çözümlü', 'A Yayınları', 120, '54.00', '75.00', None, 0.0, 'genel', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/striker-tyt-3lu-deneme-tamami-video-cozumlu', 'https://asset.kitapsepeti.com/striker-tyt-3lu-deneme-tamami-video-cozumlu-452415-35-O.jpg') 
+ 
+DEBUG:
+('A Yayınları TYT AYT Biyoloji Son 10 Yıl Konularına Göre Tamamı Çözümlü Çıkmış Sorular', 'A Yayınları', 128, '21.60', '30.00', None, 0.0, 'biyoloji', 'lise', None, 'diğer', 'https://www.kitapsepeti.com/tyt-ayt-biyoloji-son-10-yil-konularina-gore-tamami-cozumlu-cikmis-sorular', 'https://asset.kitapsepeti.com/tyt-ayt-biyoloji-son-10-yil-konularina-gore-tamami-cozumlu-cikmis-sorular-820748-43-O.jpg') 
+ 
+DEBUG:
+('A Yayınları TYT AYT Coğrafya Son 20 Yıl Konu Konu Tamamı Çözümlü Çıkmış Sorular', 'A Yayınları', 232, '27.36', '38.00', None, 0.0, 'coğrafya', 'lise', None, 'diğer', 'https://www.kitapsepeti.com/tyt-ayt-cografya-son-20-yil-konu-konu-tamami-cozumlu-cikmis-sorular', 'https://asset.kitapsepeti.com/tyt-ayt-cografya-son-20-yil-konu-konu-tamami-cozumlu-cikmis-sorular-820745-43-O.jpg') 
+ 
+DEBUG:
+('A Yayınları TYT AYT Coğrafya Son 20 Yıl Konularına Göre Çıkmış Sorular ve Çözümleri', 'A Yayınları', 240, '86.40', '120.00', None, 0.0, 'coğrafya', 'lise', None, 'diğer', 'https://www.kitapsepeti.com/tyt-ayt-cografya-son-20-yil-konularina-gore-cikmis-sorular-ve-cozumleri', 'https://asset.kitapsepeti.com/tyt-ayt-cografya-son-20-yil-konularina-gore-cikmis-sorular-ve-cozumleri-204599-27-O.jpg') 
+ 
+DEBUG:
+('A Yayınları TYT AYT Fizik Son 20 Yıl Konularına Göre Çıkmış Sorular ve Çözümleri', 'A Yayınları', 240, '86.40', '120.00', None, 0.0, 'fizik', 'lise', None, 'diğer', 'https://www.kitapsepeti.com/tyt-ayt-fizik-son-20-yil-konularina-gore-cikmis-sorular-ve-cozumleri', 'https://asset.kitapsepeti.com/tyt-ayt-fizik-son-20-yil-konularina-gore-cikmis-sorular-ve-cozumleri-199442-23-O.jpg') 
+ 
+DEBUG:
+('A Yayınları TYT AYT Paragraf Son 10 Yıl Soru ve Çözümleri', 'A Yayınları', 128, '46.08', '64.00', None, 0.0, 'türkçe', 'lise', None, 'diğer', 'https://www.kitapsepeti.com/tyt-ayt-paragraf-son-10-yil-soru-ve-cozumleri', 'https://asset.kitapsepeti.com/tyt-ayt-paragraf-son-10-yil-soru-ve-cozumleri-365479-24-O.jpg') 
+ 
+DEBUG:
+('A Yayınları TYT AYT Problemler Son 20 Yıl Konularına Göre Tamamı Çözümlü Çıkmış Sorular', 'A Yayınları', None, '21.60', '30.00', None, 0.0, 'matematik', 'lise', None, 'diğer', 'https://www.kitapsepeti.com/tyt-ayt-problemler-son-20-yil-konularina-gore-tamami-cozumlu-cikmis-sorular', 'https://asset.kitapsepeti.com/tyt-ayt-problemler-son-20-yil-konularina-gore-tamami-cozumlu-cikmis-sorular-820752-43-O.jpg') 
+ 
+DEBUG:
+('A Yayınları TYT BekoSistem 5 li Klon Deneme', 'A Yayınları', 200, '90.00', '125.00', None, 0.0, 'biyoloji', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/a-yayinlari-tyt-bekosistem-5-li-klon-deneme', 'https://asset.kitapsepeti.com/a-yayinlari-tyt-bekosistem-5-li-klon-deneme-813608-42-O.jpg') 
+ 
+DEBUG:
+('A Yayınları TYT Tüm Dersler Son 10 Yıl Çıkmış Sorular', 'A Yayınları', 432, '107.28', '149.00', None, 0.0, 'genel', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/tyt-tum-dersler-son-10-yil-cikmis-sorular-240157', 'https://asset.kitapsepeti.com/tyt-tum-dersler-son-10-yil-cikmis-sorular-240157-790024-24-O.jpg') 
+ 
+DEBUG:
+('A Yayınları TYT Türkçe Son 20 Yıl Konularına Göre Çıkmış Sorular ve Çözümleri', 'A Yayınları', 344, '107.28', '149.00', None, 0.0, 'türkçe', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/tyt-turkce-son-20-yil-konularina-gore-cikmis-sorular-ve-cozumleri', 'https://asset.kitapsepeti.com/tyt-turkce-son-20-yil-konularina-gore-cikmis-sorular-ve-cozumleri-198927-23-O.jpg') 
+ 
+DEBUG:
+('A Yayınları YKS TYT AYT Biyoloji Son 20 Yıl Çıkmış Sorular 2002-2021', 'A Yayınları', 208, '71.28', '99.00', None, 0.0, 'biyoloji', 'lise', '2021', 'diğer', 'https://www.kitapsepeti.com/yks-tyt-ayt-biyoloji-son-20-yil-cikmis-sorular-2002-2021', 'https://asset.kitapsepeti.com/yks-tyt-ayt-biyoloji-son-20-yil-cikmis-sorular-2002-2021-198703-27-O.jpg') 
+ 
+DEBUG:
+('A Yayınları YKS TYT Sosyal Bilimler Bekosistem 20x20 Deneme Video Çözümlü', 'A Yayınları', 160, '69.12', '96.00', None, 0.0, 'sosyal', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/a-yayinlari-yks-tyt-sosyal-bilimler-bekosistem-20x20-deneme-video-cozumlu', 'https://asset.kitapsepeti.com/a-yayinlari-yks-tyt-sosyal-bilimler-bekosistem-20x20-deneme-video-cozumlu-802606-41-O.jpg') 
+ 
+DEBUG:
+('A Yayınları YKS TYT Türkçe Bekosistem 10x40 Deneme Video Çözümlü', 'A Yayınları', 160, '69.12', '96.00', None, 0.0, 'türkçe', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/yks-tyt-turkce-bekosistem-10x40-deneme-video-cozumlu-a-yayinlari', 'https://asset.kitapsepeti.com/yks-tyt-turkce-bekosistem-10x40-deneme-video-cozumlu-a-yayinlari-737263-40-O.jpg') 
+ 
+DEBUG:
+('Açı Yayınları AYT Biyoloji Efsane Çek Kopart Yaprak Test', 'Açı Yayınları', 96, '43.20', '60.00', None, 0.0, 'biyoloji', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/ayt-biyoloji-efsane-cek-kopart-yaprak-test', 'https://asset.kitapsepeti.com/ayt-biyoloji-efsane-cek-kopart-yaprak-test-382827-34-O.jpg') 
+ 
+DEBUG:
+('Açı Yayınları AYT Coğrafya EFSANE Çek Kopart Yaprak Test', 'Açı Yayınları', 40, '18.00', '25.00', None, 0.0, 'coğrafya', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/ayt-cografya-efsane-cek-kopart-yaprak-test', 'https://asset.kitapsepeti.com/ayt-cografya-efsane-cek-kopart-yaprak-test-377667-33-O.jpg') 
+ 
+DEBUG:
+('Açı Yayınları AYT Fizik Efsane Çek Kopart Yaprak Test', 'Açı Yayınları', 96, '37.80', '52.50', None, 0.0, 'fizik', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/ayt-fizik-efsane-cek-kopart-yaprak-test', 'https://asset.kitapsepeti.com/ayt-fizik-efsane-cek-kopart-yaprak-test-382815-34-O.jpg') 
+ 
+DEBUG:
+('Açı Yayınları AYT Kimya Efsane Çek Kopart Yaprak Test', 'Açı Yayınları', None, '43.20', '60.00', None, 0.0, 'kimya', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/ayt-kimya-efsane-cek-kopart-yaprak-test', 'https://asset.kitapsepeti.com/ayt-kimya-efsane-cek-kopart-yaprak-test-382829-34-O.jpg') 
+ 
+DEBUG:
+('Açı Yayınları AYT Matematik Efsane Çek Kopart Yaprak Test', 'Açı Yayınları', 160, '54.00', '75.00', None, 0.0, 'matematik', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/ayt-matematik-efsane-cek-kopart-yaprak-test-aci-yayinlari', 'https://asset.kitapsepeti.com/ayt-matematik-efsane-cek-kopart-yaprak-test-aci-yayinlari-463562-36-O.jpg') 
+ 
+DEBUG:
+('Açı Yayınları AYT Türk Dili ve Edebiyatı Efsane Çek Kopart Yaprak Test', 'Açı Yayınları', 128, '57.60', '80.00', None, 0.0, 'edebiyat', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/ayt-turk-dili-ve-edebiyati-efsane-cek-kopart-yaprak-test', 'https://asset.kitapsepeti.com/ayt-turk-dili-ve-edebiyati-efsane-cek-kopart-yaprak-test-382830-34-O.jpg') 
+ 
+DEBUG:
+('Açı Yayınları TYT AYT Geometri Efsane Çek Kopart Yaprak Test', 'Açı Yayınları', 192, '86.40', '120.00', None, 0.0, 'matematik', 'lise', None, 'diğer', 'https://www.kitapsepeti.com/tyt-ayt-geometri-efsane-cek-kopart-yaprak-test-aci-yayinlari', 'https://asset.kitapsepeti.com/tyt-ayt-geometri-efsane-cek-kopart-yaprak-test-aci-yayinlari-463566-36-O.jpg') 
+ 
+DEBUG:
+('Açık Ara Yayınları AYT Coğrafya Soru Bankası Dergi Seti', 'Açık Ara Yayınları', None, '53.75', '53.75', None, 0.0, 'coğrafya', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/ayt-cografya-soru-bankasi-dergi-seti', 'https://asset.kitapsepeti.com/ayt-cografya-soru-bankasi-dergi-seti-382872-34-O.jpg') 
+ 
+DEBUG:
+('Açık Ara Yayınları TYT Fizik Soru Bankası Dergi Seti', 'Açık Ara Yayınları', 336, '53.00', '53.00', None, 0.0, 'fizik', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/tyt-fizik-soru-bankasi-dergi-seti', 'https://asset.kitapsepeti.com/tyt-fizik-soru-bankasi-dergi-seti-381890-34-O.jpg') 
+ 
+DEBUG:
+('Açık Ara Yayınları TYT Kimya Soru Bankası Dergi Seti', 'Açık Ara Yayınları', 284, '46.30', '46.30', None, 0.0, 'kimya', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/tyt-kimya-soru-bankasi-dergi-seti', 'https://asset.kitapsepeti.com/tyt-kimya-soru-bankasi-dergi-seti-381886-34-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları 2022 12. Sınıf Matematik Fasikül Set', 'Acil Yayınları', None, '267.75', '315.00', None, 0.0, 'matematik', '12.', '2022', 'diğer', 'https://www.kitapsepeti.com/2022-12-sinif-matematik-fasikul-set', 'https://asset.kitapsepeti.com/2022-12-sinif-matematik-fasikul-set-378857-33-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları 2023 Analitik Geometri', 'Acil Yayınları', None, '101.15', '119.00', None, 0.0, 'matematik', '11.', '2023', 'diğer', 'https://www.kitapsepeti.com/acil-yayinlari-2023-analitik-geometri', 'https://asset.kitapsepeti.com/acil-yayinlari-2023-analitik-geometri-731751-40-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları Acil Matematik Limit Türev', 'Acil Yayınları', 221, '109.65', '129.00', None, 0.0, 'matematik', '12.', None, 'diğer', 'https://www.kitapsepeti.com/acil-matematik-limit-turev-acil-yayinlari', 'https://asset.kitapsepeti.com/acil-matematik-limit-turev-acil-yayinlari-723230-33-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları Acil Matematik Polinomlar Çarpanlara Ayırma 2. Dereceden Denklemler Karmaşık Sayılar', 'Acil Yayınları', 207, '109.65', '129.00', None, 0.0, 'matematik', '10.', None, 'diğer', 'https://www.kitapsepeti.com/acil-matematik-polinomlar-carpanlara-ayirma-2-dereceden-denklemler-karmasik-sayilar', 'https://asset.kitapsepeti.com/acil-matematik-polinomlar-carpanlara-ayirma-2-dereceden-denklemler-karmasik-sayilar-376601-33-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları Acil Matematik Trigonometri', 'Acil Yayınları', 174, '84.15', '99.00', None, 0.0, 'matematik', '11.', None, 'diğer', 'https://www.kitapsepeti.com/acil-matematik-trigonometri', 'https://asset.kitapsepeti.com/acil-matematik-trigonometri-376587-33-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları Acil Matematik Üçgenler Konu Anlatımlı Soru Fasikülü', 'Acil Yayınları', 255, '143.65', '169.00', None, 0.0, 'matematik', '9.', None, 'diğer', 'https://www.kitapsepeti.com/acil-matematik-ucgenler-konu-anlatimli-soru-fasikulu-acil-yayinlari', 'https://asset.kitapsepeti.com/acil-matematik-ucgenler-konu-anlatimli-soru-fasikulu-acil-yayinlari-465693-36-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları AYT Matematiğin İlacı 12 Denemeleri Özel Baskı', 'Acil Yayınları', None, '84.15', '99.00', None, 0.0, 'genel', 'ayt', None, 'deneme', 'https://www.kitapsepeti.com/acil-yayinlari-ayt-matematigin-ilaci-12-denemeleri-ozel-baski', 'https://asset.kitapsepeti.com/acil-yayinlari-ayt-matematigin-ilaci-12-denemeleri-ozel-baski-780381-41-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları AYT Matematik Soru Bankası', 'Acil Yayınları', 446, '211.65', '249.00', None, 0.0, 'matematik', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/acil-yayinlari-ayt-matematik-soru-bankasi', 'https://asset.kitapsepeti.com/acil-yayinlari-ayt-matematik-soru-bankasi-828364-43-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları AYT Matematik Soru Bankası', 'Acil Yayınları', 431, '211.65', '249.00', None, 0.0, 'matematik', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/2022-ayt-matematik-soru-bankasi-336260', 'https://asset.kitapsepeti.com/2022-ayt-matematik-soru-bankasi-336260-376474-33-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları AYT Reaksiyon 15 Denemeleri', 'Acil Yayınları', None, '118.15', '139.00', None, 0.0, 'genel', 'ayt', None, 'deneme', 'https://www.kitapsepeti.com/ayt-reaksiyon-15-denemeleri', 'https://asset.kitapsepeti.com/ayt-reaksiyon-15-denemeleri-378675-33-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları Katı Cisimler Konu Anlatımlı Soru Fasikülü', 'Acil Yayınları', 173, '67.15', '79.00', None, 0.0, 'genel', 'lise', None, 'diğer', 'https://www.kitapsepeti.com/kati-cisimler-konu-anlatimli-soru-fasikulu', 'https://asset.kitapsepeti.com/kati-cisimler-konu-anlatimli-soru-fasikulu-378668-33-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları Mantık Kümeler Kartezyen Çarpım Konu Anlatımlı Soru Fasikülü', 'Acil Yayınları', 142, '84.15', '99.00', None, 0.0, 'matematik', '9.', None, 'diğer', 'https://www.kitapsepeti.com/mantik-kumeler-kartezyen-carpim-konu-anlatimli-soru-fasikulu-acil-yayinlari', 'https://asset.kitapsepeti.com/mantik-kumeler-kartezyen-carpim-konu-anlatimli-soru-fasikulu-acil-yayinlari-465691-36-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları Matematiğin İlacı AYT Matematik Denemeleri', 'Acil Yayınları', None, '63.75', '75.00', None, 0.0, 'matematik', 'ayt', None, 'deneme', 'https://www.kitapsepeti.com/acil-yayinlari-matematigin-ilaci-ayt-matematik-denemeleri', 'https://asset.kitapsepeti.com/acil-yayinlari-matematigin-ilaci-ayt-matematik-denemeleri-765047-41-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları TYT Acil Matematik Logaritma Diziler', 'Acil Yayınları', 158, '84.15', '99.00', None, 0.0, 'matematik', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/tyt-acil-matematik-logaritma-diziler', 'https://asset.kitapsepeti.com/tyt-acil-matematik-logaritma-diziler-723231-33-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları TYT AYT Geometri Soru Bankası', 'Acil Yayınları', 445, '225.25', '265.00', None, 0.0, 'matematik', 'lise', None, 'soru bankası', 'https://www.kitapsepeti.com/acil-yayinlari-tyt-ayt-geometri-soru-bankasi', 'https://asset.kitapsepeti.com/acil-yayinlari-tyt-ayt-geometri-soru-bankasi-828289-43-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları TYT AYT Geometrinin İlacı Soru Bankası', 'Acil Yayınları', None, '157.25', '185.00', None, 0.0, 'matematik', 'lise', None, 'soru bankası', 'https://www.kitapsepeti.com/acil-yayinlari-tyt-ayt-geometrinin-ilaci-soru-bankasi', 'https://asset.kitapsepeti.com/acil-yayinlari-tyt-ayt-geometrinin-ilaci-soru-bankasi-823395-43-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları TYT Matematiğin İlacı Soru Bankası', 'Acil Yayınları', None, '152.15', '179.00', None, 0.0, 'genel', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/tyt-matematigin-ilaci-soru-bankasi', 'https://asset.kitapsepeti.com/tyt-matematigin-ilaci-soru-bankasi-820102-43-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları TYT Matematik Acil Problemler', 'Acil Yayınları', 191, '97.75', '115.00', None, 0.0, 'matematik', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/tyt-matematik-acil-problemler', 'https://asset.kitapsepeti.com/tyt-matematik-acil-problemler-376372-33-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları TYT Matematik Fonksiyonlar', 'Acil Yayınları', 142, '75.65', '89.00', None, 0.0, 'matematik', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/tyt-matematik-fonksiyonlar', 'https://asset.kitapsepeti.com/tyt-matematik-fonksiyonlar-723229-33-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları TYT Matematik Soru Bankası', 'Acil Yayınları', 414, '211.65', '249.00', None, 0.0, 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/acil-yayinlari-tyt-matematik-soru-bankasi', 'https://asset.kitapsepeti.com/acil-yayinlari-tyt-matematik-soru-bankasi-828365-43-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları TYT Matematik Soru Bankası', 'Acil Yayınları', 431, '211.65', '249.00', None, 0.0, 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/2022-tyt-matematik-soru-bankasi-336242', 'https://asset.kitapsepeti.com/2022-tyt-matematik-soru-bankasi-336242-376456-33-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları TYT Son Seans 8 Rejenerasyon Deneme', 'Acil Yayınları', None, '55.25', '65.00', None, 0.0, 'genel', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/tyt-son-seans-8-rejenerasyon-deneme', 'https://asset.kitapsepeti.com/tyt-son-seans-8-rejenerasyon-deneme-380795-34-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları YKS Acil Matematik Permütasyon Kombinasyon Binom Olasılık', 'Acil Yayınları', 207, '106.25', '125.00', None, 0.0, 'matematik', '10.', None, 'diğer', 'https://www.kitapsepeti.com/yks-acil-matematik-permutasyon-kombinasyon-binom-olasilik', 'https://asset.kitapsepeti.com/yks-acil-matematik-permutasyon-kombinasyon-binom-olasilik-378405-33-O.jpg') 
+ 
+DEBUG:
+('Acil Yayınları YKS AYT Matematiğin İlacı Soru Bankası', 'Acil Yayınları', 334, '152.15', '179.00', None, 0.0, 'genel', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/yks-ayt-matematigin-ilaci-soru-bankasi', 'https://asset.kitapsepeti.com/yks-ayt-matematigin-ilaci-soru-bankasi-823356-33-O.jpg') 
+ 
+DEBUG:
+('Aday Yayınları AYT Edebiyat Soru Bankası', 'Aday Yayınları', 208, '94.00', '200.00', None, 0.0, 'edebiyat', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/ayt-edebiyat-soru-bankasi-aday-yayinlari', 'https://asset.kitapsepeti.com/ayt-edebiyat-soru-bankasi-aday-yayinlari-735730-40-O.jpg') 
+ 
+DEBUG:
+('Akca Yayınları AYT Trigonometri Konu Anlatımlı Soru Bankası', 'Akca Yayınları', 208, '73.78', '119.00', None, 0.0, 'matematik', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/ayt-trigonometri-konu-anlatimli-soru-bankasi-akca-yayinlari', 'https://asset.kitapsepeti.com/ayt-trigonometri-konu-anlatimli-soru-bankasi-akca-yayinlari-465295-36-O.jpg') 
+ 
+DEBUG:
+('Akca Yayınları TYT Matematik Branş Denemesi', 'Akca Yayınları', 192, '73.78', '119.00', None, 0.0, 'matematik', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/tyt-matematik-brans-denemesi-akca-yayinlari', 'https://asset.kitapsepeti.com/tyt-matematik-brans-denemesi-akca-yayinlari-464586-36-O.jpg') 
+ 
+DEBUG:
+('Akca Yayınları YKS Analitik Geometri Konu Anlatımlı Soru Bankası', 'Akca Yayınları', 208, '73.78', '119.00', None, 0.0, 'matematik', '11.', None, 'soru bankası', 'https://www.kitapsepeti.com/yks-analitik-geometri-konu-anlatimli-soru-bankasi-akca-yayinlari', 'https://asset.kitapsepeti.com/yks-analitik-geometri-konu-anlatimli-soru-bankasi-akca-yayinlari-465288-36-O.jpg') 
+ 
+DEBUG:
+('Akca Yayınları YKS Fonksiyonlar Konu Anlatımlı Soru Bankası', 'Akca Yayınları', 192, '73.78', '119.00', None, 0.0, 'matematik', '10.', None, 'soru bankası', 'https://www.kitapsepeti.com/yks-fonksiyonlar-konu-anlatimli-soru-bankasi-akca-yayinlari', 'https://asset.kitapsepeti.com/yks-fonksiyonlar-konu-anlatimli-soru-bankasi-akca-yayinlari-465305-36-O.jpg') 
+ 
+DEBUG:
+('Akdem Yayınları 2019 YKS 10. Sınıf Arapça Soru Bankası', 'Akdem Yayınları', 109, '67.00', '100.00', None, 0.0, 'genel', '10.', '2019', 'soru bankası', 'https://www.kitapsepeti.com/2019-yks-10-sinif-arapca-soru-bankasi', 'https://asset.kitapsepeti.com/2019-yks-10-sinif-arapca-soru-bankasi-207766-24-O.jpg') 
+ 
+DEBUG:
+('Akdem Yayınları 2019 YKS 11. Sınıf Soru Bankası', 'Akdem Yayınları', 173, '87.10', '130.00', None, 0.0, 'genel', '11.', '2019', 'soru bankası', 'https://www.kitapsepeti.com/2019-yks-11-sinif-soru-bankasi', 'https://asset.kitapsepeti.com/2019-yks-11-sinif-soru-bankasi-359252-24-O.jpg') 
+ 
+DEBUG:
+('Akdem Yayınları Arapça YKS Hazırlık Soru Bankası', 'Akdem Yayınları', 208, '87.10', '130.00', None, 0.0, 'genel', 'lise', None, 'soru bankası', 'https://www.kitapsepeti.com/arapca-yks-hazirlik-soru-bankasi', 'https://asset.kitapsepeti.com/arapca-yks-hazirlik-soru-bankasi-173614-25-O.jpg') 
+ 
+DEBUG:
+('Akıl Fikir Mektebi 3`lü AYT Denemeleri', 'Akıl Fikir Mektebi', 128, '23.10', '30.00', None, 0.0, 'genel', 'ayt', None, 'deneme', 'https://www.kitapsepeti.com/akil-fikir-mektebi-3lu-ayt-denemeleri', 'https://asset.kitapsepeti.com/akil-fikir-mektebi-3lu-ayt-denemeleri-425812-30-O.jpg') 
+ 
+DEBUG:
+('Akıl Fikir Mektebi AYT Matematik Koz Serisi', 'Akıl Fikir Mektebi', 176, '58.00', '58.00', None, 0.0, 'matematik', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/akil-fikir-mektebi-ayt-matematik-koz-serisi', 'https://asset.kitapsepeti.com/akil-fikir-mektebi-ayt-matematik-koz-serisi-538122-37-O.jpg') 
+ 
+DEBUG:
+('Akıl Fikir Mektebi TYT Fizik Konu Özetli Soru Bankası', 'Akıl Fikir Mektebi', 384, '73.92', '96.00', None, 0.0, 'fizik', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/tyt-fizik-konu-ozetli-soru-bankasi-366421', 'https://asset.kitapsepeti.com/tyt-fizik-konu-ozetli-soru-bankasi-366421-531204-36-O.jpg') 
+ 
+DEBUG:
+('Akıl Fikir Mektebi TYT Kimya Konu Özetli Soru Bankası', 'Akıl Fikir Mektebi', 240, '49.28', '64.00', None, 0.0, 'kimya', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/tyt-kimya-konu-ozetli-soru-bankasi-366419', 'https://asset.kitapsepeti.com/tyt-kimya-konu-ozetli-soru-bankasi-366419-531202-36-O.jpg') 
+ 
+DEBUG:
+('Akıl Fikir Mektebi TYT Matematik Konu Özetli Soru Bankası', 'Akıl Fikir Mektebi', 360, '69.30', '90.00', None, 0.0, 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/tyt-matematik-konu-ozetli-soru-bankasi', 'https://asset.kitapsepeti.com/tyt-matematik-konu-ozetli-soru-bankasi-531203-36-O.jpg') 
+ 
+DEBUG:
+('Akıl Fikir Mektebi TYT Tamamı Video Çözümlü 3`lü Deneme', 'Akıl Fikir Mektebi', 128, '23.10', '30.00', None, 0.0, 'genel', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/tyt-akil-fikir-mektebi-tamami-video-cozumlu-3lu-deneme', 'https://asset.kitapsepeti.com/tyt-akil-fikir-mektebi-tamami-video-cozumlu-3lu-deneme-425814-30-O.jpg') 
+ 
+DEBUG:
+('Akıllı Adam Yayınları 2018 YKS AYT Matematik Son 10 Yıl Çıkmış Sorular', 'Akıllı Adam Yayınları', 231, '40.00', '40.00', None, 0.0, 'matematik', 'ayt', '2018', 'diğer', 'https://www.kitapsepeti.com/2018-yks-ayt-matematik-son-10-yil-cikmis-sorular', 'https://asset.kitapsepeti.com/2018-yks-ayt-matematik-son-10-yil-cikmis-sorular-559146-37-O.jpg') 
+ 
+DEBUG:
+('Akıllı Adam Yayınları TYT Hazırlık Son 30 Yıl Çıkmış Kimya Soruları ve Çözümleri', 'Akıllı Adam Yayınları', 88, '23.00', '23.00', None, 0.0, 'kimya', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/tyt-hazirlik-son-30-yil-cikmis-kimya-sorulari-ve-cozumleri', 'https://asset.kitapsepeti.com/tyt-hazirlik-son-30-yil-cikmis-kimya-sorulari-ve-cozumleri-559037-37-O.jpg') 
+ 
+DEBUG:
+('Akıllı Adam Yayınları TYT Tarih 30 Deneme', 'Akıllı Adam Yayınları', None, '25.00', '25.00', None, 0.0, 'tarih', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/tyt-tarih-30-deneme-akilli-adam-yayinlari', 'https://asset.kitapsepeti.com/tyt-tarih-30-deneme-akilli-adam-yayinlari-559215-36-O.jpg') 
+ 
+DEBUG:
+('Akıllı Adam Yayınları Yeni Nesil Kesir Problemleri Tamamı Çözümlü Soru Bankası', 'Akıllı Adam Yayınları', 138, '23.00', '23.00', None, 0.0, 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/yeni-nesil-kesir-problemleri-tamami-cozumlu-soru-bankasi', 'https://asset.kitapsepeti.com/yeni-nesil-kesir-problemleri-tamami-cozumlu-soru-bankasi-559153-37-O.jpg') 
+ 
+DEBUG:
+('Akıllı Adam Yayınları Yeni Nesil Yaş Problemleri Tamamı Çözümlü Soru Bankası', 'Akıllı Adam Yayınları', 108, '23.00', '23.00', None, 0.0, 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/yeni-nesil-yas-problemleri-tamami-cozumlu-soru-bankasi', 'https://asset.kitapsepeti.com/yeni-nesil-yas-problemleri-tamami-cozumlu-soru-bankasi-559139-37-O.jpg') 
+ 
+DEBUG:
+('Akıllı Adam Yayınları YKS TYT Şahane Matematik Ders Notları 2. Oturum', 'Akıllı Adam Yayınları', 155, '20.00', '20.00', None, 0.0, 'matematik', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/yks-tyt-sahane-matematik-ders-notlari-2-oturum', 'https://asset.kitapsepeti.com/yks-tyt-sahane-matematik-ders-notlari-2-oturum-559018-37-O.jpg') 
+ 
+DEBUG:
+('Aktif Öğrenme Yayınları Aktif Matematik 0 dan Başlayanlara', 'Aktif Öğrenme Yayınları', 400, '160.65', '189.00', None, 0.0, 'matematik', 'lise', None, 'diğer', 'https://www.kitapsepeti.com/aktif-matematik-0-dan-baslayanlara', 'https://asset.kitapsepeti.com/aktif-matematik-0-dan-baslayanlara-819651-33-O.jpg') 
+ 
+DEBUG:
+('Aktif Öğrenme Yayınları AYT 0`dan Başlayanlara Aktif Fizik', 'Aktif Öğrenme Yayınları', 352, '160.65', '189.00', None, 0.0, 'fizik', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/ayt-0dan-baslayanlara-aktif-fizik-aktif-ogrenme-yayinlari', 'https://asset.kitapsepeti.com/ayt-0dan-baslayanlara-aktif-fizik-aktif-ogrenme-yayinlari-458725-35-O.jpg') 
+ 
+DEBUG:
+('Aktif Öğrenme Yayınları AYT Aktif Kimya 0 dan Başlayanlara', 'Aktif Öğrenme Yayınları', None, '160.65', '189.00', None, 0.0, 'kimya', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/aktif-ogrenme-yayinlari-ayt-aktif-kimya-0-dan-baslayanlara', 'https://asset.kitapsepeti.com/aktif-ogrenme-yayinlari-ayt-aktif-kimya-0-dan-baslayanlara-725057-40-O.jpg') 
+ 
+DEBUG:
+('Aktif Öğrenme Yayınları AYT Aktif Matematik 0 dan Başlayanlara', 'Aktif Öğrenme Yayınları', 416, '160.65', '189.00', None, 0.0, 'matematik', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/ayt-aktif-matematik-0-dan-baslayanlara', 'https://asset.kitapsepeti.com/ayt-aktif-matematik-0-dan-baslayanlara-376709-33-O.jpg') 
+ 
+DEBUG:
+('Aktif Öğrenme Yayınları AYT Türev Kolay Öğrenme Fasikülü', 'Aktif Öğrenme Yayınları', 112, '41.65', '49.00', None, 0.0, 'matematik', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/ayt-turev-kolay-ogrenme-fasikulu', 'https://asset.kitapsepeti.com/ayt-turev-kolay-ogrenme-fasikulu-453930-35-O.jpg') 
+ 
+DEBUG:
+('Aktif Öğrenme Yayınları Limit Türev İntegral Kuvvet Serisi', 'Aktif Öğrenme Yayınları', 176, '84.15', '99.00', None, 0.0, 'matematik', '12.', None, 'diğer', 'https://www.kitapsepeti.com/limit-turev-integral-kuvvet-serisi', 'https://asset.kitapsepeti.com/limit-turev-integral-kuvvet-serisi-453935-35-O.jpg') 
+ 
+DEBUG:
+('Aktif Öğrenme Yayınları Problemler Aktif Kuvvet Serisi', 'Aktif Öğrenme Yayınları', 192, '84.15', '99.00', None, 0.0, 'matematik', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/problemler-aktif-kuvvet-serisi-aktif-ogrenme-yayinlari', 'https://asset.kitapsepeti.com/problemler-aktif-kuvvet-serisi-aktif-ogrenme-yayinlari-465694-36-O.jpg') 
+ 
+DEBUG:
+('Aktif Öğrenme Yayınları TYT 5`li Deneme Kuvvet Serisi', 'Aktif Öğrenme Yayınları', None, '58.65', '69.00', None, 0.0, 'fizik', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/tyt-5li-deneme-kuvvet-serisi', 'https://asset.kitapsepeti.com/tyt-5li-deneme-kuvvet-serisi-453920-35-O.jpg') 
+ 
+DEBUG:
+('Aktif Öğrenme Yayınları TYT Aktif 3`lü Deneme Sınavları', 'Aktif Öğrenme Yayınları', 38, '21.25', '25.00', None, 0.0, 'genel', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/tyt-aktif-3lu-deneme-sinavlari', 'https://asset.kitapsepeti.com/tyt-aktif-3lu-deneme-sinavlari-379109-33-O.jpg') 
+ 
+DEBUG:
+('Aktif Öğrenme Yayınları TYT AYT Aktif Biyoloji 0 dan Başlayanlara', 'Aktif Öğrenme Yayınları', 399, '126.65', '149.00', None, 0.0, 'biyoloji', 'lise', None, 'diğer', 'https://www.kitapsepeti.com/tyt-ayt-aktif-biyoloji-0-dan-baslayanlara', 'https://asset.kitapsepeti.com/tyt-ayt-aktif-biyoloji-0-dan-baslayanlara-377813-33-O.jpg') 
+ 
+DEBUG:
+('Aktif Öğrenme Yayınları TYT AYT Geometri 0`dan Başlayanlara', 'Aktif Öğrenme Yayınları', 384, '160.65', '189.00', None, 0.0, 'matematik', 'lise', None, 'diğer', 'https://www.kitapsepeti.com/tyt-ayt-geometri-0dan-baslayanlara', 'https://asset.kitapsepeti.com/tyt-ayt-geometri-0dan-baslayanlara-542281-37-O.jpg') 
+ 
+DEBUG:
+('Aktif Öğrenme Yayınları TYT AYT Matematik Çarpanlara Ayırma ve İkinci Dereceden Denklemler', 'Aktif Öğrenme Yayınları', 128, '58.65', '69.00', None, 0.0, 'matematik', 'lise', None, 'diğer', 'https://www.kitapsepeti.com/tyt-ayt-matematik-carpanlara-ayirma-ve-ikinci-dereceden-denklemler', 'https://asset.kitapsepeti.com/tyt-ayt-matematik-carpanlara-ayirma-ve-ikinci-dereceden-denklemler-381974-34-O.jpg') 
+ 
+DEBUG:
+('Aktif Öğrenme Yayınları TYT AYT Matematik Fonksiyon ve Polinom', 'Aktif Öğrenme Yayınları', 112, '58.65', '69.00', None, 0.0, 'matematik', 'lise', None, 'diğer', 'https://www.kitapsepeti.com/tyt-ayt-matematik-fonksiyon-ve-polinom', 'https://asset.kitapsepeti.com/tyt-ayt-matematik-fonksiyon-ve-polinom-376563-33-O.jpg') 
+ 
+DEBUG:
+('Aktif Öğrenme Yayınları TYT Matematik Kuvvet Serisi Fasikül Seti', 'Aktif Öğrenme Yayınları', None, '509.15', '599.00', None, 0.0, 'matematik', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/tyt-matematik-kuvvet-serisi-fasikul-seti', 'https://asset.kitapsepeti.com/tyt-matematik-kuvvet-serisi-fasikul-seti-382294-34-O.jpg') 
+ 
+DEBUG:
+('Aktif Öğrenme Yayınları YKS AYT Aktif Fizik 0`dan Başlayanlara', 'Aktif Öğrenme Yayınları', 432, '160.65', '189.00', None, 0.0, 'fizik', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/yks-ayt-aktif-fizik-0dan-baslayanlara', 'https://asset.kitapsepeti.com/yks-ayt-aktif-fizik-0dan-baslayanlara-378374-33-O.jpg') 
+ 
+DEBUG:
+('Aktif Öğrenme Yayınları YKS TYT Aktif Kimya 0`dan Başlayanlara', 'Aktif Öğrenme Yayınları', 368, '160.65', '189.00', None, 0.0, 'kimya', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/yks-tyt-aktif-kimya-0dan-baslayanlara', 'https://asset.kitapsepeti.com/yks-tyt-aktif-kimya-0dan-baslayanlara-378090-33-O.jpg') 
+ 
+DEBUG:
+('Altın Anahtar Yayınları 500 Paragraf Sorusu', 'Altın Anahtar Yayınları', 209, '88.55', '115.00', None, 0.0, 'türkçe', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/500-paragraf-sorusu', 'https://asset.kitapsepeti.com/500-paragraf-sorusu-381857-34-O.jpg') 
+ 
+DEBUG:
+('Altın Anahtar Yayınları AYT Edebiyat Soru Hazinesi', 'Altın Anahtar Yayınları', 472, '219.45', '285.00', None, 0.0, 'edebiyat', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/ayt-edebiyat-soru-hazinesi-altin-anahtar-yayinlari', 'https://asset.kitapsepeti.com/ayt-edebiyat-soru-hazinesi-altin-anahtar-yayinlari-544706-37-O.jpg') 
+ 
+DEBUG:
+('Altın Anahtar Yayınları AYT Türk Dili ve Edebiyatı 24`lü Denemesi', 'Altın Anahtar Yayınları', 150, '103.95', '135.00', None, 0.0, 'edebiyat', 'ayt', None, 'deneme', 'https://www.kitapsepeti.com/ayt-turk-dili-ve-edebiyati-24lu-denemesi', 'https://asset.kitapsepeti.com/ayt-turk-dili-ve-edebiyati-24lu-denemesi-379943-33-O.jpg') 
+ 
+DEBUG:
+('Altın Anahtar Yayınları Paragraf Soru Hazinesi', 'Altın Anahtar Yayınları', 208, '127.05', '165.00', None, 0.0, 'türkçe', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/paragraf-soru-hazinesi-altin-anahtar-yayinlari', 'https://asset.kitapsepeti.com/paragraf-soru-hazinesi-altin-anahtar-yayinlari-544708-37-O.jpg') 
+ 
+DEBUG:
+('Altın Anahtar Yayınları TYT AYT Türk Dili ve Edebiyatı', 'Altın Anahtar Yayınları', 608, '254.10', '330.00', None, 0.0, 'edebiyat', 'lise', None, 'diğer', 'https://www.kitapsepeti.com/tyt-ayt-turk-dili-ve-edebiyati-altin-anahtar-yayinlari', 'https://asset.kitapsepeti.com/tyt-ayt-turk-dili-ve-edebiyati-altin-anahtar-yayinlari-544704-37-O.jpg') 
+ 
+DEBUG:
+('Altın Anahtar Yayınları TYT Türkçe Soru Hazinesi', 'Altın Anahtar Yayınları', 514, '219.45', '285.00', None, 0.0, 'türkçe', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/tyt-turkce-soru-hazinesi', 'https://asset.kitapsepeti.com/tyt-turkce-soru-hazinesi-384429-34-O.jpg') 
+ 
+DEBUG:
+('Altın Anahtar Yayınları YKS TYT 15 Türkçe Denemesi 1. Oturum', 'Altın Anahtar Yayınları', 160, '103.95', '135.00', None, 0.0, 'türkçe', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/yks-tyt-15-turkce-denemesi-1-oturum', 'https://asset.kitapsepeti.com/yks-tyt-15-turkce-denemesi-1-oturum-381850-34-O.jpg') 
+ 
+DEBUG:
+('Altın Başarı Yayınları AYT Edebiyat Soru Bankası', 'Altın Başarı Yayınları', None, '43.00', '43.00', None, 0.0, 'edebiyat', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/ayt-edebiyat-soru-bankasi-altin-basari-yayinlari', 'https://asset.kitapsepeti.com/ayt-edebiyat-soru-bankasi-altin-basari-yayinlari-462466-36-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları - Bayilik Altınkarma LGS 8. Sınıf\xa0 Din Kütürü ve Ahlak Bilgisi\xa0 10x10 Branş Deneme', 'Altın Karma Yayınları - Bayilik', None, '58.90', '95.00', None, 0.0, 'din', 'lise', None, 'deneme', 'https://www.kitapsepeti.com/altinkarma-lgs-8sinif-din-kuturu-ve-ahlak-bilgisi-1010-brans-deneme', 'https://asset.kitapsepeti.com/altinkarma-lgs-8sinif-din-kuturu-ve-ahlak-bilgisi-1010-brans-deneme-196909-27-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları - Bayilik Altınkarma LGS 8. Sınıf\xa0 Fen Bilimleri 10*20 Branş Deneme', 'Altın Karma Yayınları - Bayilik', None, '86.18', '139.00', None, 0.0, 'fen', 'lise', None, 'deneme', 'https://www.kitapsepeti.com/altinkarma-lgs-8sinif-fen-bilimleri-1020-brans-deneme', 'https://asset.kitapsepeti.com/altinkarma-lgs-8sinif-fen-bilimleri-1020-brans-deneme-196916-27-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları - Bayilik Altınkarma LGS 8. Sınıf\xa0 İngilizce\xa0 10x10 Branş Deneme', 'Altın Karma Yayınları - Bayilik', None, '58.90', '95.00', None, 0.0, 'ingilizce', 'lise', None, 'deneme', 'https://www.kitapsepeti.com/altinkarma-lgs-8sinif-ingilizce-1010-brans-deneme', 'https://asset.kitapsepeti.com/altinkarma-lgs-8sinif-ingilizce-1010-brans-deneme-196906-27-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları - Bayilik Altınkarma LGS 8. Sınıf\xa0 Matematik 10x20 Branş Deneme', 'Altın Karma Yayınları - Bayilik', None, '86.18', '139.00', None, 0.0, 'matematik', 'lise', None, 'deneme', 'https://www.kitapsepeti.com/altinkarma-lgs-8sinif-matematik-1020-brans-deneme', 'https://asset.kitapsepeti.com/altinkarma-lgs-8sinif-matematik-1020-brans-deneme-196922-27-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları - Bayilik Altınkarma LGS 8. Sınıf\xa0 T.C. İnkilap Tarihi ve Atatürkçülük\xa0 10x10 Branş Deneme', 'Altın Karma Yayınları - Bayilik', None, '58.90', '95.00', None, 0.0, 'tarih', 'lise', None, 'deneme', 'https://www.kitapsepeti.com/altinkarma-lgs-8sinif-tc-inkilap-tarihi-ve-ataturkculuk-1010-brans-deneme', 'https://asset.kitapsepeti.com/altinkarma-lgs-8sinif-tc-inkilap-tarihi-ve-ataturkculuk-1010-brans-deneme-196911-27-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları - Bayilik Altınkarma LGS 8. Sınıf\xa0 Türkçe 10x20 Branş Deneme', 'Altın Karma Yayınları - Bayilik', None, '86.18', '139.00', None, 0.0, 'türkçe', 'lise', None, 'deneme', 'https://www.kitapsepeti.com/altinkarma-lgs-8sinif-turkce-1020-brans-deneme', 'https://asset.kitapsepeti.com/altinkarma-lgs-8sinif-turkce-1020-brans-deneme-196918-27-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları - Bayilik Altınkarma Tahminmatik AYT Biyoloji Soru Bankası', 'Altın Karma Yayınları - Bayilik', 192, '104.78', '169.00', None, 0.0, 'biyoloji', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/altinkarma-tahminmatik-ayt-biyoloji-soru-bankasi', 'https://asset.kitapsepeti.com/altinkarma-tahminmatik-ayt-biyoloji-soru-bankasi-196859-27-O.png') 
+ 
+DEBUG:
+('Altın Karma Yayınları - Bayilik Altınkarma Tahminmatik AYT Fizik Soru Bankası', 'Altın Karma Yayınları - Bayilik', 175, '104.78', '169.00', None, 0.0, 'fizik', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/altinkarma-tahminmatik-ayt-fizik-soru-bankasi', 'https://asset.kitapsepeti.com/altinkarma-tahminmatik-ayt-fizik-soru-bankasi-196851-27-O.png') 
+ 
+DEBUG:
+('Altın Karma Yayınları - Bayilik Altınkarma Tahminmatik AYT Kimya Soru Bankası', 'Altın Karma Yayınları - Bayilik', None, '104.78', '169.00', None, 0.0, 'kimya', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/altinkarma-tahminmatik-ayt-kimya-soru-bankasi', 'https://asset.kitapsepeti.com/altinkarma-tahminmatik-ayt-kimya-soru-bankasi-196857-27-O.png') 
+ 
+DEBUG:
+('Altın Karma Yayınları - Bayilik Altınkarma Tahminmatik AYT Matematik Soru Bankası', 'Altın Karma Yayınları - Bayilik', 272, '123.38', '199.00', None, 0.0, 'matematik', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/altinkarma-tahminmatik-ayt-matematik-soru-bankasi', 'https://asset.kitapsepeti.com/altinkarma-tahminmatik-ayt-matematik-soru-bankasi-196850-27-O.png') 
+ 
+DEBUG:
+('Altın Karma Yayınları - Bayilik Altınkarma Tahminmatik AYT Türk Dili ve Edebiyatı\xa0 Soru Bankası', 'Altın Karma Yayınları - Bayilik', 300, '154.38', '249.00', None, 0.0, 'edebiyat', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/altinkarma-tahminmatik-ayt-turk-dili-ve-edebiyati-soru-bankasi', 'https://asset.kitapsepeti.com/altinkarma-tahminmatik-ayt-turk-dili-ve-edebiyati-soru-bankasi-196861-27-O.png') 
+ 
+DEBUG:
+('Altın Karma Yayınları - Bayilik Altınkarma Tahminmatik AYT\xa0 Coğrafya\xa0 Soru Bankası', 'Altın Karma Yayınları - Bayilik', 159, '92.38', '149.00', None, 0.0, 'coğrafya', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/altinkarma-tahminmatik-ayt-cografya-soru-bankasi', 'https://asset.kitapsepeti.com/altinkarma-tahminmatik-ayt-cografya-soru-bankasi-196862-27-O.png') 
+ 
+DEBUG:
+('Altın Karma Yayınları - Bayilik Altınkarma Tahminmatik TYT - AYT Felsefe ve Din Kültürü ve Ahlak Bilgisi Soru Bankası', 'Altın Karma Yayınları - Bayilik', None, '123.38', '199.00', None, 0.0, 'sosyal', 'lise', None, 'soru bankası', 'https://www.kitapsepeti.com/altinkarma-tahminmatik-tyt-ayt-felsefe-ve-din-kulturu-ve-ahlak-bilgisi-soru-bankasi', 'https://asset.kitapsepeti.com/altinkarma-tahminmatik-tyt-ayt-felsefe-ve-din-kulturu-ve-ahlak-bilgisi-soru-bankasi-196842-27-O.png') 
+ 
+DEBUG:
+('Altın Karma Yayınları - Bayilik Altınkarma Tahminmatik TYT - AYT Geometri Soru Bankası', 'Altın Karma Yayınları - Bayilik', 255, '123.38', '199.00', None, 0.0, 'matematik', 'lise', None, 'soru bankası', 'https://www.kitapsepeti.com/altinkarma-tahminmatik-tyt-ayt-geometri-soru-bankasi', 'https://asset.kitapsepeti.com/altinkarma-tahminmatik-tyt-ayt-geometri-soru-bankasi-196808-27-O.png') 
+ 
+DEBUG:
+('Altın Karma Yayınları - Bayilik Altınkarma Tahminmatik TYT - AYT Tarih Soru Bankası', 'Altın Karma Yayınları - Bayilik', 208, '123.38', '199.00', None, 0.0, 'tarih', 'lise', None, 'soru bankası', 'https://www.kitapsepeti.com/altinkarma-tahminmatik-tyt-ayt-tarih-soru-bankasi', 'https://asset.kitapsepeti.com/altinkarma-tahminmatik-tyt-ayt-tarih-soru-bankasi-196833-27-O.png') 
+ 
+DEBUG:
+('Altın Karma Yayınları - Bayilik Altınkarma Tahminmatik TYT Biyoloji Soru Bankası', 'Altın Karma Yayınları - Bayilik', 160, '92.38', '149.00', None, 0.0, 'biyoloji', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/altinkarma-tahminmatik-tyt-biyoloji-soru-bankasi', 'https://asset.kitapsepeti.com/altinkarma-tahminmatik-tyt-biyoloji-soru-bankasi-196821-27-O.png') 
+ 
+DEBUG:
+('Altın Karma Yayınları - Bayilik Altınkarma Tahminmatik TYT Fizik\xa0 Soru Bankası', 'Altın Karma Yayınları - Bayilik', 160, '92.38', '149.00', None, 0.0, 'fizik', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/altinkarma-tahminmatik-tyt-fizik-soru-bankasi', 'https://asset.kitapsepeti.com/altinkarma-tahminmatik-tyt-fizik-soru-bankasi-196812-27-O.png') 
+ 
+DEBUG:
+('Altın Karma Yayınları - Bayilik Altınkarma Tahminmatik TYT Matematik Soru Bankası', 'Altın Karma Yayınları - Bayilik', 240, '123.38', '199.00', None, 0.0, 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/altinkarma-tahminmatik-tyt-matematik-soru-bankasi', 'https://asset.kitapsepeti.com/altinkarma-tahminmatik-tyt-matematik-soru-bankasi-196789-27-O.png') 
+ 
+DEBUG:
+('Altın Karma Yayınları - Bayilik Altınkarma Tahminmatik TYT Türkçe Soru Bankası', 'Altın Karma Yayınları - Bayilik', 240, '123.38', '199.00', None, 0.0, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/altinkarma-tahminmatik-tyt-turkce-soru-bankasi', 'https://asset.kitapsepeti.com/altinkarma-tahminmatik-tyt-turkce-soru-bankasi-196827-27-O.png') 
+ 
+DEBUG:
+('Altın Karma Yayınları - Bayilik Altınkarma Tahminmatik TYT\xa0 Kimya Soru Bankası', 'Altın Karma Yayınları - Bayilik', 160, '92.38', '149.00', None, 0.0, 'kimya', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/altinkarma-tahminmatik-tyt-kimya-soru-bankasi', 'https://asset.kitapsepeti.com/altinkarma-tahminmatik-tyt-kimya-soru-bankasi-196816-27-O.png') 
+ 
+DEBUG:
+('Altın Karma Yayınları 2020 AYT Edebiyat Konu Konu Çıkmış Sorular', 'Altın Karma Yayınları', 128, '79.50', '159.00', None, 0.0, 'edebiyat', 'ayt', '2020', 'diğer', 'https://www.kitapsepeti.com/2020-ayt-edebiyat-konu-konu-cikmis-sorular', 'https://asset.kitapsepeti.com/2020-ayt-edebiyat-konu-konu-cikmis-sorular-422979-34-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları 2023 AYT 1.Dönem 5 Farklı Yayın 5 Farklı Deneme Sınavı Video Çözümlü', 'Altın Karma Yayınları', None, '74.50', '149.00', None, 0.0, 'genel', 'ayt', '2023', 'deneme', 'https://www.kitapsepeti.com/2023-ayt-1donem-5-farkli-yayin-5-farkli-deneme-sinavi-video-cozumlu', 'https://asset.kitapsepeti.com/2023-ayt-1donem-5-farkli-yayin-5-farkli-deneme-sinavi-video-cozumlu-805150-42-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları 2023 TYT 10 Farklı Yayın 10 Farklı Deneme + Son 1 Yıl Çıkmış Sorular Hediye', 'Altın Karma Yayınları', None, '119.50', '239.00', None, 0.0, 'genel', 'tyt', '2023', 'deneme', 'https://www.kitapsepeti.com/2023-tyt-10-farkli-yayin-10-farkli-deneme-son-1-yil-cikmis-sorular-hediye-altin-karma-yayinlari', 'https://asset.kitapsepeti.com/2023-tyt-10-farkli-yayin-10-farkli-deneme-son-1-yil-cikmis-sorular-hediye-altin-karma-yayinlari-550084-38-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları Altın Karma 2023 Model 10 Yayın 10+1 Ayt Deneme Seti', 'Altın Karma Yayınları', None, '119.50', '239.00', None, 0.0, 'genel', 'ayt', '2023', 'deneme', 'https://www.kitapsepeti.com/altin-karma-2023-model-10-yayin-101-ayt-deneme-seti', 'https://asset.kitapsepeti.com/altin-karma-2023-model-10-yayin-101-ayt-deneme-seti-743084-40-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları Altın Karma AYT Fen Bilimleri Branş Deneme', 'Altın Karma Yayınları', None, '74.50', '149.00', None, 0.0, 'fen', 'ayt', None, 'deneme', 'https://www.kitapsepeti.com/altin-karma-ayt-fen-bilimleri-brans-deneme', 'https://asset.kitapsepeti.com/altin-karma-ayt-fen-bilimleri-brans-deneme-412676-34-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları Altın Karma AYT\xa0 Matematik\xa0 Konu Konu Çıkmış Sorular', 'Altın Karma Yayınları', None, '62.50', '125.00', None, 0.0, 'matematik', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/altin-karma-ayt-matematik-konu-konu-cikmis-sorular', 'https://asset.kitapsepeti.com/altin-karma-ayt-matematik-konu-konu-cikmis-sorular-412677-34-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları Altın Karma TYT Fen Bilimleri Branş Deneme', 'Altın Karma Yayınları', None, '54.50', '109.00', None, 0.0, 'fen', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/altin-karma-tyt-fen-bilimleri-brans-deneme', 'https://asset.kitapsepeti.com/altin-karma-tyt-fen-bilimleri-brans-deneme-333101-27-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları Altın Karma TYT Matematik Branş Deneme', 'Altın Karma Yayınları', None, '74.50', '149.00', None, 0.0, 'matematik', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/altin-karma-tyt-matematik-brans-deneme', 'https://asset.kitapsepeti.com/altin-karma-tyt-matematik-brans-deneme-196894-27-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları Altın Karma TYT Sosyal Bilimler Branş Deneme', 'Altın Karma Yayınları', None, '54.50', '109.00', None, 0.0, 'sosyal', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/altin-karma-tyt-sosyal-bilimler-brans-deneme', 'https://asset.kitapsepeti.com/altin-karma-tyt-sosyal-bilimler-brans-deneme-196939-27-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları Altın Karma TYT Sosyal Bilimler Konu Konu Çıkmış Sorular', 'Altın Karma Yayınları', None, '84.50', '169.00', None, 0.0, 'sosyal', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/altin-karma-tyt-sosyal-bilimler-konu-konu-cikmis-sorular', 'https://asset.kitapsepeti.com/altin-karma-tyt-sosyal-bilimler-konu-konu-cikmis-sorular-412678-34-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları Altınkarma TYT Biyoloji 30x6 Deneme Sınavı 2023', 'Altın Karma Yayınları', None, '47.50', '95.00', None, 0.0, 'biyoloji', 'tyt', '2023', 'deneme', 'https://www.kitapsepeti.com/altinkarma-tyt-biyoloji-30x6-deneme-sinavi-2023', 'https://asset.kitapsepeti.com/altinkarma-tyt-biyoloji-30x6-deneme-sinavi-2023-809981-42-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları Altınkarma TYT Coğrafya 30X5 Deneme Sınavı 2023', 'Altın Karma Yayınları', None, '47.50', '95.00', None, 0.0, 'coğrafya', 'tyt', '2023', 'deneme', 'https://www.kitapsepeti.com/altinkarma-tyt-cografya-30x5-deneme-sinavi-2023', 'https://asset.kitapsepeti.com/altinkarma-tyt-cografya-30x5-deneme-sinavi-2023-809979-42-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları Altınkarma TYT Kimya 30X7 Deneme Sınavı 2023', 'Altın Karma Yayınları', None, '47.50', '95.00', None, 0.0, 'kimya', 'tyt', '2023', 'deneme', 'https://www.kitapsepeti.com/altinkarma-tyt-kimya-30x7-deneme-sinavi-2023', 'https://asset.kitapsepeti.com/altinkarma-tyt-kimya-30x7-deneme-sinavi-2023-809980-42-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları Altınkarma TYT Problemler 16x12 Deneme Sınavı 2023', 'Altın Karma Yayınları', None, '47.50', '95.00', None, 0.0, 'matematik', 'tyt', '2023', 'deneme', 'https://www.kitapsepeti.com/altinkarma-tyt-problemler-16x12-deneme-sinavi-2023', 'https://asset.kitapsepeti.com/altinkarma-tyt-problemler-16x12-deneme-sinavi-2023-809982-42-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları Altınkarma TYT Tarih 30x5 Deneme Sınavı 2023', 'Altın Karma Yayınları', None, '47.50', '95.00', None, 0.0, 'tarih', 'tyt', '2023', 'deneme', 'https://www.kitapsepeti.com/altinkarma-tyt-tarih-30x5-deneme-sinavi-2023', 'https://asset.kitapsepeti.com/altinkarma-tyt-tarih-30x5-deneme-sinavi-2023-809978-42-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları AYT 12. Sınıf 1. Dönem Edebiyat Konu Konu Çıkmış Sorular', 'Altın Karma Yayınları', 128, '15.00', '30.00', None, 0.0, 'edebiyat', '12.', None, 'diğer', 'https://www.kitapsepeti.com/ayt-12-sinif-1-donem-edebiyat-konu-konu-cikmis-sorular', 'https://asset.kitapsepeti.com/ayt-12-sinif-1-donem-edebiyat-konu-konu-cikmis-sorular-461599-35-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları AYT Edebiyat Sosyal Bilimler 1 Deneme 10x40', 'Altın Karma Yayınları', None, '74.50', '149.00', None, 0.0, 'sosyal', 'ayt', None, 'deneme', 'https://www.kitapsepeti.com/ayt-edebiyat-sosyal-bilimler-1-deneme-10x40', 'https://asset.kitapsepeti.com/ayt-edebiyat-sosyal-bilimler-1-deneme-10x40-732744-40-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları TYT Fen Bilimleri Fizik - Kimya - Biyoloji Konu Konu Çıkmış Sorular', 'Altın Karma Yayınları', 288, '99.50', '199.00', None, 0.0, 'fen', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/tyt-fen-bilimleri-fizik-kimya-biyoloji-konu-konu-cikmis-sorular', 'https://asset.kitapsepeti.com/tyt-fen-bilimleri-fizik-kimya-biyoloji-konu-konu-cikmis-sorular-208321-25-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları TYT Fizik 30 x 7 Deneme', 'Altın Karma Yayınları', None, '47.50', '95.00', None, 0.0, 'fizik', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/tyt-fizik-30-x-7-deneme', 'https://asset.kitapsepeti.com/tyt-fizik-30-x-7-deneme-810813-42-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları TYT Matematik Konu Konu Çıkmış Sorular', 'Altın Karma Yayınları', 288, '155.00', '310.00', None, 0.0, 'matematik', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/tyt-matematik-konu-konu-cikmis-sorular', 'https://asset.kitapsepeti.com/tyt-matematik-konu-konu-cikmis-sorular-275896-27-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları TYT Paragraf Konu Konu Çıkmış Sorular', 'Altın Karma Yayınları', 144, '79.50', '159.00', None, 0.0, 'türkçe', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/tyt-paragraf-konu-konu-cikmis-sorular', 'https://asset.kitapsepeti.com/tyt-paragraf-konu-konu-cikmis-sorular-275888-27-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları TYT Problemler Konu Konu Çıkmış Sorular', 'Altın Karma Yayınları', 96, '64.50', '129.00', None, 0.0, 'matematik', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/tyt-problemler-konu-konu-cikmis-sorular', 'https://asset.kitapsepeti.com/tyt-problemler-konu-konu-cikmis-sorular-415972-34-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları TYT Türkçe 10 x 40 Deneme Sınavı', 'Altın Karma Yayınları', 160, '74.50', '149.00', None, 0.0, 'türkçe', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/altin-karma-tyt-turkce-brans-deneme', 'https://asset.kitapsepeti.com/altin-karma-tyt-turkce-brans-deneme-196891-27-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları TYT Türkçe Konu Konu Çıkmış Sorular', 'Altın Karma Yayınları', 320, '165.00', '330.00', None, 0.0, 'türkçe', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/tyt-turkce-konu-konu-cikmis-sorular', 'https://asset.kitapsepeti.com/tyt-turkce-konu-konu-cikmis-sorular-275904-27-O.jpg') 
+ 
+DEBUG:
+('Altın Karma Yayınları YKS TYT Sosyal Bilimler Deneme Video Çözümlü', 'Altın Karma Yayınları', None, '19.50', '39.00', None, 0.0, 'sosyal', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/yks-tyt-sosyal-bilimler-deneme-video-cozumlu', 'https://asset.kitapsepeti.com/yks-tyt-sosyal-bilimler-deneme-video-cozumlu-817580-43-O.jpg') 
+ 
+DEBUG:
+('Altyapı Yayınları Kartlarla AYT Biyoloji', 'Altyapı Yayınları', None, '46.75', '55.00', None, 0.0, 'biyoloji', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/altyapi-yayinlari-kartlarla-ayt-biyoloji', 'https://asset.kitapsepeti.com/altyapi-yayinlari-kartlarla-ayt-biyoloji-725407-40-O.jpg') 
+ 
+DEBUG:
+('Altyapı Yayınları Kartlarla AYT Coğrafya', 'Altyapı Yayınları', 143, '46.75', '55.00', None, 0.0, 'coğrafya', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/altyapi-yayinlari-kartlarla-ayt-cografya', 'https://asset.kitapsepeti.com/altyapi-yayinlari-kartlarla-ayt-cografya-725409-40-O.jpg') 
+ 
+DEBUG:
+('Altyapı Yayınları Kartlarla AYT Fizik', 'Altyapı Yayınları', None, '46.75', '55.00', None, 0.0, 'fizik', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/altyapi-yayinlari-kartlarla-ayt-fizik', 'https://asset.kitapsepeti.com/altyapi-yayinlari-kartlarla-ayt-fizik-725412-40-O.jpg') 
+ 
+DEBUG:
+('Altyapı Yayınları Kartlarla AYT Inkılap Tarihi', 'Altyapı Yayınları', None, '46.75', '55.00', None, 0.0, 'tarih', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/altyapi-yayinlari-kartlarla-ayt-inkilap-tarihi', 'https://asset.kitapsepeti.com/altyapi-yayinlari-kartlarla-ayt-inkilap-tarihi-725413-40-O.jpg') 
+ 
+DEBUG:
+('Altyapı Yayınları Kartlarla AYT Kimya Altyapı Yayınlar', 'Altyapı Yayınları', None, '46.75', '55.00', None, 0.0, 'kimya', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/kartlarla-ayt-kimya-altyapi-yayinlar', 'https://asset.kitapsepeti.com/kartlarla-ayt-kimya-altyapi-yayinlar-731939-40-O.jpg') 
+ 
+DEBUG:
+('Altyapı Yayınları Kartlarla AYT Matematik', 'Altyapı Yayınları', None, '46.75', '55.00', None, 0.0, 'matematik', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/kartlarla-ayt-matematik-altyapi-yayinlari', 'https://asset.kitapsepeti.com/kartlarla-ayt-matematik-altyapi-yayinlari-731940-40-O.jpg') 
+ 
+DEBUG:
+('Altyapı Yayınları Kartlarla Ayt Psikoloji Sosyoloji Mantık', 'Altyapı Yayınları', None, '46.75', '55.00', None, 0.0, 'matematik', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/kartlarla-ayt-psikoloji-sosyoloji-mantik-altyapi-yayinlari', 'https://asset.kitapsepeti.com/kartlarla-ayt-psikoloji-sosyoloji-mantik-altyapi-yayinlari-731941-40-O.jpg') 
+ 
+DEBUG:
+('Altyapı Yayınları Kartlarla AYT Türk Edebiyatı', 'Altyapı Yayınları', None, '46.75', '55.00', None, 0.0, 'edebiyat', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/kartlarla-ayt-turk-edebiyati-altyapi-yayinlari', 'https://asset.kitapsepeti.com/kartlarla-ayt-turk-edebiyati-altyapi-yayinlari-731982-40-O.jpg') 
+ 
+DEBUG:
+('Altyapı Yayınları Kartlarla Eser Sanatçı', 'Altyapı Yayınları', None, '46.75', '55.00', None, 0.0, 'genel', 'lise', None, 'diğer', 'https://www.kitapsepeti.com/altyapi-yayinlari-kartlarla-eser-sanatci', 'https://asset.kitapsepeti.com/altyapi-yayinlari-kartlarla-eser-sanatci-725410-40-O.jpg') 
+ 
+DEBUG:
+('Altyapı Yayınları Kartlarla Roman Özetleri', 'Altyapı Yayınları', None, '46.75', '55.00', None, 0.0, 'genel', 'lise', None, 'diğer', 'https://www.kitapsepeti.com/kartlarla-roman-ozetleri-altyapi-yayinlari', 'https://asset.kitapsepeti.com/kartlarla-roman-ozetleri-altyapi-yayinlari-731956-40-O.jpg') 
+ 
+DEBUG:
+('Altyapı Yayınları Kartlarla TYT Biyoloji', 'Altyapı Yayınları', 127, '46.75', '55.00', None, 0.0, 'biyoloji', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/altyapi-yayinlari-kartlarla-tyt-biyoloji', 'https://asset.kitapsepeti.com/altyapi-yayinlari-kartlarla-tyt-biyoloji-724948-40-O.jpg') 
+ 
+DEBUG:
+('Altyapı Yayınları Kartlarla TYT Coğrafya', 'Altyapı Yayınları', 189, '46.75', '55.00', None, 0.0, 'coğrafya', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/altyapi-yayinlari-kartlarla-tyt-cografya', 'https://asset.kitapsepeti.com/altyapi-yayinlari-kartlarla-tyt-cografya-725059-40-O.jpg') 
+ 
+DEBUG:
+('Altyapı Yayınları Kartlarla TYT Felsefe', 'Altyapı Yayınları', 127, '46.75', '55.00', None, 0.0, 'felsefe', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/altyapi-yayinlari-kartlarla-tyt-felsefe', 'https://asset.kitapsepeti.com/altyapi-yayinlari-kartlarla-tyt-felsefe-724981-40-O.jpg') 
+ 
+DEBUG:
+('Altyapı Yayınları Kartlarla TYT Fizik', 'Altyapı Yayınları', 127, '46.75', '55.00', None, 0.0, 'fizik', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/altyapi-yayinlari-kartlarla-tyt-fizik', 'https://asset.kitapsepeti.com/altyapi-yayinlari-kartlarla-tyt-fizik-725025-40-O.jpg') 
+ 
+DEBUG:
+('Altyapı Yayınları Kartlarla TYT Kimya', 'Altyapı Yayınları', None, '46.75', '55.00', None, 0.0, 'kimya', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/altyapi-yayinlari-kartlarla-tyt-kimya', 'https://asset.kitapsepeti.com/altyapi-yayinlari-kartlarla-tyt-kimya-725060-40-O.jpg') 
+ 
+DEBUG:
+('Altyapı Yayınları Kartlarla TYT Matematik', 'Altyapı Yayınları', 191, '46.75', '55.00', None, 0.0, 'matematik', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/altyapi-yayinlari-kartlarla-tyt-matematik', 'https://asset.kitapsepeti.com/altyapi-yayinlari-kartlarla-tyt-matematik-724986-40-O.jpg') 
+ 
+DEBUG:
+('Altyapı Yayınları Kartlarla TYT Tarih', 'Altyapı Yayınları', 191, '46.75', '55.00', None, 0.0, 'tarih', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/altyapi-yayinlari-kartlarla-tyt-tarih', 'https://asset.kitapsepeti.com/altyapi-yayinlari-kartlarla-tyt-tarih-725061-40-O.jpg') 
+ 
+DEBUG:
+('Altyapı Yayınları Kartlarla TYT Türkçe', 'Altyapı Yayınları', None, '46.75', '55.00', None, 0.0, 'türkçe', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/altyapi-yayinlari-kartlarla-tyt-turkce', 'https://asset.kitapsepeti.com/altyapi-yayinlari-kartlarla-tyt-turkce-725404-40-O.jpg') 
+ 
+DEBUG:
+('Anadolu Okul Yayınları 2022 TYT Biyoloji Konu Özetli Soru Bankası', 'Anadolu Okul Yayınları', 224, '49.60', '80.00', None, 0.0, 'biyoloji', 'tyt', '2022', 'soru bankası', 'https://www.kitapsepeti.com/2022-tyt-biyoloji-konu-ozetli-soru-bankasi-361812', 'https://asset.kitapsepeti.com/2022-tyt-biyoloji-konu-ozetli-soru-bankasi-361812-464001-36-O.jpg') 
+ 
+DEBUG:
+('Anadolu Okul Yayınları 2022 TYT Biyoloji Konu Özetli Soru Bankası', 'Anadolu Okul Yayınları', 224, '49.60', '80.00', None, 0.0, 'biyoloji', 'tyt', '2022', 'soru bankası', 'https://www.kitapsepeti.com/2022-tyt-biyoloji-konu-ozetli-soru-bankasi', 'https://asset.kitapsepeti.com/2022-tyt-biyoloji-konu-ozetli-soru-bankasi-313922-24-O.jpg') 
+ 
+DEBUG:
+('Anadolu Okul Yayınları 2022 TYT Coğrafya Meslek Liselerine Özel Soru Bankası', 'Anadolu Okul Yayınları', 176, '49.60', '80.00', None, 0.0, 'coğrafya', 'tyt', '2022', 'soru bankası', 'https://www.kitapsepeti.com/2022-tyt-cografya-meslek-liselerine-ozel-soru-bankasi-anadolu-okul-yayinlari', 'https://asset.kitapsepeti.com/2022-tyt-cografya-meslek-liselerine-ozel-soru-bankasi-anadolu-okul-yayinlari-464003-36-O.jpg') 
+ 
+DEBUG:
+('Anadolu Okul Yayınları 2022 TYT Coğrafya Soru Bankası', 'Anadolu Okul Yayınları', 176, '49.60', '80.00', None, 0.0, 'coğrafya', 'tyt', '2022', 'soru bankası', 'https://www.kitapsepeti.com/2022-tyt-cografya-soru-bankasi', 'https://asset.kitapsepeti.com/2022-tyt-cografya-soru-bankasi-313897-24-O.jpg') 
+ 
+DEBUG:
+('Anadolu Okul Yayınları 2022 TYT Din Kültürü ve Ahlak Bilgisi Meslek Lisesine Özel Soru Bankası', 'Anadolu Okul Yayınları', 176, '43.40', '70.00', None, 0.0, 'din', 'tyt', '2022', 'soru bankası', 'https://www.kitapsepeti.com/2022-tyt-din-kulturu-ve-ahlak-bilgisi-meslek-lisesine-ozel-soru-bankasi-anadolu-okul-yayinlari', 'https://asset.kitapsepeti.com/2022-tyt-din-kulturu-ve-ahlak-bilgisi-meslek-lisesine-ozel-soru-bankasi-anadolu-okul-yayinlari-464006-36-O.jpg') 
+ 
+DEBUG:
+('Anadolu Okul Yayınları 2022 TYT Din Kültürü ve Ahlak Bilgisi Soru Bankası', 'Anadolu Okul Yayınları', 176, '43.40', '70.00', None, 0.0, 'din', 'tyt', '2022', 'soru bankası', 'https://www.kitapsepeti.com/2022-tyt-din-kulturu-ve-ahlak-bilgisi-soru-bankasi', 'https://asset.kitapsepeti.com/2022-tyt-din-kulturu-ve-ahlak-bilgisi-soru-bankasi-313899-24-O.jpg') 
+ 
+DEBUG:
+('Anadolu Okul Yayınları 2022 TYT Felsefe Soru Bankası', 'Anadolu Okul Yayınları', 160, '43.40', '70.00', None, 0.0, 'felsefe', 'tyt', '2022', 'soru bankası', 'https://www.kitapsepeti.com/2022-tyt-felsefe-soru-bankasi', 'https://asset.kitapsepeti.com/2022-tyt-felsefe-soru-bankasi-313900-24-O.jpg') 
+ 
+DEBUG:
+('Anadolu Okul Yayınları 2022 TYT Fizik Konu Özetli Meslek Lisesine Özel Soru Bankası', 'Anadolu Okul Yayınları', 160, '68.20', '110.00', None, 0.0, 'fizik', 'tyt', '2022', 'soru bankası', 'https://www.kitapsepeti.com/2022-tyt-fizik-konu-ozetli-meslek-lisesine-ozel-soru-bankasi-anadolu-okul-yayinlari', 'https://asset.kitapsepeti.com/2022-tyt-fizik-konu-ozetli-meslek-lisesine-ozel-soru-bankasi-anadolu-okul-yayinlari-464008-36-O.jpg') 
+ 
+DEBUG:
+('Anadolu Okul Yayınları 2022 TYT Fizik Konu Özetli Soru Bankası', 'Anadolu Okul Yayınları', 272, '68.20', '110.00', None, 0.0, 'fizik', 'tyt', '2022', 'soru bankası', 'https://www.kitapsepeti.com/2022-tyt-fizik-konu-ozetli-soru-bankasi', 'https://asset.kitapsepeti.com/2022-tyt-fizik-konu-ozetli-soru-bankasi-313901-24-O.jpg') 
+ 
+DEBUG:
+('Anadolu Okul Yayınları 2022 TYT Geometri Konu Özetli Soru Bankası', 'Anadolu Okul Yayınları', 240, '68.20', '110.00', None, 0.0, 'matematik', 'tyt', '2022', 'soru bankası', 'https://www.kitapsepeti.com/2022-tyt-geometri-konu-ozetli-soru-bankasi', 'https://asset.kitapsepeti.com/2022-tyt-geometri-konu-ozetli-soru-bankasi-313902-24-O.jpg') 
+ 
+DEBUG:
+('Anadolu Okul Yayınları 2022 TYT Kimya Konu Özetli Meslek Lisesine Özel Soru Bankası', 'Anadolu Okul Yayınları', 176, '49.60', '80.00', None, 0.0, 'kimya', 'tyt', '2022', 'soru bankası', 'https://www.kitapsepeti.com/2022-tyt-kimya-konu-ozetli-meslek-lisesine-ozel-soru-bankasi-anadolu-okul-yayinlari', 'https://asset.kitapsepeti.com/2022-tyt-kimya-konu-ozetli-meslek-lisesine-ozel-soru-bankasi-anadolu-okul-yayinlari-464010-36-O.jpg') 
+ 
+DEBUG:
+('Anadolu Okul Yayınları 2022 TYT Kimya Konu Özetli Soru Bankası', 'Anadolu Okul Yayınları', 176, '49.60', '80.00', None, 0.0, 'kimya', 'tyt', '2022', 'soru bankası', 'https://www.kitapsepeti.com/2022-tyt-kimya-konu-ozetli-soru-bankasi', 'https://asset.kitapsepeti.com/2022-tyt-kimya-konu-ozetli-soru-bankasi-313904-24-O.jpg') 
+ 
+DEBUG:
+('Anadolu Okul Yayınları 2022 TYT Matematik Konu Özetli Soru Bankası', 'Anadolu Okul Yayınları', 464, '124.00', '200.00', None, 0.0, 'matematik', 'tyt', '2022', 'soru bankası', 'https://www.kitapsepeti.com/2022-tyt-matematik-konu-ozetli-soru-bankasi', 'https://asset.kitapsepeti.com/2022-tyt-matematik-konu-ozetli-soru-bankasi-313905-24-O.jpg') 
+ 
+DEBUG:
+('Anadolu Okul Yayınları 2022 TYT Tarih Konu Özetli Soru Bankası', 'Anadolu Okul Yayınları', 208, '49.60', '80.00', None, 0.0, 'tarih', 'tyt', '2022', 'soru bankası', 'https://www.kitapsepeti.com/2022-tyt-tarih-konu-ozetli-soru-bankasi', 'https://asset.kitapsepeti.com/2022-tyt-tarih-konu-ozetli-soru-bankasi-313907-24-O.jpg') 
+ 
+DEBUG:
+('Anadolu Okul Yayınları 2022 TYT Türkçe Soru Bankası', 'Anadolu Okul Yayınları', 368, '93.00', '150.00', None, 0.0, 'türkçe', 'tyt', '2022', 'soru bankası', 'https://www.kitapsepeti.com/2022-tyt-turkce-soru-bankasi', 'https://asset.kitapsepeti.com/2022-tyt-turkce-soru-bankasi-313908-24-O.jpg') 
+ 
+DEBUG:
+('Anadolu Okul Yayınları TYT Geometri Konu Özetli Meslek Lisesine Özel Soru Bankası', 'Anadolu Okul Yayınları', 240, '68.20', '110.00', None, 0.0, 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/tyt-geometri-konu-ozetli-meslek-lisesine-ozel-soru-bankasi-anadolu-okul-yayinlari', 'https://asset.kitapsepeti.com/tyt-geometri-konu-ozetli-meslek-lisesine-ozel-soru-bankasi-anadolu-okul-yayinlari-464009-36-O.jpg') 
+ 
+DEBUG:
+('Anadolu Okul Yayınları TYT Tarih Konu Özetli Meslek Lisesine Özel Soru Bankası', 'Anadolu Okul Yayınları', 208, '49.60', '80.00', None, 0.0, 'tarih', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/tyt-tarih-konu-ozetli-meslek-lisesine-ozel-soru-bankasi-anadolu-okul-yayinlari', 'https://asset.kitapsepeti.com/tyt-tarih-konu-ozetli-meslek-lisesine-ozel-soru-bankasi-anadolu-okul-yayinlari-464011-36-O.jpg') 
+ 
+DEBUG:
+('Anka Eğitim Yayınları 2021 TYT Şah Mat Yeni Nesil Problemler Konu Anlatımı', 'Anka Eğitim Yayınları', 160, '50.00', '50.00', None, 0.0, 'matematik', 'tyt', '2021', 'diğer', 'https://www.kitapsepeti.com/2021-tyt-sah-mat-yeni-nesil-problemler-konu-anlatimi', 'https://asset.kitapsepeti.com/2021-tyt-sah-mat-yeni-nesil-problemler-konu-anlatimi-379792-33-O.jpg') 
+ 
+DEBUG:
+('Anka Eğitim Yayınları AYT Cumhuriyet Dönemi Türk Edebiyatı Soru Bankası', 'Anka Eğitim Yayınları', 192, '80.00', '80.00', None, 0.0, 'edebiyat', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/ayt-cumhuriyet-donemi-turk-edebiyati-soru-bankasi', 'https://asset.kitapsepeti.com/ayt-cumhuriyet-donemi-turk-edebiyati-soru-bankasi-538662-37-O.png') 
+ 
+DEBUG:
+('Anka Eğitim Yayınları Şah Mat AYT Türk Dili ve Edebiyatı Tarama Denemeleri', 'Anka Eğitim Yayınları', 174, '30.00', '30.00', None, 0.0, 'edebiyat', 'ayt', None, 'deneme', 'https://www.kitapsepeti.com/sah-mat-ayt-turk-dili-ve-edebiyati-tarama-denemeleri', 'https://asset.kitapsepeti.com/sah-mat-ayt-turk-dili-ve-edebiyati-tarama-denemeleri-806892-42-O.jpg') 
+ 
+DEBUG:
+('Anka Eğitim Yayınları TYT Şah Mat 5`li Video Çözümlü Deneme Sınavları', 'Anka Eğitim Yayınları', None, '33.00', '33.00', None, 0.0, 'genel', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/tyt-sah-mat-5li-video-cozumlu-deneme-sinavlari', 'https://asset.kitapsepeti.com/tyt-sah-mat-5li-video-cozumlu-deneme-sinavlari-384828-34-O.png') 
+ 
+DEBUG:
+('Anka Eğitim Yayınları TYT Türkçe Şah-Mat Yeni Nesil Konu Anlatımı', 'Anka Eğitim Yayınları', 288, '50.00', '50.00', None, 0.0, 'türkçe', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/tyt-turkce-sah-mat-yeni-nesil-konu-anlatimi', 'https://asset.kitapsepeti.com/tyt-turkce-sah-mat-yeni-nesil-konu-anlatimi-538522-37-O.jpg') 
+ 
+DEBUG:
+('Anka Eğitim Yayınları YKS TYT 1. Oturum Türkçe Deneme Sınavları', 'Anka Eğitim Yayınları', None, '55.00', '55.00', None, 0.0, 'türkçe', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/yks-tyt-1-oturum-turkce-deneme-sinavlari-anka-egitim-yayinlari', 'https://asset.kitapsepeti.com/yks-tyt-1-oturum-turkce-deneme-sinavlari-anka-egitim-yayinlari-462696-36-O.jpg') 
+ 
+DEBUG:
+('Ankara Kariyer Yayınları 2022 AYT Üniversitenin Anahtarı 5`li Karma Deneme', 'Ankara Kariyer Yayınları', None, '50.00', '50.00', None, 0.0, 'genel', 'ayt', '2022', 'deneme', 'https://www.kitapsepeti.com/2022-ayt-universitenin-anahtari-5li-karma-deneme', 'https://asset.kitapsepeti.com/2022-ayt-universitenin-anahtari-5li-karma-deneme-385148-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık 2021 TYT 3`lü Dekatlon Deneme', 'Ankara Yayıncılık', 96, '45.00', '45.00', None, 0.0, 'genel', 'tyt', '2021', 'deneme', 'https://www.kitapsepeti.com/tyt-3-lu-dekatlon-deneme', 'https://asset.kitapsepeti.com/tyt-3-lu-dekatlon-deneme-378085-33-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık AYT Biyoloji Dekatlon Soru Bankası', 'Ankara Yayıncılık', 160, '120.00', '120.00', None, 0.0, 'biyoloji', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/ayt-biyoloji-dekatlon-soru-bankasi', 'https://asset.kitapsepeti.com/ayt-biyoloji-dekatlon-soru-bankasi-443606-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık AYT Coğrafya 40 Yaprak Test', 'Ankara Yayıncılık', 80, '40.00', '40.00', None, 0.0, 'coğrafya', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/ayt-cografya-40-yaprak-test', 'https://asset.kitapsepeti.com/ayt-cografya-40-yaprak-test-381321-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık AYT Coğrafya Dekatlon Soru Bankası', 'Ankara Yayıncılık', 280, '170.00', '170.00', None, 0.0, 'coğrafya', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/ayt-cografya-dekatlon-soru-bankasi', 'https://asset.kitapsepeti.com/ayt-cografya-dekatlon-soru-bankasi-443604-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık AYT Dekatlon 3 Eşit Ağırlık Deneme', 'Ankara Yayıncılık', 96, '45.00', '45.00', None, 0.0, 'genel', 'ayt', None, 'deneme', 'https://www.kitapsepeti.com/ayt-dekatlon-3-esit-agirlik-deneme', 'https://asset.kitapsepeti.com/ayt-dekatlon-3-esit-agirlik-deneme-443586-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık AYT Dekatlon 3 Sayısal Deneme', 'Ankara Yayıncılık', None, '45.00', '45.00', None, 0.0, 'sayısal', 'ayt', None, 'deneme', 'https://www.kitapsepeti.com/ayt-dekatlon-3-sayisal-deneme', 'https://asset.kitapsepeti.com/ayt-dekatlon-3-sayisal-deneme-428361-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık AYT Dekatlon 5 Eşit Ağırlık Deneme', 'Ankara Yayıncılık', 160, '75.00', '75.00', None, 0.0, 'genel', 'ayt', None, 'deneme', 'https://www.kitapsepeti.com/ayt-dekatlon-5-esit-agirlik-deneme', 'https://asset.kitapsepeti.com/ayt-dekatlon-5-esit-agirlik-deneme-737366-40-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık AYT Dekatlon 5 Sayısal Deneme', 'Ankara Yayıncılık', 120, '75.00', '75.00', None, 0.0, 'sayısal', 'ayt', None, 'deneme', 'https://www.kitapsepeti.com/ayt-dekatlon-5-sayisal-deneme', 'https://asset.kitapsepeti.com/ayt-dekatlon-5-sayisal-deneme-737533-40-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık AYT Fen Bilimleri Dekatlon 12 Deneme', 'Ankara Yayıncılık', 192, '90.00', '90.00', None, 0.0, 'fen', 'ayt', None, 'deneme', 'https://www.kitapsepeti.com/ayt-fen-bilimleri-dekatlon-12-deneme', 'https://asset.kitapsepeti.com/ayt-fen-bilimleri-dekatlon-12-deneme-443588-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık AYT Fizik Dekatlon Soru Bankası', 'Ankara Yayıncılık', 360, '170.00', '170.00', None, 0.0, 'fizik', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/ayt-fizik-dekatlon-soru-bankasi', 'https://asset.kitapsepeti.com/ayt-fizik-dekatlon-soru-bankasi-443610-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık AYT Fizik Yaprak Test', 'Ankara Yayıncılık', 80, '40.00', '40.00', None, 0.0, 'fizik', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/ayt-fizik-yaprak-test-347876', 'https://asset.kitapsepeti.com/ayt-fizik-yaprak-test-347876-443601-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık AYT Geometri Dekatlon Soru Bankası', 'Ankara Yayıncılık', 288, '135.00', '135.00', None, 0.0, 'matematik', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/ayt-geometri-dekatlon-soru-bankasi', 'https://asset.kitapsepeti.com/ayt-geometri-dekatlon-soru-bankasi-443611-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık AYT Kimya Dekatlon Soru Bankası', 'Ankara Yayıncılık', 216, '150.00', '150.00', None, 0.0, 'kimya', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/ayt-kimya-dekatlon-soru-bankasi', 'https://asset.kitapsepeti.com/ayt-kimya-dekatlon-soru-bankasi-443609-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık AYT Kimya Soru Bankası', 'Ankara Yayıncılık', None, '32.00', '32.00', None, 0.0, 'kimya', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/ayt-kimya-soru-bankasi-341048', 'https://asset.kitapsepeti.com/ayt-kimya-soru-bankasi-341048-381346-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık AYT Kimya Yaprak Test', 'Ankara Yayıncılık', 136, '65.00', '65.00', None, 0.0, 'kimya', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/ayt-kimya-yaprak-test', 'https://asset.kitapsepeti.com/ayt-kimya-yaprak-test-443592-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık AYT Matematik Dekatlon 12 Deneme', 'Ankara Yayıncılık', 192, '90.00', '90.00', None, 0.0, 'matematik', 'ayt', None, 'deneme', 'https://www.kitapsepeti.com/ayt-matematik-dekatlon-12-deneme', 'https://asset.kitapsepeti.com/ayt-matematik-dekatlon-12-deneme-443589-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık AYT Matematik Yaprak Test', 'Ankara Yayıncılık', 192, '90.00', '90.00', None, 0.0, 'matematik', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/ayt-matematik-yaprak-test-347877', 'https://asset.kitapsepeti.com/ayt-matematik-yaprak-test-347877-443602-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık AYT Tarih Dekatlon Soru Bankası', 'Ankara Yayıncılık', 296, '170.00', '170.00', None, 0.0, 'tarih', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/ayt-tarih-dekatlon-soru-bankasi', 'https://asset.kitapsepeti.com/ayt-tarih-dekatlon-soru-bankasi-443605-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık AYT Türk Dili ve Edebiyatı 60 Yaprak Test', 'Ankara Yayıncılık', 120, '55.00', '55.00', None, 0.0, 'edebiyat', 'ayt', None, 'diğer', 'https://www.kitapsepeti.com/ayt-turk-dili-ve-edebiyati-60-yaprak-test', 'https://asset.kitapsepeti.com/ayt-turk-dili-ve-edebiyati-60-yaprak-test-381314-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık AYT Türk Dili ve Edebiyatı Dekatlon 20 Deneme', 'Ankara Yayıncılık', 160, '75.00', '75.00', None, 0.0, 'edebiyat', 'ayt', None, 'deneme', 'https://www.kitapsepeti.com/ayt-turk-dili-ve-edebiyati-dekatlon-20-deneme', 'https://asset.kitapsepeti.com/ayt-turk-dili-ve-edebiyati-dekatlon-20-deneme-443591-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık AYT Türk Dili ve Edebiyatı Dekatlon Soru Bankası', 'Ankara Yayıncılık', 328, '200.00', '200.00', None, 0.0, 'edebiyat', 'ayt', None, 'soru bankası', 'https://www.kitapsepeti.com/ayt-turk-dili-ve-edebiyati-dekatlon-soru-bankasi', 'https://asset.kitapsepeti.com/ayt-turk-dili-ve-edebiyati-dekatlon-soru-bankasi-443612-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık AYT Yeni Nesil Sorularla Eşit Ağırlık - Sözel 5 Özgün Deneme', 'Ankara Yayıncılık', 160, '75.00', '75.00', None, 0.0, 'sözel', 'ayt', None, 'deneme', 'https://www.kitapsepeti.com/ayt-yeni-nesil-sorularla-esit-agirlik-sozel-5-ozgun-deneme', 'https://asset.kitapsepeti.com/ayt-yeni-nesil-sorularla-esit-agirlik-sozel-5-ozgun-deneme-443579-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık AYT Yeni Nesil Sorularla Sayısal 5 Özgün Deneme', 'Ankara Yayıncılık', 120, '55.00', '55.00', None, 0.0, 'sayısal', 'ayt', None, 'deneme', 'https://www.kitapsepeti.com/ayt-yeni-nesil-sorularla-sayisal-5-ozgun-deneme', 'https://asset.kitapsepeti.com/ayt-yeni-nesil-sorularla-sayisal-5-ozgun-deneme-443580-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık Stratejilerle Dil Bilgisi Soru Bankası', 'Ankara Yayıncılık', 336, '160.00', '160.00', None, 0.0, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/stratejilerle-dil-bilgisi-soru-bankasi', 'https://asset.kitapsepeti.com/stratejilerle-dil-bilgisi-soru-bankasi-443629-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT - AYT Geometri Yaprak Test', 'Ankara Yayıncılık', 192, '90.00', '90.00', None, 0.0, 'matematik', 'lise', None, 'diğer', 'https://www.kitapsepeti.com/tyt-ayt-geometri-yaprak-test-347896', 'https://asset.kitapsepeti.com/tyt-ayt-geometri-yaprak-test-347896-443627-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Biyoloji Dekatlon 30 Deneme', 'Ankara Yayıncılık', 72, '40.00', '40.00', None, 0.0, 'biyoloji', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/tyt-biyoloji-dekatlon-30-deneme', 'https://asset.kitapsepeti.com/tyt-biyoloji-dekatlon-30-deneme-382890-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Biyoloji Dekatlon Soru Bankası', 'Ankara Yayıncılık', 176, '130.00', '130.00', None, 0.0, 'biyoloji', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/tyt-biyoloji-dekatlon-soru-bankasi', 'https://asset.kitapsepeti.com/tyt-biyoloji-dekatlon-soru-bankasi-443622-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Coğrafya Dekatlon 30 Deneme', 'Ankara Yayıncılık', None, '40.00', '40.00', None, 0.0, 'coğrafya', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/tyt-cografya-dekatlon-30-deneme', 'https://asset.kitapsepeti.com/tyt-cografya-dekatlon-30-deneme-382027-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Coğrafya Dekatlon Soru Bankası', 'Ankara Yayıncılık', 320, '150.00', '150.00', None, 0.0, 'coğrafya', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/tyt-cografya-dekatlon-soru-bankasi', 'https://asset.kitapsepeti.com/tyt-cografya-dekatlon-soru-bankasi-443628-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Dekatlon Felsefe 30 Deneme', 'Ankara Yayıncılık', 72, '40.00', '40.00', None, 0.0, 'felsefe', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/tyt-dekatlon-felsefe-30-deneme', 'https://asset.kitapsepeti.com/tyt-dekatlon-felsefe-30-deneme-381192-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Dekatlon Fen Bilimleri 12 Deneme Sınavı', 'Ankara Yayıncılık', 192, '90.00', '90.00', None, 0.0, 'fen', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/tyt-dekatlon-fen-bilimleri-12-deneme-sinavi', 'https://asset.kitapsepeti.com/tyt-dekatlon-fen-bilimleri-12-deneme-sinavi-412385-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Dekatlon Kimya 30 Deneme', 'Ankara Yayıncılık', 72, '40.00', '40.00', None, 0.0, 'kimya', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/tyt-dekatlon-kimya-30-deneme', 'https://asset.kitapsepeti.com/tyt-dekatlon-kimya-30-deneme-415347-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Dekatlon Matematik 12 Deneme', 'Ankara Yayıncılık', 192, '90.00', '90.00', None, 0.0, 'matematik', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/tyt-dekatlon-matematik-12-deneme', 'https://asset.kitapsepeti.com/tyt-dekatlon-matematik-12-deneme-536385-37-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Dekatlon Sosyal Bilimler 12 Deneme Sınavı', 'Ankara Yayıncılık', 192, '90.00', '90.00', None, 0.0, 'sosyal', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/tyt-dekatlon-sosyal-bilimler-12-deneme-sinavi', 'https://asset.kitapsepeti.com/tyt-dekatlon-sosyal-bilimler-12-deneme-sinavi-412387-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Dekatlon Tarih 30 Deneme', 'Ankara Yayıncılık', 72, '40.00', '40.00', None, 0.0, 'tarih', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/tyt-dekatlon-tarih-30-deneme', 'https://asset.kitapsepeti.com/tyt-dekatlon-tarih-30-deneme-381197-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Din Kültürü ve Ahlak Bilgisi Dekatlon 30 Deneme', 'Ankara Yayıncılık', 72, '40.00', '40.00', None, 0.0, 'din', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/tyt-din-kulturu-ve-ahlak-bilgisi-dekatlon-30-deneme', 'https://asset.kitapsepeti.com/tyt-din-kulturu-ve-ahlak-bilgisi-dekatlon-30-deneme-381182-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Felsefe 40 Yaprak Test', 'Ankara Yayıncılık', 80, '40.00', '40.00', None, 0.0, 'felsefe', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/tyt-felsefe-40-yaprak-test', 'https://asset.kitapsepeti.com/tyt-felsefe-40-yaprak-test-378497-33-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Felsefe Dekatlon Soru Bankası', 'Ankara Yayıncılık', 160, '115.00', '115.00', None, 0.0, 'felsefe', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/tyt-felsefe-dekatlon-soru-bankasi', 'https://asset.kitapsepeti.com/tyt-felsefe-dekatlon-soru-bankasi-443630-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Fizik Dekatlon 30 Deneme', 'Ankara Yayıncılık', 72, '40.00', '40.00', None, 0.0, 'fizik', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/tyt-fizik-dekatlon-30-deneme', 'https://asset.kitapsepeti.com/tyt-fizik-dekatlon-30-deneme-412393-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Fizik Dekatlon Soru Bankası', 'Ankara Yayıncılık', 320, '175.00', '175.00', None, 0.0, 'fizik', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/tyt-fizik-dekatlon-soru-bankasi', 'https://asset.kitapsepeti.com/tyt-fizik-dekatlon-soru-bankasi-443613-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Fizik Yaprak Test', 'Ankara Yayıncılık', 104, '50.00', '50.00', None, 0.0, 'fizik', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/tyt-fizik-yaprak-test-347892', 'https://asset.kitapsepeti.com/tyt-fizik-yaprak-test-347892-443620-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Geometri Dekatlon Soru Bankası', 'Ankara Yayıncılık', 288, '200.00', '200.00', None, 0.0, 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/tyt-geometri-dekatlon-soru-bankasi', 'https://asset.kitapsepeti.com/tyt-geometri-dekatlon-soru-bankasi-443603-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Kimya 48 Yaprak Test', 'Ankara Yayıncılık', 96, '45.00', '45.00', None, 0.0, 'kimya', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/tyt-kimya-48-yaprak-test', 'https://asset.kitapsepeti.com/tyt-kimya-48-yaprak-test-412662-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Kimya Dekatlon Soru Bankası', 'Ankara Yayıncılık', 216, '150.00', '150.00', None, 0.0, 'kimya', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/tyt-kimya-dekatlon-soru-bankasi', 'https://asset.kitapsepeti.com/tyt-kimya-dekatlon-soru-bankasi-443617-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Matematik Dekatlon 12 Deneme', 'Ankara Yayıncılık', 192, '90.00', '90.00', None, 0.0, 'matematik', 'tyt', None, 'deneme', 'https://www.kitapsepeti.com/tyt-matematik-dekatlon-12-deneme', 'https://asset.kitapsepeti.com/tyt-matematik-dekatlon-12-deneme-443614-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Matematik Dekatlon Soru Bankası', 'Ankara Yayıncılık', 424, '200.00', '200.00', None, 0.0, 'matematik', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/tyt-matematik-dekatlon-soru-bankasi', 'https://asset.kitapsepeti.com/tyt-matematik-dekatlon-soru-bankasi-443600-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Matematik Yaprak Test', 'Ankara Yayıncılık', 208, '95.00', '95.00', None, 0.0, 'matematik', 'tyt', None, 'diğer', 'https://www.kitapsepeti.com/tyt-matematik-yaprak-test-347894', 'https://asset.kitapsepeti.com/tyt-matematik-yaprak-test-347894-443623-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Sayısal Tüm Dersler Soru Bankası', 'Ankara Yayıncılık', 216, '100.00', '100.00', None, 0.0, 'sayısal', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/tyt-sayisal-tum-dersler-soru-bankasi-347901', 'https://asset.kitapsepeti.com/tyt-sayisal-tum-dersler-soru-bankasi-347901-443632-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Stratejilerle Paragraf Soru Bankası', 'Ankara Yayıncılık', 256, '120.00', '120.00', None, 0.0, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/tyt-stratejilerle-paragraf-soru-bankasi', 'https://asset.kitapsepeti.com/tyt-stratejilerle-paragraf-soru-bankasi-376844-33-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Tarih Dekatlon Soru Bankası', 'Ankara Yayıncılık', None, '170.00', '170.00', None, 0.0, 'tarih', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/tyt-tarih-dekatlon-soru-bankasi', 'https://asset.kitapsepeti.com/tyt-tarih-dekatlon-soru-bankasi-381247-34-O.jpg') 
+ 
+DEBUG:
+('Ankara Yayıncılık TYT Tüm Dersler Soru Bankası', 'Ankara Yayıncılık', 408, '190.00', '190.00', None, 0.0, 'genel', 'tyt', None, 'soru bankası', 'https://www.kitapsepeti.com/tyt-tum-dersler-soru-bankasi-338693', 'https://asset.kitapsepeti.com/tyt-tum-dersler-soru-bankasi-338693-378859-33-O.jpg') 
+ 
+INFO:
+300 book has been scraped from kitapsepeti. 
+ 

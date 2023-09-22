@@ -3,7 +3,17 @@ from dotenv import load_dotenv
 load_dotenv()
 
 import os
+import logging
 import mysql.connector
+
+formatter = logging.Formatter("%(levelname)s:\n%(message)s \n ")
+
+handler = logging.FileHandler(filename="log/remove_duplicates.log", mode="w")
+handler.setLevel(logging.DEBUG)
+handler.setFormatter(formatter)
+
+logger = logging.Logger("remove_duplicates")
+logger.addHandler(handler)
 
 db = mysql.connector.connect(
     host="localhost",
@@ -21,7 +31,7 @@ for s in source:
 
     duplicates = [duplicate[0] for duplicate in cursor]
     best_instances = []
-    print(f"{len(duplicates)} unique duplicated books detected and resolved.")
+    logger.info(f"{len(duplicates)} unique duplicated books detected and resolved in {s}.")
 
     if duplicates:
         for duplicate in duplicates:

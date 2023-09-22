@@ -1,0 +1,303 @@
+DEBUG:
+('2024 AYT Matematik Ders Notları Benim Hocam Yayınları', 'Benim Hocam Yayınları', None, '165.60', '240.00', None, 0.0, 'matematik', 'ayt', '2024', 'diğer', 'https://www.isemkitap.com/benim-hocam-2023-ayt-matematik-video-destekli-konu-anlatimi-benim-hocam-yayinlari', 'https://www.isemkitap.com/benim-hocam-2023-ayt-matematik-video-destekli-konu-anlatimi-benim-hocam-yayinlari-ayt-matematik-konu-benim-hocam-yayinlari-tyt-ayt-ilyas-gunes-366875-37-O.png') 
+ 
+DEBUG:
+('AYT Biyoloji 25 x 13 Branş Denemeleri Bilgi Sarmal Yayınları', 'Bilgi Sarmal Yayınları', 96, '41.65', '49.00', None, 0.0, 'biyoloji', 'ayt', None, 'deneme', 'https://www.isemkitap.com/bilgi-sarmal-ayt-biyoloji-25-x-13-brans-denemeleri', 'https://www.isemkitap.com/bilgi-sarmal-ayt-biyoloji-25-x-13-brans-denemeleri-ayt-biyoloji-deneme-bilgi-sarmal-yayinlari-komisyon-359780-38-O.jpg') 
+ 
+DEBUG:
+('AYT Biyoloji Destek Defterim ENS Yayınları', 'Ens Yayıncılık', None, '118.15', '139.00', None, 0.0, 'biyoloji', 'ayt', None, 'diğer', 'https://www.isemkitap.com/ens-yayinlari-ayt-biyoloji-destek-defterim', 'https://www.isemkitap.com/ens-yayinlari-ayt-biyoloji-destek-defterim-ayt-biyoloji-soru-ens-yayincilik-ens-yayinlari-356801-38-O.jpg') 
+ 
+DEBUG:
+('AYT Biyoloji Soru Bankası Apotemi Yayınları', 'Apotemi Yayınları', 399, '208.25', '245.00', None, 0.0, 'biyoloji', 'ayt', None, 'soru bankası', 'https://www.isemkitap.com/apotemi-yayinlari-ayt-biyoloji-soru-bankasi', 'https://www.isemkitap.com/apotemi-yayinlari-ayt-biyoloji-soru-bankasi-ayt-biyoloji-soru-apotemi-yayinlari-komisyon-363742-38-O.jpg') 
+ 
+DEBUG:
+('AYT Fen Bilimleri 12 x 40 Özel Deneme Tanım Yayınları', 'Tanım Yayınları', None, '67.15', '79.00', None, 0.0, 'fen', 'ayt', None, 'deneme', 'https://www.isemkitap.com/tanim-yayinlari-ayt-fen-bilimleri-12-x-40-ozel-deneme', 'https://www.isemkitap.com/tanim-yayinlari-ayt-fen-bilimleri-12-x-40-ozel-deneme-ayt-fen-bilimleri-deneme-tanim-yayinlari-komisyon-364908-38-O.jpg') 
+ 
+DEBUG:
+('AYT Fen Bilimleri 12 X 40 Up Deneme Çap Yayınları', 'Çap Yayınları', None, '55.25', '65.00', None, 0.0, 'fen', 'ayt', None, 'deneme', 'https://www.isemkitap.com/cap-yayinlari-ayt-fen-bilimleri-12-x-40-up-deneme', 'https://www.isemkitap.com/cap-yayinlari-ayt-fen-bilimleri-12-x-40-up-deneme-ayt-fen-bilimleri-deneme-cap-yayinlari-komisyon-363106-38-O.jpg') 
+ 
+DEBUG:
+('AYT Fen Bilimleri Ulti Serisi 10 x 40 Branş Denemeleri Bes yayınları', 'Bes Yayınları', None, '67.15', '79.00', None, 0.0, 'fen', 'ayt', None, 'deneme', 'https://www.isemkitap.com/bes-yayinlari-ayt-fen-bilimleri-ulti-serisi-10-x-40-brans-denemeleri', 'https://www.isemkitap.com/bes-yayinlari-ayt-fen-bilimleri-ulti-serisi-10-x-40-brans-denemeleri-ayt-fen-bilimleri-deneme-bes-yayinlari-komisyon-357990-38-O.jpg') 
+ 
+DEBUG:
+('AYT Geometri Süper Öğreten Sistem Soru Bankası Kafa Dengi Yayınları', 'Kafa Dengi Yayıncılık', 256, '121.55', '221.00', None, 0.0, 'matematik', 'ayt', None, 'soru bankası', 'https://www.isemkitap.com/kafa-dengi-ayt-geometri-orta-ve-ileri-duzey-soru-bankasi-kafa-dengi-yayinlari', 'https://www.isemkitap.com/kafa-dengi-ayt-geometri-orta-ve-ileri-duzey-soru-bankasi-kafa-dengi-yayinlari-ayt-geometri-soru-kafa-dengi-yayincilik-tyt-ayt-rafet-ozdemir-21956-18-O.jpg') 
+ 
+DEBUG:
+('AYT İntegral Konu Anlatım Orijinal Yayınları', 'Orijinal Yayınları', None, '92.65', '109.00', None, 0.0, 'matematik', 'ayt', None, 'diğer', 'https://www.isemkitap.com/orijinal-yayinlari-ayt-integral-konu-anlatim', 'https://www.isemkitap.com/orijinal-yayinlari-ayt-integral-konu-anlatim-ayt-matematik-konu-orijinal-yayinlari-komisyon-359273-38-O.jpg') 
+ 
+DEBUG:
+('AYT Matematik 12 x 40 Denemeleri ENS Yayınları', 'Ens Yayıncılık', None, '72.25', '85.00', None, 0.0, 'matematik', 'ayt', None, 'deneme', 'https://www.isemkitap.com/ens-yayinlari-ayt-matematik-12-x-40-denemeleri', 'https://www.isemkitap.com/ens-yayinlari-ayt-matematik-12-x-40-denemeleri-ayt-matematik-deneme-ens-yayincilik-ens-yayinlari-357802-38-O.jpg') 
+ 
+DEBUG:
+('AYT Matematik Kondisyon 12 X 40 Denemesi İdeal Yayınları', 'İdeal Yayınları', None, '84.15', '99.00', None, 0.0, 'matematik', 'ayt', None, 'deneme', 'https://www.isemkitap.com/ideal-yayinlari-ayt-matematik-kondisyon-12-x-40-denemesi', 'https://www.isemkitap.com/ideal-yayinlari-ayt-matematik-kondisyon-12-x-40-denemesi-ayt-matematik-deneme-ideal-yayinlari-komisyon-361117-38-O.jpg') 
+ 
+DEBUG:
+('AYT Matematik Limit ve Süreklilik Orijinal Yayınları', 'Orijinal Yayınları', 128, '84.15', '99.00', None, 0.0, 'matematik', 'ayt', None, 'diğer', 'https://www.isemkitap.com/orijinal-yayinlari-ayt-matematik-limit-ve-sureklilik-382233', 'https://www.isemkitap.com/orijinal-yayinlari-ayt-matematik-limit-ve-sureklilik-382233-ayt-matematik-konu-orijinal-yayinlari-zafer-balci-358574-38-O.jpg') 
+ 
+DEBUG:
+('AYT Matematik Logaritma Diziler Konu Anlatımlı Orijinal Yayınlar', 'Orijinal Yayınları', 144, '84.15', '99.00', None, 0.0, 'matematik', 'ayt', None, 'diğer', 'https://www.isemkitap.com/orijinal-yayinlari-ayt-matematik-logaritma-diziler-konu-anlatimli', 'https://www.isemkitap.com/orijinal-yayinlari-ayt-matematik-logaritma-diziler-konu-anlatimli-ayt-matematik-konu-orijinal-yayinlari-komisyon-364473-38-O.jpg') 
+ 
+DEBUG:
+('AYT Matematik Ulti Serisi Denemeleri Bes yayınları', 'Bes Yayınları', None, '67.15', '79.00', None, 0.0, 'matematik', 'ayt', None, 'deneme', 'https://www.isemkitap.com/bes-yayinlari-ayt-matematik-ulti-serisi-denemeleri', 'https://www.isemkitap.com/bes-yayinlari-ayt-matematik-ulti-serisi-denemeleri-ayt-matematik-deneme-bes-yayinlari-haluk-yalcin-363108-38-O.jpg') 
+ 
+DEBUG:
+('AYT Sosyal Bilimler 1 20 X 16 Up Deneme Çap Yayınları', 'Çap Yayınları', None, '24.65', '29.00', None, 0.0, 'sosyal', 'ayt', None, 'deneme', 'https://www.isemkitap.com/cap-yayinlari-ayt-sosyal-bilimler-1-20-x-16-up-deneme', 'https://www.isemkitap.com/cap-yayinlari-ayt-sosyal-bilimler-1-20-x-16-up-deneme-ayt-sosyal-bilimler-deneme-cap-yayinlari-komisyon-363109-38-O.jpg') 
+ 
+DEBUG:
+('Edebiyat El Kitabı Paragrafın Şifresi Yayıncılık', 'Paragrafın Şifresi Yayıncılık', 384, '126.00', '180.00', None, 0.0, 'edebiyat', 'lise', None, 'diğer', 'https://www.isemkitap.com/paragrafin-sifresi-edebiyat-el-kitabi-paragrafin-sifresi-yayinlari', 'https://www.isemkitap.com/paragrafin-sifresi-edebiyat-el-kitabi-paragrafin-sifresi-yayinlari-ayt-edebiyat-konu-paragrafin-sifresi-yayincilik-huseyin-topbas-347961-52-O.jpg') 
+ 
+DEBUG:
+('Matematik Analitik Geometri Acil Yayınları', 'Acil Yayınları', 175, '101.15', '119.00', None, 0.0, 'matematik', '11.', None, 'diğer', 'https://www.isemkitap.com/acil-yayinlari-acil-matematik-analitik-geometri-383723', 'https://www.isemkitap.com/acil-yayinlari-acil-matematik-analitik-geometri-383723-tyt-geometri-soru-acil-yayinlari-mehmet-karayel-360315-38-O.jpg') 
+ 
+DEBUG:
+('TYT AYT ALES KPSS DGS Paragraf 20 x 30 Deneme Seti Akademi Denizi', 'Akademi Denizi', None, '69.30', '99.00', None, 0.0, 'türkçe', 'lise', None, 'deneme', 'https://www.isemkitap.com/akademi-denizi-tyt-ayt-ales-kpss-dgs-paragraf-20-x-30-deneme-seti', 'https://www.isemkitap.com/akademi-denizi-tyt-ayt-ales-kpss-dgs-paragraf-20-x-30-deneme-seti-kpss-lisans-paragraf-deneme-akademi-denizi-komisyon-364944-38-O.jpg') 
+ 
+DEBUG:
+('TYT AYT Geometri 20 Deneme Orijinal Yayınları', 'Orijinal Yayınları', None, '58.65', '69.00', None, 0.0, 'matematik', 'lise', None, 'deneme', 'https://www.isemkitap.com/orijinal-yayinlari-tyt-ayt-geometri-20-deneme-387133', 'https://www.isemkitap.com/orijinal-yayinlari-tyt-ayt-geometri-20-deneme-387133-tyt-geometri-deneme-2024-orijinal-yayinlari-komisyon-364141-38-O.jpg') 
+ 
+DEBUG:
+('TYT AYT Geometri Destek Soru Bankası ENS Yayıncılık', 'Ens Yayıncılık', None, '160.65', '189.00', None, 0.0, 'matematik', 'lise', None, 'soru bankası', 'https://www.isemkitap.com/ens-yayincilik-tyt-ayt-geometri-destek-soru-bankasi-389229', 'https://www.isemkitap.com/ens-yayincilik-tyt-ayt-geometri-destek-soru-bankasi-389229-tyt-geometri-soru-ens-yayincilik-komisyon-366919-38-O.jpg') 
+ 
+DEBUG:
+('TYT AYT Geometri Pro 30 x 10 Denemeleri Yayın Denizi', 'Yayın Denizi', None, '63.75', '75.00', None, 0.0, 'matematik', 'lise', None, 'deneme', 'https://www.isemkitap.com/yayin-denizi-tyt-ayt-geometri-pro-30-x-10-denemeleri', 'https://www.isemkitap.com/yayin-denizi-tyt-ayt-geometri-pro-30-x-10-denemeleri-tyt-geometri-deneme-2024-yayin-denizi-hasan-zeki-isci-363966-38-O.jpg') 
+ 
+DEBUG:
+('TYT AYT Paragraf Yıldızlar Yarışıyor 25 li Branş Denemesi Bilgi Sarmal Yayınları', 'Bilgi Sarmal Yayınları', None, '123.25', '145.00', None, 0.0, 'türkçe', 'lise', None, 'deneme', 'https://www.isemkitap.com/bilgi-sarmal-yayinlari-tyt-ayt-paragraf-yildizlar-yarisiyor-25-li-brans-denemesi', 'https://www.isemkitap.com/bilgi-sarmal-yayinlari-tyt-ayt-paragraf-yildizlar-yarisiyor-25-li-brans-denemesi-tyt-paragraf-deneme-2024-bilgi-sarmal-yayinlari-mehmet-durmaz-364629-38-O.jpg') 
+ 
+DEBUG:
+('TYT Biyoloji 30 lu Deneme Tanım Yayınları', 'Tanım Yayınları', None, '33.15', '39.00', None, 0.0, 'biyoloji', 'tyt', None, 'deneme', 'https://www.isemkitap.com/tanim-yayinlari-tyt-biyoloji-30-lu-deneme', 'https://www.isemkitap.com/tanim-yayinlari-tyt-biyoloji-30-lu-deneme-tyt-biyoloji-deneme-2024-tanim-yayinlari-komisyon-361116-38-O.jpg') 
+ 
+DEBUG:
+('TYT Biyoloji Ulti Serisi 30 x 6 Branş Denemeleri Bes Yayınları', 'Bes Yayınları', None, '38.25', '45.00', None, 0.0, 'biyoloji', 'tyt', None, 'deneme', 'https://www.isemkitap.com/bes-yayinlari-tyt-biyoloji-ulti-serisi-30-x-6-brans-denemeleri', 'https://www.isemkitap.com/bes-yayinlari-tyt-biyoloji-ulti-serisi-30-x-6-brans-denemeleri-tyt-biyoloji-deneme-2024-bes-yayinlari-357991-38-O.jpg') 
+ 
+DEBUG:
+('TYT Dilbilgisi Denemeleri Deneme Deposu', 'Deneme Deposu', None, '97.75', '115.00', None, 0.0, 'genel', 'tyt', None, 'deneme', 'https://www.isemkitap.com/deneme-deposu-tyt-dilbilgisi-denemeleri', 'https://www.isemkitap.com/deneme-deposu-tyt-dilbilgisi-denemeleri-tyt-dil-bilgisi-deneme-2024-deneme-deposu-komisyon-358158-38-O.jpg') 
+ 
+DEBUG:
+('TYT Fen Bilimleri Soru Bankası Fen Bilimleri Yayınları', 'Fen Bilimleri Yayınları', 248, '60.00', '100.00', None, 0.0, 'genel', 'tyt', None, 'soru bankası', 'https://www.isemkitap.com/fen-bilimleri-tyt-fen-bilimleri-soru-bankasi-fen-bilimleri-yayinlari', 'https://www.isemkitap.com/fen-bilimleri-tyt-fen-bilimleri-soru-bankasi-fen-bilimleri-yayinlari-tyt-fen-bilimleri-soru-fen-bilimleri-yayinlari-fen-bilimleri-komisyon-349651-16-O.jpg') 
+ 
+DEBUG:
+('TYT Fizik Kampı Konu Anlatımlı Kurul Yayıncılık', 'Kurul Yayıncılık', 48, '11.83', '21.50', None, 0.0, 'fizik', 'tyt', None, 'diğer', 'https://www.isemkitap.com/kurul-2022-tyt-fizik-hocasindan-ders-notlari-kurul-yayincilik', 'https://www.isemkitap.com/kurul-2022-tyt-fizik-hocasindan-ders-notlari-kurul-yayincilik-tyt-ders-notu-2024-kurul-yayincilik-komisyon-358629-37-O.jpg') 
+ 
+DEBUG:
+('TYT Fizik Soru Bankası Egzersiz Yayınları', 'Egzersiz Yayınları', None, '139.00', '185.00', None, 0.0, 'fizik', 'tyt', None, 'soru bankası', 'https://www.isemkitap.com/egzersiz-yayinlari-tyt-fizik-soru-bankasi-388486', 'https://www.isemkitap.com/egzersiz-yayinlari-tyt-fizik-soru-bankasi-388486-tyt-fizik-soru-egzersiz-yayinlari-nurullah-bozdag-365826-38-O.jpg') 
+ 
+DEBUG:
+('TYT Fizik Soru Bankası Hız ve Renk Yayıncılık', 'Hız Ve Renk Yayınları', 269, '143.65', '169.00', None, 0.0, 'fizik', 'tyt', None, 'soru bankası', 'https://www.isemkitap.com/hiz-ve-renk-tyt-fizik-soru-bankasi-388612', 'https://www.isemkitap.com/hiz-ve-renk-tyt-fizik-soru-bankasi-388612-tyt-fizik-soru-hiz-ve-renk-yayinlari-ozgur-unlu-365993-38-O.jpg') 
+ 
+DEBUG:
+('TYT Fizik Ulti Serisi 3x70 Branş Denemeleri Bes Yayınları', 'Bes Yayınları', None, '41.65', '49.00', None, 0.0, 'fizik', 'tyt', None, 'deneme', 'https://www.isemkitap.com/bes-yayinlari-tyt-fizik-ulti-serisi-3x70-brans-denemeleri', 'https://www.isemkitap.com/bes-yayinlari-tyt-fizik-ulti-serisi-3x70-brans-denemeleri-tyt-fizik-deneme-2024-bes-yayinlari-komisyon-357931-38-O.jpg') 
+ 
+DEBUG:
+('TYT Kimya 30 x 6 Up Deneme Çap Yayınları', 'Çap Yayınları', None, '29.75', '35.00', None, 0.0, 'kimya', 'tyt', None, 'deneme', 'https://www.isemkitap.com/cap-yayinlari-tyt-kimya-30-x-6-up-deneme', 'https://www.isemkitap.com/cap-yayinlari-tyt-kimya-30-x-6-up-deneme-tyt-kimya-deneme-2024-cap-yayinlari-komisyon-358061-38-O.jpg') 
+ 
+DEBUG:
+('TYT Kimya Soru Bankası Hız Ve Renk Yayıncılık', 'Hız Ve Renk Yayınları', 288, '135.15', '159.00', None, 0.0, 'kimya', 'tyt', None, 'soru bankası', 'https://www.isemkitap.com/hiz-ve-renk-tyt-kimya-soru-bankasi-388613', 'https://www.isemkitap.com/hiz-ve-renk-tyt-kimya-soru-bankasi-388613-tyt-kimya-soru-hiz-ve-renk-yayinlari-komisyon-365994-38-O.jpg') 
+ 
+DEBUG:
+('TYT Matematik 10 Deneme Gama Okul Yayınları', 'Gama Okul Yayınları', 120, '54.00', '60.00', None, 0.0, 'matematik', 'tyt', None, 'deneme', 'https://www.isemkitap.com/orjin-okul-tyt-matematik-10-deneme-orjin-okul-yayinlari', 'https://www.isemkitap.com/orjin-okul-tyt-matematik-10-deneme-orjin-okul-yayinlari-tyt-matematik-deneme-2024-gama-okul-yayinlari-komisyon-356311-38-O.jpg') 
+ 
+DEBUG:
+('TYT Matematik 12 x 40 Denemesi Hız ve Renk Yayınları', 'Hız Ve Renk Yayınları', None, '84.15', '99.00', None, 0.0, 'matematik', 'tyt', None, 'deneme', 'https://www.isemkitap.com/hiz-ve-renk-yayinlari-tyt-matematik-12-x-40-denemesi', 'https://www.isemkitap.com/hiz-ve-renk-yayinlari-tyt-matematik-12-x-40-denemesi-tyt-matematik-deneme-2024-hiz-ve-renk-yayinlari-komisyon-358156-38-O.jpg') 
+ 
+DEBUG:
+('TYT Matematik Soru Bankası ENS Yayıncılık', 'Ens Yayıncılık', 304, '135.15', '159.00', None, 0.0, 'matematik', 'tyt', None, 'soru bankası', 'https://www.isemkitap.com/ens-yayincilik-tyt-matematik-soru-bankasi-389225', 'https://www.isemkitap.com/ens-yayincilik-tyt-matematik-soru-bankasi-389225-tyt-matematik-soru-ens-yayincilik-komisyon-366915-38-O.jpg') 
+ 
+DEBUG:
+('TYT Paragraf 10 x 24 Up Deneme Çap Yayınları', 'Çap Yayınları', None, '38.25', '45.00', None, 0.0, 'türkçe', 'tyt', None, 'deneme', 'https://www.isemkitap.com/cap-yayinlari-tyt-paragraf-10-x-24-up-deneme', 'https://www.isemkitap.com/cap-yayinlari-tyt-paragraf-10-x-24-up-deneme-tyt-paragraf-deneme-2024-cap-yayinlari-komisyon-364637-38-O.jpg') 
+ 
+DEBUG:
+('TYT Problemler Fasikülü Soru Bankası Orijinal Yayınları', 'Orijinal Yayınları', 192, '109.65', '129.00', None, 0.0, 'matematik', 'tyt', None, 'soru bankası', 'https://www.isemkitap.com/orijinal-mikro-tyt-problemler-fasikulu-soru-bankasi', 'https://www.isemkitap.com/orijinal-mikro-tyt-problemler-fasikulu-soru-bankasi-tyt-problemler-soru-orijinal-yayinlari-komisyon-365509-38-O.jpg') 
+ 
+DEBUG:
+('TYT Problemler Soru Bankası ENS Yayıncılık', 'Ens Yayıncılık', 232, '84.15', '99.00', None, 0.0, 'matematik', 'tyt', None, 'soru bankası', 'https://www.isemkitap.com/ens-yayincilik-tyt-problemler-soru-bankasi-389226', 'https://www.isemkitap.com/ens-yayincilik-tyt-problemler-soru-bankasi-389226-tyt-problemler-soru-ens-yayincilik-komisyon-366916-38-O.jpg') 
+ 
+DEBUG:
+('TYT Sosyal Bilgiler Ulti Serisi 15x20 Branş Denemeleri Bes Yayınları', 'Bes Yayınları', None, '41.65', '49.00', None, 0.0, 'sosyal', 'tyt', None, 'deneme', 'https://www.isemkitap.com/bes-yayinlari-tyt-sosyal-bilgiler-ulti-serisi-15x20-brans-denemeleri', 'https://www.isemkitap.com/bes-yayinlari-tyt-sosyal-bilgiler-ulti-serisi-15x20-brans-denemeleri-tyt-sosyal-bilimler-deneme-2024-bes-yayinlari-komisyon-357933-38-O.jpg') 
+ 
+DEBUG:
+('TYT Sosyal Bilimler 20x20 Deneme Çap Yayınları', 'Çap Yayınları', 94, '38.25', '45.00', None, 0.0, 'sosyal', 'tyt', None, 'deneme', 'https://www.isemkitap.com/cap-yayinlari-tyt-sosyal-bilimler-15-x-5-up-deneme', 'https://www.isemkitap.com/cap-yayinlari-tyt-sosyal-bilimler-15-x-5-up-deneme-tyt-sosyal-bilimler-deneme-2024-cap-yayinlari-komisyon-363122-38-O.jpg') 
+ 
+DEBUG:
+('TYT Sosyal Bilimler 25 li Deneme Apotemi Yayınları', 'Apotemi Yayınları', 160, '58.65', '69.00', None, 0.0, 'sosyal', 'tyt', None, 'deneme', 'https://www.isemkitap.com/apotemi-yayinlari-tyt-sosyal-bilimler-25-li-deneme-386246', 'https://www.isemkitap.com/apotemi-yayinlari-tyt-sosyal-bilimler-25-li-deneme-386246-tyt-sosyal-bilimler-deneme-2024-apotemi-yayinlari-komisyon-363124-38-O.jpg') 
+ 
+DEBUG:
+('TYT Tarih Soru Bankası ENS Yayıncılık', 'Ens Yayıncılık', None, '118.15', '139.00', None, 0.0, 'tarih', 'tyt', None, 'soru bankası', 'https://www.isemkitap.com/ens-yayincilik-tyt-tarih-soru-bankasi-389227', 'https://www.isemkitap.com/ens-yayincilik-tyt-tarih-soru-bankasi-389227-tyt-tarih-soru-kitabi-ens-yayincilik-komisyon-366917-38-O.jpg') 
+ 
+DEBUG:
+('TYT Türkçe 10 lu Deneme Tanım Yayınları', 'Tanım Yayınları', None, '72.25', '85.00', None, 0.0, 'türkçe', 'tyt', None, 'deneme', 'https://www.isemkitap.com/tanim-yayinlari-tyt-turkce-10-lu-deneme', 'https://www.isemkitap.com/tanim-yayinlari-tyt-turkce-10-lu-deneme-tyt-turkce-deneme-2024-tanim-yayinlari-komisyon-360821-38-O.jpg') 
+ 
+DEBUG:
+('TYT Türkçe Soru Bankası Mehmet Vicdan Paragrafın Şifresi Yayınları', 'Paragrafın Şifresi Yayıncılık', None, '129.50', '185.00', None, 0.0, 'türkçe', 'tyt', None, 'soru bankası', 'https://www.isemkitap.com/paragrafin-sifresi-yks-tyt-turkce-soru-bankasi-mehmet-vicdan-paragrafin-sifresi-yayinlari', 'https://www.isemkitap.com/paragrafin-sifresi-yks-tyt-turkce-soru-bankasi-mehmet-vicdan-paragrafin-sifresi-yayinlari-tyt-turkce-soru-paragrafin-sifresi-yayincilik-mehmet-vicdan-347990-17-O.jpg') 
+ 
+DEBUG:
+('TYT Türkçe Tamamı Çözümlü 20x40 Denemeleri Paragrafın Şifresi Yayıncılık', 'Paragrafın Şifresi Yayıncılık', None, '98.00', '140.00', None, 0.0, 'türkçe', 'tyt', None, 'deneme', 'https://www.isemkitap.com/paragrafin-sifresi-yks-tyt-kpss-ales-paragrafin-sifresi-turkce-tamami-cozumlu-20x40-denemeleri-paragrafin-sifresi-yayincilik', 'https://www.isemkitap.com/paragrafin-sifresi-yks-tyt-kpss-ales-paragrafin-sifresi-turkce-tamami-cozumlu-20x40-denemeleri-paragrafin-sifresi-yayincilik-tyt-turkce-deneme-2024-paragrafin-sifresi-yayincilik-mehmet-vicdan-350097-16-O.jpg') 
+ 
+DEBUG:
+('TYT Türkçe Yaprak Test Tümler Yayınları', 'Tümler Yayınları', None, '25.00', '25.00', None, 0.0, 'türkçe', 'tyt', None, 'diğer', 'https://www.isemkitap.com/tumler-yayinlari-tyt-turkce-yaprak-test-381728', 'https://www.isemkitap.com/tumler-yayinlari-tyt-turkce-yaprak-test-381728-tyt-yaprak-test-2024-tumler-yayinlari-komisyon-357901-38-O.jpg') 
+ 
+DEBUG:
+('Yarı Çap AYT Limit Fasikülleri Yarı Çap Yayınları', 'Yarı Çap Yayınları', None, '41.65', '49.00', None, 0.0, 'matematik', 'ayt', None, 'diğer', 'https://www.isemkitap.com/yari-cap-yayinlari-ayt-limit-fasikulleri', 'https://www.isemkitap.com/yari-cap-yayinlari-ayt-limit-fasikulleri-ayt-matematik-konu-yari-cap-yayinlari-yari-cap-yayinlari-344965-37-O.jpg') 
+ 
+DEBUG:
+("0'dan Problemler Rehber Matematik Yayınları", 'Rehber Matematik', 160, '179.00', '179.00', None, 0.0, 'matematik', 'tyt', None, 'diğer', 'https://www.isemkitap.com/0dan-problemler-rehber-matematik-yayinlari', 'https://www.isemkitap.com/0dan-problemler-rehber-matematik-yayinlari-tyt-problemler-soru-rehber-matematik-komisyon-367397-38-O.jpg') 
+ 
+DEBUG:
+("10'lu TYT Türkçe 40'ta 40 Deneme Kampı Gezgin Türkçe Hale Hoca", 'Gezgin Türkçe Hale Hoca', None, '49.00', '49.00', None, 0.0, 'genel', 'tyt', None, 'deneme', 'https://www.isemkitap.com/10lu-tyt-turkce-40ta-40-deneme-kampi-gezgin-turkce-hale-hoca', 'https://www.isemkitap.com/10lu-tyt-turkce-40ta-40-deneme-kampi-gezgin-turkce-hale-hoca-tyt-turkce-deneme-2024-gezgin-turkce-hale-hoca-hale-karatas-366765-38-O.png') 
+ 
+DEBUG:
+('11. Sınıf YKS Reading and Vocabulary Smart English', 'Smart English', None, '80.00', '80.00', None, 0.0, 'din', '11.', None, 'diğer', 'https://www.isemkitap.com/11-sinif-yks-reading-and-vocabulary-smart-english', 'https://www.isemkitap.com/11-sinif-yks-reading-and-vocabulary-smart-english-yksdil-konu-anlatimi-smart-english-smart-english-59616-53-O.jpg') 
+ 
+DEBUG:
+('112 Matematik TYT Soft Matematik Geometri Soru Bankası 112 Matematik Yayınları', '112 Matematik Yayınları', None, '29.75', '35.00', None, 0.0, 'matematik', 'tyt', None, 'soru bankası', 'https://www.isemkitap.com/acil-matematik-tyt-soft-matematik-geometri-soru-bankasi-acil-yayinlari', 'https://www.isemkitap.com/acil-matematik-tyt-soft-matematik-geometri-soru-bankasi-acil-yayinlari-tyt-geometri-soru-112-matematik-yayinlari-komisyon-354174-37-O.jpg') 
+ 
+DEBUG:
+('12. Sınıf İntegral Çemberin Analitik İncelenmesi Sonuç Yayınları', 'Sonuç Yayınları', None, '47.20', '80.00', None, 0.0, 'matematik', '12.', None, 'diğer', 'https://www.isemkitap.com/sonuc-12-sinif-matematik-integral-cemberin-analitik-incelenmesi-kazanim-merkezli-soru-kitapcigi-video-cozumlu-sonuc-yayinlari', 'https://www.isemkitap.com/sonuc-12-sinif-matematik-integral-cemberin-analitik-incelenmesi-kazanim-merkezli-soru-kitapcigi-video-cozumlu-sonuc-yayinlari-ayt-matematik-soru-sonuc-yayinlari-sonuc-yayinlari-komisyon-366519-19-O.png') 
+ 
+DEBUG:
+('19 Günde AYT Edebiyat Kampı Tonguç Yayınları', 'Tonguç Akademi Yayınları', 208, '79.00', '79.00', None, 0.0, 'edebiyat', 'ayt', None, 'diğer', 'https://www.isemkitap.com/19-gunde-ayt-edebiyat-kampi-tonguc-yayinlari', 'https://www.isemkitap.com/19-gunde-ayt-edebiyat-kampi-tonguc-yayinlari-ayt-edebiyat-konu-tonguc-akademi-yayinlari-komisyon-362642-38-O.jpg') 
+ 
+DEBUG:
+('2018 TYT Tıpkı Basım Çıkmış Deneme Sınavı A Yayınları', 'A Yayınları', 40, '8.25', '15.00', None, 0.0, 'genel', 'tyt', '2018', 'deneme', 'https://www.isemkitap.com/2018-tyt-tipki-basim-cikmis-deneme-sinavi-a-yayincilik', 'https://www.isemkitap.com/2018-tyt-tipki-basim-cikmis-deneme-sinavi-a-yayincilik-tyt-tum-dersler-deneme-2024-a-yayinlari-komisyon-348759-37-O.jpg') 
+ 
+DEBUG:
+('2019 AYT Tıpkı Basım Çıkmış Deneme Sınavı A Yayınları', 'A Yayınları', 48, '8.25', '15.00', None, 0.0, 'genel', 'ayt', '2019', 'deneme', 'https://www.isemkitap.com/2019-ayt-tipki-basim-cikmis-deneme-sinavi-a-yayinlari', 'https://www.isemkitap.com/2019-ayt-tipki-basim-cikmis-deneme-sinavi-a-yayinlari-ayt-tum-dersler-deneme-a-yayinlari-komisyon-348753-37-O.jpg') 
+ 
+DEBUG:
+('2020 YKS AYT Tıpkı Basım Çıkmış Sorular Çözümlü Yargı Yayınları', 'Yargı Yayınları', 40, '14.30', '26.00', None, 2.0, 'genel', 'ayt', '2020', 'diğer', 'https://www.isemkitap.com/yargi-yayinlari-2020-ayt-tipki-basim-cikmis-sorular', 'https://www.isemkitap.com/yargi-yayinlari-2020-ayt-tipki-basim-cikmis-sorular-ayt-cikmis-soru-yargi-yayinlari-tyt-ayt-yargi-yayinlari-komisyon-365552-70-O.png') 
+ 
+DEBUG:
+('2021 AYT Tıpkı Basım Deneme Kitapçığı A Yayınları', 'A Yayınları', 40, '11.00', '20.00', None, 0.0, 'genel', 'ayt', '2021', 'deneme', 'https://www.isemkitap.com/2021-ayt-tipki-basim-deneme-kitapcigi-a-yayinlari', 'https://www.isemkitap.com/2021-ayt-tipki-basim-deneme-kitapcigi-a-yayinlari-ayt-tum-dersler-deneme-a-yayinlari-komisyon-348741-37-O.jpg') 
+ 
+DEBUG:
+('2021 ÖSYM 3 Büyük Sınav Paketi A Yayınları', 'A Yayınları', 128, '30.80', '56.00', None, 0.0, 'genel', 'lise', '2021', 'diğer', 'https://www.isemkitap.com/2021-osym-3-buyuk-sinav-paketi-a-yayinlari', 'https://www.isemkitap.com/2021-osym-3-buyuk-sinav-paketi-a-yayinlari-tyt-tum-dersler-deneme-2024-a-yayinlari-komisyon-348739-37-O.jpg') 
+ 
+DEBUG:
+('2021 TYT AYT Tıpkı Basım Deneme Sınavı Paketi A Yayınları', 'A Yayınları', 88, '16.50', '30.00', None, 0.0, 'genel', 'lise', '2021', 'deneme', 'https://www.isemkitap.com/2021-tyt-ayt-tipki-basim-deneme-sinavi-paketi-a-yayinlari', 'https://www.isemkitap.com/2021-tyt-ayt-tipki-basim-deneme-sinavi-paketi-a-yayinlari-tyt-tum-dersler-deneme-2024-a-yayinlari-komisyon-348735-37-O.jpg') 
+ 
+DEBUG:
+('2021 TYT Sıfırdan Sonsuza Yeni Nesil Bomba Matematik Video Çözümlü Soru Bankası Doktrin Yayınları', 'Doktrin Yayınları', 200, '75.00', '125.00', None, 0.0, 'matematik', 'tyt', '2021', 'soru bankası', 'https://www.isemkitap.com/2021-tyt-sifirdan-sonsuza-yeni-nesil-bomba-matematik-video-cozumlu-soru-bankasi-doktrin-yayinlari', 'https://www.isemkitap.com/2021-tyt-sifirdan-sonsuza-yeni-nesil-bomba-matematik-video-cozumlu-soru-bankasi-doktrin-yayinlari-tyt-matematik-soru-doktrin-yayinlari-doktrin-komisyon-80827-71-O.jpg') 
+ 
+DEBUG:
+('2021 TYT Türkçe 5 Deneme Sınavı Eküri Yayınları', 'Eküri Yayınları', None, '13.74', '22.90', None, 0.0, 'türkçe', 'tyt', '2021', 'deneme', 'https://www.isemkitap.com/2021-tyt-turkce-5-deneme-sinavi-ekuri-yayinlari', 'https://www.isemkitap.com/2021-tyt-turkce-5-deneme-sinavi-ekuri-yayinlari-tyt-turkce-deneme-2024-ekuri-yayinlari-komisyon-357438-38-O.jpg') 
+ 
+DEBUG:
+('2022 AYT Aperitif Matematik Soru Bankası Bilinçsel Yayınları', 'Bilinçsel Yayınları', 240, '87.50', '125.00', None, 0.0, 'matematik', 'ayt', '2022', 'soru bankası', 'https://www.isemkitap.com/2022-ayt-aperitif-matematik-soru-bankasi-bilincsel-yayinlari', 'https://www.isemkitap.com/2022-ayt-aperitif-matematik-soru-bankasi-bilincsel-yayinlari-ayt-matematik-soru-bilincsel-yayinlari-ibrahim-atas-355182-37-O.jpg') 
+ 
+DEBUG:
+('2022 AYT Edebiyatın Kara Kutusu Konu Özetli Dijital Çözümlü Çıkmış Soru Bankası', 'İnformal Yayınları', None, '97.50', '150.00', None, 0.0, 'edebiyat', 'ayt', '2022', 'soru bankası', 'https://www.isemkitap.com/informal-2020-ayt-edebiyatin-kara-kutusu-konu-ozetli-soru-bankasi-informal-yayinlari', 'https://www.isemkitap.com/informal-2020-ayt-edebiyatin-kara-kutusu-konu-ozetli-soru-bankasi-informal-yayinlari-ayt-edebiyat-soru-informal-yayinlari-kara-kutu-yayinlari-253022-52-O.jpg') 
+ 
+DEBUG:
+('2022 AYT Fiziğin Kara Kutusu (11-12. sınıf) Konu Özetli Dijital Çözümlü Çıkmış Soru Bankası', 'İnformal Yayınları', None, '78.00', '120.00', None, 0.0, 'genel', 'ayt', '2022', 'soru bankası', 'https://www.isemkitap.com/informal-2020-ayt-fizigin-kara-kutusu-konu-ozetli-cozumlu-soru-bankasi-informal-yayinlari', 'https://www.isemkitap.com/informal-2020-ayt-fizigin-kara-kutusu-konu-ozetli-cozumlu-soru-bankasi-informal-yayinlari-ayt-fizik-konu-informal-yayinlari-kara-kutu-yayinlari-253026-39-O.jpg') 
+ 
+DEBUG:
+('2022 AYT Güçlü Edebiyat Soru Bankası Bilinçsel Yayınları', 'Bilinçsel Yayınları', None, '98.00', '140.00', None, 0.0, 'edebiyat', 'ayt', '2022', 'soru bankası', 'https://www.isemkitap.com/2022-ayt-guclu-edebiyat-soru-bankasi-bilincsel-yayinlari', 'https://www.isemkitap.com/2022-ayt-guclu-edebiyat-soru-bankasi-bilincsel-yayinlari-ayt-edebiyat-soru-bilincsel-yayinlari-ozgur-yildirim-355183-37-O.jpg') 
+ 
+DEBUG:
+('2022 AYT Kimyanın Kara Kutusu Konu Özetli Dijital Çözümlü Çıkmış Soru Bankası İnformal Yayınları', 'İnformal Yayınları', None, '78.00', '120.00', None, 0.0, 'kimya', 'ayt', '2022', 'soru bankası', 'https://www.isemkitap.com/2022-ayt-kimyanin-kara-kutusu-konu-ozetli-dijital-cozumlu-cikmis-soru-bankasi-informal-yayinlari', 'https://www.isemkitap.com/2022-ayt-kimyanin-kara-kutusu-konu-ozetli-dijital-cozumlu-cikmis-soru-bankasi-informal-yayinlari-ayt-kimya-soru-informal-yayinlari-kara-kutu-yayinlari-280009-32-O.jpg') 
+ 
+DEBUG:
+('2022 AYT Matematik Son 20 Yıl Konularına Göre Çıkmış Sorular ve Çözümleri A Yayınları', 'A Yayınları', 88, '32.45', '59.00', None, 0.0, 'matematik', 'ayt', '2022', 'diğer', 'https://www.isemkitap.com/2022-ayt-matematik-son-20-yil-konularina-gore-cikmis-sorular-ve-cozumleri-a-yayinlari', 'https://www.isemkitap.com/2022-ayt-matematik-son-20-yil-konularina-gore-cikmis-sorular-ve-cozumleri-a-yayinlari-ayt-cikmis-soru-a-yayinlari-komisyon-262866-32-O.jpg') 
+ 
+DEBUG:
+('2022 AYT Matematik Soru Bankası Bilinçsel Yayınları', 'Bilinçsel Yayınları', 380, '105.00', '150.00', None, 0.0, 'matematik', 'ayt', '2022', 'soru bankası', 'https://www.isemkitap.com/2022-ayt-matematik-soru-bankasi-bilincsel-yayinlari', 'https://www.isemkitap.com/2022-ayt-matematik-soru-bankasi-bilincsel-yayinlari-ayt-matematik-soru-bilincsel-yayinlari-ozcan-yildirim-355184-37-O.jpg') 
+ 
+DEBUG:
+('2022 KPSS ALES DGS TYT 10 Günde Paragraf Soru Bankası ATC Yayınları', 'Atc Yayınları', 138, '45.00', '90.00', None, 0.0, 'türkçe', 'tyt', '2022', 'soru bankası', 'https://www.isemkitap.com/2022-kpss-ales-dgs-tyt-10-gunde-paragraf-soru-bankasi-atc-yayinlari', 'https://www.isemkitap.com/2022-kpss-ales-dgs-tyt-10-gunde-paragraf-soru-bankasi-atc-yayinlari-kpss-lisans-paragraf-soru-atc-yayinlari-komisyon-343211-37-O.jpg') 
+ 
+DEBUG:
+('2022 TYT Aperitif Matematik Soru Bankası Bilinçsel Yayınları', 'Bilinçsel Yayınları', None, '112.00', '160.00', None, 0.0, 'matematik', 'tyt', '2022', 'soru bankası', 'https://www.isemkitap.com/2022-tyt-aperitif-matematik-soru-bankasi-bilincsel-yayinlari', 'https://www.isemkitap.com/2022-tyt-aperitif-matematik-soru-bankasi-bilincsel-yayinlari-tyt-matematik-soru-bilincsel-yayinlari-komisyon-355310-37-O.jpg') 
+ 
+DEBUG:
+('2022 TYT AYT Kimya Son 20 Yıl Konularına Göre Çıkmış Sorular ve Çözümleri A Yayınları', 'A Yayınları', 192, '54.45', '99.00', None, 0.0, 'kimya', 'lise', '2022', 'diğer', 'https://www.isemkitap.com/2022-tyt-ayt-kimya-son-20-yil-konularina-gore-cikmis-sorular-ve-cozumleri-a-yayinlari', 'https://www.isemkitap.com/2022-tyt-ayt-kimya-son-20-yil-konularina-gore-cikmis-sorular-ve-cozumleri-a-yayinlari-ayt-cikmis-soru-a-yayinlari-komisyon-262868-32-O.jpg') 
+ 
+DEBUG:
+('2022 TYT Biyolojinin Kara Kutusu Konu Özetli Dijital Çözümlü Çıkmış Soru Bankası Kara Kutu Yayınları', 'İnformal Yayınları', None, '130.00', '200.00', None, 0.0, 'biyoloji', 'tyt', '2022', 'soru bankası', 'https://www.isemkitap.com/informal-2021-tyt-ayt-biyolojinin-kara-kutusu-tamami-cozumlu-soru-bankasi-informal-yayinlari', 'https://www.isemkitap.com/informal-2021-tyt-ayt-biyolojinin-kara-kutusu-tamami-cozumlu-soru-bankasi-informal-yayinlari-tyt-biyoloji-konu-informal-yayinlari-kara-kutu-yayinlari-253028-16-O.jpg') 
+ 
+DEBUG:
+('2022 TYT Din Kültürü ve Ahlak Bilgisinin Kara Kutusu Konu Özetli Dijital Çözümlü Çıkmış Soru Bankası', 'İnformal Yayınları', None, '39.00', '60.00', None, 0.0, 'din', 'tyt', '2022', 'soru bankası', 'https://www.isemkitap.com/informal-2021-yks-tyt-din-kulturu-ve-ahlak-bilgisinin-kara-kutusu-cikmis-sorular-soru-bankasi-informal-yayinlari', 'https://www.isemkitap.com/informal-2021-yks-tyt-din-kulturu-ve-ahlak-bilgisinin-kara-kutusu-cikmis-sorular-soru-bankasi-informal-yayinlari-tyt-cikmis-soru-informal-yayinlari-kara-kutu-yayinlari-253029-69-O.jpg') 
+ 
+DEBUG:
+('2022 TYT Felsefenin Kara Kutusu Dijital Çözümlü Çıkmış Soru Bankası', 'İnformal Yayınları', None, '39.00', '60.00', None, 0.0, 'fen', 'tyt', '2022', 'soru bankası', 'https://www.isemkitap.com/informal-yks-ayt-felsefe-grubunun-kara-kutusu-cikmis-sorular-soru-bankasi-informal-yayinlari', 'https://www.isemkitap.com/informal-yks-ayt-felsefe-grubunun-kara-kutusu-cikmis-sorular-soru-bankasi-informal-yayinlari-ayt-cikmis-soru-informal-yayinlari-kara-kutu-yayinlari-261616-39-O.jpg') 
+ 
+DEBUG:
+('2022 TYT Güçlü Türkçe Soru Bankası Bilinçsel Yayınları', 'Bilinçsel Yayınları', 256, '84.00', '120.00', None, 0.0, 'türkçe', 'tyt', '2022', 'soru bankası', 'https://www.isemkitap.com/2022-tyt-guclu-turkce-soru-bankasi-bilincsel-yayinlari', 'https://www.isemkitap.com/2022-tyt-guclu-turkce-soru-bankasi-bilincsel-yayinlari-tyt-turkce-soru-bilincsel-yayinlari-komisyon-355312-37-O.jpg') 
+ 
+DEBUG:
+('2022 TYT Kimyanın Kara Kutusu Konu Özetli Dijital Çözümlü Çıkmış Soru Bankası', 'İnformal Yayınları', None, '78.00', '120.00', None, 0.0, 'kimya', 'tyt', '2022', 'soru bankası', 'https://www.isemkitap.com/informal-2021-tyt-kimyanin-kara-kutusu-konu-ozetli-cozumlu-soru-bankasi-informal-yayinlari', 'https://www.isemkitap.com/informal-2021-tyt-kimyanin-kara-kutusu-konu-ozetli-cozumlu-soru-bankasi-informal-yayinlari-tyt-kimya-soru-informal-yayinlari-kara-kutu-yayinlari-253027-17-O.jpg') 
+ 
+DEBUG:
+('2022 TYT Matematiğin Kara Kutusu TEK KİTAP Konu Özetli Dijital Çözümlü Çıkmış Soru Bankası', 'İnformal Yayınları', 304, '195.00', '300.00', None, 0.0, 'genel', 'tyt', '2022', 'soru bankası', 'https://www.isemkitap.com/informal-2021-tyt-matematigin-kara-kutusu-tek-kitap-tamami-cozumlu-konu-ozetli-soru-bankasi-informal-yayinlari', 'https://www.isemkitap.com/informal-2021-tyt-matematigin-kara-kutusu-tek-kitap-tamami-cozumlu-konu-ozetli-soru-bankasi-informal-yayinlari-tyt-matematik-soru-informal-yayinlari-kara-kutu-yayinlari-356766-52-O.jpg') 
+ 
+DEBUG:
+('2022 TYT Problemler Son 20 Yıl Konularına Göre Çıkmış Sorular ve Çözümleri A Yayınları', 'A Yayınları', 64, '26.95', '49.00', None, 0.0, 'matematik', 'tyt', '2022', 'diğer', 'https://www.isemkitap.com/2022-tyt-problemler-son-20-yil-konularina-gore-cikmis-sorular-ve-cozumleri-a-yayinlari', 'https://www.isemkitap.com/2022-tyt-problemler-son-20-yil-konularina-gore-cikmis-sorular-ve-cozumleri-a-yayinlari-tyt-cikmis-soru-a-yayinlari-komisyon-262867-32-O.jpg') 
+ 
+DEBUG:
+('2022 TYT Tarihin Kara Kutusu Konu Özetli Dijital Çözümlü Çıkmış Soru Bankası', 'İnformal Yayınları', None, '143.00', '220.00', None, 0.0, 'tarih', 'tyt', '2022', 'soru bankası', 'https://www.isemkitap.com/informal-2020-yks-tyt-tarihin-kara-kutusu-cikmis-sorular-konu-ozetli-soru-bankasi-informal-yayinlari', 'https://www.isemkitap.com/informal-2020-yks-tyt-tarihin-kara-kutusu-cikmis-sorular-konu-ozetli-soru-bankasi-informal-yayinlari-tyt-cikmis-soru-informal-yayinlari-kara-kutu-yayinlari-253020-17-O.jpg') 
+ 
+DEBUG:
+('2022 TYT Tıpkı Basım Tamamı Çözümlü Çıkmış Sorular Yargı Yayınları', 'Yargı Yayınları', 32, '12.10', '22.00', None, 0.0, 'genel', 'tyt', '2022', 'diğer', 'https://www.isemkitap.com/2022-tyt-tipki-basim-tamami-cozumlu-cikmis-sorular-yargi-yayinlari', 'https://www.isemkitap.com/2022-tyt-tipki-basim-tamami-cozumlu-cikmis-sorular-yargi-yayinlari-tyt-tum-dersler-soru-yargi-yayinlari-tyt-ayt-komisyon-357453-38-O.jpg') 
+ 
+DEBUG:
+('2022 TYT – AYT - MSÜ Çıkmış Sorular Tıpkı Basım Kitapçığı', 'Kr Akademi Yayınları', None, '48.00', '78.00', None, 0.0, 'genel', 'lise', '2022', 'diğer', 'https://www.isemkitap.com/2022-tyt-ayt-msu-cikmis-sorular-tipki-basim-kitapcigi', 'https://www.isemkitap.com/2022-tyt-ayt-msu-cikmis-sorular-tipki-basim-kitapcigi-tyt-tum-dersler-deneme-2024-kr-akademi-yayinlari-yks-komisyon-357996-38-O.jpg') 
+ 
+DEBUG:
+('2022 TYT-AYT Geometri Aperitif Soru Bankası Bilinçsel Yayınları', 'Bilinçsel Yayınları', 416, '91.00', '130.00', None, 0.0, 'matematik', 'lise', '2022', 'soru bankası', 'https://www.isemkitap.com/2022-tyt-ayt-geometri-aperitif-soru-bankasi-bilincsel-yayinlari', 'https://www.isemkitap.com/2022-tyt-ayt-geometri-aperitif-soru-bankasi-bilincsel-yayinlari-tyt-geometri-soru-bilincsel-yayinlari-komisyon-355315-37-O.jpg') 
+ 
+DEBUG:
+('2022 TYT-AYT Geometrinin Kara Kutusu Konu Özetli Dijital Çözümlü Çıkmış Soru Bankası', 'İnformal Yayınları', None, '130.00', '200.00', None, 0.0, 'matematik', 'lise', '2022', 'soru bankası', 'https://www.isemkitap.com/informal-yks-tyt-ayt-geometrinin-kara-kutusu-cikmis-sorular-soru-bankasi-cozumlu-informal-yayinlari', 'https://www.isemkitap.com/informal-yks-tyt-ayt-geometrinin-kara-kutusu-cikmis-sorular-soru-bankasi-cozumlu-informal-yayinlari-tyt-cikmis-soru-informal-yayinlari-kara-kutu-yayinlari-253019-16-O.jpg') 
+ 
+DEBUG:
+('2022 YKS AYT Tıpkı Basım Çıkmış Sorular KR Akademi Yayınları', 'Kr Akademi Yayınları', None, '15.90', '26.00', None, 0.0, 'genel', 'ayt', '2022', 'diğer', 'https://www.isemkitap.com/2022-yks-ayt-tipki-basim-cikmis-sorular-kr-akademi-yayinlari', 'https://www.isemkitap.com/2022-yks-ayt-tipki-basim-cikmis-sorular-kr-akademi-yayinlari-ayt-tum-dersler-soru-kr-akademi-yayinlari-yks-komisyon-357436-38-O.jpg') 
+ 
+DEBUG:
+('2022 YKS TYT Tıpkı Basım Çıkmış Sorular KR Akademi Yayınları', 'Kr Akademi Yayınları', None, '15.90', '26.00', None, 0.0, 'genel', 'tyt', '2022', 'diğer', 'https://www.isemkitap.com/2022-yks-tyt-tipki-basim-cikmis-sorular-kr-akademi-yayinlari', 'https://www.isemkitap.com/2022-yks-tyt-tipki-basim-cikmis-sorular-kr-akademi-yayinlari-tyt-tum-dersler-soru-kr-akademi-yayinlari-yks-komisyon-357435-38-O.jpg') 
+ 
+DEBUG:
+('2023 100 Soruda ÖSYM Tarzı AYT Coğrafya Tamamı Çözümlü Soru Bankası Yargı Yayınları', 'Yargı Yayınları', 40, '14.03', '25.50', None, 0.0, 'coğrafya', 'ayt', '2023', 'soru bankası', 'https://www.isemkitap.com/2023-100-soruda-osym-tarzi-ayt-cografya-tamami-cozumlu-soru-bankasi-yargi-yayinlari', 'https://www.isemkitap.com/2023-100-soruda-osym-tarzi-ayt-cografya-tamami-cozumlu-soru-bankasi-yargi-yayinlari-ayt-cografya-soru-yargi-yayinlari-tyt-ayt-esma-setenay-kaya-363781-38-O.jpg') 
+ 
+DEBUG:
+('2023 100 Soruda ÖSYM Tarzı AYT Felsefe Din Kültürü ve Ahlak bilgisi Tamamı Çözümlü Soru Bankası Yargı Yayınları', 'Yargı Yayınları', 40, '14.03', '25.50', None, 0.0, 'sosyal', 'ayt', '2023', 'soru bankası', 'https://www.isemkitap.com/2023-100-soruda-osym-tarzi-ayt-felsefe-din-kulturu-ve-ahlak-bilgisi-tamami-cozumlu-soru-bankasi-yargi-yayinlari', 'https://www.isemkitap.com/2023-100-soruda-osym-tarzi-ayt-felsefe-din-kulturu-ve-ahlak-bilgisi-tamami-cozumlu-soru-bankasi-yargi-yayinlari-ayt-din-kulturu-ve-ahlak-bilgisi-soru-yargi-yayinlari-tyt-ayt-cetin-sungur-363783-38-O.jpg') 
+ 
+DEBUG:
+('2023 100 Soruda ÖSYM Tarzı TYT Biyoloji Soru Bankası Yargı Yayınları', 'Yargı Yayınları', 40, '13.75', '25.00', None, 0.0, 'biyoloji', 'tyt', '2023', 'soru bankası', 'https://www.isemkitap.com/2023-100-soruda-osym-tarzi-tyt-biyoloji-soru-bankasi-yargi-yayinlari', 'https://www.isemkitap.com/2023-100-soruda-osym-tarzi-tyt-biyoloji-soru-bankasi-yargi-yayinlari-tyt-biyoloji-soru-yargi-yayinlari-tyt-ayt-yusuf-karakaya-361014-38-O.jpg') 
+ 
+DEBUG:
+('2023 100 Soruda ÖSYM Tarzı TYT Felsefe Din Kültürü ve Ahlak bilgisi Tamamı Çözümlü Soru Bankası Yargı Yayınları', 'Yargı Yayınları', 48, '12.38', '22.50', None, 0.0, 'sosyal', 'tyt', '2023', 'soru bankası', 'https://www.isemkitap.com/2023-100-soruda-osym-tarzi-tyt-felsefe-din-kulturu-ve-ahlak-bilgisi-tamami-cozumlu-soru-bankasi-yargi-yayinlari', 'https://www.isemkitap.com/2023-100-soruda-osym-tarzi-tyt-felsefe-din-kulturu-ve-ahlak-bilgisi-tamami-cozumlu-soru-bankasi-yargi-yayinlari-tyt-felsefe-grubu-soru-yargi-yayinlari-tyt-ayt-cetin-sungur-361013-38-O.jpg') 
+ 
+DEBUG:
+('2023 100 Soruda ÖSYM Tarzı TYT Fizik Tamamı Çözümlü Soru Bankası Yargı Yayınları', 'Yargı Yayınları', 48, '14.85', '27.00', None, 0.0, 'fizik', 'tyt', '2023', 'soru bankası', 'https://www.isemkitap.com/2023-100-soruda-osym-tarzi-tyt-fizik-tamami-cozumlu-soru-bankasi-yargi-yayinlari', 'https://www.isemkitap.com/2023-100-soruda-osym-tarzi-tyt-fizik-tamami-cozumlu-soru-bankasi-yargi-yayinlari-tyt-fizik-soru-yargi-yayinlari-oabt-servet-guc-361400-38-O.jpg') 
+ 
+DEBUG:
+('2023 100 Soruda ÖSYM Tarzı TYT Kimya Tamamı Çözümlü Soru Bankası Yargı Yayınları', 'Yargı Yayınları', 48, '14.85', '27.00', None, 0.0, 'kimya', 'tyt', '2023', 'soru bankası', 'https://www.isemkitap.com/2023-100-soruda-osym-tarzi-tyt-kimya-tamami-cozumlu-soru-bankasi-yargi-yayinlari', 'https://www.isemkitap.com/2023-100-soruda-osym-tarzi-tyt-kimya-tamami-cozumlu-soru-bankasi-yargi-yayinlari-tyt-kimya-soru-yargi-yayinlari-tyt-ayt-sevtap-hemek-361012-38-O.jpg') 
+ 
+DEBUG:
+('2023 Altı Üstü Paragraf Antrenman Yayınları', 'Antrenman Yayınları', None, '103.25', '175.00', None, 0.0, 'türkçe', 'tyt', '2023', 'diğer', 'https://www.isemkitap.com/2023-alti-ustu-paragraf-antrenman-yayinlari', 'https://www.isemkitap.com/2023-alti-ustu-paragraf-antrenman-yayinlari-tyt-paragraf-soru-antrenman-yayinlari-komisyon-354840-37-O.jpg') 
+ 
+DEBUG:
+('2023 AYT 5 Deneme Hız Yayınları', 'Hız Yayınları', 200, '92.65', '109.00', None, 0.0, 'genel', 'ayt', '2023', 'deneme', 'https://www.isemkitap.com/hiz-ayt-5-li-deneme-hiz-yayinlari', 'https://www.isemkitap.com/hiz-ayt-5-li-deneme-hiz-yayinlari-ayt-fasikul-deneme-hiz-yayinlari-hiz-yayinlari-komisyon-364804-17-O.png') 
+ 
+DEBUG:
+('2023 AYT Biyoloji Çek Kopar Yaprak Test Benim Hocam Yayınları', 'Benim Hocam Yayınları', 96, '47.61', '69.00', None, 0.0, 'biyoloji', 'ayt', '2023', 'diğer', 'https://www.isemkitap.com/2023-ayt-biyoloji-cek-kopar-yaprak-test-benim-hocam-yayinlari', 'https://www.isemkitap.com/2023-ayt-biyoloji-cek-kopar-yaprak-test-benim-hocam-yayinlari-ayt-biyoloji-yaprak-test-benim-hocam-yayinlari-tyt-ayt-dilek-kuvvet-360867-38-O.jpg') 
+ 
+DEBUG:
+('2023 AYT Biyoloji Soru Bankası Rasyonel Yayınları', 'Rasyonel Yayınları', None, '159.80', '188.00', None, 0.0, 'biyoloji', 'ayt', '2023', 'soru bankası', 'https://www.isemkitap.com/2023-ayt-biyoloji-soru-bankasi-rasyonel-yayinlari', 'https://www.isemkitap.com/2023-ayt-biyoloji-soru-bankasi-rasyonel-yayinlari-ayt-biyoloji-soru-rasyonel-yayinlari-melis-ciftci-366357-38-O.jpg') 
+ 
+DEBUG:
+('2023 AYT Edebiyat 101 Soru Bankası Pelikan Yayınevi', 'Pelikan Yayınevi', 64, '30.00', '40.00', None, 0.0, 'edebiyat', 'ayt', '2023', 'soru bankası', 'https://www.isemkitap.com/2023-ayt-edebiyat-101-soru-bankasi-pelikan-yayinevi', 'https://www.isemkitap.com/2023-ayt-edebiyat-101-soru-bankasi-pelikan-yayinevi-ayt-edebiyat-soru-pelikan-yayinevi-rustu-bayindir-364562-38-O.png') 
+ 
+DEBUG:
+('2023 AYT Edebiyat Denemeleri Karekök Yayınları', 'Karekök Yayınları', None, '92.95', '169.00', None, 0.0, 'edebiyat', 'ayt', '2023', 'deneme', 'https://www.isemkitap.com/2023-ayt-edebiyat-denemeleri-karekok-yayinlari', 'https://www.isemkitap.com/2023-ayt-edebiyat-denemeleri-karekok-yayinlari-ayt-turk-dili-ve-edebiyati-deneme-karekok-yayinlari-komisyon-364072-38-O.png') 
+ 
+DEBUG:
+('2023 AYT Edebiyat Navigasyon Soru Bankası Rasyonel Yayınları', 'Rasyonel Yayınları', 280, '159.80', '188.00', None, 0.0, 'edebiyat', 'ayt', '2023', 'soru bankası', 'https://www.isemkitap.com/2023-ayt-edebiyat-navigasyon-soru-bankasi-rasyonel-yayinlari', 'https://www.isemkitap.com/2023-ayt-edebiyat-navigasyon-soru-bankasi-rasyonel-yayinlari-ayt-edebiyat-soru-rasyonel-yayinlari-komisyon-367854-38-O.jpg') 
+ 
+DEBUG:
+('2023 AYT Edebiyat Soru Bankası Öğreti Akademi Yayınları', 'Öğreti Akademi Yayınları', 264, '85.55', '145.00', None, 0.0, 'edebiyat', 'ayt', '2023', 'soru bankası', 'https://www.isemkitap.com/ayt-edebiyat-soru-bankasi-ogreti-akademi-yayinlari', 'https://www.isemkitap.com/ayt-edebiyat-soru-bankasi-ogreti-akademi-yayinlari-ayt-edebiyat-soru-ogreti-akademi-yayinlari-komisyon-364300-38-O.png') 
+ 
+DEBUG:
+('2023 AYT Edebiyat Sosyal Bilimler 1 10 lu Deneme Özel Baskı ÜçDörtBeş Yayınları', 'Üçdörtbeş Yayınları', None, '71.39', '121.00', None, 0.0, 'edebiyat', 'ayt', '2023', 'deneme', 'https://www.isemkitap.com/uc-dort-bes-ayt-10-lu-edebiyat-sosyal-1-denemesi-uc-dort-bes-yayinlari', 'https://www.isemkitap.com/uc-dort-bes-ayt-10-lu-edebiyat-sosyal-1-denemesi-uc-dort-bes-yayinlari-2024-tyt-ayt-kitap-onerileri-ucdortbes-yayinlari-muslum-kaplan-364596-17-O.png') 
+ 
+INFO:
+100 book has been scraped from isemkitap. 
+ 
